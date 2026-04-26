@@ -1,0 +1,1308 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>黄金反身性监测仪表板 · Soros Framework</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0d1117;
+    --bg2: #161b22;
+    --bg3: #1f2630;
+    --bg4: #2a3340;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-dim: #8b949e;
+    --text-faint: #6e7681;
+    --green: #3fb950;
+    --yellow: #d29922;
+    --red: #f85149;
+    --gold: #f5b94a;
+    --blue: #58a6ff;
+    --purple: #bc8cff;
+  }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", "Segoe UI", sans-serif;
+    line-height: 1.55;
+    padding: 24px;
+    min-height: 100vh;
+  }
+  .container { max-width: 1400px; margin: 0 auto; }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 16px;
+    margin-bottom: 24px;
+  }
+  h1 {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
+  h1 .accent { color: var(--gold); }
+  .subtitle { color: var(--text-dim); font-size: 13px; margin-top: 4px; }
+  .header-meta { text-align: right; font-size: 12px; color: var(--text-dim); }
+  .header-meta .price {
+    font-size: 28px;
+    font-weight: 600;
+    color: var(--gold);
+    font-variant-numeric: tabular-nums;
+  }
+
+  section { margin-bottom: 28px; }
+  .section-title {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    margin-bottom: 12px;
+  }
+
+  /* Stage tracker */
+  .stage-tracker {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+  }
+  .stages {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 8px;
+    margin-top: 12px;
+  }
+  .stage {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 10px 8px;
+    text-align: center;
+    font-size: 11px;
+    color: var(--text-dim);
+    position: relative;
+    transition: all 0.2s;
+  }
+  .stage .num {
+    display: block;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--text-faint);
+    margin-bottom: 4px;
+  }
+  .stage.active {
+    background: rgba(245, 185, 74, 0.12);
+    border-color: var(--gold);
+    color: var(--text);
+  }
+  .stage.active .num { color: var(--gold); }
+  .stage.passed {
+    background: var(--bg3);
+    opacity: 0.5;
+  }
+
+  /* Aggregate panel */
+  .aggregate {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+  }
+  .agg-block { }
+  .agg-label {
+    font-size: 11px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+  }
+  .agg-value {
+    font-size: 26px;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+  .agg-detail { font-size: 12px; color: var(--text-dim); margin-top: 4px; }
+
+  .verdict {
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 14px;
+    display: inline-block;
+  }
+  .verdict.hold { background: rgba(63, 185, 80, 0.15); color: var(--green); border: 1px solid var(--green); }
+  .verdict.trim { background: rgba(210, 153, 34, 0.15); color: var(--yellow); border: 1px solid var(--yellow); }
+  .verdict.short { background: rgba(248, 81, 73, 0.15); color: var(--red); border: 1px solid var(--red); }
+
+  /* Variable cards */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px 20px;
+    position: relative;
+  }
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 12px;
+  }
+  .card-title {
+    font-size: 15px;
+    font-weight: 600;
+  }
+  .card-sub {
+    font-size: 11px;
+    color: var(--text-dim);
+    margin-top: 2px;
+  }
+  .signal-light {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    margin-top: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  }
+  .signal-light.green { background: var(--green); box-shadow: 0 0 10px var(--green); }
+  .signal-light.yellow { background: var(--yellow); box-shadow: 0 0 10px var(--yellow); }
+  .signal-light.red { background: var(--red); box-shadow: 0 0 10px var(--red); }
+  .signal-light.gray { background: var(--bg4); }
+
+  .value-row {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    margin: 10px 0 8px 0;
+  }
+  .value {
+    font-size: 28px;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    color: var(--text);
+  }
+  .change {
+    font-size: 13px;
+    font-variant-numeric: tabular-nums;
+  }
+  .change.up { color: var(--red); }
+  .change.down { color: var(--green); }
+  .change.flat { color: var(--text-dim); }
+  .qual-state {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--text);
+    padding: 6px 10px;
+    background: var(--bg3);
+    border-radius: 5px;
+    display: inline-block;
+  }
+
+  .trigger {
+    font-size: 11px;
+    color: var(--text-dim);
+    margin-top: 8px;
+    padding: 8px 10px;
+    background: var(--bg3);
+    border-left: 2px solid var(--bg4);
+    border-radius: 3px;
+  }
+  .trigger b { color: var(--text); }
+  .meaning { font-size: 11px; color: var(--text-faint); margin-top: 4px; }
+
+  .sparkline {
+    margin-top: 10px;
+    height: 36px;
+    width: 100%;
+  }
+
+  /* Trigger checklist */
+  .checklist {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+  }
+  .check-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .check-row:last-child { border-bottom: none; }
+  .check-box {
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    border: 1.5px solid var(--bg4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .check-box.met {
+    background: var(--red);
+    border-color: var(--red);
+    color: white;
+    font-weight: 700;
+  }
+  .check-text { flex: 1; font-size: 13px; }
+  .check-status { font-size: 12px; color: var(--text-dim); }
+
+  /* Data entry */
+  .entry-form {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+  }
+  .form-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+    margin-top: 14px;
+  }
+  .form-field label {
+    display: block;
+    font-size: 11px;
+    color: var(--text-dim);
+    margin-bottom: 4px;
+  }
+  .form-field input, .form-field select {
+    width: 100%;
+    padding: 8px 10px;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    color: var(--text);
+    font-size: 13px;
+    font-family: inherit;
+  }
+  .form-field input:focus, .form-field select:focus {
+    outline: none;
+    border-color: var(--gold);
+  }
+  .form-actions {
+    margin-top: 16px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  button {
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: 1px solid var(--border);
+    background: var(--bg3);
+    color: var(--text);
+    font-family: inherit;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  button:hover { background: var(--bg4); }
+  button.primary {
+    background: var(--gold);
+    color: var(--bg);
+    border-color: var(--gold);
+    font-weight: 600;
+  }
+  button.primary:hover { background: #ffce5e; }
+  button.danger { color: var(--red); border-color: var(--red); }
+
+  .history-table {
+    width: 100%;
+    margin-top: 14px;
+    border-collapse: collapse;
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+  }
+  .history-table th, .history-table td {
+    padding: 8px 10px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+  }
+  .history-table th { color: var(--text-dim); font-weight: 500; font-size: 11px; text-transform: uppercase; }
+  .history-table tr:hover { background: var(--bg3); }
+  .history-table .del-btn {
+    color: var(--red);
+    cursor: pointer;
+    font-size: 11px;
+    background: none;
+    border: none;
+    padding: 0;
+  }
+
+  .footnote {
+    font-size: 11px;
+    color: var(--text-faint);
+    text-align: center;
+    margin-top: 24px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+  }
+  .footnote .quote { font-style: italic; color: var(--gold); }
+
+  /* Action recommendations */
+  .actions {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+  }
+  .action-list { margin-top: 12px; }
+  .action-item {
+    display: flex;
+    gap: 14px;
+    padding: 10px 0;
+    border-bottom: 1px dashed var(--border);
+  }
+  .action-item:last-child { border-bottom: none; }
+  .action-tag {
+    flex-shrink: 0;
+    width: 80px;
+    font-size: 11px;
+    color: var(--gold);
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    padding-top: 1px;
+  }
+  .action-text { flex: 1; font-size: 13px; }
+  .action-text b { color: var(--gold); }
+
+  /* Auto-fetch panel */
+  .auto-panel {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 14px;
+  }
+  .auto-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+  }
+  .auto-status {
+    font-size: 12px;
+    color: var(--text-dim);
+    font-variant-numeric: tabular-nums;
+  }
+  .auto-detail {
+    margin-top: 8px;
+    font-size: 11px;
+    color: var(--text-dim);
+    line-height: 1.6;
+    word-break: break-word;
+  }
+  .auto-detail .ok { color: var(--green); }
+  .auto-detail .fail { color: var(--red); }
+  .settings {
+    margin-top: 10px;
+    font-size: 12px;
+  }
+  .settings summary {
+    cursor: pointer;
+    color: var(--blue);
+    user-select: none;
+  }
+  .settings summary:hover { text-decoration: underline; }
+  .source-link {
+    display: inline-block;
+    font-size: 10px;
+    color: var(--blue);
+    text-decoration: none;
+    padding: 2px 6px;
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    margin-left: 6px;
+    background: var(--bg3);
+  }
+  .source-link:hover { border-color: var(--blue); }
+  .auto-badge {
+    display: inline-block;
+    font-size: 9px;
+    padding: 1px 5px;
+    border-radius: 2px;
+    background: rgba(88, 166, 255, 0.15);
+    color: var(--blue);
+    margin-left: 6px;
+    vertical-align: middle;
+    letter-spacing: 0.5px;
+  }
+  .manual-badge {
+    background: rgba(139, 148, 158, 0.15);
+    color: var(--text-dim);
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <div>
+    <h1>黄金反身性监测仪表板 <span class="accent">·</span> Soros Framework</h1>
+    <div class="subtitle">Reflexivity · Fallibility · Boom-Bust Sequence — 六变量周度追踪</div>
+  </div>
+  <div class="header-meta">
+    <div>当前金价 (USD/oz)</div>
+    <div class="price"><input type="number" id="goldPrice" value="4700" step="1" style="all: unset; color: var(--gold); width: 110px; text-align: right; font-variant-numeric: tabular-nums; font-weight: 600;"></div>
+    <div style="margin-top: 4px;">短期技术位 4500 · 中期 4000</div>
+  </div>
+</header>
+
+<!-- Stage tracker -->
+<section>
+  <div class="section-title">繁荣-萧条序列定位 (Boom-Bust Stage)</div>
+  <div class="stage-tracker">
+    <div style="font-size: 13px; color: var(--text-dim);">
+      索罗斯八阶段反身性序列。当前判断 — <b style="color: var(--gold);">第 4–5 阶段（加速期尾部 / 认知与现实开始背离）</b>
+    </div>
+    <div class="stages" id="stages"></div>
+  </div>
+</section>
+
+<!-- Aggregate -->
+<section>
+  <div class="section-title">综合信号</div>
+  <div class="aggregate">
+    <div class="agg-block">
+      <div class="agg-label">触发警戒数 (≥3 → 条件A满足)</div>
+      <div class="agg-value" id="triggerCount">— / 6</div>
+      <div class="agg-detail" id="triggerDetail">尚无数据</div>
+    </div>
+    <div class="agg-block">
+      <div class="agg-label">综合权重信号</div>
+      <div class="agg-value" id="weightedScore">—</div>
+      <div class="agg-detail">绿 = 反身性回路稳健 / 红 = 接近反向</div>
+    </div>
+    <div class="agg-block">
+      <div class="agg-label">操作判断</div>
+      <div id="verdict"><span class="verdict hold">— 待数据 —</span></div>
+      <div class="agg-detail" id="verdictDetail"></div>
+    </div>
+  </div>
+</section>
+
+<!-- Variables grid -->
+<section>
+  <div class="section-title">六大观察变量</div>
+  <div class="grid" id="variables"></div>
+</section>
+
+<!-- Short trigger checklist -->
+<section>
+  <div class="section-title">做空头寸触发条件 (A 与 B 必须同时满足)</div>
+  <div class="checklist">
+    <div class="check-row">
+      <div class="check-box" id="condA">—</div>
+      <div class="check-text">
+        <b>条件 A</b> · 六个观察变量中至少 <b>3 个</b>同时翻转为红/警戒
+      </div>
+      <div class="check-status" id="condAStatus">—</div>
+    </div>
+    <div class="check-row">
+      <div class="check-box" id="condB">—</div>
+      <div class="check-text">
+        <b>条件 B</b> · 金价跌破 <b>4500</b>（短期）或 <b>4000</b>（中期），且无央行购金数据反弹支撑
+      </div>
+      <div class="check-status" id="condBStatus">—</div>
+    </div>
+    <div class="check-row" style="background: var(--bg3); margin: 8px -24px -20px -24px; padding: 12px 24px; border-radius: 0 0 10px 10px;">
+      <div style="font-size: 13px;">
+        <span id="finalVerdict" style="font-weight: 600;">— 等待数据 —</span>
+        <span style="color: var(--text-dim); margin-left: 8px;" id="finalVerdictNote"></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Action recommendations -->
+<section>
+  <div class="section-title">索罗斯式操作建议（基于当前阶段）</div>
+  <div class="actions">
+    <div class="action-list" id="actionList"></div>
+  </div>
+</section>
+
+<!-- Data entry form -->
+<section>
+  <div class="section-title">本周数据录入</div>
+  <div class="entry-form">
+
+    <!-- Auto-fetch panel -->
+    <div class="auto-panel">
+      <div class="auto-row">
+        <button class="primary" onclick="autoFetch()">🔄 自动刷新数据源</button>
+        <button onclick="fetchGoldOnly()">仅刷新金价</button>
+        <span id="lastUpdate" class="auto-status">尚未刷新</span>
+      </div>
+      <div class="auto-detail" id="autoDetail">
+        点击后从 <b>Stooq</b> 拉取金价 (XAU/USD) 与 DXY，从 <b>FRED</b> 拉取 10Y 实际利率 (DFII10)。质性指标（地缘 / 央行公告）与 WGC 月报数据须手动录入 — 卡片底部"打开数据源"可一键打开官方页。
+      </div>
+      <details class="settings">
+        <summary>⚙ 配置 FRED API Key（用于实际利率）</summary>
+        <div style="padding: 12px 0 4px 0;">
+          <div class="form-field" style="max-width: 460px;">
+            <label>FRED API Key（<a href="https://fred.stlouisfed.org/docs/api/api_key.html" target="_blank" style="color: var(--blue);">免费申请</a>，30秒）</label>
+            <div style="display: flex; gap: 8px; margin-top: 4px;">
+              <input type="text" id="fredKey" placeholder="例如 abcdef0123456789..." style="flex: 1;">
+              <button onclick="saveFredKey()">保存</button>
+            </div>
+          </div>
+          <div style="font-size: 11px; color: var(--text-faint); margin-top: 8px;">
+            Key 只保存在浏览器 localStorage，不会上传到任何服务器。未配置时将跳过实际利率自动获取。
+          </div>
+        </div>
+      </details>
+      <details class="settings">
+        <summary>⚠ CORS 错误？使用本地服务器或 Python 脚本</summary>
+        <div style="padding: 12px 0 4px 0; font-size: 11px; color: var(--text-dim); line-height: 1.7;">
+          浏览器从 <code>file://</code> 直接拉取可能被 CORS 拦截。两种解决：<br>
+          <b>方案1</b> · 终端切到本目录后跑 <code style="color: var(--gold);">python3 -m http.server 8000</code>，浏览器访问 <code>http://localhost:8000/gold-soros-dashboard.html</code><br>
+          <b>方案2</b> · 用同目录的 <code style="color: var(--gold);">update_data.py</code> 服务端拉取，写入 <code>gold-data.json</code>，仪表板自动读取（可加 cron 每周自动跑）
+        </div>
+      </details>
+    </div>
+
+    <div style="font-size: 12px; color: var(--text-dim);">
+      每周更新一次。数据保存在浏览器本地（localStorage）。建议固定每周一晚间 / 周二早间录入上一周收盘数据。
+    </div>
+    <div class="form-grid" id="entryForm"></div>
+    <div class="form-field" style="margin-top: 14px;">
+      <label>日期 (录入周对应的周一)</label>
+      <input type="date" id="entryDate" style="max-width: 220px;">
+    </div>
+    <div class="form-actions">
+      <button class="primary" onclick="saveEntry()">保存本周数据</button>
+      <button onclick="exportData()">导出 JSON 备份</button>
+      <button onclick="importData()">导入 JSON</button>
+      <button class="danger" onclick="clearAll()">清空所有数据</button>
+    </div>
+  </div>
+</section>
+
+<!-- History -->
+<section>
+  <div class="section-title">历史记录</div>
+  <div class="entry-form">
+    <div id="historyContainer">
+      <div style="color: var(--text-dim); font-size: 13px;">尚无历史数据。录入第一周后将在此显示。</div>
+    </div>
+  </div>
+</section>
+
+<div class="footnote">
+  <div class="quote">"I'm only rich because I know when I'm wrong." — George Soros</div>
+  <div style="margin-top: 6px;">框架的价值不在于预测，在于识别自己处在哪个阶段、什么信号会让自己改主意。</div>
+</div>
+
+</div>
+
+<script>
+// ============== CONFIG ==============
+const STAGES = [
+  { num: 1, name: "趋势未识别" },
+  { num: 2, name: "趋势识别 / 自强化启动" },
+  { num: 3, name: "测试期 (挺住后强化)" },
+  { num: 4, name: "加速期 (共识形成)" },
+  { num: 5, name: "现实-认知背离扩大" },
+  { num: 6, name: "顶点怀疑期" },
+  { num: 7, name: "反向交叉" },
+  { num: 8, name: "萧条加速" },
+];
+// Current stage range: 4-5
+const CURRENT_STAGES = [4, 5];
+
+const VARIABLES = [
+  {
+    id: 'geopolitics',
+    name: '中美关系 / 伊朗局势',
+    sub: '秩序因子 — 反身性核心前提',
+    type: 'qualitative',
+    options: [
+      { value: 'tense',         label: '紧张升级',                 signal: 'green' },
+      { value: 'neutral',       label: '维持现状',                 signal: 'green' },
+      { value: 'thaw',          label: '出现缓和信号',             signal: 'yellow' },
+      { value: 'breakthrough',  label: '实质性缓和 / 协议达成',    signal: 'red' }
+    ],
+    trigger: '实质性缓和 / 协议达成',
+    meaning: '秩序因子反向 → 美元信用回升 → 反身性回路前提崩塌',
+    weight: 2,
+    source: '新闻 / 白宫·国务院公告 / 路透 · BBG',
+    sourceUrl: 'https://www.reuters.com/world/',
+    autoFetch: false
+  },
+  {
+    id: 'dxy',
+    name: '美元指数 (DXY)',
+    sub: '美元信用预期晴雨表',
+    type: 'numeric',
+    unit: '',
+    decimals: 2,
+    thresholds: { greenMax: 100, yellowMax: 103 },
+    higherIsRed: true,
+    trigger: '突破 103 关键阻力位并连续两周站稳',
+    meaning: '美元信用预期改善 → 黄金核心叙事削弱',
+    weight: 1.5,
+    source: 'Stooq · TradingView · Investing.com',
+    sourceUrl: 'https://stooq.com/q/?s=%5Edxy',
+    autoFetch: true,
+    fetchKey: 'dxy'
+  },
+  {
+    id: 'real_yield',
+    name: '美债 10Y 实际利率 (TIPS)',
+    sub: '黄金机会成本',
+    type: 'numeric',
+    unit: '%',
+    decimals: 2,
+    thresholds: { greenMax: 2.0, yellowMax: 2.5 },
+    higherIsRed: true,
+    trigger: '加速上行 (>2.5%) 或单周跳升 ≥25bp',
+    meaning: '黄金机会成本陡增 → 触发ETF / 私人投资者反向流动',
+    weight: 1.5,
+    source: 'FRED 系列代码: DFII10',
+    sourceUrl: 'https://fred.stlouisfed.org/series/DFII10',
+    autoFetch: true,
+    fetchKey: 'real_yield'
+  },
+  {
+    id: 'cb_purchase',
+    name: '央行月度购金 (WGC)',
+    sub: '反身性核心驱动',
+    type: 'numeric',
+    unit: '吨',
+    decimals: 0,
+    thresholds: { greenMin: 30, yellowMin: 20 },  // higher is greener
+    higherIsRed: false,
+    rule: '3-month-low',
+    trigger: '连续 3 个月 < 20 吨',
+    meaning: '反身性核心驱动衰减 — 政策性买盘失去边际',
+    weight: 2,
+    source: 'World Gold Council 月度报告',
+    sourceUrl: 'https://www.gold.org/goldhub/data/monthly-central-bank-statistics',
+    autoFetch: false
+  },
+  {
+    id: 'etf',
+    name: '黄金 ETF 周净流',
+    sub: '私人投资者动向',
+    type: 'numeric',
+    unit: '吨',
+    decimals: 1,
+    thresholds: { greenMin: 0, yellowMin: -5 },
+    higherIsRed: false,
+    rule: 'persistent-outflow',
+    trigger: '连续 ≥2 周净流出，或单周流出 > 10 吨',
+    meaning: '私人投资者开始反向 — 央行政策性买盘可能撑不住',
+    weight: 1.5,
+    source: 'WGC ETF Flows · GLD/IAU 持仓数据',
+    sourceUrl: 'https://www.gold.org/goldhub/data/global-gold-backed-etf-holdings-and-flows',
+    autoFetch: false
+  },
+  {
+    id: 'cb_announcement',
+    name: '波兰 / 中国央行公告',
+    sub: '政策性买盘的边际',
+    type: 'qualitative',
+    options: [
+      { value: 'expanding',     label: '增加目标 / 持续购买',    signal: 'green' },
+      { value: 'maintaining',   label: '维持现状',               signal: 'green' },
+      { value: 'cautious',      label: '措辞转谨慎',             signal: 'yellow' },
+      { value: 'pause',         label: '暂停购买 / 目标下调',    signal: 'red' }
+    ],
+    trigger: '暂停购买或公开下调储备目标',
+    meaning: '政策性买盘的边际信号 — 反身性扳机',
+    weight: 2,
+    source: 'NBP / PBoC 月度储备数据 · 央行行长讲话',
+    sourceUrl: 'https://www.gold.org/goldhub/data/monthly-central-bank-statistics',
+    autoFetch: false
+  }
+];
+
+// ============== STATE ==============
+let history = JSON.parse(localStorage.getItem('gold_history') || '[]');
+
+function getLatest() {
+  return history.length > 0 ? history[history.length - 1] : null;
+}
+function getPrev() {
+  return history.length > 1 ? history[history.length - 2] : null;
+}
+
+// ============== SIGNAL COMPUTATION ==============
+function computeSignal(variable, value, allHistory = history) {
+  if (value === null || value === undefined || value === '') return 'gray';
+
+  if (variable.type === 'qualitative') {
+    const opt = variable.options.find(o => o.value === value);
+    return opt ? opt.signal : 'gray';
+  }
+
+  // numeric
+  const v = parseFloat(value);
+  if (isNaN(v)) return 'gray';
+
+  // Special rule: 3-month-low for CB purchases
+  if (variable.rule === '3-month-low') {
+    const recentValues = allHistory.slice(-3).map(h => parseFloat(h[variable.id])).filter(x => !isNaN(x));
+    if (recentValues.length >= 3 && recentValues.every(x => x < 20)) return 'red';
+    if (v < 20) return 'yellow';
+    if (v < 30) return 'yellow';
+    return 'green';
+  }
+
+  // Special rule: persistent ETF outflow
+  if (variable.rule === 'persistent-outflow') {
+    const recent = allHistory.slice(-2).map(h => parseFloat(h[variable.id])).filter(x => !isNaN(x));
+    if (recent.length >= 2 && recent.every(x => x < 0)) return 'red';
+    if (v < -10) return 'red';
+    if (v < 0) return 'yellow';
+    return 'green';
+  }
+
+  // Standard numeric (higher is red)
+  if (variable.higherIsRed) {
+    if (v > variable.thresholds.yellowMax) return 'red';
+    if (v > variable.thresholds.greenMax) return 'yellow';
+    return 'green';
+  } else {
+    if (v < variable.thresholds.yellowMin) return 'red';
+    if (v < variable.thresholds.greenMin) return 'yellow';
+    return 'green';
+  }
+}
+
+// ============== RENDER ==============
+function renderStages() {
+  const el = document.getElementById('stages');
+  el.innerHTML = STAGES.map(s => {
+    let cls = '';
+    if (CURRENT_STAGES.includes(s.num)) cls = 'active';
+    else if (s.num < Math.min(...CURRENT_STAGES)) cls = 'passed';
+    return `<div class="stage ${cls}"><span class="num">${s.num}</span>${s.name}</div>`;
+  }).join('');
+}
+
+function renderVariables() {
+  const latest = getLatest();
+  const prev = getPrev();
+  const el = document.getElementById('variables');
+
+  el.innerHTML = VARIABLES.map(v => {
+    const value = latest ? latest[v.id] : null;
+    const prevValue = prev ? prev[v.id] : null;
+    const signal = computeSignal(v, value);
+
+    let valueHTML = '';
+    let changeHTML = '';
+
+    if (v.type === 'qualitative') {
+      if (value) {
+        const opt = v.options.find(o => o.value === value);
+        valueHTML = `<div class="qual-state">${opt ? opt.label : value}</div>`;
+      } else {
+        valueHTML = `<div class="qual-state" style="color: var(--text-faint);">尚无数据</div>`;
+      }
+    } else {
+      if (value !== null && value !== undefined && value !== '') {
+        const decimals = v.decimals !== undefined ? v.decimals : 1;
+        valueHTML = `<span class="value">${parseFloat(value).toFixed(decimals)}${v.unit ? ' ' + v.unit : ''}</span>`;
+        if (prevValue !== null && prevValue !== undefined && prevValue !== '') {
+          const diff = parseFloat(value) - parseFloat(prevValue);
+          const arrow = diff > 0 ? '▲' : (diff < 0 ? '▼' : '—');
+          const cls = diff > 0 ? 'up' : (diff < 0 ? 'down' : 'flat');
+          changeHTML = `<span class="change ${cls}">${arrow} ${Math.abs(diff).toFixed(decimals)}</span>`;
+        }
+      } else {
+        valueHTML = `<span class="value" style="color: var(--text-faint);">—</span>`;
+      }
+    }
+
+    // Sparkline
+    const seriesValues = history.map(h => h[v.id]).filter(x => x !== null && x !== undefined && x !== '' && v.type === 'numeric').map(x => parseFloat(x));
+    const sparkline = v.type === 'numeric' && seriesValues.length >= 2 ? renderSparkline(seriesValues, signal) : '';
+
+    return `
+      <div class="card">
+        <div class="card-header">
+          <div>
+            <div class="card-title">${v.name}</div>
+            <div class="card-sub">${v.sub} · 权重 ${v.weight}</div>
+          </div>
+          <div class="signal-light ${signal}"></div>
+        </div>
+        <div class="value-row">
+          ${valueHTML}
+          ${changeHTML}
+        </div>
+        ${sparkline}
+        <div class="trigger"><b>触发警戒：</b>${v.trigger}</div>
+        <div class="meaning">
+          ${v.meaning}<br>
+          <span style="opacity: 0.7;">数据源：${v.source}</span>
+          ${v.sourceUrl ? `<a class="source-link" href="${v.sourceUrl}" target="_blank" rel="noopener">↗ 打开</a>` : ''}
+          <span class="auto-badge ${v.autoFetch ? '' : 'manual-badge'}">${v.autoFetch ? '⚡ AUTO' : '✋ 手动'}</span>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function renderSparkline(values, signal) {
+  const w = 360, h = 36, pad = 4;
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const range = max - min || 1;
+  const points = values.map((v, i) => {
+    const x = pad + (i / (values.length - 1)) * (w - 2 * pad);
+    const y = pad + (1 - (v - min) / range) * (h - 2 * pad);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+  const colors = { green: '#3fb950', yellow: '#d29922', red: '#f85149', gray: '#6e7681' };
+  const color = colors[signal] || colors.gray;
+  return `<svg class="sparkline" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><polyline fill="none" stroke="${color}" stroke-width="1.5" points="${points}"/></svg>`;
+}
+
+function renderAggregate() {
+  const latest = getLatest();
+  if (!latest) {
+    document.getElementById('triggerCount').textContent = '— / 6';
+    document.getElementById('triggerDetail').textContent = '尚无数据';
+    document.getElementById('weightedScore').textContent = '—';
+    document.getElementById('verdict').innerHTML = '<span class="verdict hold">— 待数据 —</span>';
+    document.getElementById('verdictDetail').textContent = '';
+    return;
+  }
+
+  let redCount = 0, yellowCount = 0, greenCount = 0;
+  let weightedRed = 0, totalWeight = 0;
+  const redVars = [];
+
+  VARIABLES.forEach(v => {
+    const sig = computeSignal(v, latest[v.id]);
+    if (sig === 'red') { redCount++; weightedRed += v.weight; redVars.push(v.name); }
+    if (sig === 'yellow') { yellowCount++; weightedRed += v.weight * 0.5; }
+    if (sig === 'green') greenCount++;
+    totalWeight += v.weight;
+  });
+
+  document.getElementById('triggerCount').textContent = `${redCount} / 6`;
+  document.getElementById('triggerDetail').textContent = redVars.length > 0 ? `已触发：${redVars.join('、')}` : `黄灯 ${yellowCount} · 绿灯 ${greenCount}`;
+
+  const score = ((weightedRed / totalWeight) * 100).toFixed(0);
+  document.getElementById('weightedScore').textContent = `${score} / 100`;
+
+  // Verdict
+  let verdictHTML, verdictDetail;
+  if (redCount >= 3) {
+    verdictHTML = '<span class="verdict short">考虑反向 · 监控触发条件B</span>';
+    verdictDetail = '反身性可能进入第7阶段 — 检查金价技术位';
+  } else if (redCount >= 2 || score >= 40) {
+    verdictHTML = '<span class="verdict trim">减仓 · 加保护</span>';
+    verdictDetail = '保留50-60%底仓，剩余加保护性看跌期权';
+  } else {
+    verdictHTML = '<span class="verdict hold">持仓 · 不加杠杆</span>';
+    verdictDetail = '反身性回路仍稳健 · 但当前阶段5禁加杠杆';
+  }
+  document.getElementById('verdict').innerHTML = verdictHTML;
+  document.getElementById('verdictDetail').textContent = verdictDetail;
+
+  // Update trigger checklist
+  const condABox = document.getElementById('condA');
+  const condAStatus = document.getElementById('condAStatus');
+  if (redCount >= 3) {
+    condABox.classList.add('met');
+    condABox.textContent = '✓';
+    condAStatus.textContent = `已满足 (${redCount}/6 红灯)`;
+    condAStatus.style.color = 'var(--red)';
+  } else {
+    condABox.classList.remove('met');
+    condABox.textContent = '—';
+    condAStatus.textContent = `未满足 (${redCount}/6 红灯)`;
+    condAStatus.style.color = 'var(--text-dim)';
+  }
+
+  const goldPrice = parseFloat(document.getElementById('goldPrice').value);
+  const condBBox = document.getElementById('condB');
+  const condBStatus = document.getElementById('condBStatus');
+  const cbPurchaseSignal = computeSignal(VARIABLES.find(v => v.id === 'cb_purchase'), latest.cb_purchase);
+  const noRebound = cbPurchaseSignal === 'red' || cbPurchaseSignal === 'yellow';
+  if (goldPrice < 4500 && noRebound) {
+    condBBox.classList.add('met');
+    condBBox.textContent = '✓';
+    condBStatus.textContent = `已满足 (金价${goldPrice} < 4500，央行购金${cbPurchaseSignal === 'red' ? '红' : '黄'}灯)`;
+    condBStatus.style.color = 'var(--red)';
+  } else {
+    condBBox.classList.remove('met');
+    condBBox.textContent = '—';
+    condBStatus.textContent = goldPrice >= 4500 ? `未满足 (金价 ${goldPrice} ≥ 4500)` : `部分满足 (待央行购金衰减确认)`;
+    condBStatus.style.color = 'var(--text-dim)';
+  }
+
+  const finalEl = document.getElementById('finalVerdict');
+  const finalNote = document.getElementById('finalVerdictNote');
+  if (redCount >= 3 && goldPrice < 4500 && noRebound) {
+    finalEl.textContent = '⚠ 做空触发条件全部满足';
+    finalEl.style.color = 'var(--red)';
+    finalNote.textContent = '可考虑建立反向头寸 · 仍需严格止损';
+  } else if (redCount >= 3) {
+    finalEl.textContent = '条件A已满足 · 等待价格确认';
+    finalEl.style.color = 'var(--yellow)';
+    finalNote.textContent = '不与趋势作对 — 价格未跌破前不做空';
+  } else {
+    finalEl.textContent = '当前不建立做空头寸';
+    finalEl.style.color = 'var(--text-dim)';
+    finalNote.textContent = '反身性回路尚未出现足够多的反向信号';
+  }
+}
+
+function renderActions() {
+  const latest = getLatest();
+  const redCount = latest ? VARIABLES.filter(v => computeSignal(v, latest[v.id]) === 'red').length : 0;
+
+  let actions = [];
+
+  if (redCount >= 3) {
+    actions = [
+      { tag: '头寸', text: '<b>大幅减仓至30%以下</b>，并启动反向头寸建仓（如已通过条件B验证）。索罗斯式杠杆此时方可使用——但仅在条件A+B同时确认后' },
+      { tag: '保护', text: '剩余多头加深度虚值看跌期权 · 移动止损上移至最近一周低点之下' },
+      { tag: '观察', text: '密切关注央行购金月度数据 · 任何反弹买盘都可能延迟反身性反向' },
+      { tag: '退出', text: '若反身性反向后 5%以上的二次反弹未能创新高 — 说明回路确已破裂' }
+    ];
+  } else if (redCount >= 2) {
+    actions = [
+      { tag: '头寸', text: '保留<b>50–60%底仓</b>，其余分批兑现。不在 4700 上方加仓' },
+      { tag: '保护', text: '为剩余多头买入 4500/4400 虚值看跌期权（成本可由部分多头收益对冲）' },
+      { tag: '观察', text: '重点跟踪央行购金月度 + 中美/伊朗谈判时间表' },
+      { tag: '禁忌', text: '<b>绝对不加杠杆</b>。索罗斯式杠杆只用在阶段2-3，现在是阶段4-5' }
+    ];
+  } else {
+    actions = [
+      { tag: '头寸', text: '维持现有黄金敞口（<b>建议5-15%组合权重</b>）。新增敞口请等待回调至 4500–4600 区间' },
+      { tag: '保护', text: '设置移动止损 (跟随20日均线) · 不需要昂贵的看跌期权保护' },
+      { tag: '对冲', text: '黄金多头 + 美元多头组合（当前两者负相关减弱）；监测 Gold/BTC 比值变化' },
+      { tag: '禁忌', text: '不要追高 · 不在 4800 上方建立新仓位 · 共识太一致时赔率不再具吸引力' },
+      { tag: '心态', text: '<b>不要爱上黄金的故事</b>——故事和价格之间的距离已经不大' }
+    ];
+  }
+
+  document.getElementById('actionList').innerHTML = actions.map(a =>
+    `<div class="action-item"><div class="action-tag">${a.tag}</div><div class="action-text">${a.text}</div></div>`
+  ).join('');
+}
+
+function renderEntryForm() {
+  const latest = getLatest();
+  const el = document.getElementById('entryForm');
+  el.innerHTML = VARIABLES.map(v => {
+    let inputHTML;
+    const currentVal = latest ? latest[v.id] : '';
+    if (v.type === 'qualitative') {
+      inputHTML = `<select id="entry_${v.id}">
+        <option value="">— 选择 —</option>
+        ${v.options.map(o => `<option value="${o.value}" ${currentVal === o.value ? 'selected' : ''}>${o.label}</option>`).join('')}
+      </select>`;
+    } else {
+      const placeholder = v.id === 'etf' ? '正数=流入, 负数=流出' : '';
+      const step = v.decimals === 0 ? '1' : (v.decimals === 1 ? '0.1' : '0.01');
+      inputHTML = `<input type="number" id="entry_${v.id}" step="${step}" placeholder="${placeholder}" value="${currentVal !== null && currentVal !== undefined ? currentVal : ''}">`;
+    }
+    return `<div class="form-field">
+      <label>${v.name}${v.unit ? ' (' + v.unit + ')' : ''}</label>
+      ${inputHTML}
+    </div>`;
+  }).join('');
+
+  // Default date = today
+  if (!document.getElementById('entryDate').value) {
+    document.getElementById('entryDate').value = new Date().toISOString().slice(0, 10);
+  }
+}
+
+function renderHistory() {
+  const el = document.getElementById('historyContainer');
+  if (history.length === 0) {
+    el.innerHTML = '<div style="color: var(--text-dim); font-size: 13px;">尚无历史数据。录入第一周后将在此显示。</div>';
+    return;
+  }
+  const rows = [...history].reverse().map((h, idx) => {
+    const realIdx = history.length - 1 - idx;
+    return `<tr>
+      <td>${h.date || '—'}</td>
+      <td>${formatVal('geopolitics', h.geopolitics)}</td>
+      <td>${formatVal('dxy', h.dxy)}</td>
+      <td>${formatVal('real_yield', h.real_yield)}</td>
+      <td>${formatVal('cb_purchase', h.cb_purchase)}</td>
+      <td>${formatVal('etf', h.etf)}</td>
+      <td>${formatVal('cb_announcement', h.cb_announcement)}</td>
+      <td><button class="del-btn" onclick="deleteEntry(${realIdx})">删除</button></td>
+    </tr>`;
+  }).join('');
+  el.innerHTML = `<table class="history-table">
+    <thead><tr>
+      <th>周一日期</th><th>地缘</th><th>DXY</th><th>实际利率</th><th>央行购金</th><th>ETF流</th><th>央行公告</th><th></th>
+    </tr></thead>
+    <tbody>${rows}</tbody>
+  </table>`;
+}
+
+function formatVal(varId, val) {
+  if (val === null || val === undefined || val === '') return '—';
+  const v = VARIABLES.find(x => x.id === varId);
+  if (!v) return val;
+  if (v.type === 'qualitative') {
+    const opt = v.options.find(o => o.value === val);
+    return opt ? opt.label : val;
+  }
+  const decimals = v.decimals !== undefined ? v.decimals : 1;
+  return parseFloat(val).toFixed(decimals) + (v.unit ? ' ' + v.unit : '');
+}
+
+// ============== ACTIONS ==============
+function saveEntry() {
+  const date = document.getElementById('entryDate').value;
+  if (!date) { alert('请填写日期'); return; }
+  const entry = { date };
+  VARIABLES.forEach(v => {
+    const val = document.getElementById('entry_' + v.id).value;
+    entry[v.id] = val === '' ? null : val;
+  });
+  // Replace if same date exists
+  const existingIdx = history.findIndex(h => h.date === date);
+  if (existingIdx >= 0) {
+    history[existingIdx] = entry;
+  } else {
+    history.push(entry);
+    history.sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+  }
+  localStorage.setItem('gold_history', JSON.stringify(history));
+  renderAll();
+  flash('已保存本周数据');
+}
+
+function deleteEntry(idx) {
+  if (!confirm('确认删除这一周的数据？')) return;
+  history.splice(idx, 1);
+  localStorage.setItem('gold_history', JSON.stringify(history));
+  renderAll();
+}
+
+function clearAll() {
+  if (!confirm('确认清空所有历史数据？此操作不可撤销。')) return;
+  history = [];
+  localStorage.removeItem('gold_history');
+  renderAll();
+}
+
+function exportData() {
+  const data = JSON.stringify({ history, exportedAt: new Date().toISOString() }, null, 2);
+  const blob = new Blob([data], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `gold-soros-${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function importData() {
+  const input = document.createElement('input');
+  input.type = 'file';
+  input.accept = '.json';
+  input.onchange = e => {
+    const file = e.target.files[0];
+    const reader = new FileReader();
+    reader.onload = ev => {
+      try {
+        const data = JSON.parse(ev.target.result);
+        if (data.history && Array.isArray(data.history)) {
+          history = data.history;
+          localStorage.setItem('gold_history', JSON.stringify(history));
+          renderAll();
+          flash('导入成功');
+        } else {
+          alert('JSON 格式不正确');
+        }
+      } catch (e) { alert('解析失败：' + e.message); }
+    };
+    reader.readAsText(file);
+  };
+  input.click();
+}
+
+function flash(msg) {
+  const div = document.createElement('div');
+  div.textContent = msg;
+  div.style.cssText = 'position:fixed;top:20px;right:20px;background:var(--green);color:#000;padding:10px 16px;border-radius:6px;font-weight:600;z-index:1000;box-shadow:0 4px 12px rgba(0,0,0,0.3);';
+  document.body.appendChild(div);
+  setTimeout(() => div.remove(), 1800);
+}
+
+function renderAll() {
+  renderStages();
+  renderVariables();
+  renderAggregate();
+  renderActions();
+  renderEntryForm();
+  renderHistory();
+}
+
+document.getElementById('goldPrice').addEventListener('input', renderAggregate);
+
+// ============== AUTO FETCH ==============
+function saveFredKey() {
+  const key = document.getElementById('fredKey').value.trim();
+  localStorage.setItem('fred_key', key);
+  flash(key ? '✓ FRED Key 已保存' : '✓ 已清除');
+}
+
+async function fetchStooq(symbol) {
+  // CSV header: Symbol,Date,Time,Open,High,Low,Close,Volume
+  const url = `https://stooq.com/q/l/?s=${encodeURIComponent(symbol)}&f=sd2t2ohlcv&h&e=csv`;
+  const res = await fetch(url, { cache: 'no-store' });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const text = await res.text();
+  const lines = text.trim().split('\n');
+  if (lines.length < 2) throw new Error('空响应');
+  const fields = lines[1].split(',');
+  const close = parseFloat(fields[6]);
+  if (isNaN(close)) throw new Error('值无效: ' + fields[6]);
+  return { value: close, date: fields[1] };
+}
+
+async function fetchFRED(seriesId) {
+  const key = localStorage.getItem('fred_key');
+  if (!key) throw new Error('未配置 API Key');
+  const url = `https://api.stlouisfed.org/fred/series/observations?series_id=${seriesId}&api_key=${key}&file_type=json&sort_order=desc&limit=5`;
+  const res = await fetch(url, { cache: 'no-store' });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const json = await res.json();
+  if (!json.observations || !json.observations.length) throw new Error('无数据');
+  // Find first observation with non-'.' value (FRED uses '.' for missing)
+  const obs = json.observations.find(o => o.value && o.value !== '.');
+  if (!obs) throw new Error('近期均无有效数据');
+  return { value: parseFloat(obs.value), date: obs.date };
+}
+
+async function tryServerJSON() {
+  // Try loading gold-data.json from same dir (written by update_data.py)
+  try {
+    const res = await fetch('gold-data.json', { cache: 'no-store' });
+    if (!res.ok) return null;
+    return await res.json();
+  } catch { return null; }
+}
+
+async function fetchGoldOnly() {
+  const detail = document.getElementById('autoDetail');
+  detail.innerHTML = '⏳ 拉取金价...';
+  try {
+    const r = await fetchStooq('xauusd');
+    document.getElementById('goldPrice').value = r.value.toFixed(0);
+    detail.innerHTML = `<span class="ok">✓</span> 金价 ${r.value.toFixed(2)} USD/oz (${r.date})`;
+    renderAggregate();
+  } catch (e) {
+    detail.innerHTML = `<span class="fail">✗ 金价获取失败：${e.message}</span> · 可能是 CORS 限制，请用本地服务器或 update_data.py`;
+  }
+}
+
+async function autoFetch() {
+  const detail = document.getElementById('autoDetail');
+  const lastEl = document.getElementById('lastUpdate');
+  detail.innerHTML = '⏳ 拉取中...（金价 → DXY → 实际利率）';
+
+  const results = [];
+  const filled = [];
+
+  // 0. Try server-generated JSON first (most reliable)
+  const serverData = await tryServerJSON();
+  if (serverData && serverData.values) {
+    Object.entries(serverData.values).forEach(([k, v]) => {
+      if (k === 'gold') {
+        document.getElementById('goldPrice').value = parseFloat(v).toFixed(0);
+        results.push(`<span class="ok">✓</span> 金价 ${parseFloat(v).toFixed(2)} <i>(server)</i>`);
+      } else if (document.getElementById('entry_' + k)) {
+        document.getElementById('entry_' + k).value = v;
+        filled.push(k);
+        results.push(`<span class="ok">✓</span> ${k} ${v} <i>(server)</i>`);
+      }
+    });
+    if (results.length > 0) {
+      const ts = serverData.fetched_at || new Date().toISOString();
+      results.push(`<i style="color: var(--text-faint);">服务端时间: ${ts}</i>`);
+      detail.innerHTML = results.join(' · ');
+      lastEl.textContent = `上次刷新：${new Date().toLocaleString('zh-CN')}`;
+      localStorage.setItem('last_auto_fetch', lastEl.textContent);
+      renderAggregate();
+      return;
+    }
+  }
+
+  // 1. Gold price (Stooq)
+  try {
+    const r = await fetchStooq('xauusd');
+    document.getElementById('goldPrice').value = r.value.toFixed(0);
+    results.push(`<span class="ok">✓</span> 金价 ${r.value.toFixed(2)} (${r.date})`);
+  } catch (e) {
+    results.push(`<span class="fail">✗</span> 金价: ${e.message}`);
+  }
+
+  // 2. DXY (Stooq)
+  try {
+    const r = await fetchStooq('dx.f');
+    const el = document.getElementById('entry_dxy');
+    if (el) { el.value = r.value.toFixed(2); filled.push('dxy'); }
+    results.push(`<span class="ok">✓</span> DXY ${r.value.toFixed(2)} (${r.date})`);
+  } catch (e) {
+    results.push(`<span class="fail">✗</span> DXY: ${e.message}`);
+  }
+
+  // 3. Real yield (FRED)
+  try {
+    const r = await fetchFRED('DFII10');
+    const el = document.getElementById('entry_real_yield');
+    if (el) { el.value = r.value.toFixed(2); filled.push('real_yield'); }
+    results.push(`<span class="ok">✓</span> 实际利率 ${r.value.toFixed(2)}% (${r.date})`);
+  } catch (e) {
+    results.push(`<span class="fail">✗</span> 实际利率: ${e.message}`);
+  }
+
+  detail.innerHTML = results.join(' · ');
+  if (filled.length > 0) {
+    detail.innerHTML += `<br><span style="color: var(--text-faint);">已填入录入表单（${filled.join(', ')}），请检查后点"保存本周数据"。质性指标仍需手动选择。</span>`;
+  }
+  const now = new Date().toLocaleString('zh-CN');
+  lastEl.textContent = `上次刷新：${now}`;
+  localStorage.setItem('last_auto_fetch', now);
+  renderAggregate();
+}
+
+// Restore FRED key + last fetch on load
+const _savedKey = localStorage.getItem('fred_key') || '';
+const _lastFetch = localStorage.getItem('last_auto_fetch');
+
+renderAll();
+
+// Populate after renderAll (entry form needs to exist first)
+if (document.getElementById('fredKey')) document.getElementById('fredKey').value = _savedKey;
+if (_lastFetch && document.getElementById('lastUpdate')) document.getElementById('lastUpdate').textContent = _lastFetch;
+</script>
+</body>
+</html>

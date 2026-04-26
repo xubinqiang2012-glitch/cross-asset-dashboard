@@ -1,0 +1,58 @@
+name: Update Dashboard Data
+
+on:
+  schedule:
+    # 工作日每 2 小时（UTC）— 覆盖亚欧美三大时区
+    - cron: '15 */2 * * 1-5'
+    # 周末 6 小时一次
+    - cron: '0 */6 * * 0,6'
+  workflow_dispatch:        # 手动触发按钮
+  push:
+    branches: [main]
+    paths:
+      - 'update_*.py'
+      - '.github/workflows/update.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update asset data (Yahoo Finance)
+        run: python update_assets.py
+        continue-on-error: true
+
+      - name: Update commentary (Google News + Fed RSS)
+        run: python update_commentary.py
+        continue-on-error: true
+
+      - name: Update gold framework data (Stooq + FRED)
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: python update_data.py
+        continue-on-error: true
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A *.json
+          if git diff --staged --quiet; then
+            echo "No data changes — skip commit."
+          else
+            git commit -m "auto: update data $(date -u '+%Y-%m-%d %H:%MZ')"
+            git push
+          fi

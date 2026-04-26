@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cross-Asset Monitor · All Weather Style</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0a0e14;
+    --bg2: #131820;
+    --bg3: #1a212c;
+    --bg4: #242d3c;
+    --border: #2a3340;
+    --text: #e6edf3;
+    --text-dim: #8b949e;
+    --text-faint: #6e7681;
+    --green: #3fb950;
+    --green-soft: rgba(63, 185, 80, 0.18);
+    --yellow: #d29922;
+    --red: #f85149;
+    --red-soft: rgba(248, 81, 73, 0.18);
+    --gold: #f5b94a;
+    --blue: #58a6ff;
+    --purple: #bc8cff;
+    --cyan: #39d0d8;
+    --orange: #ff9750;
+    --pink: #ff7b9d;
+
+    /* Asset class accents */
+    --c-equity: #58a6ff;
+    --c-rates: #bc8cff;
+    --c-commodity: #f5b94a;
+    --c-fx: #3fb950;
+    --c-crypto: #ff9750;
+    --c-vol: #f85149;
+  }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", "Segoe UI", sans-serif;
+    line-height: 1.5;
+    padding: 20px;
+    min-height: 100vh;
+  }
+  .container { max-width: 1500px; margin: 0 auto; }
+
+  /* Header */
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 16px;
+    margin-bottom: 24px;
+  }
+  h1 {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+  }
+  h1 .accent { color: var(--blue); }
+  .subtitle { color: var(--text-dim); font-size: 12px; margin-top: 4px; letter-spacing: 0.5px; }
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .refresh-btn {
+    padding: 8px 16px;
+    background: var(--blue);
+    color: var(--bg);
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 13px;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .refresh-btn:hover { background: #79b8ff; }
+  .last-update {
+    font-size: 11px;
+    color: var(--text-dim);
+    text-align: right;
+  }
+
+  section { margin-bottom: 24px; }
+  .section-title {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-title::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+  .panel {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 18px 20px;
+  }
+
+  /* ========== Macro Quadrant ========== */
+  .quadrant-section {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+    gap: 16px;
+  }
+  .quadrant {
+    position: relative;
+    aspect-ratio: 1;
+    max-height: 360px;
+    margin: 24px auto;
+    border: 1px solid var(--border);
+    background:
+      linear-gradient(0deg, transparent 49.5%, var(--border) 49.5%, var(--border) 50.5%, transparent 50.5%),
+      linear-gradient(90deg, transparent 49.5%, var(--border) 49.5%, var(--border) 50.5%, transparent 50.5%);
+    border-radius: 6px;
+  }
+  .quadrant-cell {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    padding: 12px;
+    cursor: pointer;
+    transition: all 0.15s;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .quadrant-cell:hover { background: rgba(88, 166, 255, 0.05); }
+  .quadrant-cell.active {
+    background: rgba(88, 166, 255, 0.12);
+    box-shadow: inset 0 0 0 2px var(--blue);
+  }
+  .qc-q1 { top: 0; right: 0; }      /* Growth↑ Infl↑ */
+  .qc-q2 { top: 0; left: 0; }       /* Growth↑ Infl↓ */
+  .qc-q3 { bottom: 0; left: 0; }    /* Growth↓ Infl↓ */
+  .qc-q4 { bottom: 0; right: 0; }   /* Growth↓ Infl↑ */
+  .qc-label {
+    font-size: 10px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+  }
+  .qc-assets {
+    font-size: 11px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .qc-assets b { color: var(--gold); }
+  .axis-label {
+    position: absolute;
+    font-size: 10px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .axis-x-r { right: -90px; top: 50%; transform: translateY(-50%); }
+  .axis-x-l { left: -90px; top: 50%; transform: translateY(-50%); }
+  .axis-y-t { top: -22px; left: 50%; transform: translateX(-50%); }
+  .axis-y-b { bottom: -22px; left: 50%; transform: translateX(-50%); }
+
+  .regime-detail {
+    padding: 16px 0;
+  }
+  .regime-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    color: var(--blue);
+  }
+  .regime-allocation {
+    margin-top: 12px;
+  }
+  .alloc-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 6px 0;
+    font-size: 12px;
+  }
+  .alloc-bar-wrap {
+    flex: 1;
+    height: 6px;
+    background: var(--bg3);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .alloc-bar {
+    height: 100%;
+    background: var(--blue);
+    border-radius: 3px;
+  }
+  .alloc-name { width: 100px; color: var(--text-dim); }
+  .alloc-pct { width: 38px; text-align: right; font-variant-numeric: tabular-nums; color: var(--text); font-weight: 500; }
+
+  /* ========== Performance Heatmap ========== */
+  .heatmap {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+  }
+  .heatmap th, .heatmap td {
+    padding: 8px 10px;
+    text-align: right;
+    border-bottom: 1px solid var(--border);
+  }
+  .heatmap th {
+    color: var(--text-dim);
+    font-weight: 500;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    text-align: right;
+  }
+  .heatmap th:first-child { text-align: left; }
+  .heatmap .asset-name {
+    text-align: left;
+    color: var(--text);
+    font-weight: 500;
+  }
+  .heatmap .asset-class {
+    display: inline-block;
+    width: 4px;
+    height: 12px;
+    border-radius: 1px;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+  .heatmap .price-cell { color: var(--text); font-weight: 500; }
+  .heatmap .delta-cell {
+    border-radius: 3px;
+    padding: 4px 8px;
+    color: var(--text);
+    font-weight: 500;
+  }
+  .heatmap tr.class-header td {
+    background: var(--bg3);
+    color: var(--text-dim);
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 4px 10px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* ========== Asset Cards Grid (featured) ========== */
+  .featured-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 12px;
+  }
+  .asset-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    border-left: 3px solid var(--blue);
+  }
+  .asset-card.equity { border-left-color: var(--c-equity); }
+  .asset-card.rates { border-left-color: var(--c-rates); }
+  .asset-card.commodity { border-left-color: var(--c-commodity); }
+  .asset-card.fx { border-left-color: var(--c-fx); }
+  .asset-card.crypto { border-left-color: var(--c-crypto); }
+  .asset-card.vol { border-left-color: var(--c-vol); }
+
+  .ac-name {
+    font-size: 12px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+  }
+  .ac-value {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 4px;
+    font-variant-numeric: tabular-nums;
+  }
+  .ac-delta {
+    font-size: 13px;
+    font-variant-numeric: tabular-nums;
+    margin-top: 2px;
+  }
+  .ac-delta.pos { color: var(--green); }
+  .ac-delta.neg { color: var(--red); }
+  .ac-spark {
+    margin-top: 8px;
+    height: 32px;
+    width: 100%;
+  }
+
+  /* ========== Risk Pulse ========== */
+  .pulse-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
+  }
+  .pulse-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 14px;
+  }
+  .pulse-label {
+    font-size: 10px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+  }
+  .pulse-value {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 4px;
+    font-variant-numeric: tabular-nums;
+  }
+  .pulse-state {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 10px;
+    margin-top: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+  }
+  .state-on { background: var(--green-soft); color: var(--green); }
+  .state-off { background: var(--red-soft); color: var(--red); }
+  .state-mid { background: rgba(210, 153, 34, 0.18); color: var(--yellow); }
+
+  /* ========== Commentary Feed ========== */
+  .commentary-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 12px;
+  }
+  .commentary-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+  }
+  .cc-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  .cc-firm {
+    font-weight: 600;
+    font-size: 13px;
+  }
+  .cc-firm-badge {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+  .cc-source {
+    font-size: 10px;
+    color: var(--blue);
+    text-decoration: none;
+    border: 1px solid var(--border);
+    padding: 2px 6px;
+    border-radius: 3px;
+  }
+  .cc-source:hover { border-color: var(--blue); }
+  .cc-desc {
+    font-size: 11px;
+    color: var(--text-faint);
+    margin-bottom: 8px;
+  }
+  .cc-note {
+    width: 100%;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 8px 10px;
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: 12px;
+    line-height: 1.5;
+    resize: vertical;
+    min-height: 60px;
+  }
+  .cc-note:focus { outline: none; border-color: var(--blue); }
+  .cc-meta {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6px;
+    font-size: 10px;
+    color: var(--text-faint);
+  }
+  .cc-headlines {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border-top: 1px solid var(--border);
+    padding-top: 8px;
+  }
+  .cc-headline {
+    font-size: 11px;
+    line-height: 1.5;
+    padding: 4px 0;
+    border-bottom: 1px dotted var(--border);
+  }
+  .cc-headline:last-child { border-bottom: none; }
+  .cc-headline a {
+    color: var(--text);
+    text-decoration: none;
+  }
+  .cc-headline a:hover { color: var(--blue); text-decoration: underline; }
+  .cc-headline-meta {
+    color: var(--text-faint);
+    font-size: 10px;
+    margin-top: 2px;
+  }
+  .cc-empty {
+    font-size: 11px;
+    color: var(--text-faint);
+    font-style: italic;
+    padding: 6px 0;
+  }
+  .regime-auto-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 10px;
+    background: var(--green-soft);
+    color: var(--green);
+    margin-left: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+  }
+  .auto-refresh-pulse {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--green);
+    margin-right: 6px;
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+
+  /* ========== Misc ========== */
+  .auto-detail {
+    font-size: 11px;
+    color: var(--text-dim);
+    margin-top: 8px;
+    line-height: 1.6;
+    word-break: break-word;
+  }
+  .auto-detail .ok { color: var(--green); }
+  .auto-detail .fail { color: var(--red); }
+  button {
+    padding: 6px 12px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    background: var(--bg3);
+    color: var(--text);
+    font-family: inherit;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  button:hover { background: var(--bg4); }
+  .footnote {
+    font-size: 11px;
+    color: var(--text-faint);
+    text-align: center;
+    margin-top: 24px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+  }
+  .footnote .quote { font-style: italic; color: var(--blue); }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <div>
+    <h1>Cross-Asset Monitor <span class="accent">·</span> All Weather Style</h1>
+    <div class="subtitle">Macro Regime · Risk Parity · Bridgewater Framework</div>
+  </div>
+  <div class="header-actions">
+    <div class="last-update">
+      <div id="lastUpdate">尚未刷新</div>
+      <div id="dataMode" style="color: var(--text-faint);">—</div>
+    </div>
+    <button class="refresh-btn" onclick="refreshAll()">🔄 刷新全市场</button>
+  </div>
+</header>
+
+<!-- ========== Macro Regime ========== -->
+<section>
+  <div class="section-title">宏观四象限 · Economic Regime</div>
+  <div class="panel quadrant-section">
+    <div style="position: relative;">
+      <div class="quadrant" id="quadrant">
+        <div class="quadrant-cell qc-q1" data-regime="q1" onclick="selectRegime('q1')">
+          <div class="qc-label">Q1 · 增长↑ 通胀↑</div>
+          <div class="qc-assets">
+            <b>商品 · EM股</b><br>
+            黄金 · TIPS<br>
+            通胀挂钩资产
+          </div>
+        </div>
+        <div class="quadrant-cell qc-q2" data-regime="q2" onclick="selectRegime('q2')">
+          <div class="qc-label">Q2 · 增长↑ 通胀↓</div>
+          <div class="qc-assets">
+            <b>股票 · 信用</b><br>
+            高收益债<br>
+            周期股 · 科技股
+          </div>
+        </div>
+        <div class="quadrant-cell qc-q3" data-regime="q3" onclick="selectRegime('q3')">
+          <div class="qc-label">Q3 · 增长↓ 通胀↓</div>
+          <div class="qc-assets">
+            <b>长期国债 · 现金</b><br>
+            优质信用<br>
+            必需消费
+          </div>
+        </div>
+        <div class="quadrant-cell qc-q4" data-regime="q4" onclick="selectRegime('q4')">
+          <div class="qc-label">Q4 · 增长↓ 通胀↑</div>
+          <div class="qc-assets">
+            <b>黄金 · 商品</b><br>
+            TIPS<br>
+            滞胀对冲
+          </div>
+        </div>
+        <div class="axis-label axis-y-t">通胀 ↑</div>
+        <div class="axis-label axis-y-b">通胀 ↓</div>
+        <div class="axis-label axis-x-l">增长 ↓</div>
+        <div class="axis-label axis-x-r">增长 ↑</div>
+      </div>
+    </div>
+    <div class="regime-detail">
+      <div class="qc-label" style="margin-bottom: 6px;">当前判定</div>
+      <div class="regime-title" id="regimeName">点击四象限以选择当前宏观环境</div>
+      <div style="font-size: 12px; color: var(--text-dim); margin-top: 4px;" id="regimeDesc">
+        Bridgewater All Weather 的核心：经济环境无法预测，组合应在四种环境中均能存活。当前判定决定下方建议倾斜。
+      </div>
+      <div class="regime-allocation" id="regimeAlloc"></div>
+      <div style="font-size: 11px; color: var(--text-faint); margin-top: 12px; line-height: 1.6;">
+        判断依据可参考：<b>增长</b>看 ISM/PMI、就业、零售销售、GDPNow；<b>通胀</b>看 CPI、PCE、5y5y 通胀预期、商品。
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== Performance Heatmap ========== -->
+<section>
+  <div class="section-title">大类资产表现热力图 · Cross-Asset Performance</div>
+  <div class="panel">
+    <table class="heatmap" id="heatmap"></table>
+    <div class="auto-detail" id="fetchDetail">点击右上角"刷新全市场"开始拉取数据。</div>
+  </div>
+</section>
+
+<!-- ========== Featured Cards (incl. Bitcoin) ========== -->
+<section>
+  <div class="section-title">焦点资产 · Featured (含 Bitcoin)</div>
+  <div class="featured-grid" id="featuredGrid"></div>
+</section>
+
+<!-- ========== Risk Pulse ========== -->
+<section>
+  <div class="section-title">风险脉搏 · Risk-On / Risk-Off</div>
+  <div class="pulse-grid" id="pulseGrid"></div>
+</section>
+
+<!-- ========== Commentary Feed ========== -->
+<section>
+  <div class="section-title">机构观点流 · Daily Commentary</div>
+  <div class="panel" style="margin-bottom: 12px;">
+    <div style="font-size: 12px; color: var(--text-dim); line-height: 1.6;">
+      每日把各大机构的核心观点抄录到对应卡片（建议早间 30 分钟内完成）。点 <b>↗ 来源</b> 一键打开官方研究页。所有笔记保存在浏览器本地，可一键导出 JSON。
+    </div>
+    <div style="margin-top: 10px;">
+      <button onclick="exportCommentary()">导出今日观点 JSON</button>
+      <button onclick="archiveCommentary()">归档为 yyyy-mm-dd</button>
+      <button onclick="clearCommentary()">清空所有笔记</button>
+    </div>
+  </div>
+  <div class="commentary-grid" id="commentaryGrid"></div>
+</section>
+
+<div class="footnote">
+  <div class="quote">"He who lives by the crystal ball will eat shattered glass." — Ray Dalio</div>
+  <div style="margin-top: 6px;">All Weather 的逻辑：放弃预测，构建对四种宏观环境都有韧性的组合。</div>
+</div>
+
+</div>
+
+<script>
+// ============ ASSET DEFINITIONS ============
+const ASSETS = [
+  // Equities
+  { id: 'spx',     name: 'S&P 500',         symbol: '^spx',    cls: 'equity',   region: 'US' },
+  { id: 'ndx',     name: 'Nasdaq 100',      symbol: '^ndx',    cls: 'equity',   region: 'US' },
+  { id: 'rty',     name: 'Russell 2000',    symbol: '^rut',    cls: 'equity',   region: 'US' },
+  { id: 'sx5e',    name: 'Euro Stoxx 50',   symbol: '^stx50',  cls: 'equity',   region: 'EU' },
+  { id: 'nky',     name: 'Nikkei 225',      symbol: '^nkx',    cls: 'equity',   region: 'JP' },
+  { id: 'hsi',     name: 'Hang Seng',       symbol: '^hsi',    cls: 'equity',   region: 'HK' },
+  { id: 'shc',     name: 'Shanghai Comp',   symbol: '^shc',    cls: 'equity',   region: 'CN' },
+
+  // Rates (yields — higher = bonds down)
+  { id: 'us10y',   name: 'US 10Y Yield',    symbol: '^TNX',    cls: 'rates',    region: 'US', isYield: true, unit: '%' },
+  { id: 'us5y',    name: 'US 5Y Yield',     symbol: '^FVX',    cls: 'rates',    region: 'US', isYield: true, unit: '%' },
+  { id: 'us30y',   name: 'US 30Y Yield',    symbol: '^TYX',    cls: 'rates',    region: 'US', isYield: true, unit: '%' },
+
+  // Commodities
+  { id: 'gold',    name: 'Gold',            symbol: 'xauusd',  cls: 'commodity' },
+  { id: 'silver',  name: 'Silver',          symbol: 'xagusd',  cls: 'commodity' },
+  { id: 'oil',     name: 'WTI Crude',       symbol: 'cl.f',    cls: 'commodity' },
+  { id: 'copper',  name: 'Copper',          symbol: 'hg.f',    cls: 'commodity' },
+
+  // FX
+  { id: 'dxy',     name: 'Dollar Index',    symbol: 'dx.f',    cls: 'fx' },
+  { id: 'eur',     name: 'EUR/USD',         symbol: 'eurusd',  cls: 'fx' },
+  { id: 'jpy',     name: 'USD/JPY',         symbol: 'usdjpy',  cls: 'fx' },
+  { id: 'cny',     name: 'USD/CNY',         symbol: 'usdcny',  cls: 'fx' },
+
+  // Crypto (will use CoinGecko for primary; Stooq fallback)
+  { id: 'btc',     name: 'Bitcoin',         symbol: 'btcusd',  cls: 'crypto', cgId: 'bitcoin' },
+  { id: 'eth',     name: 'Ethereum',        symbol: 'ethusd',  cls: 'crypto', cgId: 'ethereum' },
+
+  // Vol
+  { id: 'vix',     name: 'VIX',             symbol: '^vix',    cls: 'vol' }
+];
+
+const CLASS_NAMES = {
+  equity: '股票 Equities',
+  rates: '利率 Rates',
+  commodity: '商品 Commodities',
+  fx: '外汇 FX',
+  crypto: '加密 Crypto',
+  vol: '波动率 Volatility'
+};
+
+const CLASS_ORDER = ['equity', 'rates', 'commodity', 'fx', 'crypto', 'vol'];
+const FEATURED_IDS = ['spx', 'ndx', 'gold', 'oil', 'btc', 'eth', 'us10y', 'dxy', 'vix'];
+
+// ============ All Weather Allocations per regime ============
+const REGIMES = {
+  q1: {
+    name: 'Q1 · 增长上行 + 通胀上行',
+    desc: '商品周期起点 / 名义增长强劲 / 央行可能转鹰。利好商品、新兴市场、通胀挂钩资产。',
+    alloc: [
+      { name: '股票 Equities', pct: 25, color: 'var(--c-equity)' },
+      { name: '商品 Commodities', pct: 25, color: 'var(--c-commodity)' },
+      { name: '黄金 Gold', pct: 15, color: 'var(--gold)' },
+      { name: 'TIPS', pct: 20, color: 'var(--c-rates)' },
+      { name: '名义债 Nominals', pct: 5, color: 'var(--purple)' },
+      { name: '现金 Cash', pct: 10, color: 'var(--text-faint)' }
+    ]
+  },
+  q2: {
+    name: 'Q2 · 增长上行 + 通胀下行',
+    desc: '"金发姑娘" 环境 — 增长好但物价稳。利好风险资产，尤其股票和信用。',
+    alloc: [
+      { name: '股票 Equities', pct: 45, color: 'var(--c-equity)' },
+      { name: '信用 Credit', pct: 20, color: 'var(--c-rates)' },
+      { name: '商品 Commodities', pct: 5, color: 'var(--c-commodity)' },
+      { name: '名义债 Nominals', pct: 15, color: 'var(--purple)' },
+      { name: '黄金 Gold', pct: 5, color: 'var(--gold)' },
+      { name: '现金 Cash', pct: 10, color: 'var(--text-faint)' }
+    ]
+  },
+  q3: {
+    name: 'Q3 · 增长下行 + 通胀下行',
+    desc: '通缩衰退 — 央行将转鸽。利好长期国债、现金、必需消费。',
+    alloc: [
+      { name: '名义债 Nominals', pct: 40, color: 'var(--purple)' },
+      { name: '股票 Equities', pct: 15, color: 'var(--c-equity)' },
+      { name: '现金 Cash', pct: 25, color: 'var(--text-faint)' },
+      { name: 'TIPS', pct: 5, color: 'var(--c-rates)' },
+      { name: '黄金 Gold', pct: 10, color: 'var(--gold)' },
+      { name: '商品 Commodities', pct: 5, color: 'var(--c-commodity)' }
+    ]
+  },
+  q4: {
+    name: 'Q4 · 增长下行 + 通胀上行',
+    desc: '滞胀 — 最难配置的环境。黄金 / 商品 / TIPS 是历史最佳避风港。',
+    alloc: [
+      { name: '黄金 Gold', pct: 25, color: 'var(--gold)' },
+      { name: '商品 Commodities', pct: 25, color: 'var(--c-commodity)' },
+      { name: 'TIPS', pct: 25, color: 'var(--c-rates)' },
+      { name: '现金 Cash', pct: 15, color: 'var(--text-faint)' },
+      { name: '股票 Equities', pct: 5, color: 'var(--c-equity)' },
+      { name: '名义债 Nominals', pct: 5, color: 'var(--purple)' }
+    ]
+  }
+};
+
+// ============ Commentary sources ============
+const COMMENTARY_SOURCES = [
+  { id: 'bridgewater', name: 'Bridgewater · Dalio',  desc: 'Daily Observations · Ray Dalio LinkedIn',  url: 'https://www.linkedin.com/in/raydalio/recent-activity/posts/',                       color: '#3b82f6' },
+  { id: 'blackrock',   name: 'BlackRock BII',         desc: 'Investment Institute Weekly',              url: 'https://www.blackrock.com/corporate/insights/blackrock-investment-institute',         color: '#1a1a1a' },
+  { id: 'goldman',     name: 'Goldman Sachs',         desc: 'Top of Mind · GS Insights',                url: 'https://www.goldmansachs.com/insights/',                                            color: '#7d6f47' },
+  { id: 'jpm',         name: 'JPM · Cembalest',       desc: 'Eye on the Market',                        url: 'https://www.jpmorgan.com/insights/markets/eye-on-the-market',                       color: '#915d00' },
+  { id: 'ms',          name: 'Morgan Stanley',        desc: 'Mike Wilson · Weekly Warm-up',             url: 'https://www.morganstanley.com/ideas',                                               color: '#0099cc' },
+  { id: 'pimco',       name: 'PIMCO',                 desc: 'Insights · Macro Outlook',                 url: 'https://www.pimco.com/en-us/insights',                                              color: '#e30613' },
+  { id: 'fed',         name: 'Fed · FOMC',            desc: '官员讲话 · 会议纪要',                       url: 'https://www.federalreserve.gov/newsevents/speeches.htm',                            color: '#1a4d8c' },
+  { id: 'wgc',         name: 'World Gold Council',    desc: 'Gold Hub · 央行购金月报',                   url: 'https://www.gold.org/goldhub',                                                      color: '#f5b94a' }
+];
+
+// ============ STATE ============
+let assetData = {};
+let currentRegime = localStorage.getItem('regime') || null;
+let regimeAuto = null;        // 自动判定结果 (来自 assets-data.json)
+let regimeOverride = false;    // 用户是否手动覆盖
+let commentary = JSON.parse(localStorage.getItem('commentary') || '{}');
+let fetchedHeadlines = {};    // 来自 commentary-data.json
+let commentaryFetchedAt = null;
+
+// ============ UTILITIES ============
+function fmtNum(v, decimals = 2) {
+  if (v === null || v === undefined || isNaN(v)) return '—';
+  return parseFloat(v).toLocaleString('en-US', { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
+}
+function fmtPct(v, decimals = 2) {
+  if (v === null || v === undefined || isNaN(v)) return '—';
+  const sign = v > 0 ? '+' : '';
+  return sign + (v * 100).toFixed(decimals) + '%';
+}
+function pctColor(v) {
+  if (v === null || v === undefined || isNaN(v)) return 'transparent';
+  // map -5%..+5% to red..green
+  const x = Math.max(-0.05, Math.min(0.05, v));
+  const intensity = Math.abs(x) / 0.05;
+  if (x > 0) return `rgba(63, 185, 80, ${0.10 + intensity * 0.45})`;
+  if (x < 0) return `rgba(248, 81, 73, ${0.10 + intensity * 0.45})`;
+  return 'transparent';
+}
+
+// ============ RENDER: Macro Regime ============
+function renderRegime() {
+  document.querySelectorAll('.quadrant-cell').forEach(el => {
+    el.classList.toggle('active', el.dataset.regime === currentRegime);
+  });
+  const detail = document.getElementById('regimeName');
+  const desc = document.getElementById('regimeDesc');
+  const alloc = document.getElementById('regimeAlloc');
+
+  if (!currentRegime || !REGIMES[currentRegime]) {
+    detail.innerHTML = '正在等待数据自动判定...';
+    desc.textContent = 'Bridgewater All Weather 的核心：经济环境无法预测，组合应在四种环境中均能存活。';
+    alloc.innerHTML = '';
+    return;
+  }
+  const r = REGIMES[currentRegime];
+  let title = r.name;
+  if (regimeAuto && regimeAuto.regime === currentRegime && !regimeOverride) {
+    title += ' <span class="regime-auto-badge">⚡ 自动判定</span>';
+  } else if (regimeOverride) {
+    title += ' <span class="regime-auto-badge" style="background: rgba(210,153,34,0.18); color: var(--yellow);">手动覆盖</span>';
+  }
+  detail.innerHTML = title;
+  let descText = r.desc;
+  if (regimeAuto) {
+    descText += `<br><span style="font-size: 11px; color: var(--text-faint);">基于 1M 市场动量：增长信号 ${(regimeAuto.growth_score * 100).toFixed(2)}% · 通胀信号 ${(regimeAuto.inflation_score * 100).toFixed(2)}%</span>`;
+  }
+  desc.innerHTML = descText;
+  alloc.innerHTML = '<div class="qc-label" style="margin-bottom: 8px;">参考配置（风险贡献近似等权 → 资本权重）</div>' +
+    r.alloc.map(a => `
+      <div class="alloc-row">
+        <span class="alloc-name">${a.name}</span>
+        <div class="alloc-bar-wrap"><div class="alloc-bar" style="width: ${a.pct}%; background: ${a.color};"></div></div>
+        <span class="alloc-pct">${a.pct}%</span>
+      </div>
+    `).join('');
+}
+function selectRegime(r) {
+  // Manual click → override auto detection
+  currentRegime = r;
+  regimeOverride = (regimeAuto && r !== regimeAuto.regime);
+  localStorage.setItem('regime', r);
+  localStorage.setItem('regime_override', regimeOverride ? '1' : '0');
+  renderRegime();
+}
+function applyAutoRegime(autoRegime) {
+  regimeAuto = autoRegime;
+  // 用户没主动点击过 → 跟随自动判定
+  const userOverride = localStorage.getItem('regime_override') === '1';
+  if (!userOverride && autoRegime?.regime) {
+    currentRegime = autoRegime.regime;
+  }
+  renderRegime();
+}
+
+// ============ RENDER: Heatmap ============
+function renderHeatmap() {
+  const tbl = document.getElementById('heatmap');
+  let html = `<thead><tr>
+    <th style="width: 28%;">资产</th>
+    <th style="width: 12%;">最新</th>
+    <th>1D</th>
+    <th>1W</th>
+    <th>1M</th>
+    <th>YTD</th>
+  </tr></thead><tbody>`;
+
+  CLASS_ORDER.forEach(cls => {
+    html += `<tr class="class-header"><td colspan="6">${CLASS_NAMES[cls]}</td></tr>`;
+    ASSETS.filter(a => a.cls === cls).forEach(a => {
+      const d = assetData[a.id] || {};
+      const decimals = a.unit === '%' ? 2 : (a.cls === 'crypto' ? 0 : 2);
+      const priceStr = d.price !== undefined ? fmtNum(d.price, decimals) + (a.unit ? a.unit : '') : '—';
+      const ch = d.changes || {};
+      html += `<tr>
+        <td class="asset-name"><span class="asset-class" style="background: var(--c-${a.cls});"></span>${a.name}<span style="color: var(--text-faint); font-size: 10px; margin-left: 6px;">${a.region || ''}</span></td>
+        <td class="price-cell">${priceStr}</td>
+        <td class="delta-cell" style="background: ${pctColor(ch['1d'])};">${fmtPct(ch['1d'])}</td>
+        <td class="delta-cell" style="background: ${pctColor(ch['1w'])};">${fmtPct(ch['1w'])}</td>
+        <td class="delta-cell" style="background: ${pctColor(ch['1m'])};">${fmtPct(ch['1m'])}</td>
+        <td class="delta-cell" style="background: ${pctColor(ch['ytd'])};">${fmtPct(ch['ytd'])}</td>
+      </tr>`;
+    });
+  });
+  html += '</tbody>';
+  tbl.innerHTML = html;
+}
+
+// ============ RENDER: Featured Cards ============
+function renderFeatured() {
+  const grid = document.getElementById('featuredGrid');
+  grid.innerHTML = FEATURED_IDS.map(id => {
+    const a = ASSETS.find(x => x.id === id);
+    if (!a) return '';
+    const d = assetData[id] || {};
+    const decimals = a.unit === '%' ? 2 : (a.cls === 'crypto' ? 0 : 2);
+    const priceStr = d.price !== undefined ? fmtNum(d.price, decimals) + (a.unit ? a.unit : '') : '—';
+    const ch1d = d.changes ? d.changes['1d'] : null;
+    const deltaCls = ch1d > 0 ? 'pos' : (ch1d < 0 ? 'neg' : '');
+    const arrow = ch1d > 0 ? '▲' : (ch1d < 0 ? '▼' : '—');
+    const spark = d.history && d.history.length > 1 ? renderSpark(d.history.slice(-30), a.cls) : '';
+    return `<div class="asset-card ${a.cls}">
+      <div class="ac-name">${a.name}</div>
+      <div class="ac-value">${priceStr}</div>
+      <div class="ac-delta ${deltaCls}">${arrow} ${fmtPct(ch1d)}</div>
+      ${spark}
+    </div>`;
+  }).join('');
+}
+function renderSpark(values, cls) {
+  if (!values || values.length < 2) return '';
+  const w = 220, h = 32, pad = 2;
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const range = max - min || 1;
+  const points = values.map((v, i) => {
+    const x = pad + (i / (values.length - 1)) * (w - 2 * pad);
+    const y = pad + (1 - (v - min) / range) * (h - 2 * pad);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+  const colors = { equity: '#58a6ff', rates: '#bc8cff', commodity: '#f5b94a', fx: '#3fb950', crypto: '#ff9750', vol: '#f85149' };
+  return `<svg class="ac-spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><polyline fill="none" stroke="${colors[cls] || '#58a6ff'}" stroke-width="1.5" points="${points}"/></svg>`;
+}
+
+// ============ RENDER: Risk Pulse ============
+function renderPulse() {
+  // Risk-on/off score: derived from VIX, equity 1d, gold 1d, dxy 1d
+  const vix = assetData.vix?.price;
+  const spx1d = assetData.spx?.changes?.['1d'];
+  const gold1d = assetData.gold?.changes?.['1d'];
+  const dxy1d = assetData.dxy?.changes?.['1d'];
+  const us10y = assetData.us10y?.price;
+  const btc1d = assetData.btc?.changes?.['1d'];
+
+  const pulses = [
+    {
+      label: 'Risk-On / Off',
+      value: computeRiskOn(spx1d, vix, btc1d, gold1d),
+      isText: true
+    },
+    {
+      label: 'VIX',
+      value: vix !== undefined ? fmtNum(vix, 1) : '—',
+      state: vix === undefined ? '' : (vix < 15 ? 'on' : vix < 22 ? 'mid' : 'off'),
+      stateText: vix === undefined ? '' : (vix < 15 ? '低波' : vix < 22 ? '中性' : '高恐慌')
+    },
+    {
+      label: 'US 10Y',
+      value: us10y !== undefined ? fmtNum(us10y, 2) + '%' : '—',
+      state: us10y === undefined ? '' : (us10y < 4 ? 'on' : us10y < 5 ? 'mid' : 'off'),
+      stateText: us10y === undefined ? '' : (us10y < 4 ? '宽松' : us10y < 5 ? '中性' : '紧缩')
+    },
+    {
+      label: '收益率曲线 (30Y-5Y)',
+      value: (us10y !== undefined && assetData.us5y?.price !== undefined && assetData.us30y?.price !== undefined)
+        ? ((assetData.us30y.price - assetData.us5y.price) * 100).toFixed(0) + 'bp' : '—',
+      state: (() => {
+        if (assetData.us5y?.price === undefined || assetData.us30y?.price === undefined) return '';
+        const sp = assetData.us30y.price - assetData.us5y.price;
+        return sp < 0 ? 'off' : sp < 0.5 ? 'mid' : 'on';
+      })(),
+      stateText: (() => {
+        if (assetData.us5y?.price === undefined || assetData.us30y?.price === undefined) return '';
+        const sp = assetData.us30y.price - assetData.us5y.price;
+        return sp < 0 ? '倒挂 衰退信号' : sp < 0.5 ? '平坦化' : '正常陡峭';
+      })()
+    },
+    {
+      label: 'BTC / Gold (避险偏好)',
+      value: (assetData.btc?.price && assetData.gold?.price) ? (assetData.btc.price / assetData.gold.price).toFixed(1) : '—'
+    },
+    {
+      label: 'Gold 1D',
+      value: gold1d !== undefined ? fmtPct(gold1d) : '—',
+      state: gold1d === undefined ? '' : (gold1d > 0.005 ? 'off' : gold1d < -0.005 ? 'on' : 'mid'),
+      stateText: gold1d === undefined ? '' : (gold1d > 0.005 ? '避险升温' : gold1d < -0.005 ? '风险偏好' : '中性')
+    }
+  ];
+
+  document.getElementById('pulseGrid').innerHTML = pulses.map(p => `
+    <div class="pulse-card">
+      <div class="pulse-label">${p.label}</div>
+      <div class="pulse-value">${p.value}</div>
+      ${p.state ? `<span class="pulse-state state-${p.state}">${p.stateText || ''}</span>` : ''}
+    </div>
+  `).join('');
+}
+function computeRiskOn(spx1d, vix, btc1d, gold1d) {
+  let score = 0, n = 0;
+  if (spx1d !== undefined && spx1d !== null) { score += spx1d > 0 ? 1 : -1; n++; }
+  if (btc1d !== undefined && btc1d !== null) { score += btc1d > 0 ? 1 : -1; n++; }
+  if (gold1d !== undefined && gold1d !== null) { score += gold1d < 0 ? 0.5 : -0.5; n += 0.5; }
+  if (vix !== undefined) { score += vix < 16 ? 1 : (vix > 22 ? -1 : 0); n++; }
+  if (n === 0) return '— 待数据';
+  const pct = score / n;
+  if (pct > 0.5) return `<span style="color: var(--green);">RISK ON (${pct.toFixed(2)})</span>`;
+  if (pct < -0.5) return `<span style="color: var(--red);">RISK OFF (${pct.toFixed(2)})</span>`;
+  return `<span style="color: var(--yellow);">中性 (${pct.toFixed(2)})</span>`;
+}
+
+// ============ RENDER: Commentary ============
+function renderCommentary() {
+  const grid = document.getElementById('commentaryGrid');
+  const today = new Date().toISOString().slice(0, 10);
+  grid.innerHTML = COMMENTARY_SOURCES.map(s => {
+    const note = commentary[s.id] || {};
+    const headlines = fetchedHeadlines[s.id] || [];
+    const headlinesHTML = headlines.length > 0
+      ? `<div class="cc-headlines">
+          ${headlines.slice(0, 4).map(h => `
+            <div class="cc-headline">
+              <a href="${h.link}" target="_blank" rel="noopener">${escapeHtml(h.title)}</a>
+              <div class="cc-headline-meta">${h.source ? escapeHtml(h.source) + ' · ' : ''}${formatPubDate(h.pubDate)}</div>
+            </div>
+          `).join('')}
+        </div>`
+      : `<div class="cc-empty">暂无自动拉取的标题（或未跑 update_commentary.py）</div>`;
+    return `<div class="commentary-card">
+      <div class="cc-header">
+        <div class="cc-firm"><span class="cc-firm-badge" style="background: ${s.color};"></span>${s.name}</div>
+        <a class="cc-source" href="${s.url}" target="_blank" rel="noopener">↗ 来源</a>
+      </div>
+      <div class="cc-desc">${s.desc}</div>
+      ${headlinesHTML}
+      <textarea class="cc-note" id="note_${s.id}" placeholder="个人摘要 / 关键交易主题（手记）..." onchange="saveNote('${s.id}')">${note.text || ''}</textarea>
+      <div class="cc-meta">
+        <span>${note.updated ? '手记 ' + note.updated : ''}</span>
+        <span>${today}</span>
+      </div>
+    </div>`;
+  }).join('');
+}
+function escapeHtml(s) {
+  return (s || '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+}
+function formatPubDate(s) {
+  if (!s) return '';
+  const d = new Date(s);
+  if (isNaN(d.getTime())) return s.slice(0, 16);
+  const now = new Date();
+  const diffH = (now - d) / 36e5;
+  if (diffH < 1)   return '刚刚';
+  if (diffH < 24)  return `${Math.floor(diffH)}小时前`;
+  if (diffH < 48)  return '昨天';
+  if (diffH < 168) return `${Math.floor(diffH / 24)}天前`;
+  return d.toISOString().slice(0, 10);
+}
+function saveNote(id) {
+  const text = document.getElementById('note_' + id).value;
+  commentary[id] = { text, updated: new Date().toLocaleString('zh-CN') };
+  localStorage.setItem('commentary', JSON.stringify(commentary));
+  renderCommentary();
+}
+function exportCommentary() {
+  const data = JSON.stringify({ date: new Date().toISOString(), commentary, regime: currentRegime }, null, 2);
+  const blob = new Blob([data], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `commentary-${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+}
+function archiveCommentary() {
+  const archive = JSON.parse(localStorage.getItem('commentary_archive') || '{}');
+  const date = new Date().toISOString().slice(0, 10);
+  archive[date] = JSON.parse(JSON.stringify(commentary));
+  localStorage.setItem('commentary_archive', JSON.stringify(archive));
+  flash(`已归档为 ${date}`);
+}
+function clearCommentary() {
+  if (!confirm('清空所有今日笔记（不影响归档）？')) return;
+  commentary = {};
+  localStorage.removeItem('commentary');
+  renderCommentary();
+}
+
+function flash(msg) {
+  const div = document.createElement('div');
+  div.textContent = msg;
+  div.style.cssText = 'position:fixed;top:20px;right:20px;background:var(--green);color:#000;padding:10px 16px;border-radius:6px;font-weight:600;z-index:1000;';
+  document.body.appendChild(div);
+  setTimeout(() => div.remove(), 1800);
+}
+
+// ============ DATA FETCHING ============
+async function fetchStooqHistory(symbol, days = 365) {
+  // Daily CSV: Date,Open,High,Low,Close,Volume
+  const end = new Date();
+  const start = new Date(end.getTime() - days * 86400000);
+  const fmt = d => d.toISOString().slice(0, 10).replace(/-/g, '');
+  const url = `https://stooq.com/q/d/l/?s=${encodeURIComponent(symbol)}&d1=${fmt(start)}&d2=${fmt(end)}&i=d`;
+  const res = await fetch(url, { cache: 'no-store' });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const text = await res.text();
+  const lines = text.trim().split('\n');
+  if (lines.length < 2) throw new Error('空响应');
+  const header = lines[0].split(',');
+  const idx = { date: header.indexOf('Date'), close: header.indexOf('Close') };
+  if (idx.close < 0) throw new Error('找不到 Close 列: ' + lines[0]);
+  return lines.slice(1).map(l => {
+    const f = l.split(',');
+    return { date: f[idx.date], close: parseFloat(f[idx.close]) };
+  }).filter(x => !isNaN(x.close));
+}
+async function fetchCoinGecko(ids) {
+  const url = `https://api.coingecko.com/api/v3/simple/price?ids=${ids.join(',')}&vs_currencies=usd&include_24hr_change=true`;
+  const res = await fetch(url, { cache: 'no-store' });
+  if (!res.ok) throw new Error(`CoinGecko HTTP ${res.status}`);
+  return await res.json();
+}
+async function fetchCoinGeckoHistory(id, days = 90) {
+  const url = `https://api.coingecko.com/api/v3/coins/${id}/market_chart?vs_currency=usd&days=${days}&interval=daily`;
+  const res = await fetch(url, { cache: 'no-store' });
+  if (!res.ok) throw new Error(`CoinGecko hist HTTP ${res.status}`);
+  const data = await res.json();
+  return data.prices.map(([ts, p]) => ({ date: new Date(ts).toISOString().slice(0, 10), close: p }));
+}
+
+function computeChanges(history) {
+  if (!history || history.length === 0) return { price: undefined, changes: {} };
+  const sorted = [...history].sort((a, b) => a.date.localeCompare(b.date));
+  const today = sorted[sorted.length - 1].close;
+  const findOffset = (offsetDays) => {
+    const target = sorted.length - 1 - offsetDays;
+    return target >= 0 ? sorted[target].close : null;
+  };
+  const ytdStart = (() => {
+    const year = sorted[sorted.length - 1].date.slice(0, 4);
+    return sorted.find(x => x.date.slice(0, 4) === year)?.close || null;
+  })();
+
+  const v1d = findOffset(1);
+  const v1w = findOffset(5);     // ~5 trading days
+  const v1m = findOffset(21);    // ~21 trading days
+  const calc = (prev) => prev ? (today - prev) / prev : null;
+  return {
+    price: today,
+    changes: {
+      '1d': calc(v1d),
+      '1w': calc(v1w),
+      '1m': calc(v1m),
+      'ytd': calc(ytdStart)
+    },
+    history: sorted.map(x => x.close)
+  };
+}
+
+async function tryServerJSON() {
+  try {
+    const res = await fetch('assets-data.json', { cache: 'no-store' });
+    if (!res.ok) return null;
+    return await res.json();
+  } catch { return null; }
+}
+
+async function loadCommentaryJSON() {
+  try {
+    const res = await fetch('commentary-data.json', { cache: 'no-store' });
+    if (!res.ok) return null;
+    const data = await res.json();
+    fetchedHeadlines = data.sources || {};
+    commentaryFetchedAt = data.fetched_at;
+    renderCommentary();
+    return data;
+  } catch (e) { return null; }
+}
+
+async function refreshAll() {
+  const detail = document.getElementById('fetchDetail');
+  detail.innerHTML = '⏳ 拉取中...';
+  document.getElementById('dataMode').textContent = '';
+
+  // Load commentary in parallel (independent)
+  const commentaryPromise = loadCommentaryJSON();
+
+  // 1. Try server-generated JSON (most reliable)
+  const serverData = await tryServerJSON();
+  if (serverData && serverData.assets) {
+    Object.entries(serverData.assets).forEach(([id, data]) => {
+      assetData[id] = data;
+    });
+    if (serverData.regime) applyAutoRegime(serverData.regime);
+
+    document.getElementById('lastUpdate').innerHTML = '<span class="auto-refresh-pulse"></span>上次刷新：' + new Date().toLocaleString('zh-CN');
+    const ageHours = ((Date.now() - new Date(serverData.fetched_at).getTime()) / 3.6e6);
+    const ageColor = ageHours < 6 ? 'var(--green)' : (ageHours < 24 ? 'var(--yellow)' : 'var(--red)');
+    document.getElementById('dataMode').innerHTML = `<span style="color: ${ageColor};">✓ 服务端数据</span> · ${serverData.fetched_at?.slice(0, 19) || ''} (${ageHours.toFixed(1)}h前)`;
+    detail.innerHTML = `<span class="ok">✓</span> 已加载服务端数据 · 共 ${Object.keys(assetData).length} 个资产`;
+    if (serverData.errors && Object.keys(serverData.errors).length > 0) {
+      detail.innerHTML += ` · <span class="fail">${Object.keys(serverData.errors).length} 个失败</span>`;
+    }
+    rerenderAll();
+    await commentaryPromise;
+    return;
+  }
+
+  // 2. Browser-side fetch (fallback, may hit CORS)
+  document.getElementById('dataMode').innerHTML = `<span style="color: var(--yellow);">⚠ 浏览器直拉</span>`;
+  const results = [];
+  let okCount = 0, failCount = 0;
+
+  // Crypto via CoinGecko (with history)
+  try {
+    const cgIds = ASSETS.filter(a => a.cgId).map(a => a.cgId);
+    for (const a of ASSETS.filter(x => x.cgId)) {
+      try {
+        const hist = await fetchCoinGeckoHistory(a.cgId, 90);
+        assetData[a.id] = computeChanges(hist);
+        okCount++;
+      } catch (e) {
+        results.push(`${a.id}: ${e.message}`);
+        failCount++;
+      }
+    }
+  } catch (e) {
+    results.push('CoinGecko: ' + e.message);
+  }
+
+  // Stooq for everything else
+  for (const a of ASSETS.filter(x => !x.cgId)) {
+    try {
+      const hist = await fetchStooqHistory(a.symbol, 365);
+      assetData[a.id] = computeChanges(hist);
+      okCount++;
+    } catch (e) {
+      results.push(`${a.id}: ${e.message}`);
+      failCount++;
+    }
+  }
+
+  document.getElementById('lastUpdate').textContent = '上次刷新：' + new Date().toLocaleString('zh-CN');
+  detail.innerHTML = `<span class="ok">✓ ${okCount}</span> · <span class="fail">✗ ${failCount}</span> ${results.length > 0 ? '· ' + results.slice(0, 3).join(' / ') : ''}`;
+  if (failCount > 0) {
+    detail.innerHTML += `<br>遇 CORS 时建议跑 <code style="color: var(--blue);">python3 update_assets.py</code> 服务端拉取，或访问 <code>http://localhost:8765/cross-asset-dashboard.html</code>`;
+  }
+  rerenderAll();
+}
+
+function rerenderAll() {
+  renderHeatmap();
+  renderFeatured();
+  renderPulse();
+}
+
+// ============ INIT ============
+renderRegime();
+renderHeatmap();
+renderFeatured();
+renderPulse();
+renderCommentary();
+
+// Auto-load on first visit
+refreshAll();
+
+// Auto-refresh every 5 minutes (browser-side polling of server JSON)
+setInterval(refreshAll, 5 * 60 * 1000);
+
+// Refresh when tab becomes visible (returning from background)
+document.addEventListener('visibilitychange', () => {
+  if (!document.hidden) refreshAll();
+});
+</script>
+</body>
+</html>

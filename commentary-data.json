@@ -1,0 +1,302 @@
+{
+  "fetched_at": "2026-04-26T08:41:17+00:00",
+  "sources": {
+    "bridgewater": [
+      {
+        "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
+        "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+        "summary": "The Macro Implications of the AI Capex Boom Bridgewater Associates",
+        "source": "Bridgewater Associates"
+      },
+      {
+        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
+        "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg.com",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0hDRkZEZjE2R3otaTdMZER2U2Nkbmg2MHE0VEY2QjhLWWhWRUNjanVDZVdzM2VoanhIbG5odXlSVkNRSEZ4RUpFQ3pubWVRdE1CZTNFQnpLZ19uQVVidEtJanlNblBCZmRzQnR1X0hpdXBTNGlTOGtLQ2pacWFyOHl1czVVWmlPeF9FRy0tNHloOGJWR0U4aF9zMTRUOHJMRDFqVHVSUlh4aldHMENheDZVRmZ0b2pXclhJbmpxM0w1MXdscEZFU1g4MmpFQQ?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "March has been a brutal month for macro hedge funds — with one notable exception - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTVla0I4OHpPbnpIbVY0dkVxZWdGdFV6UGl6X0Rva1R6YjE5NHRQNVgxOHJCb1FvbXhwaWdqNk9IaFBMYXBEeUVqeGEwWjVreTJPWUoxVXZzd3dSUWZiZ0hDZ1kwbHJRdTEwX3ItUmhxOHZ1YmRJUWdFa1ZDLXh0dUJFWlFLdDdSZ241MVZRdXB2d3BZalg0SWVlUVBKZVNFZ1FWZ2tjYUE5RXNT?oc=5",
+        "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+        "summary": "March has been a brutal month for macro hedge funds — with one notable exception Business Insider",
+        "source": "Business Insider"
+      },
+      {
+        "title": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUNqZ2Z6Q1hfVi0zZ21WRXFHR3kxUmt3RzRRaC1nX3liZXhPUEJIaERvQTl6OXNxZWVPbjJZREoxS041SVVLX3RKMEM3NjV3dldsbnVQQTBpd2hvWTFyckxiNkR3QndQTWFkZ2dIY2NZWUNONmdpajI2Wm5NT2drUXdlVHdDMmdwZ1RRRlVhQjI4ajQ2QktEXzZR?oc=5",
+        "pubDate": "Sat, 14 Mar 2026 07:00:00 GMT",
+        "summary": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' Fortune",
+        "source": "Fortune"
+      }
+    ],
+    "blackrock": [
+      {
+        "title": "Weekly market commentary - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
+        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
+        "source": "Institutional Investor"
+      },
+      {
+        "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 06:07:46 GMT",
+        "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
+        "source": "Alternatives Watch"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
+        "source": "Bloomberg.com"
+      }
+    ],
+    "goldman": [
+      {
+        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
+        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
+        "title": "Market Pulse April - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XVko1VlFLTUU0VnNTNEdPOEtjY0c4LTFieWM0MGNFYVpzLS1CdllkZmNwV0NMYXBmcnNXN3pwbGlIX1MtQm1sd2MtUXBXZUluWUdMdnM0dlVOZWd3cjFTNkRUZWVTZzA1bVdUYTRYRQ?oc=5",
+        "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
+        "summary": "Market Pulse April Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
+      },
+      {
+        "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
+        "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+        "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
+        "title": "Buckle up for stock volatility Goldman warns, saying it's not the Iran war that will fuel more swings - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEJWSTVPZmRpbF9hVF95a29oTENrWGF0d0tsZktkTzAtdENuSXhYWFlUdEladU1kMVNaZFNJRFZ3RDEzQVZDNlFQcnpyN0dOc0lQSjhqei11MUZyVVFac3VuVk9rZzFXU2o2M1BSQS1zZmh4b1FvSGJMUi11M1VUWHpCUjNNWEoyczlIZDBmT3E2NEswNGdqZkFSWDB2aXFhYU9ReXdNWTVua1F6?oc=5",
+        "pubDate": "Sat, 11 Apr 2026 07:00:00 GMT",
+        "summary": "Buckle up for stock volatility Goldman warns, saying it's not the Iran war that will fuel more swings Business Insider",
+        "source": "Business Insider"
+      },
+      {
+        "title": "Investing in Everything, Everywhere, All at Once - gspublishing.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ05jbkRQMjd4ekswaEktQ09mYnFycXVEZFhtOGlySVhJUUNTSDZmOHNsd0JDTWVNTDU3bHpTdlZhMjhGemVUUm94RXpiRmViQ3NzRWFJVnFlakF2TjZwdmYxYk1uOEZrMk1xMURjOVh1T2tXZ2lKYTJBSE9nZFhCbnA4ZUR5QW8wOXJiYXVDTnpvU1poblBlY0xzRXZVRlE2T2s1aUFaZkN2UHZEZGc?oc=5",
+        "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
+        "summary": "Investing in Everything, Everywhere, All at Once gspublishing.com",
+        "source": "gspublishing.com"
+      }
+    ],
+    "jpm": [
+      {
+        "title": "Eye on the Market Outlook 2025: The Alchemists - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVVqel9KbTFkdFJlMHlKLVlTV0s1LXdROF9OTEdHNHNabnczYXZOdjFsVEtZSUpUeDlBRy1QdHZBQlNXdFRrX0FvX0tYTnlSSjM0SHBOSUVvQkhoWkZtZTVCOVF6cDBGOXVyQlVaX05BYnNsY2oyQk9DSm9UTThHWWlrY0FSelhUQkpQX2J0QQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 13:02:36 GMT",
+        "summary": "Eye on the Market Outlook 2025: The Alchemists J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
+      },
+      {
+        "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGpLVEdXMEstR1VNVUN4TXlqZms2RG5GMGU4enhWR1JQeXBhXzM3dXR0Wk85OGtqVW5WLW14Y0JlbnJMRTZiMzEzQTA3OVFJZk9iR2tnZVlNNDN4NTYwUFY3VW1NZ2JlNmlXdzhTTUJyZ0lGMVdFVjZzSjZNeDEwd1U0RGNUN1lWS3ItaVZXeTZIUU9paWJ5QjdNaENlV3ZlUzZWR0xCek81OVhMNk81NGRLREktZDVOSFk1WG9n?oc=5",
+        "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
+        "summary": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries Institutional Investor",
+        "source": "Institutional Investor"
+      },
+      {
+        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
+        "source": "Chase Bank"
+      },
+      {
+        "title": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTVpiOUY3SGxaaWxzc1ZxRUNYQzRUTkFPMDZqLUJCbC1CV2pQdEZ0Y0hReFkzY2I4WndWV1Ztd2dycWx4Q210YU43ZEdJOF9yVzZhelV3OXNmZThXNnp5ZzR6NHJQZUpQOGo2eUlWUU1VaFdwUjlwTmNyR2R4Zl9RelBQRVR6S09zMGVvMDVMUzFEellhSFJkU2I1TXpJN3hJQ0cwSTI5WlJmQWFZMlZ1MzZ1Z0FFWFI4WVNEdFpmSmtHT1JMeVZoZndpYndtNWpZWG9iNGZxNC1Bci13aGJmT1ZUbURDdnZSZWYyVW1zYllhLVZ3ZUE?oc=5",
+        "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
+        "summary": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
+      },
+      {
+        "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
+        "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
+        "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
+        "source": "Fortune"
+      }
+    ],
+    "ms": [
+      {
+        "title": "2026 Outlooks: Market and Economic Forecasts - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LRmZEUjJmdmpUNWxfNFp2WTJvZ2N1eUlPU1NMbzZTUkFYbDJCVnVsUW1oVWxxRnRiekZfQk82SU9aRVdWS3YxNjlzbm5QOWtSeUV0ZVRIU2Y?oc=5",
+        "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT",
+        "summary": "2026 Outlooks: Market and Economic Forecasts Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
+        "title": "Oil surge clouds India outlook, growth trimmed to 6.2%: Morgan Stanley - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQU014c012MXByRzFtVXRRUFhNSmFHX0lERHJLbFdhTTIwNUwzeXg1NnhGUTRtdzA1cEdVSkxBV2Z1MXdNS2pFZEtuM25jeTJsVWV3bkFsakZjTm9DeUV5c29IUU1PNDlWc3RhcWNhZGZ1Q3ljMkVXMkl3cGE2cVBicWJUakx4LVRFaW1WV0FhdVRLakxHemt0T3lIQjZlY0liWV9qSFZSYUZRbW8wVDRYdHBuaUxwaHdiajRZdFYtVUc1eTdIRld4b0NaaE9Teko5UmRIekt6VFJqODlrM0lRZENtWko0cHBuVFhUZVJBSzJSOEJFT2h4dGM2OXFPdWhXNGtBMVB1Um9WUERaaUZMX2w5c0Y2Qk1uQ3JhcllfV0xUekxqXzR6R3BvakVEaGg3WWJpQUtrdEhQY2ZrVzVGdDFDbWFidlVpTXlfb09hZHNOWnY0OVRtSGZpT0ZHSGdQS2NmWkt0b1dmZEJSLUN1Wll0UQ?oc=5",
+        "pubDate": "Sat, 25 Apr 2026 22:28:36 GMT",
+        "summary": "Oil surge clouds India outlook, growth trimmed to 6.2%: Morgan Stanley MSN",
+        "source": "MSN"
+      },
+      {
+        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
+        "title": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSUZRdlhzM09LbVh6QzVYc05KVEdabEhaOF9CenNPOHRpU0VVeVhqRXhOQ0xGcnhOXzY2YXlROVRCd0h5VWFnd2daVkplNUlPNW5iZTM5Q3ZldVg0bVd1aEdDOFNGX19WdXZWZGZ6QzF0cmJ3NFRXZzdWZGN2dnZELXg3dzJlbGZrS3h2QVJvRC1PTk5fdWo3OE4zTnlqZzN5WUFzZjAxNDUtRXlSeDM1MUpxRVpWTjVQSHlsSW82UHVZYTM2VkU4b2JLeXhWb1Etcklz?oc=5",
+        "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
+        "summary": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore TradingView",
+        "source": "TradingView"
+      },
+      {
+        "title": "Morgan Stanley (MS) Sets Bullish Tone for 2026 - TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94eUdkQkR5WHJMdlVoeTdOeEtNR1RGV0ZoTmVBWTVDWkxSd0ZWRTRFODBibkpKZTVtRnRLYU52QXM4cmg1RWVjV05CNnkwdF82a1JmbEVRVC1vSWlRdW02eTdRTGN3dzNJd1ExZzRJTWNUdEpZR1lnQjliQnVvM3c?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Morgan Stanley (MS) Sets Bullish Tone for 2026 TipRanks",
+        "source": "TipRanks"
+      }
+    ],
+    "pimco": [
+      {
+        "title": "PIMCO (PFL) Full Analysis | Q3 2025: Earnings Report - Expert Momentum Signals - Cổng thông tin điện tử tỉnh Tây Ninh",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMHBkb3RydkY2c2RJQ0NVeWZPVGM2NlROeHNuTlVqZi11VXRRdmN6QS1Qa2tMQVBkVWVwWDR3UmtPd2ZabWR3ZzFDUnAtdldlTlZEUm5seUF5V3hwMVI3MElUdW1GVUYyaXV4Q1llbXNuRHBaV2VORXJXdklUcGRTX1NLclpkOXBSSV93REZvZWk?oc=5",
+        "pubDate": "Wed, 22 Apr 2026 20:46:34 GMT",
+        "summary": "PIMCO (PFL) Full Analysis | Q3 2025: Earnings Report - Expert Momentum Signals Cổng thông tin điện tử tỉnh Tây Ninh",
+        "source": "Cổng thông tin điện tử tỉnh Tây Ninh"
+      },
+      {
+        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional Canada",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
+        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional Canada",
+        "source": "Wealth Professional Canada"
+      },
+      {
+        "title": "Income In 2026: Opportunity Without Overreach - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWYtOXByTWNoeGo3eGdMZEhkYUV2cWgwTEdTN1BrOGhPRnZVZ25yWGJnbVh4SnRiMDVWcHgxdUpSRGNuUGVjbUpKNmhZYUxzMDRpRzJSVHlWUF8yN3FzaHBLMm9qTHF1eGRWY05RNHZsU2xWR3dsMF9CVHloWkJ4X040OS1yZzczNkRvWURn?oc=5",
+        "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
+        "summary": "Income In 2026: Opportunity Without Overreach Seeking Alpha",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "On Demand Webinar: Build Resilient Portfolios With PIMCO’s Bond Playbook - ETF.com",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVhoWHRsOFRtNFYzZkpSVG5wWHJ4LVozMEs0T2RxaE1FSGdKVEc5SXJ3Q0pocDRwcXN5a1ViUUNFWjhZZGs1QmRENDZfeXhzQk5FckRFbU1QNjVUUGpCcnoyMGt2UkxKUFhTMFpDMGgyODRWRy0yRUtUUTNadjJvTkh5RUdZa2FVTkcyVmhHaWN1N2pNZ01HNDNhbFNiUEVHR0E?oc=5",
+        "pubDate": "Mon, 20 Oct 2025 07:00:00 GMT",
+        "summary": "On Demand Webinar: Build Resilient Portfolios With PIMCO’s Bond Playbook ETF.com",
+        "source": "ETF.com"
+      },
+      {
+        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
+        "source": "Livewire Markets"
+      }
+    ],
+    "fed": [
+      {
+        "title": "Waller, Modernizing Federal Reserve Operations in the 21st Century",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20260421a.htm",
+        "pubDate": "Tue, 21 Apr 2026 18:30:00 GMT",
+        "summary": "Speech At The Brookings Institution, Washington, D.C.",
+        "source": ""
+      },
+      {
+        "title": "Waller, One Transitory Shock After Another",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20260417a.htm",
+        "pubDate": "Fri, 17 Apr 2026 18:00:00 GMT",
+        "summary": "Speech At the David Kaserman Memorial Lecture, Department of Economics, Auburn University, Auburn, Alabama",
+        "source": ""
+      },
+      {
+        "title": "Barr, Rural Communities: Worth the Investment",
+        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260414a.htm",
+        "pubDate": "Tue, 14 Apr 2026 16:45:00 GMT",
+        "summary": "Speech At Strengthening America’s Economy through Rural Investment: A Working Forum, Washington, D.C.",
+        "source": ""
+      },
+      {
+        "title": "Jefferson, Economic Outlook and the Labor Market",
+        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm",
+        "pubDate": "Tue, 7 Apr 2026 21:50:00 GMT",
+        "summary": "Speech At the College of Business Administration, University of Detroit Mercy, Detroit, Michigan",
+        "source": ""
+      },
+      {
+        "title": "Bowman, Supporting Small Businesses",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260331a.htm",
+        "pubDate": "Tue, 31 Mar 2026 21:10:00 GMT",
+        "summary": "Speech At CBA LIVE 26, Consumer Bankers Association, San Diego, California",
+        "source": ""
+      }
+    ],
+    "wgc": [
+      {
+        "title": "Central Bank Gold Statistics: Central banks stay the course on gold in February - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcDRZVnp4MXJsbWxUbjdvbW1tN0ZaNG1LcFFRRlNSYU5GZG0wTzR4OVhvaDJjakJDdkFlSjJETzdHaGd3QzVGQmpnNk1xOHRMSjhXVk9BUnBmZ3ZxMjNGRlVTd3A1T0dHMVJSTEdlY3BHS19KT0ZVR1hrN0pkTlBPMVFySkxicTcwRG5tWUlfRjE3WGJqN01BVFVLMHZ0dGdrRjNiM0Z6SzFwaHB1MnZOSGZKSE1GNzA?oc=5",
+        "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT",
+        "summary": "Central Bank Gold Statistics: Central banks stay the course on gold in February World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
+        "title": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdl9uYThIbzVOV3RrbGRKT2RuVjZCWXljUldRR3RfZktFTm1rT1Y5OUNfRUVUNWQ3RjcxRGI4MUhwNG56RzdjQWViczlBZE5LQlB5QWpscDFjcFlsaUpMV1M3YVpvazRfUzh0X2hrczlXQnFXcTR4QzFoM2VDNVR0bW5TalJjR1BsdUdnWFRRekxWa3VtWTViUXkwR210ZWlPY3RSRHVZTUE3NjVQU0lUNEU5bTFmMmhWbHZMVA?oc=5",
+        "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
+        "summary": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council KITCO",
+        "source": "KITCO"
+      },
+      {
+        "title": "Central Banks Fuel Gold's Strategic Rise Amid Global Shifts - Investing News Network",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZXA2RE5lSlZCb3ZZQXBLRl9WNFU5WC1kVEE2TXFyejRndm5PZkhpYW56aWUtUWdIaTF3aUNLOWkxMUJ2MnR3dFV1elBQLTFhNkFtdjNiMFNSQVRmMnpaSm1DTGhLbm9FbWc?oc=5",
+        "pubDate": "Thu, 23 Apr 2026 20:12:00 GMT",
+        "summary": "Central Banks Fuel Gold's Strategic Rise Amid Global Shifts Investing News Network",
+        "source": "Investing News Network"
+      },
+      {
+        "title": "Central Bank Gold buying has slowed but the bullish case remains - FXStreet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTVRMZlMyS1J5MEZmd3ZaQlJFZExNTW5nMTB3VUNIdjJLWThnb1NscTF3R2N5T3VLTVNyeTRvUFFoMG5aYTNuaEhNXzlWXzg0aXZUelVTYkNJTDFjT1ExY1hocnJDaENUWm1uTjF4dFZkZFhRM0J4NVJoZmZsT1BMMWNZV2NpT1QtUkxoUV9HX2FpLUxLZFJVYml1OHJ2VVVEcHZ1SmViaENOSmc5b0xCNdIBtgFBVV95cUxQSmRjUnJWamtVZlI0aVhrU2ItcVJHUjRRWGY1ak9vRko3RUx5a19BbTRNWUFXUHhkOTN4aElCOF80QzVwbHRhZjdEbGdNNW5UVWNfSFF4M1hmYmlBekFkeWl0ZGVTZWVrLU9FTmk0eFhvYXkySk1XSXRsTzZtTWpZbUYxN1lIM1dTYVZGQ0pYeksxYzJFRGU3WjJHRlV3RWNQQlJ2bXE0Qk5VT1hiTlNZUnNGX2F2Zw?oc=5",
+        "pubDate": "Fri, 10 Apr 2026 07:00:00 GMT",
+        "summary": "Central Bank Gold buying has slowed but the bullish case remains FXStreet",
+        "source": "FXStreet"
+      },
+      {
+        "title": "How important are central bank holdings of gold? - Brookings",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlA3TkRabGhiNkd3N0VyYTk1VEMtME10RWdXVUlhd05HR25iYkNhcnpvTENiWVVsWklvakFyMmJjVUx2Z2dORTFsWE9jZjRjcjYwQnRiMlFXeG5VOHJHa3ZJUlY3NzJNekdJVzRuOFlNUmpkcFUzdTV3aE1mUW5NblA5VXdaemZaWEgw?oc=5",
+        "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
+        "summary": "How important are central bank holdings of gold? Brookings",
+        "source": "Brookings"
+      }
+    ]
+  },
+  "errors": {}
+}

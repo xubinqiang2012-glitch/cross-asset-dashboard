@@ -1,0 +1,9 @@
+# 本地 / macOS 专属，不进仓库
+.claude/
+.DS_Store
+*.log
+*.pyc
+__pycache__/
+com.bxq.dashboards.plist
+install_scheduler.sh
+dashboards.log

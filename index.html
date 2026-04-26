@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboards Hub</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #0a0e14; color: #e6edf3;
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", sans-serif;
+    line-height: 1.6; padding: 60px 24px; min-height: 100vh;
+  }
+  .container { max-width: 800px; margin: 0 auto; }
+  h1 { color: #58a6ff; font-size: 28px; font-weight: 600; margin-bottom: 8px; }
+  .subtitle { color: #8b949e; font-size: 14px; margin-bottom: 40px; }
+  .card {
+    display: block;
+    background: #161b22; border: 1px solid #30363d; border-radius: 10px;
+    padding: 24px 28px; margin-bottom: 16px;
+    text-decoration: none; color: inherit;
+    transition: all 0.15s;
+  }
+  .card:hover { border-color: #58a6ff; transform: translateY(-2px); }
+  .card-title { font-size: 18px; font-weight: 600; color: #58a6ff; margin-bottom: 6px; }
+  .card-title .arrow { float: right; color: #6e7681; transition: all 0.15s; }
+  .card:hover .arrow { color: #58a6ff; transform: translateX(4px); }
+  .card-desc { color: #8b949e; font-size: 13px; }
+  .card-meta { color: #6e7681; font-size: 11px; margin-top: 10px; letter-spacing: 0.4px; }
+  .footer {
+    color: #6e7681; font-size: 11px; margin-top: 40px;
+    padding-top: 20px; border-top: 1px solid #30363d; text-align: center;
+  }
+  .footer a { color: #58a6ff; text-decoration: none; }
+  .pulse { display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: #3fb950; margin-right: 6px; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>📊 Dashboards Hub</h1>
+  <div class="subtitle"><span class="pulse"></span>由 GitHub Actions 每 2 小时自动更新数据</div>
+
+  <a class="card" href="cross-asset-dashboard.html">
+    <div class="card-title">Cross-Asset Monitor · All Weather <span class="arrow">→</span></div>
+    <div class="card-desc">21 个大类资产（含 Bitcoin / Ethereum）· 宏观四象限自动判定 · 8 家机构观点流</div>
+    <div class="card-meta">股票 · 利率 · 商品 · 外汇 · 加密 · 波动率</div>
+  </a>
+
+  <a class="card" href="gold-soros-dashboard.html">
+    <div class="card-title">Gold · Soros Reflexivity Framework <span class="arrow">→</span></div>
+    <div class="card-desc">黄金反身性监测 · 索罗斯六变量框架 · Boom-Bust 八阶段定位</div>
+    <div class="card-meta">地缘 · DXY · 实际利率 · 央行购金 · ETF · 央行公告</div>
+  </a>
+
+  <div class="footer">
+    数据源：Yahoo Finance · Google News RSS · Stooq · FRED · Federal Reserve official feeds<br>
+    Auto-deploy via GitHub Actions · <a href="https://github.com/" id="repoLink">View source</a>
+  </div>
+</div>
+</body>
+</html>
