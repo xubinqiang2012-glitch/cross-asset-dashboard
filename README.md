@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-> 部署后地址：`https://<your-username>.github.io/<repo-name>/`
+**https://xubinqiang2012-glitch.github.io/cross-asset-dashboard/**
 
 ## 两个仪表板
 
