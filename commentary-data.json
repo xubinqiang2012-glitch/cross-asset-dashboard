@@ -1,20 +1,20 @@
 {
-  "fetched_at": "2026-05-01T16:52:16+00:00",
+  "fetched_at": "2026-05-01T21:10:31+00:00",
   "sources": {
     "bridgewater": [
-      {
-        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
-        "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg.com",
-        "source": "Bloomberg.com"
-      },
       {
         "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
         "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
         "summary": "The Macro Implications of the AI Capex Boom Bridgewater Associates",
         "source": "Bridgewater Associates"
+      },
+      {
+        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
+        "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg.com",
+        "source": "Bloomberg.com"
       },
       {
         "title": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers - Reuters",
@@ -31,11 +31,11 @@
         "source": "Business Insider"
       },
       {
-        "title": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: - HedgeCo.net",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRG5DbkNNQTJaX0oxTVdHWmVGMG1LMWhTUTNfdVhhMV9QMmtKYlA4RlhZcnIwWFlUcVhKNEw5VjRrdjVSU2dHME03aWZGdkFKOUluRGtJbkNMdTV2WjBxRGVFd3ZqTGtNMXRZbjI2NGJfZUNCazJnRWlrMFU4NkZQbkhWUGd4ZmMtVlBobjZKa1huTjJ6WVpB?oc=5",
-        "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
-        "summary": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: HedgeCo.net",
-        "source": "HedgeCo.net"
+        "title": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUNqZ2Z6Q1hfVi0zZ21WRXFHR3kxUmt3RzRRaC1nX3liZXhPUEJIaERvQTl6OXNxZWVPbjJZREoxS041SVVLX3RKMEM3NjV3dldsbnVQQTBpd2hvWTFyckxiNkR3QndQTWFkZ2dIY2NZWUNONmdpajI2Wm5NT2drUXdlVHdDMmdwZ1RRRlVhQjI4ajQ2QktEXzZR?oc=5",
+        "pubDate": "Sat, 14 Mar 2026 07:00:00 GMT",
+        "summary": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' Fortune",
+        "source": "Fortune"
       }
     ],
     "blackrock": [
@@ -216,14 +216,21 @@
         "source": "Livewire Markets"
       },
       {
-        "title": "PIMCO (PFL) Full Analysis | Q3 2025: Earnings Report - Expert Momentum Signals - Cổng thông tin điện tử tỉnh Tây Ninh",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMHBkb3RydkY2c2RJQ0NVeWZPVGM2NlROeHNuTlVqZi11VXRRdmN6QS1Qa2tMQVBkVWVwWDR3UmtPd2ZabWR3ZzFDUnAtdldlTlZEUm5seUF5V3hwMVI3MElUdW1GVUYyaXV4Q1llbXNuRHBaV2VORXJXdklUcGRTX1NLclpkOXBSSV93REZvZWk?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 20:46:34 GMT",
-        "summary": "PIMCO (PFL) Full Analysis | Q3 2025: Earnings Report - Expert Momentum Signals Cổng thông tin điện tử tỉnh Tây Ninh",
-        "source": "Cổng thông tin điện tử tỉnh Tây Ninh"
+        "title": "PIMCO commentary: Fed holds steady and signals longer-term easing bias - IFA Magazine",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3lzbEd4czlaZTVOM3FXU09uMnNzZTZ2SnNFU1hoWXUxSXV4d1VSSXpBUDlRcHBpMU1uNWE5SzZTVW5uZFVyNjhKRzNZWmNTZHFXR0NhN2lDU0d4SHdmWjF6blhsZGlIQ2pFeTJJc05EcjkxWlQ4ZGNUWVM1VXpCOGlya296dUtUWXRCZ1REU2ZWS0pnZ19tNzZR?oc=5",
+        "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT",
+        "summary": "PIMCO commentary: Fed holds steady and signals longer-term easing bias IFA Magazine",
+        "source": "IFA Magazine"
       }
     ],
     "fed": [
+      {
+        "title": "Bowman, Artificial Intelligence in the Financial System",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260501a.htm",
+        "pubDate": "Fri, 1 May 2026 18:00:00 GMT",
+        "summary": "Speech At the Financial Stability Oversight Council Artificial Intelligence Series Roundtable on Cybersecurity and Risk Management, Washington, D.C.",
+        "source": ""
+      },
       {
         "title": "Waller, Modernizing Federal Reserve Operations in the 21st Century",
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20260421a.htm",
@@ -250,13 +257,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm",
         "pubDate": "Tue, 7 Apr 2026 21:50:00 GMT",
         "summary": "Speech At the College of Business Administration, University of Detroit Mercy, Detroit, Michigan",
-        "source": ""
-      },
-      {
-        "title": "Bowman, Supporting Small Businesses",
-        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260331a.htm",
-        "pubDate": "Tue, 31 Mar 2026 21:10:00 GMT",
-        "summary": "Speech At CBA LIVE 26, Consumer Bankers Association, San Diego, California",
         "source": ""
       }
     ],
