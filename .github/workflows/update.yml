@@ -31,7 +31,9 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Update asset data (Yahoo Finance)
+      - name: Update asset data (Yahoo Finance + FRED monthly)
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
         run: python update_assets.py
         continue-on-error: true
 

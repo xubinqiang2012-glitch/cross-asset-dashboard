@@ -625,6 +625,7 @@ const ASSETS = [
   { id: 'us5y',    name: 'US 5Y Yield',     symbol: '^FVX',    cls: 'rates',    region: 'US', isYield: true, unit: '%' },
   { id: 'us30y',   name: 'US 30Y Yield',    symbol: '^TYX',    cls: 'rates',    region: 'US', isYield: true, unit: '%' },
   { id: 'jgb',     name: 'JGB ETF (2510.T)', symbol: '2510.T', cls: 'rates',    region: 'JP' },
+  { id: 'jgb_yield', name: 'JGB 10Y Yield', symbol: 'FRED:IRLTLT01JPM156N', cls: 'rates', region: 'JP', isYield: true, unit: '%', cadence: 'monthly' },
 
   // Commodities
   { id: 'gold',    name: 'Gold',            symbol: 'xauusd',  cls: 'commodity' },
@@ -825,13 +826,23 @@ function renderHeatmap() {
       const decimals = a.unit === '%' ? 2 : (a.cls === 'crypto' ? 0 : 2);
       const priceStr = d.price !== undefined ? fmtNum(d.price, decimals) + (a.unit ? a.unit : '') : '—';
       const ch = d.changes || {};
+      // 月度数据：1D/1W 无意义，1M 用 MoM，YTD 保留；价格旁加 M 徽章 + 数据日期 tooltip
+      const isMonthly = d.cadence === 'monthly' || a.cadence === 'monthly';
+      const c1d  = isMonthly ? null     : ch['1d'];
+      const c1w  = isMonthly ? null     : ch['1w'];
+      const c1m  = isMonthly ? ch['mom'] : ch['1m'];
+      const cYtd = ch['ytd'];
+      const monthlyBadge = isMonthly
+        ? `<span title="月频数据，最新观测 ${d.last_date || '—'}" style="display:inline-block;background:rgba(188,140,255,0.18);color:var(--c-rates);font-size:9px;padding:1px 5px;border-radius:3px;margin-left:6px;letter-spacing:0.5px;">M · ${(d.last_date || '').slice(0, 7)}</span>`
+        : '';
+      const dimCell = 'background: rgba(110, 118, 129, 0.08); color: var(--text-faint);';
       html += `<tr>
-        <td class="asset-name"><span class="asset-class" style="background: var(--c-${a.cls});"></span>${a.name}<span style="color: var(--text-faint); font-size: 10px; margin-left: 6px;">${a.region || ''}</span></td>
+        <td class="asset-name"><span class="asset-class" style="background: var(--c-${a.cls});"></span>${a.name}<span style="color: var(--text-faint); font-size: 10px; margin-left: 6px;">${a.region || ''}</span>${monthlyBadge}</td>
         <td class="price-cell">${priceStr}</td>
-        <td class="delta-cell" style="background: ${pctColor(ch['1d'])};">${fmtPct(ch['1d'])}</td>
-        <td class="delta-cell" style="background: ${pctColor(ch['1w'])};">${fmtPct(ch['1w'])}</td>
-        <td class="delta-cell" style="background: ${pctColor(ch['1m'])};">${fmtPct(ch['1m'])}</td>
-        <td class="delta-cell" style="background: ${pctColor(ch['ytd'])};">${fmtPct(ch['ytd'])}</td>
+        <td class="delta-cell" style="${isMonthly ? dimCell : 'background: ' + pctColor(c1d) + ';'}">${isMonthly ? '—' : fmtPct(c1d)}</td>
+        <td class="delta-cell" style="${isMonthly ? dimCell : 'background: ' + pctColor(c1w) + ';'}">${isMonthly ? '—' : fmtPct(c1w)}</td>
+        <td class="delta-cell" style="background: ${pctColor(c1m)};" ${isMonthly ? 'title="MoM (月环比)"' : ''}>${fmtPct(c1m)}</td>
+        <td class="delta-cell" style="background: ${pctColor(cYtd)};">${fmtPct(cYtd)}</td>
       </tr>`;
     });
   });

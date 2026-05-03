@@ -13,6 +13,7 @@
 """
 
 import json
+import os
 import sys
 import time
 import urllib.request
@@ -22,6 +23,7 @@ from pathlib import Path
 
 OUTPUT_FILE = Path(__file__).parent / "assets-data.json"
 TIMEOUT = 20
+FRED_API_KEY = os.environ.get("FRED_API_KEY", "").strip()
 
 # Yahoo Finance ticker mapping
 ASSETS = [
@@ -39,6 +41,8 @@ ASSETS = [
     {"id": "us5y",   "name": "US 5Y Yield",   "ysym": "^FVX",       "cls": "rates"},
     {"id": "us30y",  "name": "US 30Y Yield",  "ysym": "^TYX",       "cls": "rates"},
     {"id": "jgb",    "name": "JGB ETF",       "ysym": "2510.T",     "cls": "rates"},
+    {"id": "jgb_yield", "name": "JGB 10Y Yield (M)", "src": "fred",
+     "fred_id": "IRLTLT01JPM156N", "cls": "rates", "cadence": "monthly", "unit": "%"},
     # Commodities
     {"id": "gold",   "name": "Gold",          "ysym": "GC=F",       "cls": "commodity"},
     {"id": "silver", "name": "Silver",        "ysym": "SI=F",       "cls": "commodity"},
@@ -114,6 +118,61 @@ def fetch_yahoo_history(symbol: str, range_str: str = "1y"):
         # Update last day's close with real-time price
         out[-1]["close"] = float(rt)
     return out
+
+
+def fetch_fred_monthly(series_id: str, months: int = 36):
+    """从 FRED 拉月度序列。返回 [{date, close}, ...] (按日期升序)。"""
+    if not FRED_API_KEY:
+        raise RuntimeError("未配置 FRED_API_KEY 环境变量")
+    url = (
+        f"https://api.stlouisfed.org/fred/series/observations"
+        f"?series_id={series_id}&api_key={FRED_API_KEY}"
+        f"&file_type=json&sort_order=desc&limit={months}"
+    )
+    data = json.loads(http_get(url).decode("utf-8"))
+    obs = data.get("observations", [])
+    out = []
+    for o in reversed(obs):  # reverse to ascending
+        if o.get("value") and o["value"] != ".":
+            out.append({"date": o["date"], "close": float(o["value"])})
+    if not out:
+        raise ValueError("FRED 无有效观测值")
+    return out
+
+
+def compute_changes_monthly(history):
+    """月度数据用专用变化口径：MoM / 3M / 6M / YoY。"""
+    if not history:
+        return None
+    sorted_h = sorted(history, key=lambda x: x["date"])
+    today_p = sorted_h[-1]["close"]
+
+    def offset_months(n):
+        idx = len(sorted_h) - 1 - n
+        return sorted_h[idx]["close"] if idx >= 0 else None
+
+    def calc(prev):
+        return (today_p - prev) / prev if prev else None
+
+    # YTD: 取上一年 12 月数据 (or 当年 1 月)
+    year = sorted_h[-1]["date"][:4]
+    ytd_base = next(
+        (x["close"] for x in sorted_h if x["date"].startswith(year)), None
+    )
+
+    return {
+        "price": round(today_p, 6),
+        "changes": {
+            "mom":  calc(offset_months(1)),
+            "3m":   calc(offset_months(3)),
+            "6m":   calc(offset_months(6)),
+            "yoy":  calc(offset_months(12)),
+            "ytd":  calc(ytd_base),
+        },
+        "history": [round(x["close"], 6) for x in sorted_h[-24:]],
+        "last_date": sorted_h[-1]["date"],
+        "cadence": "monthly",
+    }
 
 
 def compute_changes(history):
@@ -198,15 +257,26 @@ def main():
     errors = {}
     for a in ASSETS:
         try:
-            h = fetch_yahoo_history(a["ysym"], "1y")
-            r = compute_changes(h)
+            src = a.get("src", "yahoo")
+            if src == "fred":
+                h = fetch_fred_monthly(a["fred_id"], months=36)
+                r = compute_changes_monthly(h)
+                # for monthly assets, log MoM not 1d
+                mom = r["changes"]["mom"] or 0
+                yoy = r["changes"]["yoy"] or 0
+                print(f"  ✓ {a['id']:10s} {a['name']:22s} {r['price']:>10.4f}{a.get('unit','')}  "
+                      f"MoM {(mom*100):>+6.2f}%  YoY {(yoy*100):>+6.2f}%  ({r['last_date']})")
+            else:
+                h = fetch_yahoo_history(a["ysym"], "1y")
+                r = compute_changes(h)
+                ch1d = r["changes"]["1d"] or 0
+                print(f"  ✓ {a['id']:10s} {a['name']:22s} {r['price']:>10.4f}  "
+                      f"1D {(ch1d*100):>+6.2f}%  ({r['last_date']})")
+                time.sleep(0.4)  # gentle to Yahoo
             results[a["id"]] = r
-            ch1d = r["changes"]["1d"] or 0
-            print(f"  ✓ {a['id']:7s} {a['name']:18s} {r['price']:>12.4f}  1D {(ch1d * 100):>+6.2f}%  ({r['last_date']})")
-            time.sleep(0.4)  # gentle to Yahoo
         except Exception as e:
             errors[a["id"]] = str(e)
-            print(f"  ✗ {a['id']:7s} {a['name']:18s} 失败: {e}", file=sys.stderr)
+            print(f"  ✗ {a['id']:10s} {a.get('name','?'):22s} 失败: {e}", file=sys.stderr)
 
     regime = compute_regime(results) if results else None
     payload = {
