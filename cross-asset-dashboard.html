@@ -617,12 +617,14 @@ const ASSETS = [
   { id: 'sx5e',    name: 'Euro Stoxx 50',   symbol: '^stx50',  cls: 'equity',   region: 'EU' },
   { id: 'nky',     name: 'Nikkei 225',      symbol: '^nkx',    cls: 'equity',   region: 'JP' },
   { id: 'hsi',     name: 'Hang Seng',       symbol: '^hsi',    cls: 'equity',   region: 'HK' },
+  { id: 'hstech',  name: 'HS Tech',         symbol: '3033.HK', cls: 'equity',   region: 'HK' },
   { id: 'shc',     name: 'Shanghai Comp',   symbol: '^shc',    cls: 'equity',   region: 'CN' },
 
-  // Rates (yields — higher = bonds down)
+  // Rates (yields — higher = bonds down · JGB ETF as Japan rates proxy)
   { id: 'us10y',   name: 'US 10Y Yield',    symbol: '^TNX',    cls: 'rates',    region: 'US', isYield: true, unit: '%' },
   { id: 'us5y',    name: 'US 5Y Yield',     symbol: '^FVX',    cls: 'rates',    region: 'US', isYield: true, unit: '%' },
   { id: 'us30y',   name: 'US 30Y Yield',    symbol: '^TYX',    cls: 'rates',    region: 'US', isYield: true, unit: '%' },
+  { id: 'jgb',     name: 'JGB ETF (2510.T)', symbol: '2510.T', cls: 'rates',    region: 'JP' },
 
   // Commodities
   { id: 'gold',    name: 'Gold',            symbol: 'xauusd',  cls: 'commodity' },

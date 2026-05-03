@@ -32,11 +32,13 @@ ASSETS = [
     {"id": "sx5e",   "name": "Euro Stoxx 50", "ysym": "^STOXX50E",  "cls": "equity"},
     {"id": "nky",    "name": "Nikkei 225",    "ysym": "^N225",      "cls": "equity"},
     {"id": "hsi",    "name": "Hang Seng",     "ysym": "^HSI",       "cls": "equity"},
+    {"id": "hstech", "name": "HS Tech",       "ysym": "3033.HK",    "cls": "equity"},
     {"id": "shc",    "name": "Shanghai Comp", "ysym": "000001.SS",  "cls": "equity"},
-    # Rates (yields, in %)
+    # Rates (yields in % · JGB ETF as proxy for Japan)
     {"id": "us10y",  "name": "US 10Y Yield",  "ysym": "^TNX",       "cls": "rates"},
     {"id": "us5y",   "name": "US 5Y Yield",   "ysym": "^FVX",       "cls": "rates"},
     {"id": "us30y",  "name": "US 30Y Yield",  "ysym": "^TYX",       "cls": "rates"},
+    {"id": "jgb",    "name": "JGB ETF",       "ysym": "2510.T",     "cls": "rates"},
     # Commodities
     {"id": "gold",   "name": "Gold",          "ysym": "GC=F",       "cls": "commodity"},
     {"id": "silver", "name": "Silver",        "ysym": "SI=F",       "cls": "commodity"},
