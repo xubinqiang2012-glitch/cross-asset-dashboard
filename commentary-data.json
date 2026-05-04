@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-04T09:07:55+00:00",
+  "fetched_at": "2026-05-04T16:23:17+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -31,19 +31,26 @@
         "source": "Business Insider"
       },
       {
-        "title": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUNqZ2Z6Q1hfVi0zZ21WRXFHR3kxUmt3RzRRaC1nX3liZXhPUEJIaERvQTl6OXNxZWVPbjJZREoxS041SVVLX3RKMEM3NjV3dldsbnVQQTBpd2hvWTFyckxiNkR3QndQTWFkZ2dIY2NZWUNONmdpajI2Wm5NT2drUXdlVHdDMmdwZ1RRRlVhQjI4ajQ2QktEXzZR?oc=5",
-        "pubDate": "Sat, 14 Mar 2026 07:00:00 GMT",
-        "summary": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' Fortune",
-        "source": "Fortune"
+        "title": "Bridgewater Associates Surges 26 % for 2025 - HedgeCo.net",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUTVieE9FMnIxcEhORW9mckxEZkJXb3pqLWZWblFxU3V4S2s2YkJRUnh3SXBRSHZBZjNvMFZHOGl0Z3R3cTg3MjczRTFWZng1WmcwUVJDaUlIeUZQOFo3RHlIdmdleVEwZlhNeEVJRi1Ba21PX2dHUlRiQ2dKUjcxUnhHUkhoQQ?oc=5",
+        "pubDate": "Tue, 28 Oct 2025 07:00:00 GMT",
+        "summary": "Bridgewater Associates Surges 26 % for 2025 HedgeCo.net",
+        "source": "HedgeCo.net"
       }
     ],
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVRpWnpzel9vdWlfUTRyMGZwLVhXN2dmVDBNclBHRzhhNWx4MnVDSFBZNl8wZmxuZzlpZjZPTC0zMTZMRU9Udl9zWTB1X0FFR2ZBMGFQaWgydTVSY21qTzBkUWoyaTlGUHFJeVZybVZnb3d3YWoyRkZHeDVyLWszMmFPLUNZUmh0WUh3UG9ZejBFanRudmt5VV9YNmVSa1hmeWp2TE1CUWgtdw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -54,25 +61,18 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
+        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
+        "source": "Bloomberg.com"
       },
       {
-        "title": "BlackRock eyes shorter-term bets amid shaky global economic foundations - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTE1NXFrak9XSUstTDlfY3hNa3p5Rlc1WXJzbUpTNjZkU1Q1aTBId0JjNlRNMFJsdW5HaUJNd1JSTUtLREVTQVREVHd3YjE5ZElGbFpJMkd4c2lQNzJzd0NadnVMSjF5UzdBTGE0VUFnZGtFUnM1TTFTOUtFZmFMZU82UzF0QWFITGJaRkQ3MWNOOFhrVWtrODliNGtXZHpKOHVGSEVkQWloWUhVVGxxdzdkZGRnN1E?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 07:00:00 GMT",
-        "summary": "BlackRock eyes shorter-term bets amid shaky global economic foundations Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "BlackRock bets on U.S. equities and AI as mega forces driving market returns - Pensions & Investments",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRklsdkZqODllVldfeFpvdkozV0dqUFI3bUhIb3FuTjZZcE1zY3hVWDdqMENWYWtwb0pIN3VPUkllWDd4MnVOeDN6Q1F2eVdDNl96UFpCZy1FbjM0bmZ2ek1uSk5IY2lvZDVPaksyX1NMRVFLYmZWOWJibU83dzBtYm5UOWtHR1h1Um9QVzctWktOZnVvSDJ6bHBCRDRaRXFOaXpjT05vR1lrRTNndHYzNA?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 07:00:00 GMT",
-        "summary": "BlackRock bets on U.S. equities and AI as mega forces driving market returns Pensions & Investments",
-        "source": "Pensions & Investments"
+        "title": "Citi, BlackRock upgrade US equities on strong earnings, easing war risks - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjd6a1BQTFlfRmlIdmo3eVcyRkwxdlI3UmsyUHJYSzI4VmVlNlYyN0RGUFpEZVpjYktkTGhBcHYxZWdSbGs1aDBLNWowb0NHRmFLUlNDQ1NYT05aTm9DV1ZYUU5Da2F3QTJ6djVobm96cE5HU083a1hyQ2M4RmJyMDR0dG5yLXR3T1JLOFN4RnFKeVpsUU1NWi1Hb1VmN0ZnYWhTNFJBSDFpZGh5b3NoRkUtOVN2bWVucHpFVHlQSDFPdjBha2c?oc=5",
+        "pubDate": "Tue, 14 Apr 2026 07:00:00 GMT",
+        "summary": "Citi, BlackRock upgrade US equities on strong earnings, easing war risks TradingView",
+        "source": "TradingView"
       }
     ],
     "goldman": [
@@ -135,10 +135,10 @@
         "source": "Chase Bank"
       },
       {
-        "title": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTVpiOUY3SGxaaWxzc1ZxRUNYQzRUTkFPMDZqLUJCbC1CV2pQdEZ0Y0hReFkzY2I4WndWV1Ztd2dycWx4Q210YU43ZEdJOF9yVzZhelV3OXNmZThXNnp5ZzR6NHJQZUpQOGo2eUlWUU1VaFdwUjlwTmNyR2R4Zl9RelBQRVR6S09zMGVvMDVMUzFEellhSFJkU2I1TXpJN3hJQ0cwSTI5WlJmQWFZMlZ1MzZ1Z0FFWFI4WVNEdFpmSmtHT1JMeVZoZndpYndtNWpZWG9iNGZxNC1Bci13aGJmT1ZUbURDdnZSZWYyVW1zYllhLVZ3ZUE?oc=5",
-        "pubDate": "Tue, 17 Mar 2026 15:42:27 GMT",
-        "summary": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI J.P. Morgan Private Bank",
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0ZXa182UTVvRUg1Ulc0enh4dlN0SkpjNjdLQXkwYXZmMG8yOG9MdDExcDd0aXNjQlNRSExIY2FLM09mSTRZX1pXRlVRZlhERGJXck1pVWlaOTRKeGhWakRsenpJZDFuZ1NKNnlKazJmZXFTZ0MzalJPYlJ6Q3lmNFAySjRqLU1mVElOS1RVanRDOXlZcmxtYklNZWd4emc1U1phRlViRXRmWTVXMlZ2LV9Fc0ZJYUM1SkxrMVVxZG43LWdOOG9zYnZMT05mZw?oc=5",
+        "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
       },
       {
@@ -283,18 +283,18 @@
         "source": "observer.com"
       },
       {
-        "title": "Gold Demand Trends: Q1 2026 - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekkxMGhZa1JfZ2RnSjB3a0dGTUVhTEk1RFRtSEF4WGl5bVBVXzJnTURXaWVYWWpmZkhBbkg3ZGpFaG83MmFldmRWd0JGdnFjNXdsZnk4Z2p3LUE5aWsxeWNHTy1ralJtZ0h1YXBadUp6eFV4RlBsUGNiUHhuVzZ1NzI5cWdjNk5obTZj?oc=5",
-        "pubDate": "Wed, 29 Apr 2026 12:00:00 GMT",
-        "summary": "Gold Demand Trends: Q1 2026 World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
         "title": "How important are central bank holdings of gold? - Brookings",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlA3TkRabGhiNkd3N0VyYTk1VEMtME10RWdXVUlhd05HR25iYkNhcnpvTENiWVVsWklvakFyMmJjVUx2Z2dORTFsWE9jZjRjcjYwQnRiMlFXeG5VOHJHa3ZJUlY3NzJNekdJVzRuOFlNUmpkcFUzdTV3aE1mUW5NblA5VXdaemZaWEgw?oc=5",
         "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
         "summary": "How important are central bank holdings of gold? Brookings",
         "source": "Brookings"
+      },
+      {
+        "title": "Gold Demand Trends: Q1 2026 - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekkxMGhZa1JfZ2RnSjB3a0dGTUVhTEk1RFRtSEF4WGl5bVBVXzJnTURXaWVYWWpmZkhBbkg3ZGpFaG83MmFldmRWd0JGdnFjNXdsZnk4Z2p3LUE5aWsxeWNHTy1ralJtZ0h1YXBadUp6eFV4RlBsUGNiUHhuVzZ1NzI5cWdjNk5obTZj?oc=5",
+        "pubDate": "Wed, 29 Apr 2026 12:00:00 GMT",
+        "summary": "Gold Demand Trends: Q1 2026 World Gold Council",
+        "source": "World Gold Council"
       }
     ]
   },
