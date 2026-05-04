@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-04T16:23:17+00:00",
+  "fetched_at": "2026-05-04T21:47:17+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -31,26 +31,19 @@
         "source": "Business Insider"
       },
       {
-        "title": "Bridgewater Associates Surges 26 % for 2025 - HedgeCo.net",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUTVieE9FMnIxcEhORW9mckxEZkJXb3pqLWZWblFxU3V4S2s2YkJRUnh3SXBRSHZBZjNvMFZHOGl0Z3R3cTg3MjczRTFWZng1WmcwUVJDaUlIeUZQOFo3RHlIdmdleVEwZlhNeEVJRi1Ba21PX2dHUlRiQ2dKUjcxUnhHUkhoQQ?oc=5",
-        "pubDate": "Tue, 28 Oct 2025 07:00:00 GMT",
-        "summary": "Bridgewater Associates Surges 26 % for 2025 HedgeCo.net",
-        "source": "HedgeCo.net"
+        "title": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUNqZ2Z6Q1hfVi0zZ21WRXFHR3kxUmt3RzRRaC1nX3liZXhPUEJIaERvQTl6OXNxZWVPbjJZREoxS041SVVLX3RKMEM3NjV3dldsbnVQQTBpd2hvWTFyckxiNkR3QndQTWFkZ2dIY2NZWUNONmdpajI2Wm5NT2drUXdlVHdDMmdwZ1RRRlVhQjI4ajQ2QktEXzZR?oc=5",
+        "pubDate": "Sat, 14 Mar 2026 07:00:00 GMT",
+        "summary": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' Fortune",
+        "source": "Fortune"
       }
     ],
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVRpWnpzel9vdWlfUTRyMGZwLVhXN2dmVDBNclBHRzhhNWx4MnVDSFBZNl8wZmxuZzlpZjZPTC0zMTZMRU9Udl9zWTB1X0FFR2ZBMGFQaWgydTVSY21qTzBkUWoyaTlGUHFJeVZybVZnb3d3YWoyRkZHeDVyLWszMmFPLUNZUmh0WUh3UG9ZejBFanRudmt5VV9YNmVSa1hmeWp2TE1CUWgtdw?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Mon, 04 May 2026 17:46:47 GMT",
         "summary": "Weekly market commentary blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -61,6 +54,13 @@
         "source": "Institutional Investor"
       },
       {
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
         "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
@@ -68,11 +68,11 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "Citi, BlackRock upgrade US equities on strong earnings, easing war risks - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjd6a1BQTFlfRmlIdmo3eVcyRkwxdlI3UmsyUHJYSzI4VmVlNlYyN0RGUFpEZVpjYktkTGhBcHYxZWdSbGs1aDBLNWowb0NHRmFLUlNDQ1NYT05aTm9DV1ZYUU5Da2F3QTJ6djVobm96cE5HU083a1hyQ2M4RmJyMDR0dG5yLXR3T1JLOFN4RnFKeVpsUU1NWi1Hb1VmN0ZnYWhTNFJBSDFpZGh5b3NoRkUtOVN2bWVucHpFVHlQSDFPdjBha2c?oc=5",
-        "pubDate": "Tue, 14 Apr 2026 07:00:00 GMT",
-        "summary": "Citi, BlackRock upgrade US equities on strong earnings, easing war risks TradingView",
-        "source": "TradingView"
+        "title": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIaGhNNmZuU180aUIzZndxUFc0Zi16T2g3LXZpSU9VNUt1em5rOUJqUmxEelU5REJiM1hiYXFreHVMSnlGNGRpc1BhQlkxT1hGQlpuaFhSRDZHTi05cjNUdUE2MA?oc=5",
+        "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT",
+        "summary": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! Binance",
+        "source": "Binance"
       }
     ],
     "goldman": [
@@ -91,25 +91,25 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Taking The Keys: Insights On The European Private Credit Market - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGZpcm1iaEVfVnFGa21fZWdMS3c2RXA3cXlJUEhkSUlUTWhFdmpTSUFvbmxwUFptZmhHSVlkMk5BSmxrV0ZIRXhheFl1YUJrcWFxUjNubHRfa3pHM3E3UUx5QVNXYnhwYmVGaHdJeVFDWHh3Wl90aU5Fc0tTOUNFa2lIQTI4T1NjV1RsMkloOXJpZGhNN1VpWlVWME5wcTA4cENZ?oc=5",
-        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "summary": "Taking The Keys: Insights On The European Private Credit Market Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
+        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
+        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
+        "source": "Goldman Sachs"
       },
       {
-        "title": "Buckle up for stock volatility Goldman warns, saying it's not the Iran war that will fuel more swings - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEJWSTVPZmRpbF9hVF95a29oTENrWGF0d0tsZktkTzAtdENuSXhYWFlUdEladU1kMVNaZFNJRFZ3RDEzQVZDNlFQcnpyN0dOc0lQSjhqei11MUZyVVFac3VuVk9rZzFXU2o2M1BSQS1zZmh4b1FvSGJMUi11M1VUWHpCUjNNWEoyczlIZDBmT3E2NEswNGdqZkFSWDB2aXFhYU9ReXdNWTVua1F6?oc=5",
-        "pubDate": "Sat, 11 Apr 2026 07:00:00 GMT",
-        "summary": "Buckle up for stock volatility Goldman warns, saying it's not the Iran war that will fuel more swings Business Insider",
-        "source": "Business Insider"
+        "title": "Forecasts for the World’s Biggest Economies in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGhpUEI1emNINGhfbVk4eGkwVVcxNEJoM045WDQ4dHRFSUtidjBoNm9wakFNSzk4bjZDU1V3R3E0bTBQS0tmZ0xsZmY0SFA2MTZ1N01OZEppcFYtMFVBZUlJYmJiZWlIbzU0eTVaTG40YlJval9RcExsN05LVG9zdmsyWkNEWjByRjZfY2hQbjFhOUhfbHRVZ0VqMmozZw?oc=5",
+        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+        "summary": "Forecasts for the World’s Biggest Economies in 2026 Goldman Sachs",
+        "source": "Goldman Sachs"
       },
       {
-        "title": "Investing in Everything, Everywhere, All at Once - gspublishing.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ05jbkRQMjd4ekswaEktQ09mYnFycXVEZFhtOGlySVhJUUNTSDZmOHNsd0JDTWVNTDU3bHpTdlZhMjhGemVUUm94RXpiRmViQ3NzRWFJVnFlakF2TjZwdmYxYk1uOEZrMk1xMURjOVh1T2tXZ2lKYTJBSE9nZFhCbnA4ZUR5QW8wOXJiYXVDTnpvU1poblBlY0xzRXZVRlE2T2s1aUFaZkN2UHZEZGc?oc=5",
-        "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
-        "summary": "Investing in Everything, Everywhere, All at Once gspublishing.com",
-        "source": "gspublishing.com"
+        "title": "Commodity Views 2026 Outlook: Ride the Power Race and Supply Waves - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTFsaktkNDVkZjcwLXQ3UFQ1ZnJJREdqY29KU2hJNGdtZ2FoNlFzb2hLbTZxVmpDZnZCcGJHazJuYVFDMHJKdmQyRUVFVXZkYWZjcHRFMnkzVjFrX2FwT1ZWUi1FNzNnVHRvSmViQ280VW9Oal9xcEZKQl80VExKR1BpenF6NmNCUXdCM3NvNlo5NE4tamlfNW1qWkN1U0llUHlqMGRQblRLRXNGNzVJb0gxZUkzbmExV2dTTA?oc=5",
+        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "summary": "Commodity Views 2026 Outlook: Ride the Power Race and Supply Waves Goldman Sachs",
+        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
@@ -135,18 +135,18 @@
         "source": "Chase Bank"
       },
       {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0ZXa182UTVvRUg1Ulc0enh4dlN0SkpjNjdLQXkwYXZmMG8yOG9MdDExcDd0aXNjQlNRSExIY2FLM09mSTRZX1pXRlVRZlhERGJXck1pVWlaOTRKeGhWakRsenpJZDFuZ1NKNnlKazJmZXFTZ0MzalJPYlJ6Q3lmNFAySjRqLU1mVElOS1RVanRDOXlZcmxtYklNZWd4emc1U1phRlViRXRmWTVXMlZ2LV9Fc0ZJYUM1SkxrMVVxZG43LWdOOG9zYnZMT05mZw?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
-      },
-      {
         "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
         "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
         "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
         "source": "Fortune"
+      },
+      {
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0ZXa182UTVvRUg1Ulc0enh4dlN0SkpjNjdLQXkwYXZmMG8yOG9MdDExcDd0aXNjQlNRSExIY2FLM09mSTRZX1pXRlVRZlhERGJXck1pVWlaOTRKeGhWakRsenpJZDFuZ1NKNnlKazJmZXFTZ0MzalJPYlJ6Q3lmNFAySjRqLU1mVElOS1RVanRDOXlZcmxtYklNZWd4emc1U1phRlViRXRmWTVXMlZ2LV9Fc0ZJYUM1SkxrMVVxZG43LWdOOG9zYnZMT05mZw?oc=5",
+        "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
       }
     ],
     "ms": [
@@ -216,11 +216,11 @@
         "source": "Livewire Markets"
       },
       {
-        "title": "Watch CNBC's full interview with Allianz’s Mohamed El-Erian - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLS1uRzgyVkdNemJQTUJEVERMU2RFeHFHbnJsMVo2WUdFS29yS1YyUXhFOF9rb1d1aDVObm5YVVdXVDRFRm5zZWF6ZkplcmhTYVNPUHlHTzNfZWtrYzUzb2gxQkRQTG5wc1B0aWNaYWhRQ3B0T1dHdHJHdDNIdXdMQU9EanBUd2NOVTlEM1B5cnJfaURtWFo5Qk44Y1otaFRUV3VR?oc=5",
-        "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT",
-        "summary": "Watch CNBC's full interview with Allianz’s Mohamed El-Erian CNBC",
-        "source": "CNBC"
+        "title": "PIMCO, the world's largest bond management company, predicted the Asia-Pacific economy this year, ci.. - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YemVJbElXcjJSTmpOdXhOaXZ2dk9ka3lSakYtVF9STDdlLVVCOTBmQXhMSThzNm5UVzNGOVhtU2NVX3duNTFkazU0a3RtUlE?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "PIMCO, the world's largest bond management company, predicted the Asia-Pacific economy this year, ci.. 매일경제",
+        "source": "매일경제"
       }
     ],
     "fed": [
