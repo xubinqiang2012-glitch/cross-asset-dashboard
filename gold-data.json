@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-05-07T16:17:31+00:00",
+  "fetched_at": "2026-05-07T21:34:33+00:00",
   "values": {
-    "gold": 4711.7,
-    "dxy": 97.865
+    "gold": 4687.31,
+    "dxy": 98.15,
+    "real_yield": 1.94
   },
   "source_dates": {
     "gold": "2026-05-07",
-    "dxy": "2026-05-07"
+    "dxy": "2026-05-07",
+    "real_yield": "2026-05-06"
   },
-  "errors": {
-    "real_yield": "HTTP Error 500: Internal Server Error"
-  }
+  "errors": {}
 }
