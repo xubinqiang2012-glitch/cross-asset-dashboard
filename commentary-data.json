@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-06T20:56:18+00:00",
+  "fetched_at": "2026-05-07T08:03:58+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,9 +41,16 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVRpWnpzel9vdWlfUTRyMGZwLVhXN2dmVDBNclBHRzhhNWx4MnVDSFBZNl8wZmxuZzlpZjZPTC0zMTZMRU9Udl9zWTB1X0FFR2ZBMGFQaWgydTVSY21qTzBkUWoyaTlGUHFJeVZybVZnb3d3YWoyRkZHeDVyLWszMmFPLUNZUmh0WUh3UG9ZejBFanRudmt5VV9YNmVSa1hmeWp2TE1CUWgtdw?oc=5",
         "pubDate": "Mon, 04 May 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -54,13 +61,6 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
         "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
@@ -68,11 +68,11 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIaGhNNmZuU180aUIzZndxUFc0Zi16T2g3LXZpSU9VNUt1em5rOUJqUmxEelU5REJiM1hiYXFreHVMSnlGNGRpc1BhQlkxT1hGQlpuaFhSRDZHTi05cjNUdUE2MA?oc=5",
-        "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT",
-        "summary": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! Binance",
-        "source": "Binance"
+        "title": "2026 Investment Outlook - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLV9POUpZOTlIZ2pqZW0wc2M3UGYwTG5BOERMVkR0b2l1WlZhZ2NFRjZPdDEwWlBkc2xoZEZKNS1oWGZLaTUxTXJyTW51dWlYWnZXVlhWTzdkSXloMDVKYU9Jc1VSVER5WHF1dnlxRlBSMUY4TmJ4Tl85dkdvUWdEb19LS1djYVFvNGdpYTh5OTEyaVl6bENGYXk3UmwtTjQ?oc=5",
+        "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
+        "summary": "2026 Investment Outlook blackrock.com",
+        "source": "blackrock.com"
       }
     ],
     "goldman": [
@@ -114,10 +114,10 @@
     ],
     "jpm": [
       {
-        "title": "Eye on the Market Outlook 2025: The Alchemists - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVVqel9KbTFkdFJlMHlKLVlTV0s1LXdROF9OTEdHNHNabnczYXZOdjFsVEtZSUpUeDlBRy1QdHZBQlNXdFRrX0FvX0tYTnlSSjM0SHBOSUVvQkhoWkZtZTVCOVF6cDBGOXVyQlVaX05BYnNsY2oyQk9DSm9UTThHWWlrY0FSelhUQkpQX2J0QQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 13:02:36 GMT",
-        "summary": "Eye on the Market Outlook 2025: The Alchemists J.P. Morgan Private Bank",
+        "title": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTVpiOUY3SGxaaWxzc1ZxRUNYQzRUTkFPMDZqLUJCbC1CV2pQdEZ0Y0hReFkzY2I4WndWV1Ztd2dycWx4Q210YU43ZEdJOF9yVzZhelV3OXNmZThXNnp5ZzR6NHJQZUpQOGo2eUlWUU1VaFdwUjlwTmNyR2R4Zl9RelBQRVR6S09zMGVvMDVMUzFEellhSFJkU2I1TXpJN3hJQ0cwSTI5WlJmQWFZMlZ1MzZ1Z0FFWFI4WVNEdFpmSmtHT1JMeVZoZndpYndtNWpZWG9iNGZxNC1Bci13aGJmT1ZUbURDdnZSZWYyVW1zYllhLVZ3ZUE?oc=5",
+        "pubDate": "Tue, 17 Mar 2026 15:42:27 GMT",
+        "summary": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
       },
       {
@@ -216,11 +216,11 @@
         "source": "Livewire Markets"
       },
       {
-        "title": "PIMCO commentary: Fed holds steady and signals longer-term easing bias - IFA Magazine",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3lzbEd4czlaZTVOM3FXU09uMnNzZTZ2SnNFU1hoWXUxSXV4d1VSSXpBUDlRcHBpMU1uNWE5SzZTVW5uZFVyNjhKRzNZWmNTZHFXR0NhN2lDU0d4SHdmWjF6blhsZGlIQ2pFeTJJc05EcjkxWlQ4ZGNUWVM1VXpCOGlya296dUtUWXRCZ1REU2ZWS0pnZ19tNzZR?oc=5",
-        "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT",
-        "summary": "PIMCO commentary: Fed holds steady and signals longer-term easing bias IFA Magazine",
-        "source": "IFA Magazine"
+        "title": "Watch CNBC's full interview with Allianz’s Mohamed El-Erian - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLS1uRzgyVkdNemJQTUJEVERMU2RFeHFHbnJsMVo2WUdFS29yS1YyUXhFOF9rb1d1aDVObm5YVVdXVDRFRm5zZWF6ZkplcmhTYVNPUHlHTzNfZWtrYzUzb2gxQkRQTG5wc1B0aWNaYWhRQ3B0T1dHdHJHdDNIdXdMQU9EanBUd2NOVTlEM1B5cnJfaURtWFo5Qk44Y1otaFRUV3VR?oc=5",
+        "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT",
+        "summary": "Watch CNBC's full interview with Allianz’s Mohamed El-Erian CNBC",
+        "source": "CNBC"
       }
     ],
     "fed": [
@@ -276,18 +276,18 @@
         "source": "IndexBox"
       },
       {
-        "title": "Why Central Banks Are Doubling Down on Gold - observer.com",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUFpeVhXMzB4UHVQWVBnQmg2MTFFZWFOMnJSdTVQeU82dTNqTkJzVHQ3TFpfZ1pKT0VuYk1wTHNYMFhKd01qckVtOHpSRi1rWENMbXI4MlZEQllQMld1TVhpZmZkb3JVLTRNYUkyakpNTTJIeUZwbk1GN2MxZGJvbzV2dW4?oc=5",
-        "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-        "summary": "Why Central Banks Are Doubling Down on Gold observer.com",
-        "source": "observer.com"
-      },
-      {
         "title": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council - KITCO",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdl9uYThIbzVOV3RrbGRKT2RuVjZCWXljUldRR3RfZktFTm1rT1Y5OUNfRUVUNWQ3RjcxRGI4MUhwNG56RzdjQWViczlBZE5LQlB5QWpscDFjcFlsaUpMV1M3YVpvazRfUzh0X2hrczlXQnFXcTR4QzFoM2VDNVR0bW5TalJjR1BsdUdnWFRRekxWa3VtWTViUXkwR210ZWlPY3RSRHVZTUE3NjVQU0lUNEU5bTFmMmhWbHZMVA?oc=5",
         "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
         "summary": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council KITCO",
         "source": "KITCO"
+      },
+      {
+        "title": "Why Central Banks Are Doubling Down on Gold - observer.com",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUFpeVhXMzB4UHVQWVBnQmg2MTFFZWFOMnJSdTVQeU82dTNqTkJzVHQ3TFpfZ1pKT0VuYk1wTHNYMFhKd01qckVtOHpSRi1rWENMbXI4MlZEQllQMld1TVhpZmZkb3JVLTRNYUkyakpNTTJIeUZwbk1GN2MxZGJvbzV2dW4?oc=5",
+        "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+        "summary": "Why Central Banks Are Doubling Down on Gold observer.com",
+        "source": "observer.com"
       },
       {
         "title": "How important are central bank holdings of gold? - Brookings",
