@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-09T20:10:31+00:00",
+  "fetched_at": "2026-05-10T07:50:00+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -47,6 +47,13 @@
         "source": "blackrock.com"
       },
       {
+        "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
+        "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
+        "summary": "Market Outlook April 2026: Get Paid to Wait blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
         "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
         "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
@@ -66,13 +73,6 @@
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
         "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
         "source": "Bloomberg.com"
-      },
-      {
-        "title": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIaGhNNmZuU180aUIzZndxUFc0Zi16T2g3LXZpSU9VNUt1em5rOUJqUmxEelU5REJiM1hiYXFreHVMSnlGNGRpc1BhQlkxT1hGQlpuaFhSRDZHTi05cjNUdUE2MA?oc=5",
-        "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT",
-        "summary": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! Binance",
-        "source": "Binance"
       }
     ],
     "goldman": [
@@ -84,13 +84,6 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wMnRnSkt6di03enpEYWFtUHdQNENlSEtvdnU3Nml3ODFqb2ZfMXJxWXBUY0N5SXpCMmczUVl6a1dBNnJGVGxjLU03UHZSOEFqek83VVNmWF9WZmhubnRiM1k0ZTgycVkyMTFMeG9wYlFwQUpWZm8yTTk4Zw?oc=5",
-        "pubDate": "Sat, 02 May 2026 07:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
-      {
         "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
         "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
@@ -98,21 +91,35 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Investing in Everything, Everywhere, All at Once - gspublishing.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ05jbkRQMjd4ekswaEktQ09mYnFycXVEZFhtOGlySVhJUUNTSDZmOHNsd0JDTWVNTDU3bHpTdlZhMjhGemVUUm94RXpiRmViQ3NzRWFJVnFlakF2TjZwdmYxYk1uOEZrMk1xMURjOVh1T2tXZ2lKYTJBSE9nZFhCbnA4ZUR5QW8wOXJiYXVDTnpvU1poblBlY0xzRXZVRlE2T2s1aUFaZkN2UHZEZGc?oc=5",
-        "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
-        "summary": "Investing in Everything, Everywhere, All at Once gspublishing.com",
-        "source": "gspublishing.com"
+        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
+        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
+        "source": "Goldman Sachs"
       },
       {
-        "title": "Goldman Sachs Names BlackRock’s Lynam as Chief Credit Strategist - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXU3SkVranlZNGhBSVhKRDA5VF84RmdGWTRJSEFTdWg3SkcxMHF2MzBjQTZRaHNDeU5ZU2EtSzdXVnZsWFBjQXkwWEViRjBiLXZiZ0pldmNsWHl1ck5hWFltVWxrWl9HcjhLVXNkd1VUaUYtV2xOUjQzZkxZbk1vU3BYV1VvOGt2NTRud2hQLVpBTUY0Q2o1VnVHd0dLRnd4RDlVV00xc1JFbHZTRFBJU3BrOXVYQQ?oc=5",
-        "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
-        "summary": "Goldman Sachs Names BlackRock’s Lynam as Chief Credit Strategist Bloomberg.com",
-        "source": "Bloomberg.com"
+        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wMnRnSkt6di03enpEYWFtUHdQNENlSEtvdnU3Nml3ODFqb2ZfMXJxWXBUY0N5SXpCMmczUVl6a1dBNnJGVGxjLU03UHZSOEFqek83VVNmWF9WZmhubnRiM1k0ZTgycVkyMTFMeG9wYlFwQUpWZm8yTTk4Zw?oc=5",
+        "pubDate": "Sat, 02 May 2026 07:00:00 GMT",
+        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
+      },
+      {
+        "title": "Forecasts for the World’s Biggest Economies in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGhpUEI1emNINGhfbVk4eGkwVVcxNEJoM045WDQ4dHRFSUtidjBoNm9wakFNSzk4bjZDU1V3R3E0bTBQS0tmZ0xsZmY0SFA2MTZ1N01OZEppcFYtMFVBZUlJYmJiZWlIbzU0eTVaTG40YlJval9RcExsN05LVG9zdmsyWkNEWjByRjZfY2hQbjFhOUhfbHRVZ0VqMmozZw?oc=5",
+        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+        "summary": "Forecasts for the World’s Biggest Economies in 2026 Goldman Sachs",
+        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
+      {
+        "title": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTVpiOUY3SGxaaWxzc1ZxRUNYQzRUTkFPMDZqLUJCbC1CV2pQdEZ0Y0hReFkzY2I4WndWV1Ztd2dycWx4Q210YU43ZEdJOF9yVzZhelV3OXNmZThXNnp5ZzR6NHJQZUpQOGo2eUlWUU1VaFdwUjlwTmNyR2R4Zl9RelBQRVR6S09zMGVvMDVMUzFEellhSFJkU2I1TXpJN3hJQ0cwSTI5WlJmQWFZMlZ1MzZ1Z0FFWFI4WVNEdFpmSmtHT1JMeVZoZndpYndtNWpZWG9iNGZxNC1Bci13aGJmT1ZUbURDdnZSZWYyVW1zYllhLVZ3ZUE?oc=5",
+        "pubDate": "Tue, 17 Mar 2026 15:42:27 GMT",
+        "summary": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
+      },
       {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGpLVEdXMEstR1VNVUN4TXlqZms2RG5GMGU4enhWR1JQeXBhXzM3dXR0Wk85OGtqVW5WLW14Y0JlbnJMRTZiMzEzQTA3OVFJZk9iR2tnZVlNNDN4NTYwUFY3VW1NZ2JlNmlXdzhTTUJyZ0lGMVdFVjZzSjZNeDEwd1U0RGNUN1lWS3ItaVZXeTZIUU9paWJ5QjdNaENlV3ZlUzZWR0xCek81OVhMNk81NGRLREktZDVOSFk1WG9n?oc=5",
@@ -121,18 +128,18 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0ZXa182UTVvRUg1Ulc0enh4dlN0SkpjNjdLQXkwYXZmMG8yOG9MdDExcDd0aXNjQlNRSExIY2FLM09mSTRZX1pXRlVRZlhERGJXck1pVWlaOTRKeGhWakRsenpJZDFuZ1NKNnlKazJmZXFTZ0MzalJPYlJ6Q3lmNFAySjRqLU1mVElOS1RVanRDOXlZcmxtYklNZWd4emc1U1phRlViRXRmWTVXMlZ2LV9Fc0ZJYUM1SkxrMVVxZG43LWdOOG9zYnZMT05mZw?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
-      },
-      {
         "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
         "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
         "source": "Chase Bank"
+      },
+      {
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0ZXa182UTVvRUg1Ulc0enh4dlN0SkpjNjdLQXkwYXZmMG8yOG9MdDExcDd0aXNjQlNRSExIY2FLM09mSTRZX1pXRlVRZlhERGJXck1pVWlaOTRKeGhWakRsenpJZDFuZ1NKNnlKazJmZXFTZ0MzalJPYlJ6Q3lmNFAySjRqLU1mVElOS1RVanRDOXlZcmxtYklNZWd4emc1U1phRlViRXRmWTVXMlZ2LV9Fc0ZJYUM1SkxrMVVxZG43LWdOOG9zYnZMT05mZw?oc=5",
+        "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
       },
       {
         "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
@@ -269,18 +276,11 @@
         "source": "IndexBox"
       },
       {
-        "title": "The global central bank \"gold rush\" spreads! China increases holdings for 18 consecutive months, and this country's central bank buys gold for the first time - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Nk52RFpRSDFNQ3pfRHVuQlNTMl9iQ3h4dV9vWjNSZGE1Z2tmVEhzLVpVTjNkb0RYQXI1aTY5bFpmQ283cUd4RHh4eHFhWHJ2RlExRkpLVDZRdkJNOFHSAWNBVV95cUxQYjFZOWdIVE85NE1CVTJMRE92cGRFVm8wYWxJZVhSYVRmZkJjOFVsRzVMVDJRRmwyd05qdU5Dc0I5MGRTemxhNVZjdktSel9Ib1hyN184UkU1NHBoTDA0bzVqcEk?oc=5",
-        "pubDate": "Fri, 08 May 2026 08:51:12 GMT",
-        "summary": "The global central bank \"gold rush\" spreads! China increases holdings for 18 consecutive months, and this country's central bank buys gold for the first time Bitget",
-        "source": "Bitget"
-      },
-      {
-        "title": "Central Banks Fuel Gold's Strategic Rise Amid Global Shifts - Investing News Network",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZXA2RE5lSlZCb3ZZQXBLRl9WNFU5WC1kVEE2TXFyejRndm5PZkhpYW56aWUtUWdIaTF3aUNLOWkxMUJ2MnR3dFV1elBQLTFhNkFtdjNiMFNSQVRmMnpaSm1DTGhLbm9FbWc?oc=5",
-        "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
-        "summary": "Central Banks Fuel Gold's Strategic Rise Amid Global Shifts Investing News Network",
-        "source": "Investing News Network"
+        "title": "How important are central bank holdings of gold? - Brookings",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlA3TkRabGhiNkd3N0VyYTk1VEMtME10RWdXVUlhd05HR25iYkNhcnpvTENiWVVsWklvakFyMmJjVUx2Z2dORTFsWE9jZjRjcjYwQnRiMlFXeG5VOHJHa3ZJUlY3NzJNekdJVzRuOFlNUmpkcFUzdTV3aE1mUW5NblA5VXdaemZaWEgw?oc=5",
+        "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
+        "summary": "How important are central bank holdings of gold? Brookings",
+        "source": "Brookings"
       },
       {
         "title": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council - KITCO",
@@ -288,6 +288,13 @@
         "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
         "summary": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council KITCO",
         "source": "KITCO"
+      },
+      {
+        "title": "Central Banks Fuel Gold's Strategic Rise Amid Global Shifts - Investing News Network",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZXA2RE5lSlZCb3ZZQXBLRl9WNFU5WC1kVEE2TXFyejRndm5PZkhpYW56aWUtUWdIaTF3aUNLOWkxMUJ2MnR3dFV1elBQLTFhNkFtdjNiMFNSQVRmMnpaSm1DTGhLbm9FbWc?oc=5",
+        "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+        "summary": "Central Banks Fuel Gold's Strategic Rise Amid Global Shifts Investing News Network",
+        "source": "Investing News Network"
       }
     ]
   },
