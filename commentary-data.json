@@ -1,27 +1,13 @@
 {
-  "fetched_at": "2026-05-12T10:09:07+00:00",
+  "fetched_at": "2026-05-12T17:36:40+00:00",
   "sources": {
     "bridgewater": [
-      {
-        "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
-        "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
-        "summary": "The Macro Implications of the AI Capex Boom Bridgewater Associates",
-        "source": "Bridgewater Associates"
-      },
       {
         "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
         "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg.com",
         "source": "Bloomberg.com"
-      },
-      {
-        "title": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0hDRkZEZjE2R3otaTdMZER2U2Nkbmg2MHE0VEY2QjhLWWhWRUNjanVDZVdzM2VoanhIbG5odXlSVkNRSEZ4RUpFQ3pubWVRdE1CZTNFQnpLZ19uQVVidEtJanlNblBCZmRzQnR1X0hpdXBTNGlTOGtLQ2pacWFyOHl1czVVWmlPeF9FRy0tNHloOGJWR0U4aF9zMTRUOHJMRDFqVHVSUlh4aldHMENheDZVRmZ0b2pXclhJbmpxM0w1MXdscEZFU1g4MmpFQQ?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers Reuters",
-        "source": "Reuters"
       },
       {
         "title": "Bridgewater Associates founder Ray Dalio says US is entering period of 'great change and great turbulence' - Arabian Business",
@@ -31,18 +17,32 @@
         "source": "Arabian Business"
       },
       {
+        "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
+        "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+        "summary": "The Macro Implications of the AI Capex Boom Bridgewater Associates",
+        "source": "Bridgewater Associates"
+      },
+      {
         "title": "March has been a brutal month for macro hedge funds — with one notable exception - Business Insider",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTVla0I4OHpPbnpIbVY0dkVxZWdGdFV6UGl6X0Rva1R6YjE5NHRQNVgxOHJCb1FvbXhwaWdqNk9IaFBMYXBEeUVqeGEwWjVreTJPWUoxVXZzd3dSUWZiZ0hDZ1kwbHJRdTEwX3ItUmhxOHZ1YmRJUWdFa1ZDLXh0dUJFWlFLdDdSZ241MVZRdXB2d3BZalg0SWVlUVBKZVNFZ1FWZ2tjYUE5RXNT?oc=5",
         "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
         "summary": "March has been a brutal month for macro hedge funds — with one notable exception Business Insider",
         "source": "Business Insider"
+      },
+      {
+        "title": "Bridgewater Increases Nvidia Exposure, Signals AI Infrastructure Pivot - Let's Data Science",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2VsQThHQ3lFeFlQMzZPaDNQTjlySURpMWhEV0J5QkFjdkJOTnhyOW9hNkVoc296Z0dWd0ItQmVIVTYtSmx4NUtGREVSNElVU0EtWlZtME5sRGd0bTRBVjFPYUZ2Ul9BblVWRjg4eE5FVUN5N3ZiR1dYS1gtU0hBOFpSQXN5YWpsWnlYRUlSV2Q0MGVzM0JhWWEzNHcyNkEycndyeA?oc=5",
+        "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT",
+        "summary": "Bridgewater Increases Nvidia Exposure, Signals AI Infrastructure Pivot Let's Data Science",
+        "source": "Let's Data Science"
       }
     ],
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Tue, 12 May 2026 03:54:55 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVRpWnpzel9vdWlfUTRyMGZwLVhXN2dmVDBNclBHRzhhNWx4MnVDSFBZNl8wZmxuZzlpZjZPTC0zMTZMRU9Udl9zWTB1X0FFR2ZBMGFQaWgydTVSY21qTzBkUWoyaTlGUHFJeVZybVZnb3d3YWoyRkZHeDVyLWszMmFPLUNZUmh0WUh3UG9ZejBFanRudmt5VV9YNmVSa1hmeWp2TE1CUWgtdw?oc=5",
+        "pubDate": "Tue, 12 May 2026 04:19:05 GMT",
         "summary": "Weekly market commentary blackrock.com",
         "source": "blackrock.com"
       },
@@ -61,18 +61,18 @@
         "source": "Institutional Investor"
       },
       {
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
         "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
-      },
-      {
-        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
-        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
@@ -91,6 +91,13 @@
         "source": "Goldman Sachs"
       },
       {
+        "title": "Goldman Sachs Says This is When Fed Will Start Rate Cuts - BeInCrypto",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5bGJPSnA0WURKZkFCWkQyOEhHelowOVNjVmpSdTRqclhZejhZVmlwcUJkTGxhY2RkX3o4UnJ4LWwyTm1mcWtnbWRtdHo5VHlUUFRPUnU1ZGg3SUpvOWZ5THRDbWJrVXZDMDFKY1Z3?oc=5",
+        "pubDate": "Sun, 10 May 2026 11:26:00 GMT",
+        "summary": "Goldman Sachs Says This is When Fed Will Start Rate Cuts BeInCrypto",
+        "source": "BeInCrypto"
+      },
+      {
         "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
         "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
@@ -98,34 +105,27 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
-        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
-        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "Goldman Sachs Says This is When Fed Will Start Rate Cuts - BeInCrypto",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5bGJPSnA0WURKZkFCWkQyOEhHelowOVNjVmpSdTRqclhZejhZVmlwcUJkTGxhY2RkX3o4UnJ4LWwyTm1mcWtnbWRtdHo5VHlUUFRPUnU1ZGg3SUpvOWZ5THRDbWJrVXZDMDFKY1Z3?oc=5",
-        "pubDate": "Sun, 10 May 2026 11:26:00 GMT",
-        "summary": "Goldman Sachs Says This is When Fed Will Start Rate Cuts BeInCrypto",
-        "source": "BeInCrypto"
+        "title": "Investing in Everything, Everywhere, All at Once - gspublishing.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ05jbkRQMjd4ekswaEktQ09mYnFycXVEZFhtOGlySVhJUUNTSDZmOHNsd0JDTWVNTDU3bHpTdlZhMjhGemVUUm94RXpiRmViQ3NzRWFJVnFlakF2TjZwdmYxYk1uOEZrMk1xMURjOVh1T2tXZ2lKYTJBSE9nZFhCbnA4ZUR5QW8wOXJiYXVDTnpvU1poblBlY0xzRXZVRlE2T2s1aUFaZkN2UHZEZGc?oc=5",
+        "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
+        "summary": "Investing in Everything, Everywhere, All at Once gspublishing.com",
+        "source": "gspublishing.com"
       }
     ],
     "jpm": [
+      {
+        "title": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTVpiOUY3SGxaaWxzc1ZxRUNYQzRUTkFPMDZqLUJCbC1CV2pQdEZ0Y0hReFkzY2I4WndWV1Ztd2dycWx4Q210YU43ZEdJOF9yVzZhelV3OXNmZThXNnp5ZzR6NHJQZUpQOGo2eUlWUU1VaFdwUjlwTmNyR2R4Zl9RelBQRVR6S09zMGVvMDVMUzFEellhSFJkU2I1TXpJN3hJQ0cwSTI5WlJmQWFZMlZ1MzZ1Z0FFWFI4WVNEdFpmSmtHT1JMeVZoZndpYndtNWpZWG9iNGZxNC1Bci13aGJmT1ZUbURDdnZSZWYyVW1zYllhLVZ3ZUE?oc=5",
+        "pubDate": "Tue, 17 Mar 2026 15:42:27 GMT",
+        "summary": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
+      },
       {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGpLVEdXMEstR1VNVUN4TXlqZms2RG5GMGU4enhWR1JQeXBhXzM3dXR0Wk85OGtqVW5WLW14Y0JlbnJMRTZiMzEzQTA3OVFJZk9iR2tnZVlNNDN4NTYwUFY3VW1NZ2JlNmlXdzhTTUJyZ0lGMVdFVjZzSjZNeDEwd1U0RGNUN1lWS3ItaVZXeTZIUU9paWJ5QjdNaENlV3ZlUzZWR0xCek81OVhMNk81NGRLREktZDVOSFk1WG9n?oc=5",
         "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
         "summary": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries Institutional Investor",
         "source": "Institutional Investor"
-      },
-      {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0ZXa182UTVvRUg1Ulc0enh4dlN0SkpjNjdLQXkwYXZmMG8yOG9MdDExcDd0aXNjQlNRSExIY2FLM09mSTRZX1pXRlVRZlhERGJXck1pVWlaOTRKeGhWakRsenpJZDFuZ1NKNnlKazJmZXFTZ0MzalJPYlJ6Q3lmNFAySjRqLU1mVElOS1RVanRDOXlZcmxtYklNZWd4emc1U1phRlViRXRmWTVXMlZ2LV9Fc0ZJYUM1SkxrMVVxZG43LWdOOG9zYnZMT05mZw?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
       },
       {
         "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
@@ -195,13 +195,6 @@
         "source": "IFA Magazine"
       },
       {
-        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional Canada",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
-        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional Canada",
-        "source": "Wealth Professional Canada"
-      },
-      {
         "title": "Income In 2026: Opportunity Without Overreach - Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWYtOXByTWNoeGo3eGdMZEhkYUV2cWgwTEdTN1BrOGhPRnZVZ25yWGJnbVh4SnRiMDVWcHgxdUpSRGNuUGVjbUpKNmhZYUxzMDRpRzJSVHlWUF8yN3FzaHBLMm9qTHF1eGRWY05RNHZsU2xWR3dsMF9CVHloWkJ4X040OS1yZzczNkRvWURn?oc=5",
         "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
@@ -209,18 +202,25 @@
         "source": "Seeking Alpha"
       },
       {
+        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional Canada",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
+        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional Canada",
+        "source": "Wealth Professional Canada"
+      },
+      {
+        "title": "PIMCO (PFL) Full Analysis | Q3 2025: Earnings Report - Expert Momentum Signals - Cổng thông tin điện tử tỉnh Tây Ninh",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMHBkb3RydkY2c2RJQ0NVeWZPVGM2NlROeHNuTlVqZi11VXRRdmN6QS1Qa2tMQVBkVWVwWDR3UmtPd2ZabWR3ZzFDUnAtdldlTlZEUm5seUF5V3hwMVI3MElUdW1GVUYyaXV4Q1llbXNuRHBaV2VORXJXdklUcGRTX1NLclpkOXBSSV93REZvZWk?oc=5",
+        "pubDate": "Wed, 22 Apr 2026 20:46:34 GMT",
+        "summary": "PIMCO (PFL) Full Analysis | Q3 2025: Earnings Report - Expert Momentum Signals Cổng thông tin điện tử tỉnh Tây Ninh",
+        "source": "Cổng thông tin điện tử tỉnh Tây Ninh"
+      },
+      {
         "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
         "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
         "source": "Livewire Markets"
-      },
-      {
-        "title": "On Demand Webinar: Build Resilient Portfolios With PIMCO’s Bond Playbook - ETF.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVhoWHRsOFRtNFYzZkpSVG5wWHJ4LVozMEs0T2RxaE1FSGdKVEc5SXJ3Q0pocDRwcXN5a1ViUUNFWjhZZGs1QmRENDZfeXhzQk5FckRFbU1QNjVUUGpCcnoyMGt2UkxKUFhTMFpDMGgyODRWRy0yRUtUUTNadjJvTkh5RUdZa2FVTkcyVmhHaWN1N2pNZ01HNDNhbFNiUEVHR0E?oc=5",
-        "pubDate": "Mon, 20 Oct 2025 07:00:00 GMT",
-        "summary": "On Demand Webinar: Build Resilient Portfolios With PIMCO’s Bond Playbook ETF.com",
-        "source": "ETF.com"
       }
     ],
     "fed": [
@@ -276,11 +276,11 @@
         "source": "SD Bullion"
       },
       {
-        "title": "How important are central bank holdings of gold? - Brookings",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlA3TkRabGhiNkd3N0VyYTk1VEMtME10RWdXVUlhd05HR25iYkNhcnpvTENiWVVsWklvakFyMmJjVUx2Z2dORTFsWE9jZjRjcjYwQnRiMlFXeG5VOHJHa3ZJUlY3NzJNekdJVzRuOFlNUmpkcFUzdTV3aE1mUW5NblA5VXdaemZaWEgw?oc=5",
-        "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
-        "summary": "How important are central bank holdings of gold? Brookings",
-        "source": "Brookings"
+        "title": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdl9uYThIbzVOV3RrbGRKT2RuVjZCWXljUldRR3RfZktFTm1rT1Y5OUNfRUVUNWQ3RjcxRGI4MUhwNG56RzdjQWViczlBZE5LQlB5QWpscDFjcFlsaUpMV1M3YVpvazRfUzh0X2hrczlXQnFXcTR4QzFoM2VDNVR0bW5TalJjR1BsdUdnWFRRekxWa3VtWTViUXkwR210ZWlPY3RSRHVZTUE3NjVQU0lUNEU5bTFmMmhWbHZMVA?oc=5",
+        "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
+        "summary": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council KITCO",
+        "source": "KITCO"
       },
       {
         "title": "Central Bank Gold Sales and Purchases: March 2026 Update - News and Statistics - IndexBox",
@@ -290,11 +290,11 @@
         "source": "IndexBox"
       },
       {
-        "title": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council - KITCO",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdl9uYThIbzVOV3RrbGRKT2RuVjZCWXljUldRR3RfZktFTm1rT1Y5OUNfRUVUNWQ3RjcxRGI4MUhwNG56RzdjQWViczlBZE5LQlB5QWpscDFjcFlsaUpMV1M3YVpvazRfUzh0X2hrczlXQnFXcTR4QzFoM2VDNVR0bW5TalJjR1BsdUdnWFRRekxWa3VtWTViUXkwR210ZWlPY3RSRHVZTUE3NjVQU0lUNEU5bTFmMmhWbHZMVA?oc=5",
-        "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
-        "summary": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council KITCO",
-        "source": "KITCO"
+        "title": "Central Banks Fuel Gold's Strategic Rise Amid Global Shifts - Investing News Network",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZXA2RE5lSlZCb3ZZQXBLRl9WNFU5WC1kVEE2TXFyejRndm5PZkhpYW56aWUtUWdIaTF3aUNLOWkxMUJ2MnR3dFV1elBQLTFhNkFtdjNiMFNSQVRmMnpaSm1DTGhLbm9FbWc?oc=5",
+        "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+        "summary": "Central Banks Fuel Gold's Strategic Rise Amid Global Shifts Investing News Network",
+        "source": "Investing News Network"
       }
     ]
   },
