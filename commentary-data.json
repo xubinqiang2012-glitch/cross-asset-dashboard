@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-14T17:17:28+00:00",
+  "fetched_at": "2026-05-14T22:19:06+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -47,6 +47,20 @@
         "source": "blackrock.com"
       },
       {
+        "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
+        "pubDate": "Fri, 08 May 2026 12:43:12 GMT",
+        "summary": "Market Outlook April 2026: Get Paid to Wait blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
+        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
+        "source": "Institutional Investor"
+      },
+      {
         "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
@@ -54,25 +68,11 @@
         "source": "Alternatives Watch"
       },
       {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
         "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
         "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
         "source": "Bloomberg.com"
-      },
-      {
-        "title": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIaGhNNmZuU180aUIzZndxUFc0Zi16T2g3LXZpSU9VNUt1em5rOUJqUmxEelU5REJiM1hiYXFreHVMSnlGNGRpc1BhQlkxT1hGQlpuaFhSRDZHTi05cjNUdUE2MA?oc=5",
-        "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT",
-        "summary": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! Binance",
-        "source": "Binance"
       }
     ],
     "goldman": [
@@ -114,10 +114,10 @@
     ],
     "jpm": [
       {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
+        "title": "The winter of our discontent: generative AI disrupts the entertainment industry content moat - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPemJWdHRoYWJkN1Vob3lPQ0N2eS00ZERORDYwMG5uTVZrYllOaUxsNXNNUTYwOXRJS0NOTFlFbDJIUTAydk5sdkhraU1wQ19WV0xNX3BrVUhwc01DUmNPQ2tISHpSR3l2WFZ3V3JSQ0VwTjdneldIamFpZllEM0hLN0J6NzVTNVUzT2tzLUd3VDVrZDZ6ZU9qTlljeHNTUEtwOFptZ0E3NC10eGI3NkNYUTZZQjNXWUxPaC1ZX0VvelZCYzhsekxieDhqa1NTX2ZfejhTYU05NG5JRWNqX3hTUmhFVGhrNUVURUlOUHNDQkVjSDY0X3VvUw?oc=5",
+        "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT",
+        "summary": "The winter of our discontent: generative AI disrupts the entertainment industry content moat J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
       },
       {
@@ -135,10 +135,10 @@
         "source": "Chase Bank"
       },
       {
-        "title": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTVpiOUY3SGxaaWxzc1ZxRUNYQzRUTkFPMDZqLUJCbC1CV2pQdEZ0Y0hReFkzY2I4WndWV1Ztd2dycWx4Q210YU43ZEdJOF9yVzZhelV3OXNmZThXNnp5ZzR6NHJQZUpQOGo2eUlWUU1VaFdwUjlwTmNyR2R4Zl9RelBQRVR6S09zMGVvMDVMUzFEellhSFJkU2I1TXpJN3hJQ0cwSTI5WlJmQWFZMlZ1MzZ1Z0FFWFI4WVNEdFpmSmtHT1JMeVZoZndpYndtNWpZWG9iNGZxNC1Bci13aGJmT1ZUbURDdnZSZWYyVW1zYllhLVZ3ZUE?oc=5",
-        "pubDate": "Tue, 17 Mar 2026 15:42:27 GMT",
-        "summary": "Future Shock: What comes after the US invasion of Iran and after the rise of Agentic AI J.P. Morgan Private Bank",
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
       },
       {
@@ -276,6 +276,13 @@
         "source": "SD Bullion"
       },
       {
+        "title": "How important are central bank holdings of gold? - Brookings",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlA3TkRabGhiNkd3N0VyYTk1VEMtME10RWdXVUlhd05HR25iYkNhcnpvTENiWVVsWklvakFyMmJjVUx2Z2dORTFsWE9jZjRjcjYwQnRiMlFXeG5VOHJHa3ZJUlY3NzJNekdJVzRuOFlNUmpkcFUzdTV3aE1mUW5NblA5VXdaemZaWEgw?oc=5",
+        "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
+        "summary": "How important are central bank holdings of gold? Brookings",
+        "source": "Brookings"
+      },
+      {
         "title": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council - KITCO",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdl9uYThIbzVOV3RrbGRKT2RuVjZCWXljUldRR3RfZktFTm1rT1Y5OUNfRUVUNWQ3RjcxRGI4MUhwNG56RzdjQWViczlBZE5LQlB5QWpscDFjcFlsaUpMV1M3YVpvazRfUzh0X2hrczlXQnFXcTR4QzFoM2VDNVR0bW5TalJjR1BsdUdnWFRRekxWa3VtWTViUXkwR210ZWlPY3RSRHVZTUE3NjVQU0lUNEU5bTFmMmhWbHZMVA?oc=5",
         "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
@@ -288,13 +295,6 @@
         "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT",
         "summary": "Central Bank Gold Statistics: Central banks stay the course on gold in February | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
-      },
-      {
-        "title": "Central Bank Gold Buying - Robin J Brooks | Substack",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85d2thWUdsOThRQldGZHhHT1cwVGZJU2lRb3R5ZzNTM0lUTHBlQTVJaTN1Zm5vREgwY3d4bUo0SWRiZ0txbHhHeC1rTmgzUzFBdGhSZkptRk9jX3Mxd25EZWRrT3hDYU9uVXRacA?oc=5",
-        "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT",
-        "summary": "Central Bank Gold Buying Robin J Brooks | Substack",
-        "source": "Robin J Brooks | Substack"
       }
     ]
   },
