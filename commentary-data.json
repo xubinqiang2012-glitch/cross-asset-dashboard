@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-15T10:02:47+00:00",
+  "fetched_at": "2026-05-15T16:29:52+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,10 +41,17 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVRpWnpzel9vdWlfUTRyMGZwLVhXN2dmVDBNclBHRzhhNWx4MnVDSFBZNl8wZmxuZzlpZjZPTC0zMTZMRU9Udl9zWTB1X0FFR2ZBMGFQaWgydTVSY21qTzBkUWoyaTlGUHFJeVZybVZnb3d3YWoyRkZHeDVyLWszMmFPLUNZUmh0WUh3UG9ZejBFanRudmt5VV9YNmVSa1hmeWp2TE1CUWgtdw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
         "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
         "source": "blackrock.com"
+      },
+      {
+        "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
+        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
+        "source": "Institutional Investor"
       },
       {
         "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
@@ -59,13 +66,6 @@
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
-      },
-      {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
       },
       {
         "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
@@ -91,6 +91,13 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
+        "title": "Goldman Sachs Says This is When Fed Will Start Rate Cuts - BeInCrypto",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5bGJPSnA0WURKZkFCWkQyOEhHelowOVNjVmpSdTRqclhZejhZVmlwcUJkTGxhY2RkX3o4UnJ4LWwyTm1mcWtnbWRtdHo5VHlUUFRPUnU1ZGg3SUpvOWZ5THRDbWJrVXZDMDFKY1Z3?oc=5",
+        "pubDate": "Sun, 10 May 2026 11:26:00 GMT",
+        "summary": "Goldman Sachs Says This is When Fed Will Start Rate Cuts BeInCrypto",
+        "source": "BeInCrypto"
+      },
+      {
         "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
         "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
@@ -103,13 +110,6 @@
         "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
         "summary": "Goldman Sachs Names BlackRock’s Lynam as Chief Credit Strategist Bloomberg.com",
         "source": "Bloomberg.com"
-      },
-      {
-        "title": "Goldman Sachs Asset Management: Hedging macro uncertainty with quantitative precision - Fund Selector Asia",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSk04M3oyVllsRFAwb2hUOURDdUtFaUNCVWxOSlBLQTlydVlsR0paZngwZE11RjkzZU1FWWNlNXJjN1R2OFQ5TnEwdldQQTZRTENiQkVFY1FGUXJkc0wyeU5fOEs1cjdPdE83aWtGZUdKOFE2OTNzU1psN0xrbDlpZm1UblRYbGdCTzZFMmR1ckJQVEd5Wkx1emxYR0pwbmNEY1pYUmlIS1lET3BOWWlUUjl3d00?oc=5",
-        "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-        "summary": "Goldman Sachs Asset Management: Hedging macro uncertainty with quantitative precision Fund Selector Asia",
-        "source": "Fund Selector Asia"
       }
     ],
     "jpm": [
@@ -151,10 +151,10 @@
     ],
     "ms": [
       {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "title": "2026 Outlooks: Market and Economic Forecasts - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LRmZEUjJmdmpUNWxfNFp2WTJvZ2N1eUlPU1NMbzZTUkFYbDJCVnVsUW1oVWxxRnRiekZfQk82SU9aRVdWS3YxNjlzbm5QOWtSeUV0ZVRIU2Y?oc=5",
+        "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT",
+        "summary": "2026 Outlooks: Market and Economic Forecasts Morgan Stanley",
         "source": "Morgan Stanley"
       },
       {
@@ -165,10 +165,10 @@
         "source": "MSN"
       },
       {
-        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3ZJejZLSG5kcU1ybklxUk9KYXJ1LWhtd19WSEdtQjNiNElLOUFXbkpSR3E5MHV4SVJqVnZEU1RRdXJINjRUUjNsbWVfUmN1aWc2ekZ5Tkh2dzVHaVZKdUZwM0NWbTVjWklFOWdudWp6ekg4QjQ3cTFqRHBnU0p2YkxTWk92ZVJFNjFTdS12ZXdrTEtZSnNhdkVyd0JZbFhuUWRqNW9MZHh5M1RDSjI1TzlIcW5VRVB5ODh0azlFZVI1VHhCQzVoLWN6ZkpjXzRqakE?oc=5",
-        "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
+        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
         "source": "Morgan Stanley"
       },
       {
@@ -202,18 +202,18 @@
         "source": "Wealth Professional Canada"
       },
       {
-        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
-        "pubDate": "Fri, 08 May 2026 08:21:57 GMT",
-        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
-        "source": "IFA Magazine"
-      },
-      {
         "title": "Income In 2026: Opportunity Without Overreach - Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWYtOXByTWNoeGo3eGdMZEhkYUV2cWgwTEdTN1BrOGhPRnZVZ25yWGJnbVh4SnRiMDVWcHgxdUpSRGNuUGVjbUpKNmhZYUxzMDRpRzJSVHlWUF8yN3FzaHBLMm9qTHF1eGRWY05RNHZsU2xWR3dsMF9CVHloWkJ4X040OS1yZzczNkRvWURn?oc=5",
         "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
         "summary": "Income In 2026: Opportunity Without Overreach Seeking Alpha",
         "source": "Seeking Alpha"
+      },
+      {
+        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
+        "pubDate": "Fri, 08 May 2026 08:21:57 GMT",
+        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
+        "source": "IFA Magazine"
       },
       {
         "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
