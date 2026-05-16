@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-16T06:40:17+00:00",
+  "fetched_at": "2026-05-16T07:32:16+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -24,18 +24,18 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0hDRkZEZjE2R3otaTdMZER2U2Nkbmg2MHE0VEY2QjhLWWhWRUNjanVDZVdzM2VoanhIbG5odXlSVkNRSEZ4RUpFQ3pubWVRdE1CZTNFQnpLZ19uQVVidEtJanlNblBCZmRzQnR1X0hpdXBTNGlTOGtLQ2pacWFyOHl1czVVWmlPeF9FRy0tNHloOGJWR0U4aF9zMTRUOHJMRDFqVHVSUlh4aldHMENheDZVRmZ0b2pXclhJbmpxM0w1MXdscEZFU1g4MmpFQQ?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers Reuters",
-        "source": "Reuters"
-      },
-      {
         "title": "March has been a brutal month for macro hedge funds — with one notable exception - Business Insider",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTVla0I4OHpPbnpIbVY0dkVxZWdGdFV6UGl6X0Rva1R6YjE5NHRQNVgxOHJCb1FvbXhwaWdqNk9IaFBMYXBEeUVqeGEwWjVreTJPWUoxVXZzd3dSUWZiZ0hDZ1kwbHJRdTEwX3ItUmhxOHZ1YmRJUWdFa1ZDLXh0dUJFWlFLdDdSZ241MVZRdXB2d3BZalg0SWVlUVBKZVNFZ1FWZ2tjYUE5RXNT?oc=5",
         "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
         "summary": "March has been a brutal month for macro hedge funds — with one notable exception Business Insider",
         "source": "Business Insider"
+      },
+      {
+        "title": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUNqZ2Z6Q1hfVi0zZ21WRXFHR3kxUmt3RzRRaC1nX3liZXhPUEJIaERvQTl6OXNxZWVPbjJZREoxS041SVVLX3RKMEM3NjV3dldsbnVQQTBpd2hvWTFyckxiNkR3QndQTWFkZ2dIY2NZWUNONmdpajI2Wm5NT2drUXdlVHdDMmdwZ1RRRlVhQjI4ajQ2QktEXzZR?oc=5",
+        "pubDate": "Sat, 14 Mar 2026 07:00:00 GMT",
+        "summary": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' Fortune",
+        "source": "Fortune"
       }
     ],
     "blackrock": [
@@ -47,6 +47,13 @@
         "source": "blackrock.com"
       },
       {
+        "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
+        "pubDate": "Fri, 08 May 2026 12:43:12 GMT",
+        "summary": "Market Outlook April 2026: Get Paid to Wait blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
         "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
         "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
@@ -54,10 +61,10 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 12:43:12 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait blackrock.com",
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -66,13 +73,6 @@
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
-      },
-      {
-        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
-        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
@@ -98,18 +98,18 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Goldman Sachs Names BlackRock’s Lynam as Chief Credit Strategist - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXU3SkVranlZNGhBSVhKRDA5VF84RmdGWTRJSEFTdWg3SkcxMHF2MzBjQTZRaHNDeU5ZU2EtSzdXVnZsWFBjQXkwWEViRjBiLXZiZ0pldmNsWHl1ck5hWFltVWxrWl9HcjhLVXNkd1VUaUYtV2xOUjQzZkxZbk1vU3BYV1VvOGt2NTRud2hQLVpBTUY0Q2o1VnVHd0dLRnd4RDlVV00xc1JFbHZTRFBJU3BrOXVYQQ?oc=5",
-        "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
-        "summary": "Goldman Sachs Names BlackRock’s Lynam as Chief Credit Strategist Bloomberg.com",
-        "source": "Bloomberg.com"
+        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
+        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
+        "source": "Goldman Sachs"
       },
       {
-        "title": "Buckle up for stock volatility Goldman warns, saying it's not the Iran war that will fuel more swings - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEJWSTVPZmRpbF9hVF95a29oTENrWGF0d0tsZktkTzAtdENuSXhYWFlUdEladU1kMVNaZFNJRFZ3RDEzQVZDNlFQcnpyN0dOc0lQSjhqei11MUZyVVFac3VuVk9rZzFXU2o2M1BSQS1zZmh4b1FvSGJMUi11M1VUWHpCUjNNWEoyczlIZDBmT3E2NEswNGdqZkFSWDB2aXFhYU9ReXdNWTVua1F6?oc=5",
-        "pubDate": "Sat, 11 Apr 2026 07:00:00 GMT",
-        "summary": "Buckle up for stock volatility Goldman warns, saying it's not the Iran war that will fuel more swings Business Insider",
-        "source": "Business Insider"
+        "title": "Forecasts for the World’s Biggest Economies in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGhpUEI1emNINGhfbVk4eGkwVVcxNEJoM045WDQ4dHRFSUtidjBoNm9wakFNSzk4bjZDU1V3R3E0bTBQS0tmZ0xsZmY0SFA2MTZ1N01OZEppcFYtMFVBZUlJYmJiZWlIbzU0eTVaTG40YlJval9RcExsN05LVG9zdmsyWkNEWjByRjZfY2hQbjFhOUhfbHRVZ0VqMmozZw?oc=5",
+        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+        "summary": "Forecasts for the World’s Biggest Economies in 2026 Goldman Sachs",
+        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
@@ -269,32 +269,32 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Gold Sinks Again But Central Banks 'Still Buying Heavily' | Gold News - BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0tLNFJpOTYyRUtPQnphbGRNUlc3aFBSYkt0UFlVQjdLdEU3VjJQMTJVUVgyNWduVkd0RGFMay1QT09OcFU1WHgtd1BUa3FMajRWSi1ueEZJOGlmNTJXN0RxRkNIYXhrZ3FFWFRubVU3LUtwck5YUGt4cWFZN0xycG1sU1B2eWJwMjNEQjhWcWM?oc=5",
+        "title": "Central Bank Gold Statistics: Central banks stay the course on gold in February | Post by Marissa Salim | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcDRZVnp4MXJsbWxUbjdvbW1tN0ZaNG1LcFFRRlNSYU5GZG0wTzR4OVhvaDJjakJDdkFlSjJETzdHaGd3QzVGQmpnNk1xOHRMSjhXVk9BUnBmZ3ZxMjNGRlVTd3A1T0dHMVJSTEdlY3BHS19KT0ZVR1hrN0pkTlBPMVFySkxicTcwRG5tWUlfRjE3WGJqN01BVFVLMHZ0dGdrRjNiM0Z6SzFwaHB1MnZOSGZKSE1GNzA?oc=5",
+        "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT",
+        "summary": "Central Bank Gold Statistics: Central banks stay the course on gold in February | Post by Marissa Salim | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
+        "title": "Central bank gold statistics: Buying momentum continues into November | Post by Marissa Salim | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVjJYRjNEbVBiSFZmSkFBcTdXTUZ5M0ZwUHlsNHNWZzFwTk9aYTRKaHJEcW1qTm5nLXRvVDFHUnRqS2ZadmRGbHYxTkJacmpjb1BBRFZzdm9rdUJWLV9JSVBZbm1Kd05GRGpTZndTT3ZYWVE0YkJRU1dpS0RmV2IzSVFJX2ppQWxPbXhudE1kSWgtemRxTS1BSEt3ZDNwdFpHMEFwRF9TN3pPZGtWbDZ6cQ?oc=5",
+        "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+        "summary": "Central bank gold statistics: Buying momentum continues into November | Post by Marissa Salim | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
+        "title": "Central Bank Gold Statistics: Central banks ramp up gold buying in October | Post by Krishan Gopaul | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGs0TDRWclRfVXllV3gzZVFqM3dHN0VuQXFpWkhhLWI4aFRHcS03UW41b0NiajNCa09udVJiV0xDZ0otNjMtQ2ZoWkExVEpnYkQzQjBYcnI2eXB3Q2RTX1hJcVhvVm1xUE1uYzN4bk9SMk9sdnREMTNkcHBueVVhMjFuYW1mblBYby1Td3ZLSXpvdE1qTTBqSElSN3lyMXBacmRJUHZZVjdsM2MyMW1SY2lNMzUwdw?oc=5",
+        "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
+        "summary": "Central Bank Gold Statistics: Central banks ramp up gold buying in October | Post by Krishan Gopaul | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
+        "title": "Gold Demand Trends: Q1 2026 - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekkxMGhZa1JfZ2RnSjB3a0dGTUVhTEk1RFRtSEF4WGl5bVBVXzJnTURXaWVYWWpmZkhBbkg3ZGpFaG83MmFldmRWd0JGdnFjNXdsZnk4Z2p3LUE5aWsxeWNHTy1ralJtZ0h1YXBadUp6eFV4RlBsUGNiUHhuVzZ1NzI5cWdjNk5obTZj?oc=5",
         "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
-        "summary": "Gold Sinks Again But Central Banks 'Still Buying Heavily' | Gold News BullionVault",
-        "source": "BullionVault"
-      },
-      {
-        "title": "Goldman Sachs: Still bullish on gold, reaffirms target price of $5,400/ounce by the end of 2026. Its updated 12-month moving average forecast shows that central banks purchased 50 tons of gold per month in March, compared to the previous forecast of 29 ton - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sWkMxWVJyMnFYci1fYkszMXRRUGtudGUyekdCd0lMNVdmVXd0cFJkb2hSdmtXMnpPZkZWUVhKU0U3WXpwT205TWFCbldSRGpBUkR5OXdOQktFVTRqU3fSAWNBVV95cUxPX1lqN1N3MlRmRHhFN3hRYzNabEhtY2Fra1dHdWl3Q3hIZmlsUjZMeE1OajVxU3JINi1OWHk4Xy1mdVlVZXFvaUJEZ2FrTGp0WndnRzVoRVdMbFV3U3Q1X0gxeTA?oc=5",
-        "pubDate": "Fri, 15 May 2026 08:43:58 GMT",
-        "summary": "Goldman Sachs: Still bullish on gold, reaffirms target price of $5,400/ounce by the end of 2026. Its updated 12-month moving average forecast shows that central banks purchased 50 tons of gold per month in March, compared to the previous fo",
-        "source": "Bitget"
-      },
-      {
-        "title": "How important are central bank holdings of gold? - Brookings",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlA3TkRabGhiNkd3N0VyYTk1VEMtME10RWdXVUlhd05HR25iYkNhcnpvTENiWVVsWklvakFyMmJjVUx2Z2dORTFsWE9jZjRjcjYwQnRiMlFXeG5VOHJHa3ZJUlY3NzJNekdJVzRuOFlNUmpkcFUzdTV3aE1mUW5NblA5VXdaemZaWEgw?oc=5",
-        "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
-        "summary": "How important are central bank holdings of gold? Brookings",
-        "source": "Brookings"
-      },
-      {
-        "title": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council - KITCO",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdl9uYThIbzVOV3RrbGRKT2RuVjZCWXljUldRR3RfZktFTm1rT1Y5OUNfRUVUNWQ3RjcxRGI4MUhwNG56RzdjQWViczlBZE5LQlB5QWpscDFjcFlsaUpMV1M3YVpvazRfUzh0X2hrczlXQnFXcTR4QzFoM2VDNVR0bW5TalJjR1BsdUdnWFRRekxWa3VtWTViUXkwR210ZWlPY3RSRHVZTUE3NjVQU0lUNEU5bTFmMmhWbHZMVA?oc=5",
-        "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
-        "summary": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council KITCO",
-        "source": "KITCO"
+        "summary": "Gold Demand Trends: Q1 2026 World Gold Council",
+        "source": "World Gold Council"
       }
     ]
   },
