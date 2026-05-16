@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-16T15:38:53+00:00",
+  "fetched_at": "2026-05-16T20:33:50+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -17,10 +17,10 @@
         "source": "HedgeCo.net"
       },
       {
-        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg.com",
+        "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg.com",
+        "summary": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% Bloomberg.com",
         "source": "Bloomberg.com"
       },
       {
@@ -41,9 +41,16 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVRpWnpzel9vdWlfUTRyMGZwLVhXN2dmVDBNclBHRzhhNWx4MnVDSFBZNl8wZmxuZzlpZjZPTC0zMTZMRU9Udl9zWTB1X0FFR2ZBMGFQaWgydTVSY21qTzBkUWoyaTlGUHFJeVZybVZnb3d3YWoyRkZHeDVyLWszMmFPLUNZUmh0WUh3UG9ZejBFanRudmt5VV9YNmVSa1hmeWp2TE1CUWgtdw?oc=5",
         "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Market Outlook April 2026: Get Paid to Wait blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -54,10 +61,10 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait blackrock.com",
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -66,13 +73,6 @@
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
-      },
-      {
-        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
-        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
@@ -91,6 +91,13 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
+        "title": "Goldman Sachs Says This is When Fed Will Start Rate Cuts - BeInCrypto",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5bGJPSnA0WURKZkFCWkQyOEhHelowOVNjVmpSdTRqclhZejhZVmlwcUJkTGxhY2RkX3o4UnJ4LWwyTm1mcWtnbWRtdHo5VHlUUFRPUnU1ZGg3SUpvOWZ5THRDbWJrVXZDMDFKY1Z3?oc=5",
+        "pubDate": "Sun, 10 May 2026 11:26:00 GMT",
+        "summary": "Goldman Sachs Says This is When Fed Will Start Rate Cuts BeInCrypto",
+        "source": "BeInCrypto"
+      },
+      {
         "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
         "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
@@ -103,13 +110,6 @@
         "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
         "summary": "Goldman Sachs Names BlackRock’s Lynam as Chief Credit Strategist Bloomberg.com",
         "source": "Bloomberg.com"
-      },
-      {
-        "title": "Buckle up for stock volatility Goldman warns, saying it's not the Iran war that will fuel more swings - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEJWSTVPZmRpbF9hVF95a29oTENrWGF0d0tsZktkTzAtdENuSXhYWFlUdEladU1kMVNaZFNJRFZ3RDEzQVZDNlFQcnpyN0dOc0lQSjhqei11MUZyVVFac3VuVk9rZzFXU2o2M1BSQS1zZmh4b1FvSGJMUi11M1VUWHpCUjNNWEoyczlIZDBmT3E2NEswNGdqZkFSWDB2aXFhYU9ReXdNWTVua1F6?oc=5",
-        "pubDate": "Sat, 11 Apr 2026 07:00:00 GMT",
-        "summary": "Buckle up for stock volatility Goldman warns, saying it's not the Iran war that will fuel more swings Business Insider",
-        "source": "Business Insider"
       }
     ],
     "jpm": [
@@ -290,11 +290,11 @@
         "source": "Brookings"
       },
       {
-        "title": "Goldman Sachs: Still bullish on gold, reaffirms target price of $5,400/ounce by the end of 2026. Its updated 12-month moving average forecast shows that central banks purchased 50 tons of gold per month in March, compared to the previous forecast of 29 ton - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sWkMxWVJyMnFYci1fYkszMXRRUGtudGUyekdCd0lMNVdmVXd0cFJkb2hSdmtXMnpPZkZWUVhKU0U3WXpwT205TWFCbldSRGpBUkR5OXdOQktFVTRqU3fSAWNBVV95cUxPX1lqN1N3MlRmRHhFN3hRYzNabEhtY2Fra1dHdWl3Q3hIZmlsUjZMeE1OajVxU3JINi1OWHk4Xy1mdVlVZXFvaUJEZ2FrTGp0WndnRzVoRVdMbFV3U3Q1X0gxeTA?oc=5",
-        "pubDate": "Fri, 15 May 2026 08:43:58 GMT",
-        "summary": "Goldman Sachs: Still bullish on gold, reaffirms target price of $5,400/ounce by the end of 2026. Its updated 12-month moving average forecast shows that central banks purchased 50 tons of gold per month in March, compared to the previous fo",
-        "source": "Bitget"
+        "title": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdl9uYThIbzVOV3RrbGRKT2RuVjZCWXljUldRR3RfZktFTm1rT1Y5OUNfRUVUNWQ3RjcxRGI4MUhwNG56RzdjQWViczlBZE5LQlB5QWpscDFjcFlsaUpMV1M3YVpvazRfUzh0X2hrczlXQnFXcTR4QzFoM2VDNVR0bW5TalJjR1BsdUdnWFRRekxWa3VtWTViUXkwR210ZWlPY3RSRHVZTUE3NjVQU0lUNEU5bTFmMmhWbHZMVA?oc=5",
+        "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
+        "summary": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council KITCO",
+        "source": "KITCO"
       }
     ]
   },
