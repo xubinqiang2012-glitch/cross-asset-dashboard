@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-17T15:43:25+00:00",
+  "fetched_at": "2026-05-17T20:36:06+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -24,18 +24,18 @@
         "source": "Bloomberg.com"
       },
       {
+        "title": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0hDRkZEZjE2R3otaTdMZER2U2Nkbmg2MHE0VEY2QjhLWWhWRUNjanVDZVdzM2VoanhIbG5odXlSVkNRSEZ4RUpFQ3pubWVRdE1CZTNFQnpLZ19uQVVidEtJanlNblBCZmRzQnR1X0hpdXBTNGlTOGtLQ2pacWFyOHl1czVVWmlPeF9FRy0tNHloOGJWR0U4aF9zMTRUOHJMRDFqVHVSUlh4aldHMENheDZVRmZ0b2pXclhJbmpxM0w1MXdscEZFU1g4MmpFQQ?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers Reuters",
+        "source": "Reuters"
+      },
+      {
         "title": "March has been a brutal month for macro hedge funds — with one notable exception - Business Insider",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTVla0I4OHpPbnpIbVY0dkVxZWdGdFV6UGl6X0Rva1R6YjE5NHRQNVgxOHJCb1FvbXhwaWdqNk9IaFBMYXBEeUVqeGEwWjVreTJPWUoxVXZzd3dSUWZiZ0hDZ1kwbHJRdTEwX3ItUmhxOHZ1YmRJUWdFa1ZDLXh0dUJFWlFLdDdSZ241MVZRdXB2d3BZalg0SWVlUVBKZVNFZ1FWZ2tjYUE5RXNT?oc=5",
         "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
         "summary": "March has been a brutal month for macro hedge funds — with one notable exception Business Insider",
         "source": "Business Insider"
-      },
-      {
-        "title": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUNqZ2Z6Q1hfVi0zZ21WRXFHR3kxUmt3RzRRaC1nX3liZXhPUEJIaERvQTl6OXNxZWVPbjJZREoxS041SVVLX3RKMEM3NjV3dldsbnVQQTBpd2hvWTFyckxiNkR3QndQTWFkZ2dIY2NZWUNONmdpajI2Wm5NT2drUXdlVHdDMmdwZ1RRRlVhQjI4ajQ2QktEXzZR?oc=5",
-        "pubDate": "Sat, 14 Mar 2026 07:00:00 GMT",
-        "summary": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' Fortune",
-        "source": "Fortune"
       }
     ],
     "blackrock": [
@@ -276,18 +276,18 @@
         "source": "BullionVault"
       },
       {
-        "title": "China gold market update: A notable rise in gold reserves | Post by Ray Jia | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUExajAwZWY2SkxlbThXWE9xOVdMaE0ySDM5bXJBbzQzUXRQeUpPb09YSFpUcnVyOWUweWtDelBlLUJEUi1hOEw5WGxQTkRjV3VlcG9HaGtRODQ0UnZjV2d1ZjdrWEc5Z3k4NkxxeHI4VnMyWGkxcTg5MVc4QUlvbWU5N2ZERzB1YV94VWFMeUZqRVNKOUFhVmNPeUhqQkNP?oc=5",
-        "pubDate": "Thu, 14 May 2026 15:19:48 GMT",
-        "summary": "China gold market update: A notable rise in gold reserves | Post by Ray Jia | Insights World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
         "title": "How important are central bank holdings of gold? - Brookings",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlA3TkRabGhiNkd3N0VyYTk1VEMtME10RWdXVUlhd05HR25iYkNhcnpvTENiWVVsWklvakFyMmJjVUx2Z2dORTFsWE9jZjRjcjYwQnRiMlFXeG5VOHJHa3ZJUlY3NzJNekdJVzRuOFlNUmpkcFUzdTV3aE1mUW5NblA5VXdaemZaWEgw?oc=5",
         "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
         "summary": "How important are central bank holdings of gold? Brookings",
         "source": "Brookings"
+      },
+      {
+        "title": "China gold market update: A notable rise in gold reserves | Post by Ray Jia | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUExajAwZWY2SkxlbThXWE9xOVdMaE0ySDM5bXJBbzQzUXRQeUpPb09YSFpUcnVyOWUweWtDelBlLUJEUi1hOEw5WGxQTkRjV3VlcG9HaGtRODQ0UnZjV2d1ZjdrWEc5Z3k4NkxxeHI4VnMyWGkxcTg5MVc4QUlvbWU5N2ZERzB1YV94VWFMeUZqRVNKOUFhVmNPeUhqQkNP?oc=5",
+        "pubDate": "Thu, 14 May 2026 15:19:48 GMT",
+        "summary": "China gold market update: A notable rise in gold reserves | Post by Ray Jia | Insights World Gold Council",
+        "source": "World Gold Council"
       },
       {
         "title": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council - KITCO",
