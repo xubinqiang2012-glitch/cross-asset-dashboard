@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-21T18:31:04+00:00",
+  "fetched_at": "2026-05-21T21:51:00+00:00",
   "sources": {
     "bridgewater": [
+      {
+        "title": "Hedge Fund and Insider Trading News: Christopher Hohn, Paul Tudor Jones, Bill Ackman, Bridgewater Associates, Brevan Howard Asset Management, Aflac Inc (AFL), Astera Labs, Inc (ALAB), and More - Insider Monkey",
+        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNalpycUkzWTR3Z3RIRE9HeHdJcUt0eW5QMk9aSFViekFDanhGREJTT1lkc0phMnpaeG4zRS1RNlliaUE2b0NPMFJseEFhOVRDZzNsTDhuWUljSm9kZV9XbTRlSHBYcXdJSEl3d1djektwWmxmX0JkTzFuUkVZR1ZVVDF1RWQ2LWRYZ3hQaFpJQ2FnQmE5Z2lvbU1xaFNWSEQ4NVVQWHR3VGktZ1hnQzRoVGI5b3pJbmwtUkNTLVhldU5zVVhvMi1zM0lYM2pQREdWOHNrOXppeU44LUNwdlZJdXhQN2ZPSU5nRUd6YWl4UUgydHdSVzI2SElkU3dfdzgyT3RQM252dWJSUUhXSWRxZVltcWhDVUpCeThwbGxWRVloUkxrTjBvdkprT25MUDVzaVFpQkhiWGF0T2IxQThxUXU0ZjlPZVVqTWN0RTFB?oc=5",
+        "pubDate": "Thu, 21 May 2026 18:01:59 GMT",
+        "summary": "Hedge Fund and Insider Trading News: Christopher Hohn, Paul Tudor Jones, Bill Ackman, Bridgewater Associates, Brevan Howard Asset Management, Aflac Inc (AFL), Astera Labs, Inc (ALAB), and More Insider Monkey",
+        "source": "Insider Monkey"
+      },
       {
         "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
@@ -29,13 +36,6 @@
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers Reuters",
         "source": "Reuters"
-      },
-      {
-        "title": "Bridgewater’s Gold Conviction: Why Ray Dalio’s 15% Allocation Thesis Is Back at the Center of the Macro Trade - HedgeCo.Net",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZVBUQlAwTjJLQkN6Mi1vLW8tazhiQkxGT1FnWE5IR1VubmVuc1dLek1BY1dUNG1rLVNNcnd1azZNUl9DeXRYdTAtc1hRdTRWd2lzb0hXelJYUjN2UENRZ0JBb3lhQUg3SldHYUkwS01MZUF5S0U3Y0xxb3d3MlVuam5wZTN0dFo5MjQzVzRIQ3pKbThLTDI5ZGpXbjFZZnFIOHZ5X0VYQm9zX1ZrSGtFcGFBZklOaFlyWk9xeWhYa0owck9oMGFvV2kwWkllTXk4UHhSLXdLRHZXVW8?oc=5",
-        "pubDate": "Fri, 15 May 2026 04:20:39 GMT",
-        "summary": "Bridgewater’s Gold Conviction: Why Ray Dalio’s 15% Allocation Thesis Is Back at the Center of the Macro Trade HedgeCo.Net",
-        "source": "HedgeCo.Net"
       }
     ],
     "blackrock": [
@@ -47,10 +47,10 @@
         "source": "blackrock.com"
       },
       {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "title": "Weekly market commentary | BlackRock Investment Institute - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
+        "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary | BlackRock Investment Institute blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -105,11 +105,11 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Goldman Sachs Sees Fed on Hold Longer, Pencils In December Rate Cut - BeInCrypto",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5bGJPSnA0WURKZkFCWkQyOEhHelowOVNjVmpSdTRqclhZejhZVmlwcUJkTGxhY2RkX3o4UnJ4LWwyTm1mcWtnbWRtdHo5VHlUUFRPUnU1ZGg3SUpvOWZ5THRDbWJrVXZDMDFKY1Z3?oc=5",
-        "pubDate": "Sun, 10 May 2026 07:00:00 GMT",
-        "summary": "Goldman Sachs Sees Fed on Hold Longer, Pencils In December Rate Cut BeInCrypto",
-        "source": "BeInCrypto"
+        "title": "Investing in Everything, Everywhere, All at Once - gspublishing.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ05jbkRQMjd4ekswaEktQ09mYnFycXVEZFhtOGlySVhJUUNTSDZmOHNsd0JDTWVNTDU3bHpTdlZhMjhGemVUUm94RXpiRmViQ3NzRWFJVnFlakF2TjZwdmYxYk1uOEZrMk1xMURjOVh1T2tXZ2lKYTJBSE9nZFhCbnA4ZUR5QW8wOXJiYXVDTnpvU1poblBlY0xzRXZVRlE2T2s1aUFaZkN2UHZEZGc?oc=5",
+        "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
+        "summary": "Investing in Everything, Everywhere, All at Once gspublishing.com",
+        "source": "gspublishing.com"
       }
     ],
     "jpm": [
