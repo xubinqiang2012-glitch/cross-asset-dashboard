@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-22T16:37:34+00:00",
+  "fetched_at": "2026-05-22T20:10:16+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -105,11 +105,11 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
-        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
-        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
-        "source": "Goldman Sachs"
+        "title": "Goldman Sachs Sees Fed on Hold Longer, Pencils In December Rate Cut - BeInCrypto",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5bGJPSnA0WURKZkFCWkQyOEhHelowOVNjVmpSdTRqclhZejhZVmlwcUJkTGxhY2RkX3o4UnJ4LWwyTm1mcWtnbWRtdHo5VHlUUFRPUnU1ZGg3SUpvOWZ5THRDbWJrVXZDMDFKY1Z3?oc=5",
+        "pubDate": "Sun, 10 May 2026 07:00:00 GMT",
+        "summary": "Goldman Sachs Sees Fed on Hold Longer, Pencils In December Rate Cut BeInCrypto",
+        "source": "BeInCrypto"
       }
     ],
     "jpm": [
@@ -202,6 +202,13 @@
         "source": "Seeking Alpha"
       },
       {
+        "title": "Portfolio Managers See Potential for REIT Outperformance in 2026 - Nareit",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2hLclVySEFpUmRCb25ZTHJ5UjVXYkxRR0d2RkVPZUY4Z2pUejEtc2lIa3lrQkw1OFZPUk5BRTh3ZXRNUWM5UTZ4NHJGbHdDeTR3bEMxZXBkdDl6Zl85Vk9sTmtFa2VjYk9TcGJ0QllDdEdqaUZRQ0NrOVhtZzZobkkzdGVlazRtN3ZrNWI4ZWVKQ25TTXU5dVF2dUFtNkRs?oc=5",
+        "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+        "summary": "Portfolio Managers See Potential for REIT Outperformance in 2026 Nareit",
+        "source": "Nareit"
+      },
+      {
         "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
         "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
@@ -214,13 +221,6 @@
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
         "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
         "source": "Livewire Markets"
-      },
-      {
-        "title": "Deep Dive: UK gilts remain stable amid fiscal tug-of-war - Investment Week",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeXctSDR3WDBJb2xXZ2pmeW96alFsdWp3bGNYOEdQeGN0bm9COWNkLWVNbm9XSVUtbE8wS0hPZGtKakg2QzVmc3pNcGRhTVVIWFRleDRRQXkxamY4dXc0MmwxT3pOU2l1c0NiOE95TE84SVBMckc5Qno5MnVwUTFFelRxUGloVDR0U1kyZGxtcGZGSkZUVk5RdUk4bHB1T3FkZnNVMw?oc=5",
-        "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
-        "summary": "Deep Dive: UK gilts remain stable amid fiscal tug-of-war Investment Week",
-        "source": "Investment Week"
       }
     ],
     "fed": [
@@ -276,13 +276,6 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "How important are central bank holdings of gold? - Brookings",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlA3TkRabGhiNkd3N0VyYTk1VEMtME10RWdXVUlhd05HR25iYkNhcnpvTENiWVVsWklvakFyMmJjVUx2Z2dORTFsWE9jZjRjcjYwQnRiMlFXeG5VOHJHa3ZJUlY3NzJNekdJVzRuOFlNUmpkcFUzdTV3aE1mUW5NblA5VXdaemZaWEgw?oc=5",
-        "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
-        "summary": "How important are central bank holdings of gold? Brookings",
-        "source": "Brookings"
-      },
-      {
         "title": "Stronger-than-expected central bank gold-buying to pick up again, Goldman says - MSN",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc3BVWFdMdG1WUkgza0ZZenBNdFdMRVpMOWotSndvWjdranN5eGZsTmowMS1JcEhEZlgzdHV1RHEyNGFxZFBfcmw2WGJfNm1iVlRyOFhZUlZmSFpFcmdJUC1icXhnLTBjUm9ZMmhmQ2lsNjhlQzBPUGxrZldIa1NueEJkUVJaMmRGbEtDcVFwcVBSV0RLcFkwOHJ1cXhiSW1zcGdpZm5rMHJEWTRrQTNJRzhfczNpT0d1Q0lfZVR3OVBoeUltLTA4M25UdlZOYm1Kb0JtRVg3Ty00bmRnaExuODFPdmVCVFFPZ1o4?oc=5",
         "pubDate": "Mon, 18 May 2026 22:45:28 GMT",
@@ -295,6 +288,13 @@
         "pubDate": "Mon, 18 May 2026 06:57:04 GMT",
         "summary": "Strongly supporting a long-term bull market for gold! Goldman Sachs raises its forecast for global central bank gold purchases, reiterating its bullish year-end gold price target of $5,400. Moomoo",
         "source": "Moomoo"
+      },
+      {
+        "title": "Goldman says central bank gold-buying stronger than thought, to reaccelerate - Mining Weekly",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFZ3TkxwenNJUTdwdE9EQXdwUWtzMnoyNmQtakdXN2o4UVZBWURzdDlLZkFLNFNCZEluYnRmYXhkU1U1TUNIOEtTa3Q3Q055OFhpT2luU1lvNzV2ckNqakJIU3pjYXZaOGpHRFlkQmMyR2k3TnZVaGtYalRhWkUta24ydEI2NjJyTmVIUll4WldMNUV2bDkxUkZiSDlyMUNaS0RNbHJ3VHpWUVQ1enBlbVpMSnQ0THZ4bl9PRHFoeFA?oc=5",
+        "pubDate": "Sun, 17 May 2026 22:09:00 GMT",
+        "summary": "Goldman says central bank gold-buying stronger than thought, to reaccelerate Mining Weekly",
+        "source": "Mining Weekly"
       }
     ]
   },
