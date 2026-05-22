@@ -1,14 +1,13 @@
 {
-  "fetched_at": "2026-05-22T09:49:25+00:00",
+  "fetched_at": "2026-05-22T12:35:41+00:00",
   "values": {
-    "gold": 4527.64,
-    "dxy": 99.262,
     "real_yield": 2.13
   },
   "source_dates": {
-    "gold": "2026-05-22",
-    "dxy": "2026-05-22",
     "real_yield": "2026-05-20"
   },
-  "errors": {}
+  "errors": {
+    "gold": "<urlopen error timed out>",
+    "dxy": "<urlopen error timed out>"
+  }
 }
