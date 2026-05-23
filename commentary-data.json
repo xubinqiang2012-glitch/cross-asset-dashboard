@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-22T23:18:54+00:00",
+  "fetched_at": "2026-05-23T08:32:31+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -8,6 +8,13 @@
         "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
         "summary": "The Macro Implications of the AI Capex Boom Bridgewater Associates",
         "source": "Bridgewater Associates"
+      },
+      {
+        "title": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine - HedgeCo.net",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmV5aGJZN2hxa2JVQVdUZXVkSFV3dnR2VkZXS2Rfc2ZaclNaWENlWEM3ZnFTWVRzcEF3b1oxQVktUFR2Uy1pcGFVQkVxSDh0bGk5bTdlTm5tYXdvSC1FOWlFeEpnMlJ2djdDS1VRNGstMWZ6RHI5Q2l2SFVmcGpOMWJPZi1icXFkdTh6bHRiSk5JdHNlYVpJTHpPbFMyU3NuRDFXOXFVaVlHX3NMNVVwbWwxc3dUUVRHVnpycHJIQUZkUm5BaWhtbG5MZWxyZE0wbjNYeDhINGI?oc=5",
+        "pubDate": "Thu, 21 May 2026 04:19:46 GMT",
+        "summary": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine HedgeCo.net",
+        "source": "HedgeCo.net"
       },
       {
         "title": "Hedge Fund and Insider Trading News: Christopher Hohn, Paul Tudor Jones, Bill Ackman, Bridgewater Associates, Brevan Howard Asset Management, Aflac Inc (AFL), Astera Labs, Inc (ALAB), and More - Insider Monkey",
@@ -29,13 +36,6 @@
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers Reuters",
         "source": "Reuters"
-      },
-      {
-        "title": "March has been a brutal month for macro hedge funds — with one notable exception - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTVla0I4OHpPbnpIbVY0dkVxZWdGdFV6UGl6X0Rva1R6YjE5NHRQNVgxOHJCb1FvbXhwaWdqNk9IaFBMYXBEeUVqeGEwWjVreTJPWUoxVXZzd3dSUWZiZ0hDZ1kwbHJRdTEwX3ItUmhxOHZ1YmRJUWdFa1ZDLXh0dUJFWlFLdDdSZ241MVZRdXB2d3BZalg0SWVlUVBKZVNFZ1FWZ2tjYUE5RXNT?oc=5",
-        "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-        "summary": "March has been a brutal month for macro hedge funds — with one notable exception Business Insider",
-        "source": "Business Insider"
       }
     ],
     "blackrock": [
@@ -77,6 +77,13 @@
     ],
     "goldman": [
       {
+        "title": "Stock Markets Are Increasingly Vulnerable to Rising Bond Yields - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3c5Y2JnSFVZTTQ5SVg5MUdLZGZIS0dqdmxtRER4bkRBcEZfMW1tNHZCODFwZjU4S1k5ZmRVOHNOemlmUHV4UnE3bzBhd2tISEpoSUlRNENmTUh4dkdtVlJvZWt3VXAyZm1nbWZhVDEwdlowY0lFaFVzZGY2X093N01FUFNZZERrNWdFQWN1cU1GVTloZVA5b0dvSUhHTWVjMUpTMERxckcwTzlFbjhn?oc=5",
+        "pubDate": "Fri, 22 May 2026 19:01:04 GMT",
+        "summary": "Stock Markets Are Increasingly Vulnerable to Rising Bond Yields Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
         "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
         "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
@@ -103,13 +110,6 @@
         "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
         "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
         "source": "Goldman Sachs"
-      },
-      {
-        "title": "Investing in Everything, Everywhere, All at Once - gspublishing.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ05jbkRQMjd4ekswaEktQ09mYnFycXVEZFhtOGlySVhJUUNTSDZmOHNsd0JDTWVNTDU3bHpTdlZhMjhGemVUUm94RXpiRmViQ3NzRWFJVnFlakF2TjZwdmYxYk1uOEZrMk1xMURjOVh1T2tXZ2lKYTJBSE9nZFhCbnA4ZUR5QW8wOXJiYXVDTnpvU1poblBlY0xzRXZVRlE2T2s1aUFaZkN2UHZEZGc?oc=5",
-        "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
-        "summary": "Investing in Everything, Everywhere, All at Once gspublishing.com",
-        "source": "gspublishing.com"
       }
     ],
     "jpm": [
@@ -165,24 +165,24 @@
         "source": "Morgan Stanley"
       },
       {
-        "title": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSUZRdlhzM09LbVh6QzVYc05KVEdabEhaOF9CenNPOHRpU0VVeVhqRXhOQ0xGcnhOXzY2YXlROVRCd0h5VWFnd2daVkplNUlPNW5iZTM5Q3ZldVg0bVd1aEdDOFNGX19WdXZWZGZ6QzF0cmJ3NFRXZzdWZGN2dnZELXg3dzJlbGZrS3h2QVJvRC1PTk5fdWo3OE4zTnlqZzN5WUFzZjAxNDUtRXlSeDM1MUpxRVpWTjVQSHlsSW82UHVZYTM2VkU4b2JLeXhWb1Etcklz?oc=5",
-        "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
-        "summary": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore TradingView",
-        "source": "TradingView"
-      },
-      {
-        "title": "Morgan Stanley (MS) Sets Bullish Tone for 2026 - TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94eUdkQkR5WHJMdlVoeTdOeEtNR1RGV0ZoTmVBWTVDWkxSd0ZWRTRFODBibkpKZTVtRnRLYU52QXM4cmg1RWVjV05CNnkwdF82a1JmbEVRVC1vSWlRdW02eTdRTGN3dzNJd1ExZzRJTWNUdEpZR1lnQjliQnVvM3c?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 02:05:20 GMT",
-        "summary": "Morgan Stanley (MS) Sets Bullish Tone for 2026 TipRanks",
-        "source": "TipRanks"
-      },
-      {
         "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSE5QYkZlTV9xUC1oUnNVTmFsT0tXb25TZnc0enJSakJoNnFBSlVseTVKM3pNazdfcFBRa3VJMC1MZVdKRWUwSExULTVOeS1lbnozSHRjMmlxTzRaTHgwNTZVTThwOHhFTWowR2RwdzktczNVV2d1azlLZ3BaN0xWNC0zcHpzX2NEZzRqRFZIYlhFMWRtSnUyT1RHaEl3bUJVT1ZhWENIc0F6T0lyU0NURzM0X0QwcTlfVF85QXJHQ2tMMjhlSmJ2WlcwZXFtU2VNNkE?oc=5",
         "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
         "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
+        "title": "AI Market Trends 2026: Global Investment, Risks, and Buildout - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYVVkMUg5TTVySTJlUFJmX041MlVhYmpweFZJWkZBcGh2VGxSc09WYmtiN0Fvcy1kbkZveGlYeGVQd1phVko0eHFNdnFCR09PZThsSmhOU1pmQTlPd3g1MmkxaTIzMzFhTmh4aFFXM1pIOTNGellydnpkc3RKWnViM2Z6dkxUUQ?oc=5",
+        "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
+        "summary": "AI Market Trends 2026: Global Investment, Risks, and Buildout Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
+        "title": "2026 Economic Outlook: Moderate Growth With a Range of Possibilities - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWkpVS1pNaDBpRk9QcWVlWjNEQ1o2UFFMTE92Nm93LXlMZTB1eGF2N0t2dVU0ZVREZnJ2VFVMUVotYnhGMnRNbHQ5OVFCamdxeFpwWXN1M3o5OTYwaWRCRklVWk1FVUJKYmxUS2x6QjhyamlfOTBpeTBkZmhoaS1HZEVn?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "summary": "2026 Economic Outlook: Moderate Growth With a Range of Possibilities Morgan Stanley",
         "source": "Morgan Stanley"
       }
     ],
@@ -202,13 +202,6 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "Portfolio Managers See Potential for REIT Outperformance in 2026 - Nareit",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2hLclVySEFpUmRCb25ZTHJ5UjVXYkxRR0d2RkVPZUY4Z2pUejEtc2lIa3lrQkw1OFZPUk5BRTh3ZXRNUWM5UTZ4NHJGbHdDeTR3bEMxZXBkdDl6Zl85Vk9sTmtFa2VjYk9TcGJ0QllDdEdqaUZRQ0NrOVhtZzZobkkzdGVlazRtN3ZrNWI4ZWVKQ25TTXU5dVF2dUFtNkRs?oc=5",
-        "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
-        "summary": "Portfolio Managers See Potential for REIT Outperformance in 2026 Nareit",
-        "source": "Nareit"
-      },
-      {
         "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
         "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
@@ -221,6 +214,13 @@
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
         "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
         "source": "Livewire Markets"
+      },
+      {
+        "title": "Watch CNBC's full interview with Allianz’s Mohamed El-Erian - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLS1uRzgyVkdNemJQTUJEVERMU2RFeHFHbnJsMVo2WUdFS29yS1YyUXhFOF9rb1d1aDVObm5YVVdXVDRFRm5zZWF6ZkplcmhTYVNPUHlHTzNfZWtrYzUzb2gxQkRQTG5wc1B0aWNaYWhRQ3B0T1dHdHJHdDNIdXdMQU9EanBUd2NOVTlEM1B5cnJfaURtWFo5Qk44Y1otaFRUV3VR?oc=5",
+        "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT",
+        "summary": "Watch CNBC's full interview with Allianz’s Mohamed El-Erian CNBC",
+        "source": "CNBC"
       }
     ],
     "fed": [
@@ -276,6 +276,13 @@
         "source": "Brookings"
       },
       {
+        "title": "Central banks are buying more gold than expected, and purchases will increase further through 2026 – Goldman Sachs - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2REY2Z2Z3dLMEZsZG1McVc1ZkhmQU5Xd00xa1R3WGU3MWE1RURBOWFaRWpUVWlWdTZmaGZvOGZTNktkbmJGbXc1Q2RLRVptRzlhUlRXV0ctYWpMQkJuVk5PQzRHZ2c1UTltRzdMVkZ5SE1HckVCdC1KeXU4VGI5dkRhWENLMGRyTHNQYjQxaUJHVjA1UUlnakxXbkRHYUd1NmRZUkU4d2xZdl9NTXIyTXo5MWxfa3NQ?oc=5",
+        "pubDate": "Tue, 19 May 2026 14:58:00 GMT",
+        "summary": "Central banks are buying more gold than expected, and purchases will increase further through 2026 – Goldman Sachs KITCO",
+        "source": "KITCO"
+      },
+      {
         "title": "Stronger-than-expected central bank gold-buying to pick up again, Goldman says (GLD:NYSEARCA) - Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNERiSzhkd1BvNlAyenl2U3g2MHVIQ3hMeDB5dDc0RENKOUx3MklJT3hwQW9Fa3NzRmF0S1pqMGZHRGZkVVNnQzZabmRSTmc4R1kxYWNqcDZnRUtUMEUtbmd1bXJNcmtyQ0F4LUJsRXBmOTRZOERMWVhfY0wtZUhxRG8tSVNUZ3JRc1pYdmdZekE1X29vZERqZ0NaSUpreHhaak1wcG8tdXhmNjZOclBnelBWcC1nUQ?oc=5",
         "pubDate": "Mon, 18 May 2026 21:45:07 GMT",
@@ -288,13 +295,6 @@
         "pubDate": "Mon, 18 May 2026 22:45:28 GMT",
         "summary": "Stronger-than-expected central bank gold-buying to pick up again, Goldman says MSN",
         "source": "MSN"
-      },
-      {
-        "title": "Strongly supporting a long-term bull market for gold! Goldman Sachs raises its forecast for global central bank gold purchases, reiterating its bullish year-end gold price target of $5,400. - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXd0TUZoeG1qUm5ZVWlldHhnQ2Zqal9vb0NXT3haSVg4MDF4QURUb0VQSUhqeG5TaHVOSVV4ejRNOVlfU1RCdGN5OVBMTWFWaTV3dFN2elFZNF9Uc05JUndRVWkyX0MtYi1aYnZ3NHVCcWRGZWtVUThKQUpnOGU2UWRkNFdIQ3M5MVp0dlpoWmFxdU90VUJucmQ4QlNUbWszeHRqLQ?oc=5",
-        "pubDate": "Mon, 18 May 2026 06:57:04 GMT",
-        "summary": "Strongly supporting a long-term bull market for gold! Goldman Sachs raises its forecast for global central bank gold purchases, reiterating its bullish year-end gold price target of $5,400. Moomoo",
-        "source": "Moomoo"
       }
     ]
   },
