@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-26T04:34:08+00:00",
+  "fetched_at": "2026-05-26T10:18:00+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -17,18 +17,18 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "Hedge Fund and Insider Trading News: Christopher Hohn, Paul Tudor Jones, Bill Ackman, Bridgewater Associates, Brevan Howard Asset Management, Aflac Inc (AFL), Astera Labs, Inc (ALAB), and More - Insider Monkey",
-        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNalpycUkzWTR3Z3RIRE9HeHdJcUt0eW5QMk9aSFViekFDanhGREJTT1lkc0phMnpaeG4zRS1RNlliaUE2b0NPMFJseEFhOVRDZzNsTDhuWUljSm9kZV9XbTRlSHBYcXdJSEl3d1djektwWmxmX0JkTzFuUkVZR1ZVVDF1RWQ2LWRYZ3hQaFpJQ2FnQmE5Z2lvbU1xaFNWSEQ4NVVQWHR3VGktZ1hnQzRoVGI5b3pJbmwtUkNTLVhldU5zVVhvMi1zM0lYM2pQREdWOHNrOXppeU44LUNwdlZJdXhQN2ZPSU5nRUd6YWl4UUgydHdSVzI2SElkU3dfdzgyT3RQM252dWJSUUhXSWRxZVltcWhDVUpCeThwbGxWRVloUkxrTjBvdkprT25MUDVzaVFpQkhiWGF0T2IxQThxUXU0ZjlPZVVqTWN0RTFB?oc=5",
-        "pubDate": "Thu, 21 May 2026 18:01:59 GMT",
-        "summary": "Hedge Fund and Insider Trading News: Christopher Hohn, Paul Tudor Jones, Bill Ackman, Bridgewater Associates, Brevan Howard Asset Management, Aflac Inc (AFL), Astera Labs, Inc (ALAB), and More Insider Monkey",
-        "source": "Insider Monkey"
-      },
-      {
         "title": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers - Reuters",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0hDRkZEZjE2R3otaTdMZER2U2Nkbmg2MHE0VEY2QjhLWWhWRUNjanVDZVdzM2VoanhIbG5odXlSVkNRSEZ4RUpFQ3pubWVRdE1CZTNFQnpLZ19uQVVidEtJanlNblBCZmRzQnR1X0hpdXBTNGlTOGtLQ2pacWFyOHl1czVVWmlPeF9FRy0tNHloOGJWR0U4aF9zMTRUOHJMRDFqVHVSUlh4aldHMENheDZVRmZ0b2pXclhJbmpxM0w1MXdscEZFU1g4MmpFQQ?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers Reuters",
         "source": "Reuters"
+      },
+      {
+        "title": "Hedge Fund and Insider Trading News: Christopher Hohn, Paul Tudor Jones, Bill Ackman, Bridgewater Associates, Brevan Howard Asset Management, Aflac Inc (AFL), Astera Labs, Inc (ALAB), and More - Insider Monkey",
+        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNalpycUkzWTR3Z3RIRE9HeHdJcUt0eW5QMk9aSFViekFDanhGREJTT1lkc0phMnpaeG4zRS1RNlliaUE2b0NPMFJseEFhOVRDZzNsTDhuWUljSm9kZV9XbTRlSHBYcXdJSEl3d1djektwWmxmX0JkTzFuUkVZR1ZVVDF1RWQ2LWRYZ3hQaFpJQ2FnQmE5Z2lvbU1xaFNWSEQ4NVVQWHR3VGktZ1hnQzRoVGI5b3pJbmwtUkNTLVhldU5zVVhvMi1zM0lYM2pQREdWOHNrOXppeU44LUNwdlZJdXhQN2ZPSU5nRUd6YWl4UUgydHdSVzI2SElkU3dfdzgyT3RQM252dWJSUUhXSWRxZVltcWhDVUpCeThwbGxWRVloUkxrTjBvdkprT25MUDVzaVFpQkhiWGF0T2IxQThxUXU0ZjlPZVVqTWN0RTFB?oc=5",
+        "pubDate": "Thu, 21 May 2026 18:01:59 GMT",
+        "summary": "Hedge Fund and Insider Trading News: Christopher Hohn, Paul Tudor Jones, Bill Ackman, Bridgewater Associates, Brevan Howard Asset Management, Aflac Inc (AFL), Astera Labs, Inc (ALAB), and More Insider Monkey",
+        "source": "Insider Monkey"
       },
       {
         "title": "March has been a brutal month for macro hedge funds — with one notable exception - Business Insider",
@@ -114,17 +114,10 @@
     ],
     "jpm": [
       {
-        "title": "The winter of our discontent: generative AI disrupts the entertainment industry content moat - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPemJWdHRoYWJkN1Vob3lPQ0N2eS00ZERORDYwMG5uTVZrYllOaUxsNXNNUTYwOXRJS0NOTFlFbDJIUTAydk5sdkhraU1wQ19WV0xNX3BrVUhwc01DUmNPQ2tISHpSR3l2WFZ3V3JSQ0VwTjdneldIamFpZllEM0hLN0J6NzVTNVUzT2tzLUd3VDVrZDZ6ZU9qTlljeHNTUEtwOFptZ0E3NC10eGI3NkNYUTZZQjNXWUxPaC1ZX0VvelZCYzhsekxieDhqa1NTX2ZfejhTYU05NG5JRWNqX3hTUmhFVGhrNUVURUlOUHNDQkVjSDY0X3VvUw?oc=5",
-        "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT",
-        "summary": "The winter of our discontent: generative AI disrupts the entertainment industry content moat J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
-      },
-      {
-        "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGpLVEdXMEstR1VNVUN4TXlqZms2RG5GMGU4enhWR1JQeXBhXzM3dXR0Wk85OGtqVW5WLW14Y0JlbnJMRTZiMzEzQTA3OVFJZk9iR2tnZVlNNDN4NTYwUFY3VW1NZ2JlNmlXdzhTTUJyZ0lGMVdFVjZzSjZNeDEwd1U0RGNUN1lWS3ItaVZXeTZIUU9paWJ5QjdNaENlV3ZlUzZWR0xCek81OVhMNk81NGRLREktZDVOSFk1WG9n?oc=5",
-        "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
-        "summary": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries Institutional Investor",
+        "title": "The War-Driven Spike in Oil Prices May Lead to Only ‘Modest’ GDP Contractions, Says Michael Cembalest - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEdkLW1PRU8wTnlWTHhOQmc2VFcyUXZLdk1GVzhoc1BMMHJ1M1pFVDFMU0FTY0gzYm9kMldPOFpsd1BMc29mekFNR0QzSFNFUXc2TFFYU3dlNjhiRHg2S09OZnNMUWRldklsSjRWR3hjWHhwXzcxd0R2ZlJUanV2V2lkaWtwMUN4SUxqeEdnV2JHSThmTmxkNVhHUEl3bEhxejRZdTN5RGEycmdtR1VfWjU3bjZQbWsxWVFWU2k1TEZzR0pzNWQxbjM0NFYwMUk?oc=5",
+        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "summary": "The War-Driven Spike in Oil Prices May Lead to Only ‘Modest’ GDP Contractions, Says Michael Cembalest Institutional Investor",
         "source": "Institutional Investor"
       },
       {
@@ -135,6 +128,13 @@
         "source": "Chase Bank"
       },
       {
+        "title": "JPMorgan: Indonesia ranks second most resilient to global energy shock - IDNFinancials.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3dXYjZTay1rU2JZc0JDR0txdXBRSFlRTTRyYTc2OXVvR2ZXRTUzcUlWNjlWZXZXZG5RY3ZxQnFiSVZfLTdnTWcydmpvYVNZYW1BNnBaVktPSG5SbTZrQkhVSDVwLTVLN3FRcHdfV0E1WkNhTG44QjdWYzdEWUFMZGE4VWEyNWpJS1p3bWl5dFI5UFd6S3pOcHpvSTE2VFRSUVlWblFPUy1xWXZCZDE0?oc=5",
+        "pubDate": "Sat, 25 Apr 2026 07:00:00 GMT",
+        "summary": "JPMorgan: Indonesia ranks second most resilient to global energy shock IDNFinancials.com",
+        "source": "IDNFinancials.com"
+      },
+      {
         "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
         "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
@@ -142,11 +142,11 @@
         "source": "J.P. Morgan Private Bank"
       },
       {
-        "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
-        "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
-        "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
-        "source": "Fortune"
+        "title": "The winter of our discontent: generative AI disrupts the entertainment industry content moat - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPemJWdHRoYWJkN1Vob3lPQ0N2eS00ZERORDYwMG5uTVZrYllOaUxsNXNNUTYwOXRJS0NOTFlFbDJIUTAydk5sdkhraU1wQ19WV0xNX3BrVUhwc01DUmNPQ2tISHpSR3l2WFZ3V3JSQ0VwTjdneldIamFpZllEM0hLN0J6NzVTNVUzT2tzLUd3VDVrZDZ6ZU9qTlljeHNTUEtwOFptZ0E3NC10eGI3NkNYUTZZQjNXWUxPaC1ZX0VvelZCYzhsekxieDhqa1NTX2ZfejhTYU05NG5JRWNqX3hTUmhFVGhrNUVURUlOUHNDQkVjSDY0X3VvUw?oc=5",
+        "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT",
+        "summary": "The winter of our discontent: generative AI disrupts the entertainment industry content moat J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
       }
     ],
     "ms": [
@@ -202,6 +202,13 @@
         "source": "Seeking Alpha"
       },
       {
+        "title": "Portfolio Managers See Potential for REIT Outperformance in 2026 - Nareit",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2hLclVySEFpUmRCb25ZTHJ5UjVXYkxRR0d2RkVPZUY4Z2pUejEtc2lIa3lrQkw1OFZPUk5BRTh3ZXRNUWM5UTZ4NHJGbHdDeTR3bEMxZXBkdDl6Zl85Vk9sTmtFa2VjYk9TcGJ0QllDdEdqaUZRQ0NrOVhtZzZobkkzdGVlazRtN3ZrNWI4ZWVKQ25TTXU5dVF2dUFtNkRs?oc=5",
+        "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+        "summary": "Portfolio Managers See Potential for REIT Outperformance in 2026 Nareit",
+        "source": "Nareit"
+      },
+      {
         "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
         "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
@@ -214,13 +221,6 @@
         "pubDate": "Wed, 06 Aug 2025 07:00:00 GMT",
         "summary": "4 reasons why PIMCO rules out that Trump can dismiss Powell from the Fed RankiaPro",
         "source": "RankiaPro"
-      },
-      {
-        "title": "New CEO for PIMCO - Super Review",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MMFdUT3gwalFpZHRUdXZtOUphcFZxcmVGWjZiazNCYVBsamFTTklXT2dMaE9GRVdfZWpaMnhXNHpXR2RMbDlfaVVNQjNsZzlxal8wNlRXWkE?oc=5",
-        "pubDate": "Wed, 03 Dec 2025 12:14:21 GMT",
-        "summary": "New CEO for PIMCO Super Review",
-        "source": "Super Review"
       }
     ],
     "fed": [
@@ -283,18 +283,18 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central banks are buying more gold than expected, and purchases will increase further through 2026 – Goldman Sachs - KITCO",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2REY2Z2Z3dLMEZsZG1McVc1ZkhmQU5Xd00xa1R3WGU3MWE1RURBOWFaRWpUVWlWdTZmaGZvOGZTNktkbmJGbXc1Q2RLRVptRzlhUlRXV0ctYWpMQkJuVk5PQzRHZ2c1UTltRzdMVkZ5SE1HckVCdC1KeXU4VGI5dkRhWENLMGRyTHNQYjQxaUJHVjA1UUlnakxXbkRHYUd1NmRZUkU4d2xZdl9NTXIyTXo5MWxfa3NQ?oc=5",
-        "pubDate": "Tue, 19 May 2026 14:58:00 GMT",
-        "summary": "Central banks are buying more gold than expected, and purchases will increase further through 2026 – Goldman Sachs KITCO",
-        "source": "KITCO"
-      },
-      {
         "title": "Central Bank Gold Buying - Robin J Brooks | Substack",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85d2thWUdsOThRQldGZHhHT1cwVGZJU2lRb3R5ZzNTM0lUTHBlQTVJaTN1Zm5vREgwY3d4bUo0SWRiZ0txbHhHeC1rTmgzUzFBdGhSZkptRk9jX3Mxd25EZWRrT3hDYU9uVXRacA?oc=5",
         "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT",
         "summary": "Central Bank Gold Buying Robin J Brooks | Substack",
         "source": "Robin J Brooks | Substack"
+      },
+      {
+        "title": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdl9uYThIbzVOV3RrbGRKT2RuVjZCWXljUldRR3RfZktFTm1rT1Y5OUNfRUVUNWQ3RjcxRGI4MUhwNG56RzdjQWViczlBZE5LQlB5QWpscDFjcFlsaUpMV1M3YVpvazRfUzh0X2hrczlXQnFXcTR4QzFoM2VDNVR0bW5TalJjR1BsdUdnWFRRekxWa3VtWTViUXkwR210ZWlPY3RSRHVZTUE3NjVQU0lUNEU5bTFmMmhWbHZMVA?oc=5",
+        "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
+        "summary": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council KITCO",
+        "source": "KITCO"
       }
     ]
   },
