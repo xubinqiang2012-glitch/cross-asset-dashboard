@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-05-28T16:34:06+00:00",
+  "fetched_at": "2026-05-28T20:37:27+00:00",
   "values": {
-    "gold": 4499.46,
-    "dxy": 98.91,
-    "real_yield": 2.1
+    "gold": 4497.87,
+    "dxy": 98.97,
+    "real_yield": 2.09
   },
   "source_dates": {
     "gold": "2026-05-28",
     "dxy": "2026-05-28",
-    "real_yield": "2026-05-26"
+    "real_yield": "2026-05-27"
   },
   "errors": {}
 }
