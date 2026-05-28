@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T20:37:25+00:00",
+  "fetched_at": "2026-05-28T23:43:34+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -38,7 +38,43 @@
         "source": "Fortune"
       }
     ],
-    "blackrock": [],
+    "blackrock": [
+      {
+        "title": "Weekly market commentary - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
+        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
+        "source": "Institutional Investor"
+      },
+      {
+        "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
+        "source": "Alternatives Watch"
+      },
+      {
+        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
+      }
+    ],
     "goldman": [
       {
         "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
@@ -122,6 +158,13 @@
         "source": "Morgan Stanley"
       },
       {
+        "title": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSGJjVmYzbzBDcFZYY1dkdy1NXzVHWWJUSDVmbE9SWHJudmxscF9JNVk2OU9CVXFiNkk4bEl5eWpwT3ltR1NXQ2J0WDR2R29aSnlWN3l4UTZuVEFFLUZ4cVZZYjZFQkZoR2JhdUFvTUZsNDY0ZjIzSmN3TWZ5eWZWNG1odUhOeWdyWjlHd3JId0VBMmVESFltNkZpRksxOGo0MGRiSUxPNmZna1BIRXdsZ1Zpck56R0Rjc3puTVQ2cHFWRDRQc1pvMW1sRHdaMDMzRGdYcXZZeEN1dWtWaHM0dQ?oc=5",
+        "pubDate": "Thu, 28 May 2026 15:45:41 GMT",
+        "summary": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says Moomoo",
+        "source": "Moomoo"
+      },
+      {
         "title": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says - marketscreener.com",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFlQclZkV3U0Z1RZemd4QmF1SHFfNVl5ZVdqSE9oX2NvRHIwMklObW90aW5jVEFqNm8zMEpaTEtjZFpLb1ZuZm44aU1JdlNtR3Y2Y3dyeGl5MEJnNE5vdWhIY3Z2U3VtanZhRThKbFBlVlhKdGRUeXNfVGc1NkFHc3hSOXItWGV1TGUxR3lkTUlNSUVtMjBZay01QTQ5LW5QTy1hUDUxY29ZMDdzMkhIdDZxWEtJdGtXMm5pRzhlR0ViSDh6eElB?oc=5",
         "pubDate": "Thu, 28 May 2026 15:15:55 GMT",
@@ -141,13 +184,6 @@
         "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
         "summary": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore TradingView",
         "source": "TradingView"
-      },
-      {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
-        "source": "Morgan Stanley"
       }
     ],
     "pimco": [
@@ -233,13 +269,6 @@
         "source": "World Gold Council"
       },
       {
-        "title": "How important are central bank holdings of gold? - Brookings",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlA3TkRabGhiNkd3N0VyYTk1VEMtME10RWdXVUlhd05HR25iYkNhcnpvTENiWVVsWklvakFyMmJjVUx2Z2dORTFsWE9jZjRjcjYwQnRiMlFXeG5VOHJHa3ZJUlY3NzJNekdJVzRuOFlNUmpkcFUzdTV3aE1mUW5NblA5VXdaemZaWEgw?oc=5",
-        "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
-        "summary": "How important are central bank holdings of gold? Brookings",
-        "source": "Brookings"
-      },
-      {
         "title": "Central Bank Gold Statistics: Central banks stay the course on gold in February | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcDRZVnp4MXJsbWxUbjdvbW1tN0ZaNG1LcFFRRlNSYU5GZG0wTzR4OVhvaDJjakJDdkFlSjJETzdHaGd3QzVGQmpnNk1xOHRMSjhXVk9BUnBmZ3ZxMjNGRlVTd3A1T0dHMVJSTEdlY3BHS19KT0ZVR1hrN0pkTlBPMVFySkxicTcwRG5tWUlfRjE3WGJqN01BVFVLMHZ0dGdrRjNiM0Z6SzFwaHB1MnZOSGZKSE1GNzA?oc=5",
         "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT",
@@ -259,6 +288,13 @@
         "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
         "summary": "Central banks snap up cheap gold in March with Poland, Uzbekistan and China buying big – World Gold Council KITCO",
         "source": "KITCO"
+      },
+      {
+        "title": "Gold Sinks Again But Central Banks 'Still Buying Heavily' - BullionVault",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0tLNFJpOTYyRUtPQnphbGRNUlc3aFBSYkt0UFlVQjdLdEU3VjJQMTJVUVgyNWduVkd0RGFMay1QT09OcFU1WHgtd1BUa3FMajRWSi1ueEZJOGlmNTJXN0RxRkNIYXhrZ3FFWFRubVU3LUtwck5YUGt4cWFZN0xycG1sU1B2eWJwMjNEQjhWcWM?oc=5",
+        "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+        "summary": "Gold Sinks Again But Central Banks 'Still Buying Heavily' BullionVault",
+        "source": "BullionVault"
       }
     ]
   },
