@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T10:33:51+00:00",
+  "fetched_at": "2026-05-28T16:34:04+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -54,13 +54,6 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
         "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
@@ -73,6 +66,13 @@
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
         "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
         "source": "Bloomberg.com"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
       }
     ],
     "goldman": [
@@ -149,43 +149,7 @@
         "source": "Fortune"
       }
     ],
-    "ms": [
-      {
-        "title": "AI Booms Supports Economic Growth - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
-        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "AI Booms Supports Economic Growth Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFFUcUZNdTRpSVVkZGhnNWZUVkN5VFhGaDAyVFU5SUxrb19NZnN0emVBZjcxWlB6MmpsUjMxZU4zWmxsRF9FbGJTU0JacXVRaHBpQU5jZVpobWZVbmZwVXhyOGlvbDJTNU1vdTFjYWNoeG9UbW8yTktEcUZJVTVuOExaNWdWOWR5U1kyZVI5VHFPbzZYWXZkazQ5dXhRTHRBQjdkMWFUMTdZVW9Bc3Q5OFlQLUFKZGQ0WU1pQ3lXTTczTWYxRkhkcFZvY0dPeV8w?oc=5",
-        "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSUZRdlhzM09LbVh6QzVYc05KVEdabEhaOF9CenNPOHRpU0VVeVhqRXhOQ0xGcnhOXzY2YXlROVRCd0h5VWFnd2daVkplNUlPNW5iZTM5Q3ZldVg0bVd1aEdDOFNGX19WdXZWZGZ6QzF0cmJ3NFRXZzdWZGN2dnZELXg3dzJlbGZrS3h2QVJvRC1PTk5fdWo3OE4zTnlqZzN5WUFzZjAxNDUtRXlSeDM1MUpxRVpWTjVQSHlsSW82UHVZYTM2VkU4b2JLeXhWb1Etcklz?oc=5",
-        "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
-        "summary": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore TradingView",
-        "source": "TradingView"
-      },
-      {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "Morgan Stanley 2026 Outlook: Changes in Policy Environment Plus Rising AI Investment, Market Focus Returns to U.S. Stocks - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FdG1KX0tCTXhkTFU1NEN0N1NsSHN5aXUxUGlfd201blFMWGNuOUNZc3Q5TzdBRFlWNkJKNnhzY2U3NXluc1UtS2xJS05hMGZlcWM4c2tlV19wLTVWYmppTnVMOA?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Morgan Stanley 2026 Outlook: Changes in Policy Environment Plus Rising AI Investment, Market Focus Returns to U.S. Stocks Binance",
-        "source": "Binance"
-      }
-    ],
+    "ms": [],
     "pimco": [
       {
         "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
@@ -216,11 +180,11 @@
         "source": "Investment Week"
       },
       {
-        "title": "The Best Active Bond ETFs to Buy - Morningstar",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xVUZBazBTZktwWEJCQVk5ZnhWejN6WFkySHppbWdQZ1VyUzcxT1gxSWZJM01qT2lnRTE1N2xIdnRaN180YzhJc2JnNllHclNyc3I3N0Q5eFZiNkFEREVzU2ZpOXlZQU1jWmxj?oc=5",
-        "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
-        "summary": "The Best Active Bond ETFs to Buy Morningstar",
-        "source": "Morningstar"
+        "title": "4 reasons why PIMCO rules out that Trump can dismiss Powell from the Fed - RankiaPro",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbFNmLVZUTmpUYjdEV3lZU2NUbUZUbDQxMG81bVdNdFB3TnFXN09uc0ZQbHYtOHlTSFJxOXBobGl1R25TVFhTa1MxSGstc0ZQay1ja1BJT0FwN2s1Mk1uaWdmcmNNc2RZX1FmMy1jemtZNDlTVzB2c3NucG5ISkNWbjJQa25MSGVqWEpTYk5yNGxmXzFlMU5CR2syaEQ?oc=5",
+        "pubDate": "Wed, 06 Aug 2025 07:00:00 GMT",
+        "summary": "4 reasons why PIMCO rules out that Trump can dismiss Powell from the Fed RankiaPro",
+        "source": "RankiaPro"
       }
     ],
     "fed": [
