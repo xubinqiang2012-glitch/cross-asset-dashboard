@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-05-28T23:43:45+00:00",
+  "fetched_at": "2026-05-29T04:42:37+00:00",
   "values": {
-    "gold": 4490.15,
-    "dxy": 98.95
+    "gold": 4509.61,
+    "dxy": 99.03,
+    "real_yield": 2.09
   },
   "source_dates": {
     "gold": "2026-05-29",
-    "dxy": "2026-05-28"
+    "dxy": "2026-05-29",
+    "real_yield": "2026-05-27"
   },
-  "errors": {
-    "real_yield": "HTTP Error 504: Gateway Time-out"
-  }
+  "errors": {}
 }
