@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-29T13:35:17+00:00",
+  "fetched_at": "2026-05-29T17:44:32+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,17 +40,10 @@
     ],
     "blackrock": [
       {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
-        "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait blackrock.com",
+        "title": "Weekly market commentary - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -73,6 +66,13 @@
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
         "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
         "source": "Bloomberg.com"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
       }
     ],
     "goldman": [
@@ -81,13 +81,6 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
         "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
         "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "Stock Markets Are Increasingly Vulnerable to Rising Bond Yields - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3c5Y2JnSFVZTTQ5SVg5MUdLZGZIS0dqdmxtRER4bkRBcEZfMW1tNHZCODFwZjU4S1k5ZmRVOHNOemlmUHV4UnE3bzBhd2tISEpoSUlRNENmTUh4dkdtVlJvZWt3VXAyZm1nbWZhVDEwdlowY0lFaFVzZGY2X093N01FUFNZZERrNWdFQWN1cU1GVTloZVA5b0dvSUhHTWVjMUpTMERxckcwTzlFbjhn?oc=5",
-        "pubDate": "Fri, 22 May 2026 19:01:04 GMT",
-        "summary": "Stock Markets Are Increasingly Vulnerable to Rising Bond Yields Goldman Sachs",
         "source": "Goldman Sachs"
       },
       {
@@ -110,14 +103,21 @@
         "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
         "summary": "Forecasts for the World’s Biggest Economies in 2026 Goldman Sachs",
         "source": "Goldman Sachs"
+      },
+      {
+        "title": "China's Economy is Expected to Grow 4.8% in 2026 Amid Surging Exports - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0hmemdGdDhGdUhiWmJ3dkthWkZocldObjRzcF8wYXFzRVd2TTkxVloyakYyc0txaDVxOFFOdU1ycFh6c2VZNXNSdHZPWXExSmtJNG1NSjZuaEZ5OENsNG4ydDJRYXN0TFlYVHJud2FJQW15cGxHbXVpU01jWW5tVnVUU3RCaW1XU3lfNzRyUnE0aFI4R1MxaGdSbDFxcU1xUWJIejM2VTVlVjQ?oc=5",
+        "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+        "summary": "China's Economy is Expected to Grow 4.8% in 2026 Amid Surging Exports Goldman Sachs",
+        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
       {
-        "title": "The winter of our discontent: generative AI disrupts the entertainment industry content moat - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPemJWdHRoYWJkN1Vob3lPQ0N2eS00ZERORDYwMG5uTVZrYllOaUxsNXNNUTYwOXRJS0NOTFlFbDJIUTAydk5sdkhraU1wQ19WV0xNX3BrVUhwc01DUmNPQ2tISHpSR3l2WFZ3V3JSQ0VwTjdneldIamFpZllEM0hLN0J6NzVTNVUzT2tzLUd3VDVrZDZ6ZU9qTlljeHNTUEtwOFptZ0E3NC10eGI3NkNYUTZZQjNXWUxPaC1ZX0VvelZCYzhsekxieDhqa1NTX2ZfejhTYU05NG5JRWNqX3hTUmhFVGhrNUVURUlOUHNDQkVjSDY0X3VvUw?oc=5",
-        "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT",
-        "summary": "The winter of our discontent: generative AI disrupts the entertainment industry content moat J.P. Morgan Private Bank",
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
       },
       {
@@ -135,10 +135,10 @@
         "source": "Chase Bank"
       },
       {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
+        "title": "Pandora’s Bog: the global energy shock of 2026 - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlYtM2tMMloxMmJScldDSVZxSWlPSVhmYzJQeDlLdFpvOFMyWUFLVXY4NG9zZnJ6eFNZZG9fbzM1TXFKTTRYZzBiek9qXzctMGdWeUk3TVFRV0JyQ3gwT0tEaGg4Ujc4SVpDT0FnVGxBNUdVaF9GUWY5c2hjN3NmdmJ0TkhKMnN0TnVwQTNUanhfcmp4d3g4R2xiZHpJNmx0OTh3Skx5RXVJd2NhUGotejAwdk1fVklxVHc?oc=5",
+        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+        "summary": "Pandora’s Bog: the global energy shock of 2026 J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
       },
       {
