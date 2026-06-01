@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-01T05:15:48+00:00",
+  "fetched_at": "2026-06-01T12:08:58+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,17 +40,10 @@
     ],
     "blackrock": [
       {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
-        "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait blackrock.com",
+        "title": "Weekly market commentary - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -73,6 +66,13 @@
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
         "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
         "source": "Bloomberg.com"
+      },
+      {
+        "title": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIaGhNNmZuU180aUIzZndxUFc0Zi16T2g3LXZpSU9VNUt1em5rOUJqUmxEelU5REJiM1hiYXFreHVMSnlGNGRpc1BhQlkxT1hGQlpuaFhSRDZHTi05cjNUdUE2MA?oc=5",
+        "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT",
+        "summary": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! Binance",
+        "source": "Binance"
       }
     ],
     "goldman": [
@@ -114,10 +114,10 @@
     ],
     "jpm": [
       {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
+        "title": "Pandora’s Bog: the global energy shock of 2026 - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlYtM2tMMloxMmJScldDSVZxSWlPSVhmYzJQeDlLdFpvOFMyWUFLVXY4NG9zZnJ6eFNZZG9fbzM1TXFKTTRYZzBiek9qXzctMGdWeUk3TVFRV0JyQ3gwT0tEaGg4Ujc4SVpDT0FnVGxBNUdVaF9GUWY5c2hjN3NmdmJ0TkhKMnN0TnVwQTNUanhfcmp4d3g4R2xiZHpJNmx0OTh3Skx5RXVJd2NhUGotejAwdk1fVklxVHc?oc=5",
+        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+        "summary": "Pandora’s Bog: the global energy shock of 2026 J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
       },
       {
@@ -135,10 +135,10 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "Pandora’s Bog: the global energy shock of 2026 - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlYtM2tMMloxMmJScldDSVZxSWlPSVhmYzJQeDlLdFpvOFMyWUFLVXY4NG9zZnJ6eFNZZG9fbzM1TXFKTTRYZzBiek9qXzctMGdWeUk3TVFRV0JyQ3gwT0tEaGg4Ujc4SVpDT0FnVGxBNUdVaF9GUWY5c2hjN3NmdmJ0TkhKMnN0TnVwQTNUanhfcmp4d3g4R2xiZHpJNmx0OTh3Skx5RXVJd2NhUGotejAwdk1fVklxVHc?oc=5",
-        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-        "summary": "Pandora’s Bog: the global energy shock of 2026 J.P. Morgan Private Bank",
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
       },
       {
@@ -158,20 +158,6 @@
         "source": "Morgan Stanley"
       },
       {
-        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFFUcUZNdTRpSVVkZGhnNWZUVkN5VFhGaDAyVFU5SUxrb19NZnN0emVBZjcxWlB6MmpsUjMxZU4zWmxsRF9FbGJTU0JacXVRaHBpQU5jZVpobWZVbmZwVXhyOGlvbDJTNU1vdTFjYWNoeG9UbW8yTktEcUZJVTVuOExaNWdWOWR5U1kyZVI5VHFPbzZYWXZkazQ5dXhRTHRBQjdkMWFUMTdZVW9Bc3Q5OFlQLUFKZGQ0WU1pQ3lXTTczTWYxRkhkcFZvY0dPeV8w?oc=5",
-        "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
         "title": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlZEYUhpMWR3ZTdfcG96RjJveDBOemVqc0JmMzVoZDVLWHR5OEI5eDI0NEtZb0NYMnlNSkNCbXVITkw1c1FTVVY4OHNWa09fbDhVdXRKZlJYZFBSb2U1ekpGOVJ3TWpwekRDRUFScERpdnplUGMzMEFCMUstSGZkSlRicTFoMW5pRU41MWd4NHZ1YjNBNE1rRkR2Tk1Ybm80SGRKTUlNSld5eGkyRS1VMHR3?oc=5",
         "pubDate": "Thu, 28 May 2026 16:51:50 GMT",
@@ -179,18 +165,32 @@
         "source": "Moomoo"
       },
       {
-        "title": "AI Market Trends 2026: Global Investment, Risks, and Buildout - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYVVkMUg5TTVySTJlUFJmX041MlVhYmpweFZJWkZBcGh2VGxSc09WYmtiN0Fvcy1kbkZveGlYeGVQd1phVko0eHFNdnFCR09PZThsSmhOU1pmQTlPd3g1MmkxaTIzMzFhTmh4aFFXM1pIOTNGellydnpkc3RKWnViM2Z6dkxUUQ?oc=5",
-        "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
-        "summary": "AI Market Trends 2026: Global Investment, Risks, and Buildout Morgan Stanley",
+        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFFUcUZNdTRpSVVkZGhnNWZUVkN5VFhGaDAyVFU5SUxrb19NZnN0emVBZjcxWlB6MmpsUjMxZU4zWmxsRF9FbGJTU0JacXVRaHBpQU5jZVpobWZVbmZwVXhyOGlvbDJTNU1vdTFjYWNoeG9UbW8yTktEcUZJVTVuOExaNWdWOWR5U1kyZVI5VHFPbzZYWXZkazQ5dXhRTHRBQjdkMWFUMTdZVW9Bc3Q5OFlQLUFKZGQ0WU1pQ3lXTTczTWYxRkhkcFZvY0dPeV8w?oc=5",
+        "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
         "source": "Morgan Stanley"
+      },
+      {
+        "title": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says - marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFlQclZkV3U0Z1RZemd4QmF1SHFfNVl5ZVdqSE9oX2NvRHIwMklObW90aW5jVEFqNm8zMEpaTEtjZFpLb1ZuZm44aU1JdlNtR3Y2Y3dyeGl5MEJnNE5vdWhIY3Z2U3VtanZhRThKbFBlVlhKdGRUeXNfVGc1NkFHc3hSOXItWGV1TGUxR3lkTUlNSUVtMjBZay01QTQ5LW5QTy1hUDUxY29ZMDdzMkhIdDZxWEtJdGtXMm5pRzhlR0ViSDh6eElB?oc=5",
+        "pubDate": "Thu, 28 May 2026 15:15:55 GMT",
+        "summary": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says marketscreener.com",
+        "source": "marketscreener.com"
+      },
+      {
+        "title": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSUZRdlhzM09LbVh6QzVYc05KVEdabEhaOF9CenNPOHRpU0VVeVhqRXhOQ0xGcnhOXzY2YXlROVRCd0h5VWFnd2daVkplNUlPNW5iZTM5Q3ZldVg0bVd1aEdDOFNGX19WdXZWZGZ6QzF0cmJ3NFRXZzdWZGN2dnZELXg3dzJlbGZrS3h2QVJvRC1PTk5fdWo3OE4zTnlqZzN5WUFzZjAxNDUtRXlSeDM1MUpxRVpWTjVQSHlsSW82UHVZYTM2VkU4b2JLeXhWb1Etcklz?oc=5",
+        "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
+        "summary": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore TradingView",
+        "source": "TradingView"
       }
     ],
     "pimco": [
       {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
-        "pubDate": "Thu, 28 May 2026 20:34:43 GMT",
+        "pubDate": "Thu, 28 May 2026 20:10:00 GMT",
         "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
         "source": "CNBC"
       },
