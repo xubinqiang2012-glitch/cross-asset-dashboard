@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-06-02T21:24:02+00:00",
+  "fetched_at": "2026-06-03T00:02:06+00:00",
   "values": {
-    "gold": 4488.0,
-    "dxy": 99.17,
-    "real_yield": 2.07
+    "gold": 4478.55,
+    "dxy": 99.255
   },
   "source_dates": {
-    "gold": "2026-06-02",
-    "dxy": "2026-06-02",
-    "real_yield": "2026-06-01"
+    "gold": "2026-06-03",
+    "dxy": "2026-06-03"
   },
-  "errors": {}
+  "errors": {
+    "real_yield": "HTTP Error 502: Bad Gateway"
+  }
 }
