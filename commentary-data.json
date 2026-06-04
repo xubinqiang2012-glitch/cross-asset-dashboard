@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-04T20:24:28+00:00",
+  "fetched_at": "2026-06-04T23:36:31+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -24,26 +24,33 @@
         "source": "HedgeCo.Net"
       },
       {
-        "title": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0hDRkZEZjE2R3otaTdMZER2U2Nkbmg2MHE0VEY2QjhLWWhWRUNjanVDZVdzM2VoanhIbG5odXlSVkNRSEZ4RUpFQ3pubWVRdE1CZTNFQnpLZ19uQVVidEtJanlNblBCZmRzQnR1X0hpdXBTNGlTOGtLQ2pacWFyOHl1czVVWmlPeF9FRy0tNHloOGJWR0U4aF9zMTRUOHJMRDFqVHVSUlh4aldHMENheDZVRmZ0b2pXclhJbmpxM0w1MXdscEZFU1g4MmpFQQ?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "Bridgewater's flagship Pure Alpha surges 33% in 2025, outperforming biggest hedge fund peers Reuters",
-        "source": "Reuters"
-      },
-      {
         "title": "March has been a brutal month for macro hedge funds — with one notable exception - Business Insider",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTVla0I4OHpPbnpIbVY0dkVxZWdGdFV6UGl6X0Rva1R6YjE5NHRQNVgxOHJCb1FvbXhwaWdqNk9IaFBMYXBEeUVqeGEwWjVreTJPWUoxVXZzd3dSUWZiZ0hDZ1kwbHJRdTEwX3ItUmhxOHZ1YmRJUWdFa1ZDLXh0dUJFWlFLdDdSZ241MVZRdXB2d3BZalg0SWVlUVBKZVNFZ1FWZ2tjYUE5RXNT?oc=5",
         "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
         "summary": "March has been a brutal month for macro hedge funds — with one notable exception Business Insider",
         "source": "Business Insider"
+      },
+      {
+        "title": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUNqZ2Z6Q1hfVi0zZ21WRXFHR3kxUmt3RzRRaC1nX3liZXhPUEJIaERvQTl6OXNxZWVPbjJZREoxS041SVVLX3RKMEM3NjV3dldsbnVQQTBpd2hvWTFyckxiNkR3QndQTWFkZ2dIY2NZWUNONmdpajI2Wm5NT2drUXdlVHdDMmdwZ1RRRlVhQjI4ajQ2QktEXzZR?oc=5",
+        "pubDate": "Sat, 14 Mar 2026 07:00:00 GMT",
+        "summary": "Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' Fortune",
+        "source": "Fortune"
       }
     ],
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbENTeHZQckVxdzhUX1hiS2tJQk5oSFY0bXBkMmo0RU42NHhpcWV3dUY4M0M4cDhXM2s3UVJTX3BkWTF2ZERidGVleW5MODZ6bzVZdGMyMTFZNDRuRVJPaXcwNmpCWFhUTzRRRUdfSy1zeC1DNktDV3NNQVl0VGRZckR1V0hpZzN4UnN5MHlBV3lyd3dpdXI4?oc=5",
+        "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "Global Weekly Commentary - Insights - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1laG4tQ3hkTWNwejc4TEdNNTlRTXppWkJXM0w4NmF3N0gydzI5c0JyNkcwX2gxVnRneE42YktPSk1TYld2aUhvdUZCdEVUOUxRVzcyZXhET3FRRHpKbGhZU01xXzA4cTV2UXNOcXhhRjlQOERwbXg2ZFNJX1c?oc=5",
+        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+        "summary": "Global Weekly Commentary - Insights blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -59,59 +66,9 @@
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
-      },
-      {
-        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
-        "source": "Bloomberg.com"
-      },
-      {
-        "title": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIaGhNNmZuU180aUIzZndxUFc0Zi16T2g3LXZpSU9VNUt1em5rOUJqUmxEelU5REJiM1hiYXFreHVMSnlGNGRpc1BhQlkxT1hGQlpuaFhSRDZHTi05cjNUdUE2MA?oc=5",
-        "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT",
-        "summary": "BlackRock 2026 Outlook: Watch AI, Invest in Crypto! Binance",
-        "source": "Binance"
       }
     ],
-    "goldman": [
-      {
-        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
-        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
-        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
-        "pubDate": "Fri, 29 May 2026 07:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
-      {
-        "title": "China’s Exports Are Expected to Slow Before Green Energy Surge - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHlMME1VVENmSlNvb3Z0RTVKcGtmeWlFR1dfSmJHSkZwd0c3ajkzaERGVjhxOXQwWVE3WmpFaEZqMDNlWDRoV3ZNa0pGZWFqUG9SUV9hR0FMZ3NmeFFHTGhTVVc1X0RRT3pBLW0teG4zejRIcG1tbnV0UXpPSmJuV2pUY3U5T3RPclJVNjBCUVhhNTVLUC1xY1BsejM0b1F5bm5Ham9SZUpYMDVn?oc=5",
-        "pubDate": "Wed, 13 May 2026 07:00:00 GMT",
-        "summary": "China’s Exports Are Expected to Slow Before Green Energy Surge Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
-        "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
-        "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
-        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
-        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
-        "source": "Goldman Sachs"
-      }
-    ],
+    "goldman": [],
     "jpm": [
       {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
@@ -151,10 +108,10 @@
     ],
     "ms": [
       {
-        "title": "AI Booms Supports Economic Growth - Morgan Stanley",
+        "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "AI Booms Supports Economic Growth Morgan Stanley",
+        "summary": "Midyear Economic Outlook: AI Drives Resilient Growth Morgan Stanley",
         "source": "Morgan Stanley"
       },
       {
@@ -172,11 +129,11 @@
         "source": "Moomoo"
       },
       {
-        "title": "Morgan Stanley stock (US6174464486): shares firm as investors digest sector trends and macro outlook - AD HOC NEWS",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXFWQTVUQmFOSENYMVRpM2pJRnJUREszYU9HdUl4aXd5cXhTeUFFS0dhTjJmOGJ1Y1A4TXdpZmg4ajhndGhkWTRCNVJiVE1FWlFER0NLMy1jbWhsOVNET3NzWWExN2ktbmZjWnZkaS10eDBhVjBOR0N2UXI0WnFvOVBDRm82alprZUVCTlRCRld1bkV6bWxOOFY5WERrNTNZUE4tZnd1RzRVazZmWUhOMWNFRllMRjZSZXZ5Y2Qtenk1Zw?oc=5",
-        "pubDate": "Thu, 04 Jun 2026 07:49:30 GMT",
-        "summary": "Morgan Stanley stock (US6174464486): shares firm as investors digest sector trends and macro outlook AD HOC NEWS",
-        "source": "AD HOC NEWS"
+        "title": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSUZRdlhzM09LbVh6QzVYc05KVEdabEhaOF9CenNPOHRpU0VVeVhqRXhOQ0xGcnhOXzY2YXlROVRCd0h5VWFnd2daVkplNUlPNW5iZTM5Q3ZldVg0bVd1aEdDOFNGX19WdXZWZGZ6QzF0cmJ3NFRXZzdWZGN2dnZELXg3dzJlbGZrS3h2QVJvRC1PTk5fdWo3OE4zTnlqZzN5WUFzZjAxNDUtRXlSeDM1MUpxRVpWTjVQSHlsSW82UHVZYTM2VkU4b2JLeXhWb1Etcklz?oc=5",
+        "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
+        "summary": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore TradingView",
+        "source": "TradingView"
       },
       {
         "title": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says - marketscreener.com",
@@ -187,13 +144,6 @@
       }
     ],
     "pimco": [
-      {
-        "title": "PDO: Best For A Normalizing Interest Rate Environment (NYSE:PDO) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNazVvU1ZRa0hhOGxKdGdOZkh0UUdvcS10Zl9UR0ZGX0VoWHJvZ2Ntc1U0cV9OeHQtaEdTMXZMcGFPeUhRSzhKN2UxeGJHd2tEOHBhTS0xWnJPejF0SEhYVjNYdDdlcmF6QTZwclpqekdib0hBX093N01nR1dGb3hjNUxXUHRfXzJWU19ic0VBeGlwWnhqMXZQcA?oc=5",
-        "pubDate": "Tue, 02 Jun 2026 22:15:47 GMT",
-        "summary": "PDO: Best For A Normalizing Interest Rate Environment (NYSE:PDO) Seeking Alpha",
-        "source": "Seeking Alpha"
-      },
       {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
@@ -214,6 +164,13 @@
         "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
         "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
         "source": "Wealth Professional"
+      },
+      {
+        "title": "Income In 2026: Opportunity Without Overreach - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWYtOXByTWNoeGo3eGdMZEhkYUV2cWgwTEdTN1BrOGhPRnZVZ25yWGJnbVh4SnRiMDVWcHgxdUpSRGNuUGVjbUpKNmhZYUxzMDRpRzJSVHlWUF8yN3FzaHBLMm9qTHF1eGRWY05RNHZsU2xWR3dsMF9CVHloWkJ4X040OS1yZzczNkRvWURn?oc=5",
+        "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
+        "summary": "Income In 2026: Opportunity Without Overreach Seeking Alpha",
+        "source": "Seeking Alpha"
       },
       {
         "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
@@ -276,11 +233,11 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "Global Central Banks Report Net Gold Purchases in April 2026 After March Sales - IndexBox",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkZYa0dSUmpDcXFJcVl5dkpQVHdncHFSM19uLTc0QkFnLUVMQWNHSFR1MF9YZFY3X3VGY0s1RXVMRG51VnlrbzVKZ3JQYjFyMEl0RGVoWl92TE5Vb2h3SXJDN2xyT3dfSzZoLWhmUEtIaEJCdjNoN09TQUtoZ2JRcEtQZHgwY3VRVHlmbS1fRlRiMGhFWjF4QV9NS1JERzNLYkg4NmJHVGN5SWJN?oc=5",
-        "pubDate": "Thu, 04 Jun 2026 10:30:00 GMT",
-        "summary": "Global Central Banks Report Net Gold Purchases in April 2026 After March Sales IndexBox",
-        "source": "IndexBox"
+        "title": "Central bank gold statistics: Momentum eases in January while demand base broadens - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2htQmdDX3UtNFZjdFhWc2EzV1EwMjlOMTNoLUpVZEgzYlRnLWZJR2xYTFh2WUhqcEljTEhHdnBNVWg3SktqTE5VR2JDakY5aVU2WFVRaktnQWE2SndhbUhQWjZDU3JJRjB2YVVyQzdudlU4OG4yX0Q5SklEYUNMUFN0YWdmcDkyV3VQT1Y3M1U1Z2d6ZDJUQk5tQlRnTXVwczM2OFEzYnpacVU5QVZEdXZKczhUNmF3?oc=5",
+        "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "summary": "Central bank gold statistics: Momentum eases in January while demand base broadens World Gold Council",
+        "source": "World Gold Council"
       },
       {
         "title": "Central Bank Gold Buying & US Fiscal Pressures Support Higher Gold Prices & Equity Valuations - Crux Investor",
@@ -290,11 +247,11 @@
         "source": "Crux Investor"
       },
       {
-        "title": "Central banks are buying more gold than expected, and purchases will increase further through 2026 – Goldman Sachs - KITCO",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2REY2Z2Z3dLMEZsZG1McVc1ZkhmQU5Xd00xa1R3WGU3MWE1RURBOWFaRWpUVWlWdTZmaGZvOGZTNktkbmJGbXc1Q2RLRVptRzlhUlRXV0ctYWpMQkJuVk5PQzRHZ2c1UTltRzdMVkZ5SE1HckVCdC1KeXU4VGI5dkRhWENLMGRyTHNQYjQxaUJHVjA1UUlnakxXbkRHYUd1NmRZUkU4d2xZdl9NTXIyTXo5MWxfa3NQ?oc=5",
-        "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
-        "summary": "Central banks are buying more gold than expected, and purchases will increase further through 2026 – Goldman Sachs KITCO",
-        "source": "KITCO"
+        "title": "Global Central Banks Report Net Gold Purchases in April 2026 After March Sales - IndexBox",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkZYa0dSUmpDcXFJcVl5dkpQVHdncHFSM19uLTc0QkFnLUVMQWNHSFR1MF9YZFY3X3VGY0s1RXVMRG51VnlrbzVKZ3JQYjFyMEl0RGVoWl92TE5Vb2h3SXJDN2xyT3dfSzZoLWhmUEtIaEJCdjNoN09TQUtoZ2JRcEtQZHgwY3VRVHlmbS1fRlRiMGhFWjF4QV9NS1JERzNLYkg4NmJHVGN5SWJN?oc=5",
+        "pubDate": "Thu, 04 Jun 2026 10:30:00 GMT",
+        "summary": "Global Central Banks Report Net Gold Purchases in April 2026 After March Sales IndexBox",
+        "source": "IndexBox"
       }
     ]
   },
