@@ -1,14 +1,13 @@
 {
-  "fetched_at": "2026-06-05T23:37:49+00:00",
+  "fetched_at": "2026-06-06T03:56:13+00:00",
   "values": {
-    "dxy": 100.05,
     "real_yield": 2.11
   },
   "source_dates": {
-    "dxy": "2026-06-05",
     "real_yield": "2026-06-04"
   },
   "errors": {
-    "gold": "could not convert string to float: '\"0\")).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"'"
+    "gold": "could not convert string to float: '\"0\")).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"'",
+    "dxy": "could not convert string to float: '\"0\")).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"'"
   }
 }
