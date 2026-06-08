@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-08T05:01:15+00:00",
+  "fetched_at": "2026-06-08T11:20:39+00:00",
   "values": {
     "real_yield": 2.11
   },
@@ -7,7 +7,7 @@
     "real_yield": "2026-06-04"
   },
   "errors": {
-    "gold": "could not convert string to float: '\"0\")).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"'",
-    "dxy": "could not convert string to float: '\"0\")).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"'"
+    "gold": "HTTP Error 404: Not Found",
+    "dxy": "HTTP Error 404: Not Found"
   }
 }
