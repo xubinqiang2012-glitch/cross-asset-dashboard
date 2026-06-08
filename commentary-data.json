@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-07T19:39:32+00:00",
+  "fetched_at": "2026-06-08T05:01:13+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,8 +41,8 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbENTeHZQckVxdzhUX1hiS2tJQk5oSFY0bXBkMmo0RU42NHhpcWV3dUY4M0M4cDhXM2s3UVJTX3BkWTF2ZERidGVleW5MODZ6bzVZdGMyMTFZNDRuRVJPaXcwNmpCWFhUTzRRRUdfSy1zeC1DNktDV3NNQVl0VGRZckR1V0hpZzN4UnN5MHlBV3lyd3dpdXI4?oc=5",
+        "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
         "source": "blackrock.com"
       },
@@ -59,13 +59,6 @@
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
-      },
-      {
-        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
-        "source": "Bloomberg.com"
       },
       {
         "title": "A 2026 global macro outlook: Patience - blackrock.com",
@@ -98,17 +91,17 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Euro Area Outlook 2026: Cyclical Boost, Structural Drag, Unchanged Rates - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYnlfVlQwX0VhalgxaTE0UFN1UGl6aFFHMWJqX0UzUU9fa0xYZmVCN0lNUGNxNHJTUmEyTGJGd0diRjZsamVWT0duWTdlU0pfd0NjZDJFUGpPY0Y4ZzZwRDlJUERXM1YyWThpby1WQWY4UkR0MDVHNVQxN0Exc18zbFB6VWIyWV9YNjlUVnRYcnJ1RUJ6ZDBWdWtkZFBITkJMa2lMT2NDQ3JkMUY3YlVhVXBrODJvZFhWeU9HbXJhTWJLam9PZlk2bk9R?oc=5",
-        "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
-        "summary": "Euro Area Outlook 2026: Cyclical Boost, Structural Drag, Unchanged Rates Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
         "title": "Commodity Views 2026 Outlook: Ride the Power Race and Supply Waves - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTFsaktkNDVkZjcwLXQ3UFQ1ZnJJREdqY29KU2hJNGdtZ2FoNlFzb2hLbTZxVmpDZnZCcGJHazJuYVFDMHJKdmQyRUVFVXZkYWZjcHRFMnkzVjFrX2FwT1ZWUi1FNzNnVHRvSmViQ280VW9Oal9xcEZKQl80VExKR1BpenF6NmNCUXdCM3NvNlo5NE4tamlfNW1qWkN1U0llUHlqMGRQblRLRXNGNzVJb0gxZUkzbmExV2dTTA?oc=5",
         "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
         "summary": "Commodity Views 2026 Outlook: Ride the Power Race and Supply Waves Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
+        "title": "Forecasts for the World’s Biggest Economies in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGhpUEI1emNINGhfbVk4eGkwVVcxNEJoM045WDQ4dHRFSUtidjBoNm9wakFNSzk4bjZDU1V3R3E0bTBQS0tmZ0xsZmY0SFA2MTZ1N01OZEppcFYtMFVBZUlJYmJiZWlIbzU0eTVaTG40YlJval9RcExsN05LVG9zdmsyWkNEWjByRjZfY2hQbjFhOUhfbHRVZ0VqMmozZw?oc=5",
+        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+        "summary": "Forecasts for the World’s Biggest Economies in 2026 Goldman Sachs",
         "source": "Goldman Sachs"
       }
     ],
@@ -172,18 +165,18 @@
         "source": "Moomoo"
       },
       {
+        "title": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSUZRdlhzM09LbVh6QzVYc05KVEdabEhaOF9CenNPOHRpU0VVeVhqRXhOQ0xGcnhOXzY2YXlROVRCd0h5VWFnd2daVkplNUlPNW5iZTM5Q3ZldVg0bVd1aEdDOFNGX19WdXZWZGZ6QzF0cmJ3NFRXZzdWZGN2dnZELXg3dzJlbGZrS3h2QVJvRC1PTk5fdWo3OE4zTnlqZzN5WUFzZjAxNDUtRXlSeDM1MUpxRVpWTjVQSHlsSW82UHVZYTM2VkU4b2JLeXhWb1Etcklz?oc=5",
+        "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
+        "summary": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore TradingView",
+        "source": "TradingView"
+      },
+      {
         "title": "Morgan Stanley 2026 Outlook: Changes in Policy Environment Plus Rising AI Investment, Market Focus Returns to U.S. Stocks - Binance",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FdG1KX0tCTXhkTFU1NEN0N1NsSHN5aXUxUGlfd201blFMWGNuOUNZc3Q5TzdBRFlWNkJKNnhzY2U3NXluc1UtS2xJS05hMGZlcWM4c2tlV19wLTVWYmppTnVMOA?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
         "summary": "Morgan Stanley 2026 Outlook: Changes in Policy Environment Plus Rising AI Investment, Market Focus Returns to U.S. Stocks Binance",
         "source": "Binance"
-      },
-      {
-        "title": "Why Morgan Stanley slashed its gold price forecast to $5,200, down from $5,700 — is the gold bull run over - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOWlU1V3BXeXdrYm9SWFo0bnVxbExtWHN0NC0tS1djZU1Md3NXS3RPQVpGcTRad09zMmVuU1FOX0EzMTlQWHFXNHV0Y3NUakxDc2lQU2kxQWttb0dESW1pVC1fUWU3Qm83Umhhel8wQjhlTW1LZFJaQjVTeHQ5bnpkaHNTZUhScHlPc2pTY1RUc0d2ay01bWFmay1BXzNxU05rS2NfU1lkX3NWOXZjbTFsbnhnS1pNNFRrbGlWNzhRUU4tN2N5ZHFJNGtjeGNFNUxGWkxWVHVBcHIwbnBQTWg4a3k3UFluUko4YzRlbVA2aDVqYkViMkdIM0FFTGJsR2lPYWt4YkJfWlg2MF81NERtTGMyV1JzRmZpdXYyNlZOVG5mOWRLMjVNckx2ZWFCNGxyZFJYT21PN2xwVVVPajVRYkJFc01fOTBSNlVoNjVSZHYxQzgzSDB1OdIB3gJBVV95cUxPeXhmSUJvaS1BT2xvQWphamgxVTYwX0dsZkh0UjIxVDFFOF94OHJsMk40NWk1S3lVeFpjQzMyNzBJS24wS1NwMld4c1EtUzFRYW40Y0JEbnRoQXNBTFpTQXpDRlNtWFhaVTBvZWdHZTNDWTBtOUxHelJtMmFCOEFPZ2xIcEMydnM0Z0dxLTlqYXRLTlVpRmFGZURwbF9SLVN5UnBCejJTUlZIXzk0aFhWTVp0N3lPNW5YUGZWYkZid290UnMtUkczdVhTZ3JzOXZ5eEhMVE9DY290OEpkQVhOSXMxSDV6LUgtcVZqeHcteGtKOUJreXJXYWxGMXZjaDZFYnEya0Vqb1RKcTVGNkstSnllZUdlRXNWZ1g3cmpBN2tXeExMb3A0N3hNU2pHTFRtZ0pKMDg0ajVWU2VCSENadzM3cEROVlNiUTdORWcxdzAxWlRRVVJKcFQwSkNhZw?oc=5",
-        "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
-        "summary": "Why Morgan Stanley slashed its gold price forecast to $5,200, down from $5,700 — is the gold bull run over The Economic Times",
-        "source": "The Economic Times"
       }
     ],
     "pimco": [
@@ -209,18 +202,18 @@
         "source": "Seeking Alpha"
       },
       {
+        "title": "S&P 500: Seen at 8000 by year-end 2026 – Deutsche Bank - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ieDFPX2gwTS13RmF5VkRpeTh3VjA5YmktWlZkS3RSZFY0V3E0ZFdSNXpEdjVzczE2ZlkzbHEwdFdTTjd3VkxVYWxnWWlPb3FEUXZkVHhzUGJFQU5SbUxWNzJDSTlsOF9iR0HSAWpBVV95cUxPYngxT19oME0td0ZheVZEaXk4d1YwOWJpLVpWZEt0UmRWNFdxNGRXUjV6RHY1c3MxNmZZM2xxMHRXU043d1ZMVWFsZ1lpT29xRFF2ZFR4c1BiRUFOUm1MVjcyQ0k5bDhfYkdB?oc=5",
+        "pubDate": "Tue, 02 Jun 2026 08:20:57 GMT",
+        "summary": "S&P 500: Seen at 8000 by year-end 2026 – Deutsche Bank Bitget",
+        "source": "Bitget"
+      },
+      {
         "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
         "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
         "source": "Livewire Markets"
-      },
-      {
-        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
-        "source": "IFA Magazine"
       }
     ],
     "fed": [
@@ -269,18 +262,18 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Poland, China lead renewed central bank gold buying - Mining.com",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5Rm9YX2cyQlhySHlhWm54Y2dyVkpKam9HbERVTGFZRzR1UEhBWVl0WlJrY2FVbnc3V0xVMXlxcWV6MmVFVDJ0OVJ0QlgwM19hUDhMTWR0bFI4VE5hTXhTY1lub2tseC1JZFJRZ3ZtUXA2eW05MC1pa0p0bldKZnM?oc=5",
-        "pubDate": "Fri, 05 Jun 2026 16:33:53 GMT",
-        "summary": "Poland, China lead renewed central bank gold buying Mining.com",
-        "source": "Mining.com"
-      },
-      {
         "title": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April - Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUQ2UFBhdVk1Z1lNM055aGswaEdmQVFoR2htcDlNVVhNdTZteWV6SHBlZkZHRlZMMjQxbWRXTHFCYUFMcGlLNUhjT0ZHcFh6LTNLdmVZNUhOdmZvaDFFUzdJQWsyTmRlVnluZFVRTV9SRUFRTFBTRmhmcnVQNjV6Z2F4bkd1S0poWi1XNEdmNTZJN2R5czlfZ1hEYXhWRWhOX1MtU1RUZDRJQkE?oc=5",
         "pubDate": "Thu, 04 Jun 2026 11:06:00 GMT",
         "summary": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April Seeking Alpha",
         "source": "Seeking Alpha"
+      },
+      {
+        "title": "Poland, China lead renewed central bank gold buying - Mining.com",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5Rm9YX2cyQlhySHlhWm54Y2dyVkpKam9HbERVTGFZRzR1UEhBWVl0WlJrY2FVbnc3V0xVMXlxcWV6MmVFVDJ0OVJ0QlgwM19hUDhMTWR0bFI4VE5hTXhTY1lub2tseC1JZFJRZ3ZtUXA2eW05MC1pa0p0bldKZnM?oc=5",
+        "pubDate": "Fri, 05 Jun 2026 16:33:53 GMT",
+        "summary": "Poland, China lead renewed central bank gold buying Mining.com",
+        "source": "Mining.com"
       },
       {
         "title": "Central Bank Gold Buying & US Fiscal Pressures Support Higher Gold Prices & Equity Valuations - Crux Investor",
