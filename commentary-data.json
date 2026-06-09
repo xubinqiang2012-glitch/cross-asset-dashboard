@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-09T20:20:24+00:00",
+  "fetched_at": "2026-06-09T23:42:54+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,16 +41,9 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbENTeHZQckVxdzhUX1hiS2tJQk5oSFY0bXBkMmo0RU42NHhpcWV3dUY4M0M4cDhXM2s3UVJTX3BkWTF2ZERidGVleW5MODZ6bzVZdGMyMTFZNDRuRVJPaXcwNmpCWFhUTzRRRUdfSy1zeC1DNktDV3NNQVl0VGRZckR1V0hpZzN4UnN5MHlBV3lyd3dpdXI4?oc=5",
-        "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -159,7 +152,7 @@
       },
       {
         "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFFUcUZNdTRpSVVkZGhnNWZUVkN5VFhGaDAyVFU5SUxrb19NZnN0emVBZjcxWlB6MmpsUjMxZU4zWmxsRF9FbGJTU0JacXVRaHBpQU5jZVpobWZVbmZwVXhyOGlvbDJTNU1vdTFjYWNoeG9UbW8yTktEcUZJVTVuOExaNWdWOWR5U1kyZVI5VHFPbzZYWXZkazQ5dXhRTHRBQjdkMWFUMTdZVW9Bc3Q5OFlQLUFKZGQ0WU1pQ3lXTTczTWYxRkhkcFZvY0dPeV8w?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3ZJejZLSG5kcU1ybklxUk9KYXJ1LWhtd19WSEdtQjNiNElLOUFXbkpSR3E5MHV4SVJqVnZEU1RRdXJINjRUUjNsbWVfUmN1aWc2ekZ5Tkh2dzVHaVZKdUZwM0NWbTVjWklFOWdudWp6ekg4QjQ3cTFqRHBnU0p2YkxTWk92ZVJFNjFTdS12ZXdrTEtZSnNhdkVyd0JZbFhuUWRqNW9MZHh5M1RDSjI1TzlIcW5VRVB5ODh0azlFZVI1VHhCQzVoLWN6ZkpjXzRqakE?oc=5",
         "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
         "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
         "source": "Morgan Stanley"
@@ -172,18 +165,18 @@
         "source": "Moomoo"
       },
       {
+        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
         "title": "Morgan Stanley 2026 Outlook: Changes in Policy Environment Plus Rising AI Investment, Market Focus Returns to U.S. Stocks - Binance",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FdG1KX0tCTXhkTFU1NEN0N1NsSHN5aXUxUGlfd201blFMWGNuOUNZc3Q5TzdBRFlWNkJKNnhzY2U3NXluc1UtS2xJS05hMGZlcWM4c2tlV19wLTVWYmppTnVMOA?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
         "summary": "Morgan Stanley 2026 Outlook: Changes in Policy Environment Plus Rising AI Investment, Market Focus Returns to U.S. Stocks Binance",
         "source": "Binance"
-      },
-      {
-        "title": "Why the US-Israel war with Iran leaves Asian economies exposed - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaUl3MGhhUEdwdVljb0l0bms1Uzh2M3Iyd2tXb0pxMVpkNzdSTk9JNEl0NTlTRF9kSEtlUHNyWGZDR1JfSGdjRkJTRElSM1l2OGZ4SWpYZlpSWjN5aGpEOWZkZlRmRGNQRzlyWnFtTDNtSjAwaDdtUGxlYm4ya0c5NnVTaXFhdmNvbkJ5YmtFcTFxRnNHdFJVcm5IVFdJUXpZRk05UTMyUXE2TUpkT2YzM2l3UmwxRklNSUJfYTM2LXhxY0JuejhOTlZEUWJEZEpHZEppUzgtSGdqQdIB2gFBVV95cUxQd0tsZTZYdVRDVzBOQmUwaTlYOFZrU3NJbWt2b01kWXQ3b1ZBeWs1SVE1XzN6VUpUOFdhS2FBWFRQWjcxc1VQNmdLWFJFVzRsUm44eE5uenBLYUpQdzNUVVNkMnNWNGhWanVsTDhCSlg4UU10Y0ZIX0UtX1JWeEYwM05VcGUtRzdJSi1CNmtSTE1jdnNGV3dnVXF1NEQzVmZyZThqekRfMkxxZmtNRTBaUHRTU0RLRmFZYTBURTF6djh0cE1yTFUxQmhBOXhYVlBRcWFNaXA2M240dw?oc=5",
-        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
-        "summary": "Why the US-Israel war with Iran leaves Asian economies exposed South China Morning Post",
-        "source": "South China Morning Post"
       }
     ],
     "pimco": [
@@ -269,13 +262,6 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUQ2UFBhdVk1Z1lNM055aGswaEdmQVFoR2htcDlNVVhNdTZteWV6SHBlZkZHRlZMMjQxbWRXTHFCYUFMcGlLNUhjT0ZHcFh6LTNLdmVZNUhOdmZvaDFFUzdJQWsyTmRlVnluZFVRTV9SRUFRTFBTRmhmcnVQNjV6Z2F4bkd1S0poWi1XNEdmNTZJN2R5czlfZ1hEYXhWRWhOX1MtU1RUZDRJQkE?oc=5",
-        "pubDate": "Thu, 04 Jun 2026 11:06:00 GMT",
-        "summary": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April Seeking Alpha",
-        "source": "Seeking Alpha"
-      },
-      {
         "title": "Central bank Gold buying and the quiet acceleration of De-Dollarization - FXStreet",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeC1JekZQY1pOSURlRTFFZWwwclFpelJ6UU5mU2s3bjdXZGJvSGF3Tm9Pc19fbGFfNkFwS3dfTzY5LVZnall0ZUxxZzZHaHp1alJ1OEV5S3pXazRjcUlrd1Joc3pkVE5BZ2NiYWRRSGNtVGRrNW1hQjZfZV9BRzYyUTJNR2JINlZyakRtdWdOZDU3OGlfSHA3WXl2STU3RVNMMUdQbTd6a2dNWHI4aXlkdDRsNG5IRDY5QXc?oc=5",
         "pubDate": "Mon, 08 Jun 2026 17:38:00 GMT",
@@ -283,11 +269,11 @@
         "source": "FXStreet"
       },
       {
-        "title": "Poland tops central bank gold buying as Fed rate bets pressure bullion prices - VT Markets",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFduN3NkZEh5bk02eVBabUtUQVljQmpPNXRPTW9RR3dMMlFtVjZ3T19NRHNHMG5vVXRMTzJxUm42TGotZUs3X01La2lXdmhkZkZmSllKN0h2OVpBb085M2hLNGczbTRka1JLRURyc2tPQVEtM1J2OEFheU9MVFpLWXJkMFdfY0M3RlpDZHhMV0tEVEtkaUJLZktnaWE5YkNOLXRBLV9KVXR0UDk3UmRleS1NTXpKZWJVRzlYNw?oc=5",
-        "pubDate": "Tue, 09 Jun 2026 14:01:39 GMT",
-        "summary": "Poland tops central bank gold buying as Fed rate bets pressure bullion prices VT Markets",
-        "source": "VT Markets"
+        "title": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUQ2UFBhdVk1Z1lNM055aGswaEdmQVFoR2htcDlNVVhNdTZteWV6SHBlZkZHRlZMMjQxbWRXTHFCYUFMcGlLNUhjT0ZHcFh6LTNLdmVZNUhOdmZvaDFFUzdJQWsyTmRlVnluZFVRTV9SRUFRTFBTRmhmcnVQNjV6Z2F4bkd1S0poWi1XNEdmNTZJN2R5czlfZ1hEYXhWRWhOX1MtU1RUZDRJQkE?oc=5",
+        "pubDate": "Thu, 04 Jun 2026 11:06:00 GMT",
+        "summary": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April Seeking Alpha",
+        "source": "Seeking Alpha"
       },
       {
         "title": "Poland, China lead renewed central bank gold buying - Mining.com",
@@ -295,6 +281,13 @@
         "pubDate": "Fri, 05 Jun 2026 16:33:53 GMT",
         "summary": "Poland, China lead renewed central bank gold buying Mining.com",
         "source": "Mining.com"
+      },
+      {
+        "title": "Poland tops central bank gold buying as Fed rate bets pressure bullion prices - VT Markets",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFduN3NkZEh5bk02eVBabUtUQVljQmpPNXRPTW9RR3dMMlFtVjZ3T19NRHNHMG5vVXRMTzJxUm42TGotZUs3X01La2lXdmhkZkZmSllKN0h2OVpBb085M2hLNGczbTRka1JLRURyc2tPQVEtM1J2OEFheU9MVFpLWXJkMFdfY0M3RlpDZHhMV0tEVEtkaUJLZktnaWE5YkNOLXRBLV9KVXR0UDk3UmRleS1NTXpKZWJVRzlYNw?oc=5",
+        "pubDate": "Tue, 09 Jun 2026 14:01:39 GMT",
+        "summary": "Poland tops central bank gold buying as Fed rate bets pressure bullion prices VT Markets",
+        "source": "VT Markets"
       }
     ]
   },
