@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-06-10T18:42:08+00:00",
+  "fetched_at": "2026-06-10T22:20:08+00:00",
   "values": {
-    "real_yield": 2.21
+    "real_yield": 2.2
   },
   "source_dates": {
-    "real_yield": "2026-06-08"
+    "real_yield": "2026-06-09"
   },
   "errors": {
     "gold": "HTTP Error 404: Not Found",
