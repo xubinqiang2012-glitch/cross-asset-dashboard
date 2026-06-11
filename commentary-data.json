@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-11T10:58:03+00:00",
+  "fetched_at": "2026-06-11T16:20:26+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,7 +41,7 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
         "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
         "source": "blackrock.com"
@@ -66,6 +66,13 @@
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
+      },
+      {
+        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg",
+        "source": "Bloomberg"
       }
     ],
     "goldman": [
@@ -107,18 +114,18 @@
     ],
     "jpm": [
       {
-        "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGpLVEdXMEstR1VNVUN4TXlqZms2RG5GMGU4enhWR1JQeXBhXzM3dXR0Wk85OGtqVW5WLW14Y0JlbnJMRTZiMzEzQTA3OVFJZk9iR2tnZVlNNDN4NTYwUFY3VW1NZ2JlNmlXdzhTTUJyZ0lGMVdFVjZzSjZNeDEwd1U0RGNUN1lWS3ItaVZXeTZIUU9paWJ5QjdNaENlV3ZlUzZWR0xCek81OVhMNk81NGRLREktZDVOSFk1WG9n?oc=5",
-        "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
-        "summary": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries Institutional Investor",
-        "source": "Institutional Investor"
-      },
-      {
         "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
         "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
         "source": "Chase Bank"
+      },
+      {
+        "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGpLVEdXMEstR1VNVUN4TXlqZms2RG5GMGU4enhWR1JQeXBhXzM3dXR0Wk85OGtqVW5WLW14Y0JlbnJMRTZiMzEzQTA3OVFJZk9iR2tnZVlNNDN4NTYwUFY3VW1NZ2JlNmlXdzhTTUJyZ0lGMVdFVjZzSjZNeDEwd1U0RGNUN1lWS3ItaVZXeTZIUU9paWJ5QjdNaENlV3ZlUzZWR0xCek81OVhMNk81NGRLREktZDVOSFk1WG9n?oc=5",
+        "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
+        "summary": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries Institutional Investor",
+        "source": "Institutional Investor"
       },
       {
         "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
@@ -135,19 +142,19 @@
         "source": "Fortune"
       },
       {
-        "title": "The War-Driven Spike in Oil Prices May Lead to Only ‘Modest’ GDP Contractions, Says Michael Cembalest - Institutional Investor",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEdkLW1PRU8wTnlWTHhOQmc2VFcyUXZLdk1GVzhoc1BMMHJ1M1pFVDFMU0FTY0gzYm9kMldPOFpsd1BMc29mekFNR0QzSFNFUXc2TFFYU3dlNjhiRHg2S09OZnNMUWRldklsSjRWR3hjWHhwXzcxd0R2ZlJUanV2V2lkaWtwMUN4SUxqeEdnV2JHSThmTmxkNVhHUEl3bEhxejRZdTN5RGEycmdtR1VfWjU3bjZQbWsxWVFWU2k1TEZzR0pzNWQxbjM0NFYwMUk?oc=5",
-        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "summary": "The War-Driven Spike in Oil Prices May Lead to Only ‘Modest’ GDP Contractions, Says Michael Cembalest Institutional Investor",
-        "source": "Institutional Investor"
+        "title": "JPMorgan: Indonesia ranks second most resilient to global energy shock - IDNFinancials.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3dXYjZTay1rU2JZc0JDR0txdXBRSFlRTTRyYTc2OXVvR2ZXRTUzcUlWNjlWZXZXZG5RY3ZxQnFiSVZfLTdnTWcydmpvYVNZYW1BNnBaVktPSG5SbTZrQkhVSDVwLTVLN3FRcHdfV0E1WkNhTG44QjdWYzdEWUFMZGE4VWEyNWpJS1p3bWl5dFI5UFd6S3pOcHpvSTE2VFRSUVlWblFPUy1xWXZCZDE0?oc=5",
+        "pubDate": "Sat, 25 Apr 2026 07:00:00 GMT",
+        "summary": "JPMorgan: Indonesia ranks second most resilient to global energy shock IDNFinancials.com",
+        "source": "IDNFinancials.com"
       }
     ],
     "ms": [
       {
-        "title": "AI Booms Supports Economic Growth - Morgan Stanley",
+        "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "AI Booms Supports Economic Growth Morgan Stanley",
+        "summary": "Midyear Economic Outlook: AI Drives Resilient Growth Morgan Stanley",
         "source": "Morgan Stanley"
       },
       {
@@ -181,18 +188,18 @@
     ],
     "pimco": [
       {
+        "title": "AI Becomes a Macro Variable, Reshaping Investment Logic - Let's Data Science",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEd6UFdXdlNDOHFNNUZYZHFqaUNzRWhlZm51Vk14QURKUENyU0hpYkVGbmR4Y2F5RTZ6UDFmUmlaQ2I4dXY3Tzh0RnFWcnY2MVptSVZZM2ZPQ1N3a0g3M1FZS3BDblN0UkQwcU1wUVpqYUpyOTU1Q1N1Q3FCdkcwWGxmd2NUSXRTWEhRTXEyUVI5UjVvdldtLTZTWWI?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 14:12:00 GMT",
+        "summary": "AI Becomes a Macro Variable, Reshaping Investment Logic Let's Data Science",
+        "source": "Let's Data Science"
+      },
+      {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
         "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
         "source": "CNBC"
-      },
-      {
-        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
-        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
-        "source": "Wealth Professional"
       },
       {
         "title": "Income In 2026: Opportunity Without Overreach - Seeking Alpha",
@@ -202,18 +209,18 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "Partner Insight: Europe's Economic Future - A Stable Base in a Volatile World - Investment Week",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcllCMkFYb19JS2tUVmMyWjM1WXprSWVyVWd4a2Z1VFc4ZGNFZ1dRLXo1bXFOZzRIbk91WkV6NnhXa3BEREJjcjhBN1hoM08xT1FzelFZbi1jWG9xaTNEbkwzdEp5VXFQUzQxWW5SMGdaajdBUUJtaUFBcXNOTlgwYjFvNkUzc1V6UVpfQkhZNWRzcGQ2MnNIR281QUVOZ29mMGNQYzFURUNTVG5nSXc?oc=5",
-        "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT",
-        "summary": "Partner Insight: Europe's Economic Future - A Stable Base in a Volatile World Investment Week",
-        "source": "Investment Week"
+        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
+        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
+        "source": "Wealth Professional"
       },
       {
-        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
-        "source": "Livewire Markets"
+        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
+        "source": "IFA Magazine"
       }
     ],
     "fed": [
