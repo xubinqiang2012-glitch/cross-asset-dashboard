@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-11T04:58:23+00:00",
+  "fetched_at": "2026-06-11T10:58:03+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,9 +41,16 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
         "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "Global Weekly Commentary - Insights - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQl9OVDZrY2VWRjNFM3RrWkQ3QUlNVGtmYmRMQ25oVWo0OTVFT0ZZcHlRTmFTdU1BcXd3ZnhKQXBnTWJDbkhuZXgxZ0lnOVhON2FWWXhuSHNIWEpTejhaTlIwVTNVRVJVR3RjemNjMVZsZFpzYTl3bW1fWFdBazZkWFFlcXJJYkJwU2lZMUtB?oc=5",
+        "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
+        "summary": "Global Weekly Commentary - Insights blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -59,13 +66,6 @@
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
-      },
-      {
-        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg",
-        "source": "Bloomberg"
       }
     ],
     "goldman": [
@@ -107,13 +107,6 @@
     ],
     "jpm": [
       {
-        "title": "Eye on the Market Outlook 2025: The Alchemists - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVVqel9KbTFkdFJlMHlKLVlTV0s1LXdROF9OTEdHNHNabnczYXZOdjFsVEtZSUpUeDlBRy1QdHZBQlNXdFRrX0FvX0tYTnlSSjM0SHBOSUVvQkhoWkZtZTVCOVF6cDBGOXVyQlVaX05BYnNsY2oyQk9DSm9UTThHWWlrY0FSelhUQkpQX2J0QQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 13:02:36 GMT",
-        "summary": "Eye on the Market Outlook 2025: The Alchemists J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
-      },
-      {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGpLVEdXMEstR1VNVUN4TXlqZms2RG5GMGU4enhWR1JQeXBhXzM3dXR0Wk85OGtqVW5WLW14Y0JlbnJMRTZiMzEzQTA3OVFJZk9iR2tnZVlNNDN4NTYwUFY3VW1NZ2JlNmlXdzhTTUJyZ0lGMVdFVjZzSjZNeDEwd1U0RGNUN1lWS3ItaVZXeTZIUU9paWJ5QjdNaENlV3ZlUzZWR0xCek81OVhMNk81NGRLREktZDVOSFk1WG9n?oc=5",
         "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
@@ -128,6 +121,13 @@
         "source": "Chase Bank"
       },
       {
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
+      },
+      {
         "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
         "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
@@ -135,21 +135,14 @@
         "source": "Fortune"
       },
       {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
+        "title": "The War-Driven Spike in Oil Prices May Lead to Only ‘Modest’ GDP Contractions, Says Michael Cembalest - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEdkLW1PRU8wTnlWTHhOQmc2VFcyUXZLdk1GVzhoc1BMMHJ1M1pFVDFMU0FTY0gzYm9kMldPOFpsd1BMc29mekFNR0QzSFNFUXc2TFFYU3dlNjhiRHg2S09OZnNMUWRldklsSjRWR3hjWHhwXzcxd0R2ZlJUanV2V2lkaWtwMUN4SUxqeEdnV2JHSThmTmxkNVhHUEl3bEhxejRZdTN5RGEycmdtR1VfWjU3bjZQbWsxWVFWU2k1TEZzR0pzNWQxbjM0NFYwMUk?oc=5",
+        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "summary": "The War-Driven Spike in Oil Prices May Lead to Only ‘Modest’ GDP Contractions, Says Michael Cembalest Institutional Investor",
+        "source": "Institutional Investor"
       }
     ],
     "ms": [
-      {
-        "title": "Zacks Industry Outlook Highlights Morgan Stanley, The Charles Schwab and Interactive Brokers - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRUJ6TVNVZ2JFX3l6c3NrMzJMZjFtbDE1WmhGX2VvWnQxN2dUTVR2WkFTa01LLVJrN3htdWVocC1hU3lhTlFhVXJjWFA2QnR2c3ZyMmh4RHI2WlY1TkVLMThBZnMxWnNXT1JiaFY0d3hQSndwcVVLSmJhc1M3X1hpX29KeWZKUWRCVFR0eVZuNnpGb2Juc21BZVJfendqd1JadlB5TlVRYmhwMjdfcUlOcmNTQlpUVWpBQVc3NjRmYkxETFBKR2VJZ3FRa1IzOWl0cGZ6T2NKNjNOR1RsclFScUZuc1duVFNSWWxYTTdlUjNRbTAwMHM5RVM3Nl9BMnloU09xbk5nVQ?oc=5",
-        "pubDate": "Wed, 10 Jun 2026 14:30:00 GMT",
-        "summary": "Zacks Industry Outlook Highlights Morgan Stanley, The Charles Schwab and Interactive Brokers The Globe and Mail",
-        "source": "The Globe and Mail"
-      },
       {
         "title": "AI Booms Supports Economic Growth - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
@@ -170,6 +163,13 @@
         "pubDate": "Thu, 28 May 2026 15:13:10 GMT",
         "summary": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says Moomoo",
         "source": "Moomoo"
+      },
+      {
+        "title": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSUZRdlhzM09LbVh6QzVYc05KVEdabEhaOF9CenNPOHRpU0VVeVhqRXhOQ0xGcnhOXzY2YXlROVRCd0h5VWFnd2daVkplNUlPNW5iZTM5Q3ZldVg0bVd1aEdDOFNGX19WdXZWZGZ6QzF0cmJ3NFRXZzdWZGN2dnZELXg3dzJlbGZrS3h2QVJvRC1PTk5fdWo3OE4zTnlqZzN5WUFzZjAxNDUtRXlSeDM1MUpxRVpWTjVQSHlsSW82UHVZYTM2VkU4b2JLeXhWb1Etcklz?oc=5",
+        "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
+        "summary": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore TradingView",
+        "source": "TradingView"
       },
       {
         "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
@@ -262,13 +262,6 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUQ2UFBhdVk1Z1lNM055aGswaEdmQVFoR2htcDlNVVhNdTZteWV6SHBlZkZHRlZMMjQxbWRXTHFCYUFMcGlLNUhjT0ZHcFh6LTNLdmVZNUhOdmZvaDFFUzdJQWsyTmRlVnluZFVRTV9SRUFRTFBTRmhmcnVQNjV6Z2F4bkd1S0poWi1XNEdmNTZJN2R5czlfZ1hEYXhWRWhOX1MtU1RUZDRJQkE?oc=5",
-        "pubDate": "Thu, 04 Jun 2026 11:06:00 GMT",
-        "summary": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April Seeking Alpha",
-        "source": "Seeking Alpha"
-      },
-      {
         "title": "Central Bank Gold Buying & US Fiscal Pressures Support Higher Gold Prices & Equity Valuations - Crux Investor",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVS1MeUR2WlFjU2J0N2hIeTdkOXBVZm9QekxXMFdzQ2xvUURkU2x0SEZPem16Ni14R2xmaVQ0R2JFamxDS2ZTTHUxVG1jT2h2ZzUtcG9CdjZ6bWEwdGYxempERS00clcxdmZGRVRuckRqTG91S2JkNDQ4RU1yOTk1RWJNVDBveHJHWWVDSC1GYlJua21iYzhaV2hETHQwT3Mzc09oNHd4OVVRTjRnTnRUTmpDTjdyRDZsZDNwR2o2b0pxdw?oc=5",
         "pubDate": "Tue, 02 Jun 2026 10:49:26 GMT",
@@ -276,11 +269,11 @@
         "source": "Crux Investor"
       },
       {
-        "title": "Poland, China lead renewed central bank gold buying - Mining.com",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5Rm9YX2cyQlhySHlhWm54Y2dyVkpKam9HbERVTGFZRzR1UEhBWVl0WlJrY2FVbnc3V0xVMXlxcWV6MmVFVDJ0OVJ0QlgwM19hUDhMTWR0bFI4VE5hTXhTY1lub2tseC1JZFJRZ3ZtUXA2eW05MC1pa0p0bldKZnM?oc=5",
-        "pubDate": "Fri, 05 Jun 2026 16:33:53 GMT",
-        "summary": "Poland, China lead renewed central bank gold buying Mining.com",
-        "source": "Mining.com"
+        "title": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUQ2UFBhdVk1Z1lNM055aGswaEdmQVFoR2htcDlNVVhNdTZteWV6SHBlZkZHRlZMMjQxbWRXTHFCYUFMcGlLNUhjT0ZHcFh6LTNLdmVZNUhOdmZvaDFFUzdJQWsyTmRlVnluZFVRTV9SRUFRTFBTRmhmcnVQNjV6Z2F4bkd1S0poWi1XNEdmNTZJN2R5czlfZ1hEYXhWRWhOX1MtU1RUZDRJQkE?oc=5",
+        "pubDate": "Thu, 04 Jun 2026 11:06:00 GMT",
+        "summary": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April Seeking Alpha",
+        "source": "Seeking Alpha"
       },
       {
         "title": "Central bank gold statistics: Momentum eases in January while demand base broadens - World Gold Council",
@@ -288,6 +281,13 @@
         "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
         "summary": "Central bank gold statistics: Momentum eases in January while demand base broadens World Gold Council",
         "source": "World Gold Council"
+      },
+      {
+        "title": "Poland, China lead renewed central bank gold buying - Mining.com",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5Rm9YX2cyQlhySHlhWm54Y2dyVkpKam9HbERVTGFZRzR1UEhBWVl0WlJrY2FVbnc3V0xVMXlxcWV6MmVFVDJ0OVJ0QlgwM19hUDhMTWR0bFI4VE5hTXhTY1lub2tseC1JZFJRZ3ZtUXA2eW05MC1pa0p0bldKZnM?oc=5",
+        "pubDate": "Fri, 05 Jun 2026 16:33:53 GMT",
+        "summary": "Poland, China lead renewed central bank gold buying Mining.com",
+        "source": "Mining.com"
       }
     ]
   },
