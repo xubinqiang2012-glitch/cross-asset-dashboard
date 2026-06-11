@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-11T16:20:26+00:00",
+  "fetched_at": "2026-06-11T20:35:13+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -17,11 +17,11 @@
         "source": "Bridgewater Associates"
       },
       {
-        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg",
+        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg",
-        "source": "Bloomberg"
+        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg.com",
+        "source": "Bloomberg.com"
       },
       {
         "title": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: - HedgeCo.Net",
@@ -47,13 +47,6 @@
         "source": "blackrock.com"
       },
       {
-        "title": "Global Weekly Commentary - Insights - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQl9OVDZrY2VWRjNFM3RrWkQ3QUlNVGtmYmRMQ25oVWo0OTVFT0ZZcHlRTmFTdU1BcXd3ZnhKQXBnTWJDbkhuZXgxZ0lnOVhON2FWWXhuSHNIWEpTejhaTlIwVTNVRVJVR3RjemNjMVZsZFpzYTl3bW1fWFdBazZkWFFlcXJJYkJwU2lZMUtB?oc=5",
-        "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
-        "summary": "Global Weekly Commentary - Insights blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
         "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
         "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
@@ -68,11 +61,18 @@
         "source": "Alternatives Watch"
       },
       {
-        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg",
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg",
-        "source": "Bloomberg"
+        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
@@ -114,18 +114,18 @@
     ],
     "jpm": [
       {
-        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
-        "source": "Chase Bank"
-      },
-      {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGpLVEdXMEstR1VNVUN4TXlqZms2RG5GMGU4enhWR1JQeXBhXzM3dXR0Wk85OGtqVW5WLW14Y0JlbnJMRTZiMzEzQTA3OVFJZk9iR2tnZVlNNDN4NTYwUFY3VW1NZ2JlNmlXdzhTTUJyZ0lGMVdFVjZzSjZNeDEwd1U0RGNUN1lWS3ItaVZXeTZIUU9paWJ5QjdNaENlV3ZlUzZWR0xCek81OVhMNk81NGRLREktZDVOSFk1WG9n?oc=5",
         "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
         "summary": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries Institutional Investor",
         "source": "Institutional Investor"
+      },
+      {
+        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
+        "source": "Chase Bank"
       },
       {
         "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
@@ -202,13 +202,6 @@
         "source": "CNBC"
       },
       {
-        "title": "Income In 2026: Opportunity Without Overreach - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWYtOXByTWNoeGo3eGdMZEhkYUV2cWgwTEdTN1BrOGhPRnZVZ25yWGJnbVh4SnRiMDVWcHgxdUpSRGNuUGVjbUpKNmhZYUxzMDRpRzJSVHlWUF8yN3FzaHBLMm9qTHF1eGRWY05RNHZsU2xWR3dsMF9CVHloWkJ4X040OS1yZzczNkRvWURn?oc=5",
-        "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
-        "summary": "Income In 2026: Opportunity Without Overreach Seeking Alpha",
-        "source": "Seeking Alpha"
-      },
-      {
         "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
         "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
@@ -216,11 +209,18 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
-        "source": "IFA Magazine"
+        "title": "Income In 2026: Opportunity Without Overreach - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWYtOXByTWNoeGo3eGdMZEhkYUV2cWgwTEdTN1BrOGhPRnZVZ25yWGJnbVh4SnRiMDVWcHgxdUpSRGNuUGVjbUpKNmhZYUxzMDRpRzJSVHlWUF8yN3FzaHBLMm9qTHF1eGRWY05RNHZsU2xWR3dsMF9CVHloWkJ4X040OS1yZzczNkRvWURn?oc=5",
+        "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
+        "summary": "Income In 2026: Opportunity Without Overreach Seeking Alpha",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Partner Insight: Europe's Economic Future - A Stable Base in a Volatile World - Investment Week",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcllCMkFYb19JS2tUVmMyWjM1WXprSWVyVWd4a2Z1VFc4ZGNFZ1dRLXo1bXFOZzRIbk91WkV6NnhXa3BEREJjcjhBN1hoM08xT1FzelFZbi1jWG9xaTNEbkwzdEp5VXFQUzQxWW5SMGdaajdBUUJtaUFBcXNOTlgwYjFvNkUzc1V6UVpfQkhZNWRzcGQ2MnNIR281QUVOZ29mMGNQYzFURUNTVG5nSXc?oc=5",
+        "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT",
+        "summary": "Partner Insight: Europe's Economic Future - A Stable Base in a Volatile World Investment Week",
+        "source": "Investment Week"
       }
     ],
     "fed": [
@@ -264,9 +264,16 @@
       {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
-        "pubDate": "Thu, 04 Jun 2026 06:58:03 GMT",
+        "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
+      },
+      {
+        "title": "West Red Lake Gold Advances High-Grade Rowan Resource as Central Bank Gold Demand Strengthens - Streetwise Reports",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT0RfSlBrMzhncWdUc1JNT0FYRktUUTNiX2hRb1gydGVRTGZBMzZpV1lUN3ZlVml2UGM4Z0xtZ2JnNUdIbFB6M1FJWFdoR0cwQU1jNHNwcGtBUFFfLXRKdzlsdlZjUW02NWhGbmpKVVpyQjJvYmc4aFNqbE55aVRXN0ZpdVpaLUs3RjliQVVvdk9taXZXSmVxbWVfVExNUk96UTkwSV9ySG9hd1ZrUUhBbnNpaUk5MS1LMXR6MXhJc284OHBiS0tkcEF3YWdpSmJlLTI2cEdHNjBZUEtpUDFoXzkyejVuZw?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 09:21:41 GMT",
+        "summary": "West Red Lake Gold Advances High-Grade Rowan Resource as Central Bank Gold Demand Strengthens Streetwise Reports",
+        "source": "Streetwise Reports"
       },
       {
         "title": "Central Bank Gold Buying & US Fiscal Pressures Support Higher Gold Prices & Equity Valuations - Crux Investor",
@@ -288,13 +295,6 @@
         "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
         "summary": "Central bank gold statistics: Momentum eases in January while demand base broadens World Gold Council",
         "source": "World Gold Council"
-      },
-      {
-        "title": "Poland, China lead renewed central bank gold buying - Mining.com",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5Rm9YX2cyQlhySHlhWm54Y2dyVkpKam9HbERVTGFZRzR1UEhBWVl0WlJrY2FVbnc3V0xVMXlxcWV6MmVFVDJ0OVJ0QlgwM19hUDhMTWR0bFI4VE5hTXhTY1lub2tseC1JZFJRZ3ZtUXA2eW05MC1pa0p0bldKZnM?oc=5",
-        "pubDate": "Fri, 05 Jun 2026 16:33:53 GMT",
-        "summary": "Poland, China lead renewed central bank gold buying Mining.com",
-        "source": "Mining.com"
       }
     ]
   },
