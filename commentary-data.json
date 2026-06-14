@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-14T04:41:57+00:00",
+  "fetched_at": "2026-06-14T09:43:22+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,16 +41,9 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
         "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
-        "title": "Global Weekly Commentary - Insights - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQl9OVDZrY2VWRjNFM3RrWkQ3QUlNVGtmYmRMQ25oVWo0OTVFT0ZZcHlRTmFTdU1BcXd3ZnhKQXBnTWJDbkhuZXgxZ0lnOVhON2FWWXhuSHNIWEpTejhaTlIwVTNVRVJVR3RjemNjMVZsZFpzYTl3bW1fWFdBazZkWFFlcXJJYkJwU2lZMUtB?oc=5",
-        "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
-        "summary": "Global Weekly Commentary - Insights blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -73,6 +66,13 @@
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
+      },
+      {
+        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
@@ -151,10 +151,10 @@
     ],
     "ms": [
       {
-        "title": "AI Booms Supports Economic Growth - Morgan Stanley",
+        "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "AI Booms Supports Economic Growth Morgan Stanley",
+        "summary": "Midyear Economic Outlook: AI Drives Resilient Growth Morgan Stanley",
         "source": "Morgan Stanley"
       },
       {
@@ -283,18 +283,18 @@
         "source": "Streetwise Reports"
       },
       {
-        "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
-        "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
         "title": "Central Bank Gold Buying & US Fiscal Pressures Support Higher Gold Prices & Equity Valuations - Crux Investor",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVS1MeUR2WlFjU2J0N2hIeTdkOXBVZm9QekxXMFdzQ2xvUURkU2x0SEZPem16Ni14R2xmaVQ0R2JFamxDS2ZTTHUxVG1jT2h2ZzUtcG9CdjZ6bWEwdGYxempERS00clcxdmZGRVRuckRqTG91S2JkNDQ4RU1yOTk1RWJNVDBveHJHWWVDSC1GYlJua21iYzhaV2hETHQwT3Mzc09oNHd4OVVRTjRnTnRUTmpDTjdyRDZsZDNwR2o2b0pxdw?oc=5",
         "pubDate": "Tue, 02 Jun 2026 10:49:26 GMT",
         "summary": "Central Bank Gold Buying & US Fiscal Pressures Support Higher Gold Prices & Equity Valuations Crux Investor",
         "source": "Crux Investor"
+      },
+      {
+        "title": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUQ2UFBhdVk1Z1lNM055aGswaEdmQVFoR2htcDlNVVhNdTZteWV6SHBlZkZHRlZMMjQxbWRXTHFCYUFMcGlLNUhjT0ZHcFh6LTNLdmVZNUhOdmZvaDFFUzdJQWsyTmRlVnluZFVRTV9SRUFRTFBTRmhmcnVQNjV6Z2F4bkd1S0poWi1XNEdmNTZJN2R5czlfZ1hEYXhWRWhOX1MtU1RUZDRJQkE?oc=5",
+        "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
+        "summary": "Central Bank Gold Statistics: Central Banks Resume Net Buying In April Seeking Alpha",
+        "source": "Seeking Alpha"
       }
     ]
   },
