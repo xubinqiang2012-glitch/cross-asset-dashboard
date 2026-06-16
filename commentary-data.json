@@ -1,14 +1,7 @@
 {
-  "fetched_at": "2026-06-16T11:33:45+00:00",
+  "fetched_at": "2026-06-16T17:20:22+00:00",
   "sources": {
     "bridgewater": [
-      {
-        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
-        "pubDate": "Wed, 10 Jun 2026 13:02:47 GMT",
-        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
-        "source": "Global Citizen"
-      },
       {
         "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
@@ -17,11 +10,18 @@
         "source": "Bridgewater Associates"
       },
       {
-        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg",
+        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
+        "pubDate": "Wed, 10 Jun 2026 13:02:47 GMT",
+        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
+        "source": "Global Citizen"
+      },
+      {
+        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg",
-        "source": "Bloomberg"
+        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg.com",
+        "source": "Bloomberg.com"
       },
       {
         "title": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: - HedgeCo.Net",
@@ -114,18 +114,18 @@
     ],
     "jpm": [
       {
+        "title": "Eye on the Market Outlook 2025: The Alchemists - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVVqel9KbTFkdFJlMHlKLVlTV0s1LXdROF9OTEdHNHNabnczYXZOdjFsVEtZSUpUeDlBRy1QdHZBQlNXdFRrX0FvX0tYTnlSSjM0SHBOSUVvQkhoWkZtZTVCOVF6cDBGOXVyQlVaX05BYnNsY2oyQk9DSm9UTThHWWlrY0FSelhUQkpQX2J0QQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 13:02:36 GMT",
+        "summary": "Eye on the Market Outlook 2025: The Alchemists J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
+      },
+      {
         "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
         "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
         "source": "Chase Bank"
-      },
-      {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
       },
       {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
@@ -142,11 +142,11 @@
         "source": "Fortune"
       },
       {
-        "title": "JPMorgan Analyst’s ‘Redacted’ Report Spells Out Fear of Trump - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0RxYlNOS3FTUjlaSVN6Rm03cFBOWHFkZDAxVjhiU2ZIS0N6dW1ZZWNrN2NTaTV3SXJMdVAxVVh4X1l5WVR3MUZrbVVsU0pNT0d2VXpJTXhqS0ZFMGtIaFZRVHY3Njhzc1JKNU5jV2Nwc1VYY0NPMGN6OU1ZZjVXRFBBSXhNT3M3c1VSeTlTTjl0MHVrb3NpR1djeEhzNzAwTWJLSkpYc0JNNy04X0tJSFJZaXNDVXItUnA4?oc=5",
-        "pubDate": "Thu, 10 Apr 2025 07:00:00 GMT",
-        "summary": "JPMorgan Analyst’s ‘Redacted’ Report Spells Out Fear of Trump Bloomberg",
-        "source": "Bloomberg"
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
       }
     ],
     "ms": [
@@ -165,13 +165,6 @@
         "source": "The Globe and Mail"
       },
       {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
         "title": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore - TradingView",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSUZRdlhzM09LbVh6QzVYc05KVEdabEhaOF9CenNPOHRpU0VVeVhqRXhOQ0xGcnhOXzY2YXlROVRCd0h5VWFnd2daVkplNUlPNW5iZTM5Q3ZldVg0bVd1aEdDOFNGX19WdXZWZGZ6QzF0cmJ3NFRXZzdWZGN2dnZELXg3dzJlbGZrS3h2QVJvRC1PTk5fdWo3OE4zTnlqZzN5WUFzZjAxNDUtRXlSeDM1MUpxRVpWTjVQSHlsSW82UHVZYTM2VkU4b2JLeXhWb1Etcklz?oc=5",
         "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
@@ -179,11 +172,18 @@
         "source": "TradingView"
       },
       {
-        "title": "Morgan Stanley 2026 Outlook: Changes in Policy Environment Plus Rising AI Investment, Market Focus Returns to U.S. Stocks - Binance",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FdG1KX0tCTXhkTFU1NEN0N1NsSHN5aXUxUGlfd201blFMWGNuOUNZc3Q5TzdBRFlWNkJKNnhzY2U3NXluc1UtS2xJS05hMGZlcWM4c2tlV19wLTVWYmppTnVMOA?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Morgan Stanley 2026 Outlook: Changes in Policy Environment Plus Rising AI Investment, Market Focus Returns to U.S. Stocks Binance",
-        "source": "Binance"
+        "title": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says - marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFlQclZkV3U0Z1RZemd4QmF1SHFfNVl5ZVdqSE9oX2NvRHIwMklObW90aW5jVEFqNm8zMEpaTEtjZFpLb1ZuZm44aU1JdlNtR3Y2Y3dyeGl5MEJnNE5vdWhIY3Z2U3VtanZhRThKbFBlVlhKdGRUeXNfVGc1NkFHc3hSOXItWGV1TGUxR3lkTUlNSUVtMjBZay01QTQ5LW5QTy1hUDUxY29ZMDdzMkhIdDZxWEtJdGtXMm5pRzhlR0ViSDh6eElB?oc=5",
+        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+        "summary": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says marketscreener.com",
+        "source": "marketscreener.com"
+      },
+      {
+        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "source": "Morgan Stanley"
       }
     ],
     "pimco": [
@@ -269,32 +269,32 @@
         "source": "World Gold Council"
       },
       {
+        "title": "WGC survey points to steady central bank gold buying in 2026 despite sharp bullion rally - VT Markets",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNnJ0MldFaVZIQXdEMjJERHNLZWpCZWJTOXVSRDhjQjVscjVCODl3SjUwVUhGdE44aENSSFluWndrWGdKQ3NwYm0yTEtYNi0yVVZhRmx3YUF4eHNkTzFqSXhMOVpDVXRpd2wtYnNIX2UzRWJPTDYtb1p3OGpFaE1NR0NMRlc2OW9GYzVhbjZPNldTcF9TOFZxVnRScnJmUkNnc09OR3hqTC1IU280UjFpaXlOOUxfSUhSSE1OMnAtUXhZeXlrTktn?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 14:06:07 GMT",
+        "summary": "WGC survey points to steady central bank gold buying in 2026 despite sharp bullion rally VT Markets",
+        "source": "VT Markets"
+      },
+      {
+        "title": "What is the underlying logic behind central banks buying gold? A triple game of position levels, geopolitical risks, and the US dollar cycle - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90MmwtVUQyNC1mVGVyRmRuZmtkampSM0dFWWxfeXdrekRLbjdaN1NTbnd1QjAtY1A4dXJxQmdnekl2T01KeC1uNXN0eDRpUkFrcjlTc2ZWbGVIbUZHM0x6QjFNSdIBY0FVX3lxTE90MmwtVUQyNC1mVGVyRmRuZmtkampSM0dFWWxfeXdrekRLbjdaN1NTbnd1QjAtY1A4dXJxQmdnekl2T01KeC1uNXN0eDRpUkFrcjlTc2ZWbGVIbUZHM0x6QjFNSQ?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 13:30:34 GMT",
+        "summary": "What is the underlying logic behind central banks buying gold? A triple game of position levels, geopolitical risks, and the US dollar cycle Bitget",
+        "source": "Bitget"
+      },
+      {
+        "title": "Central Bank Gold Buying & US Fiscal Pressures Support Higher Gold Prices & Equity Valuations - Crux Investor",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVS1MeUR2WlFjU2J0N2hIeTdkOXBVZm9QekxXMFdzQ2xvUURkU2x0SEZPem16Ni14R2xmaVQ0R2JFamxDS2ZTTHUxVG1jT2h2ZzUtcG9CdjZ6bWEwdGYxempERS00clcxdmZGRVRuckRqTG91S2JkNDQ4RU1yOTk1RWJNVDBveHJHWWVDSC1GYlJua21iYzhaV2hETHQwT3Mzc09oNHd4OVVRTjRnTnRUTmpDTjdyRDZsZDNwR2o2b0pxdw?oc=5",
+        "pubDate": "Tue, 02 Jun 2026 10:49:26 GMT",
+        "summary": "Central Bank Gold Buying & US Fiscal Pressures Support Higher Gold Prices & Equity Valuations Crux Investor",
+        "source": "Crux Investor"
+      },
+      {
         "title": "China gold market update: Official buying accelerated in May | Post by Ray Jia | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWtsSHlCWERCZHh0ZVlnY2tYS281MUNFU2E2Q1pPU2tJakw2V3hnV3p2ek53SjFFTGUtR1JPcVJRbVNUUndQZmpGeFlvUzQxM0FXZGdWRFdRb19fcG5zVjdhQlpCeEhmLVNkaVNtZ2JKbGNIWGthYk5WZktlbUhpcnBSc2FGdDZwd3VVRDRRb0w0TXcwZkZLX0ItOVlNZjBtQmx0VHNCVQ?oc=5",
         "pubDate": "Fri, 12 Jun 2026 08:23:31 GMT",
         "summary": "China gold market update: Official buying accelerated in May | Post by Ray Jia | Insights World Gold Council",
         "source": "World Gold Council"
-      },
-      {
-        "title": "Wall Street’s $6,000 gold call rests on data most investors never see - GoldSilver",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDJqSzhHSlZ1SVptdnNNV1dyU29TYllCSjVaLUNadEVsQ1FFMHBPb2haenNYcmZxUHRGZlJvX1VhaW1xeHdudl8xdlY4MG5xVm1SYmlleWcxVDRXdGE4OEhKSl8xS2Y5U3VQdVJtQ1dMcVhnalpMY3VVR2w4Uzg3dlpNNl85TkNHRjNDTEtGZzJ1Q0htWDBoU3VjNkY?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 20:49:46 GMT",
-        "summary": "Wall Street’s $6,000 gold call rests on data most investors never see GoldSilver",
-        "source": "GoldSilver"
-      },
-      {
-        "title": "West Red Lake Gold Advances High-Grade Rowan Resource as Central Bank Gold Demand Strengthens - Streetwise Reports",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT0RfSlBrMzhncWdUc1JNT0FYRktUUTNiX2hRb1gydGVRTGZBMzZpV1lUN3ZlVml2UGM4Z0xtZ2JnNUdIbFB6M1FJWFdoR0cwQU1jNHNwcGtBUFFfLXRKdzlsdlZjUW02NWhGbmpKVVpyQjJvYmc4aFNqbE55aVRXN0ZpdVpaLUs3RjliQVVvdk9taXZXSmVxbWVfVExNUk96UTkwSV9ySG9hd1ZrUUhBbnNpaUk5MS1LMXR6MXhJc284OHBiS0tkcEF3YWdpSmJlLTI2cEdHNjBZUEtpUDFoXzkyejVuZw?oc=5",
-        "pubDate": "Thu, 11 Jun 2026 09:21:41 GMT",
-        "summary": "West Red Lake Gold Advances High-Grade Rowan Resource as Central Bank Gold Demand Strengthens Streetwise Reports",
-        "source": "Streetwise Reports"
-      },
-      {
-        "title": "Central banks buy net 17 tonnes of gold in April, led by Poland and China – WGC - KITCO",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTBXOGFWajJjdXRITTQ2TlFkT3VZdFNuVW9jekNFby10YWtXR3hoaVJVTzZnejJDbkhXYWF1SjFuSEZpVm5xZWhmRXdFaGcya1hCdTVhZnptekx5VllTNE95WVRxWkswQWhxSFpPLU9qUl9KcXJIbDlraVRGaVpxdFJ0aEZfeHNxeVVQXy1ERmIyMmZ2QXpBcjRfNTUwT0YwNkRsWHRyUmhMbE03cmt3WDgzZw?oc=5",
-        "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
-        "summary": "Central banks buy net 17 tonnes of gold in April, led by Poland and China – WGC KITCO",
-        "source": "KITCO"
       }
     ]
   },
