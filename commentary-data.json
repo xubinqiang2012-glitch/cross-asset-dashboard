@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-16T23:47:46+00:00",
+  "fetched_at": "2026-06-17T05:15:57+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,9 +40,16 @@
     ],
     "blackrock": [
       {
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
         "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Tue, 16 Jun 2026 05:09:57 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
+        "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
         "source": "blackrock.com"
       },
@@ -61,18 +68,11 @@
         "source": "Alternatives Watch"
       },
       {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
-        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
-        "source": "Bloomberg.com"
+        "title": "AI Becomes a Macro Variable, Reshaping Investment Logic - Let's Data Science",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEd6UFdXdlNDOHFNNUZYZHFqaUNzRWhlZm51Vk14QURKUENyU0hpYkVGbmR4Y2F5RTZ6UDFmUmlaQ2I4dXY3Tzh0RnFWcnY2MVptSVZZM2ZPQ1N3a0g3M1FZS3BDblN0UkQwcU1wUVpqYUpyOTU1Q1N1Q3FCdkcwWGxmd2NUSXRTWEhRTXEyUVI5UjVvdldtLTZTWWI?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 14:12:00 GMT",
+        "summary": "AI Becomes a Macro Variable, Reshaping Investment Logic Let's Data Science",
+        "source": "Let's Data Science"
       }
     ],
     "goldman": [
@@ -114,6 +114,13 @@
     ],
     "jpm": [
       {
+        "title": "Eye on the Market Outlook 2025: The Alchemists - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVVqel9KbTFkdFJlMHlKLVlTV0s1LXdROF9OTEdHNHNabnczYXZOdjFsVEtZSUpUeDlBRy1QdHZBQlNXdFRrX0FvX0tYTnlSSjM0SHBOSUVvQkhoWkZtZTVCOVF6cDBGOXVyQlVaX05BYnNsY2oyQk9DSm9UTThHWWlrY0FSelhUQkpQX2J0QQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 13:02:36 GMT",
+        "summary": "Eye on the Market Outlook 2025: The Alchemists J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
+      },
+      {
         "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
@@ -128,13 +135,6 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
-      },
-      {
         "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
         "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
@@ -142,11 +142,11 @@
         "source": "Fortune"
       },
       {
-        "title": "JPMorgan Analyst’s ‘Redacted’ Report Spells Out Fear of Trump - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0RxYlNOS3FTUjlaSVN6Rm03cFBOWHFkZDAxVjhiU2ZIS0N6dW1ZZWNrN2NTaTV3SXJMdVAxVVh4X1l5WVR3MUZrbVVsU0pNT0d2VXpJTXhqS0ZFMGtIaFZRVHY3Njhzc1JKNU5jV2Nwc1VYY0NPMGN6OU1ZZjVXRFBBSXhNT3M3c1VSeTlTTjl0MHVrb3NpR1djeEhzNzAwTWJLSkpYc0JNNy04X0tJSFJZaXNDVXItUnA4?oc=5",
-        "pubDate": "Thu, 10 Apr 2025 07:00:00 GMT",
-        "summary": "JPMorgan Analyst’s ‘Redacted’ Report Spells Out Fear of Trump Bloomberg.com",
-        "source": "Bloomberg.com"
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
       }
     ],
     "ms": [
@@ -179,11 +179,11 @@
         "source": "TradingView"
       },
       {
-        "title": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says - marketscreener.com",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFlQclZkV3U0Z1RZemd4QmF1SHFfNVl5ZVdqSE9oX2NvRHIwMklObW90aW5jVEFqNm8zMEpaTEtjZFpLb1ZuZm44aU1JdlNtR3Y2Y3dyeGl5MEJnNE5vdWhIY3Z2U3VtanZhRThKbFBlVlhKdGRUeXNfVGc1NkFHc3hSOXItWGV1TGUxR3lkTUlNSUVtMjBZay01QTQ5LW5QTy1hUDUxY29ZMDdzMkhIdDZxWEtJdGtXMm5pRzhlR0ViSDh6eElB?oc=5",
-        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Nutanix Q4 Outlook Signals Supply Chain, Macro Pressures, Morgan Stanley Says marketscreener.com",
-        "source": "marketscreener.com"
+        "title": "Morgan Stanley 2026 Outlook: Changes in Policy Environment Plus Rising AI Investment, Market Focus Returns to U.S. Stocks - Binance",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FdG1KX0tCTXhkTFU1NEN0N1NsSHN5aXUxUGlfd201blFMWGNuOUNZc3Q5TzdBRFlWNkJKNnhzY2U3NXluc1UtS2xJS05hMGZlcWM4c2tlV19wLTVWYmppTnVMOA?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Morgan Stanley 2026 Outlook: Changes in Policy Environment Plus Rising AI Investment, Market Focus Returns to U.S. Stocks Binance",
+        "source": "Binance"
       }
     ],
     "pimco": [
@@ -262,39 +262,39 @@
     ],
     "wgc": [
       {
-        "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
-        "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
+        "title": "Central Bank Gold Reserves Survey 2026 - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkI4UmNFV245NHdZeHJnbngyWmo5Q1loYVdFQzdqNlFzQ1M0MEYxTmlpX3dOM2plY2huTkR3UTZfQWZDTUF4U1Q3MDJJdGlSZjV4UkZFc2Z3cC1FMWQ0TGpka19NVzZIUzdwbWxlcXZqclZPbzFDV004OGxLVWlLOFZR?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 12:00:00 GMT",
+        "summary": "Central Bank Gold Reserves Survey 2026 World Gold Council",
         "source": "World Gold Council"
       },
       {
-        "title": "WGC survey points to steady central bank gold buying in 2026 despite sharp bullion rally - VT Markets",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNnJ0MldFaVZIQXdEMjJERHNLZWpCZWJTOXVSRDhjQjVscjVCODl3SjUwVUhGdE44aENSSFluWndrWGdKQ3NwYm0yTEtYNi0yVVZhRmx3YUF4eHNkTzFqSXhMOVpDVXRpd2wtYnNIX2UzRWJPTDYtb1p3OGpFaE1NR0NMRlc2OW9GYzVhbjZPNldTcF9TOFZxVnRScnJmUkNnc09OR3hqTC1IU280UjFpaXlOOUxfSUhSSE1OMnAtUXhZeXlrTktn?oc=5",
-        "pubDate": "Tue, 16 Jun 2026 14:06:07 GMT",
-        "summary": "WGC survey points to steady central bank gold buying in 2026 despite sharp bullion rally VT Markets",
-        "source": "VT Markets"
+        "title": "Record 45% of central banks plan to increase gold holdings, WGC survey finds - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUtVb2ZBSDgwekVaaUNRNFdfUUM4UUJVS3NvU1hBalVBWEZIajlQNXJ5dUJhYS1Bbk82cEZubDNfYmtVSmhWY0l0SXpDQnRLNmFyZ3g1c2otczk5bFI1LWNHU0VSbzNpNTNnTHV1cmtrTk82UEI1T09oTWdDbFBTWEZ5blk5aXlmbTJXMUZIZnBncjBHRDV3enhSUmZzNm8zOHZGQTBXVVJQWmVrQWY1UWhfOEw?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 03:05:00 GMT",
+        "summary": "Record 45% of central banks plan to increase gold holdings, WGC survey finds KITCO",
+        "source": "KITCO"
       },
       {
-        "title": "Central Bank Gold Buying & US Fiscal Pressures Support Higher Gold Prices & Equity Valuations - Crux Investor",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVS1MeUR2WlFjU2J0N2hIeTdkOXBVZm9QekxXMFdzQ2xvUURkU2x0SEZPem16Ni14R2xmaVQ0R2JFamxDS2ZTTHUxVG1jT2h2ZzUtcG9CdjZ6bWEwdGYxempERS00clcxdmZGRVRuckRqTG91S2JkNDQ4RU1yOTk1RWJNVDBveHJHWWVDSC1GYlJua21iYzhaV2hETHQwT3Mzc09oNHd4OVVRTjRnTnRUTmpDTjdyRDZsZDNwR2o2b0pxdw?oc=5",
-        "pubDate": "Tue, 02 Jun 2026 10:49:26 GMT",
-        "summary": "Central Bank Gold Buying & US Fiscal Pressures Support Higher Gold Prices & Equity Valuations Crux Investor",
-        "source": "Crux Investor"
+        "title": "Central banks plan to keep buying more gold. Here’s an interesting step they’re taking to store it safely. - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeEJhM3l6MVptLURPRnlUVFd5X0IxOHFzdWpuM3BxdklwYU1mNE9JUTBzZ291b2JwaEQ5VS1fTTItNU9nSUcxTWdZYUlXX2JTaENUOWxGQ085NEoxQnFYcUJTYmhpckRReklsMHFNaXlicUstYnZOVUxMZGZ4d3VqNi1hSG00R2JJUVp2UC00aE5vMG4wWVJiVWN4WVVkSzRJeGJkNEhYV0JYc1NGUFdjMGpqVE52eDlUVXg3SHFnSkdHWHJ6eHh3LWRIak00NWhfNkVNUUJxUTllS2ZibUE?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 19:19:00 GMT",
+        "summary": "Central banks plan to keep buying more gold. Here’s an interesting step they’re taking to store it safely. MarketWatch",
+        "source": "MarketWatch"
       },
       {
-        "title": "How important are central bank holdings of gold? - Brookings",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlA3TkRabGhiNkd3N0VyYTk1VEMtME10RWdXVUlhd05HR25iYkNhcnpvTENiWVVsWklvakFyMmJjVUx2Z2dORTFsWE9jZjRjcjYwQnRiMlFXeG5VOHJHa3ZJUlY3NzJNekdJVzRuOFlNUmpkcFUzdTV3aE1mUW5NblA5VXdaemZaWEgw?oc=5",
-        "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
-        "summary": "How important are central bank holdings of gold? Brookings",
-        "source": "Brookings"
-      },
-      {
-        "title": "China gold market update: Official buying accelerated in May | Post by Ray Jia | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWtsSHlCWERCZHh0ZVlnY2tYS281MUNFU2E2Q1pPU2tJakw2V3hnV3p2ek53SjFFTGUtR1JPcVJRbVNUUndQZmpGeFlvUzQxM0FXZGdWRFdRb19fcG5zVjdhQlpCeEhmLVNkaVNtZ2JKbGNIWGthYk5WZktlbUhpcnBSc2FGdDZwd3VVRDRRb0w0TXcwZkZLX0ItOVlNZjBtQmx0VHNCVQ?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 08:23:31 GMT",
-        "summary": "China gold market update: Official buying accelerated in May | Post by Ray Jia | Insights World Gold Council",
+        "title": "Central banks set to step up gold buying over the next year - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2gtaUdWQmdLX2Ntd1Y5R0dLM2VPYWNHNUVCbWZuVnV6ZzR5a29fbC1ud0pUMXlEeERmMndTZ25vbHRjZmE5QU0tSXZXWDU4STc2VmtveTBZb0wwdjc5RDlhYm5OSkpVWlZYMjFZanlaTWFPbnRyczIzYUxOZU8xeWNtSUxZT2RpX1dYN19fRHBvd0xjNkt4V1RuanFxdkU5UzQ4?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+        "summary": "Central banks set to step up gold buying over the next year World Gold Council",
         "source": "World Gold Council"
+      },
+      {
+        "title": "Why Countries Are Stocking Up on Gold - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZXg3SEJPcXUzVWowS0JTaUxPM3BoTGdVVlJHYXR0LXRKZkFyY0JGMEJhaVhkZW9ScngxNy1tdWpMcXBLQ19ENC1yeW5nOHhubTBLYTZFQW50blhXVzdSdGpKTzRyQmx3M2UzMkZtWjY1ZVVpTS1hYm1NallZbDg?oc=5",
+        "pubDate": "Fri, 01 May 2026 07:00:00 GMT",
+        "summary": "Why Countries Are Stocking Up on Gold The New York Times",
+        "source": "The New York Times"
       }
     ]
   },
