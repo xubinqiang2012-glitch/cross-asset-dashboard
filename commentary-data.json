@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-19T05:23:59+00:00",
+  "fetched_at": "2026-06-19T10:56:45+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -10,11 +10,11 @@
         "source": "Bridgewater Associates"
       },
       {
-        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg.com",
+        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg.com",
-        "source": "Bloomberg.com"
+        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg",
+        "source": "Bloomberg"
       },
       {
         "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
@@ -42,16 +42,23 @@
       {
         "title": "Weekly market commentary - blackrock.com",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
-        "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
+        "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
         "summary": "Weekly market commentary blackrock.com",
         "source": "blackrock.com"
       },
       {
-        "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait blackrock.com",
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
         "source": "blackrock.com"
+      },
+      {
+        "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
+        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
+        "source": "Institutional Investor"
       },
       {
         "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - Alternatives Watch",
@@ -61,18 +68,11 @@
         "source": "Alternatives Watch"
       },
       {
-        "title": "AI Becomes a Macro Variable, Reshaping Investment Logic - Let's Data Science",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEd6UFdXdlNDOHFNNUZYZHFqaUNzRWhlZm51Vk14QURKUENyU0hpYkVGbmR4Y2F5RTZ6UDFmUmlaQ2I4dXY3Tzh0RnFWcnY2MVptSVZZM2ZPQ1N3a0g3M1FZS3BDblN0UkQwcU1wUVpqYUpyOTU1Q1N1Q3FCdkcwWGxmd2NUSXRTWEhRTXEyUVI5UjVvdldtLTZTWWI?oc=5",
-        "pubDate": "Thu, 11 Jun 2026 14:12:00 GMT",
-        "summary": "AI Becomes a Macro Variable, Reshaping Investment Logic Let's Data Science",
-        "source": "Let's Data Science"
-      },
-      {
-        "title": "2026 Advisor Outlook – Market Insights - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmc1czhjSFBzc1JINWxXNmxsamlhNm5FbDRZREFkR1BQTFJnMTFJRkNMdGRuekJiaFBPN0ZRa3d1bzRlaS05REdzblZELUh6MFhOT3g4TVkyLW5pUzY4cm8wSW5TWlJRSHNZcHAyNnlYcVBtT0lQaVdwY2gwT2dQZ2UxTjhOUTJIVTF2NTJPd3QzWnV3X1YwT1VMWQ?oc=5",
-        "pubDate": "Fri, 20 Feb 2026 16:47:50 GMT",
-        "summary": "2026 Advisor Outlook – Market Insights blackrock.com",
-        "source": "blackrock.com"
+        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg",
+        "source": "Bloomberg"
       }
     ],
     "goldman": [
@@ -262,13 +262,6 @@
     ],
     "wgc": [
       {
-        "title": "Central banks are bringing gold reserves home as geopolitical risks rise - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTA2VTc1TnpxMXJMTm1NY0lJVHk4a1ZXOWxqUmZrRTZWT0RLTnBkVGxfYmlOQ05yN2dRb1Y5YXZJaDZHZHdSbnZWMklFU3h6bVZLOG5TSldIOUNSWWtTT2djdlZhR095TzBFV1lrby1RRXoyZzhfY0VDeHRfM3diQXpmUUhaRHhS0gGOAUFVX3lxTFBwajNmWXBVYW5KdHAyRlpkVjlaSGJiSXJIU01fOVhEcEFfTlNfQ0o0bm5PSnU4a1BXQUQzR3l2bW5HU0JSaXNOSEJFUUVnLXVJWU1JUXhSTzdabHp4ZGNKOHAza1FxRzduYUYydnpNX0ZFaXc5eWxqT1lxV1ctTTRzR2s5cVdLR1BrdWZsS0E?oc=5",
-        "pubDate": "Wed, 17 Jun 2026 07:28:36 GMT",
-        "summary": "Central banks are bringing gold reserves home as geopolitical risks rise CNBC",
-        "source": "CNBC"
-      },
-      {
         "title": "Central Bank Gold Reserves Survey 2026 - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkI4UmNFV245NHdZeHJnbngyWmo5Q1loYVdFQzdqNlFzQ1M0MEYxTmlpX3dOM2plY2huTkR3UTZfQWZDTUF4U1Q3MDJJdGlSZjV4UkZFc2Z3cC1FMWQ0TGpka19NVzZIUzdwbWxlcXZqclZPbzFDV004OGxLVWlLOFZR?oc=5",
         "pubDate": "Tue, 16 Jun 2026 12:00:00 GMT",
@@ -276,11 +269,11 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Record 45% of central banks plan to increase gold holdings, WGC survey finds - KITCO",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUtVb2ZBSDgwekVaaUNRNFdfUUM4UUJVS3NvU1hBalVBWEZIajlQNXJ5dUJhYS1Bbk82cEZubDNfYmtVSmhWY0l0SXpDQnRLNmFyZ3g1c2otczk5bFI1LWNHU0VSbzNpNTNnTHV1cmtrTk82UEI1T09oTWdDbFBTWEZ5blk5aXlmbTJXMUZIZnBncjBHRDV3enhSUmZzNm8zOHZGQTBXVVJQWmVrQWY1UWhfOEw?oc=5",
-        "pubDate": "Tue, 16 Jun 2026 03:05:00 GMT",
-        "summary": "Record 45% of central banks plan to increase gold holdings, WGC survey finds KITCO",
-        "source": "KITCO"
+        "title": "Central banks are bringing gold reserves home as geopolitical risks rise - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTA2VTc1TnpxMXJMTm1NY0lJVHk4a1ZXOWxqUmZrRTZWT0RLTnBkVGxfYmlOQ05yN2dRb1Y5YXZJaDZHZHdSbnZWMklFU3h6bVZLOG5TSldIOUNSWWtTT2djdlZhR095TzBFV1lrby1RRXoyZzhfY0VDeHRfM3diQXpmUUhaRHhS0gGOAUFVX3lxTFBwajNmWXBVYW5KdHAyRlpkVjlaSGJiSXJIU01fOVhEcEFfTlNfQ0o0bm5PSnU4a1BXQUQzR3l2bW5HU0JSaXNOSEJFUUVnLXVJWU1JUXhSTzdabHp4ZGNKOHAza1FxRzduYUYydnpNX0ZFaXc5eWxqT1lxV1ctTTRzR2s5cVdLR1BrdWZsS0E?oc=5",
+        "pubDate": "Wed, 17 Jun 2026 07:28:36 GMT",
+        "summary": "Central banks are bringing gold reserves home as geopolitical risks rise CNBC",
+        "source": "CNBC"
       },
       {
         "title": "Central banks send clear message with record gold buying - thestreet.com",
@@ -290,11 +283,18 @@
         "source": "thestreet.com"
       },
       {
-        "title": "Central banks set to step up gold buying over the next year - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2gtaUdWQmdLX2Ntd1Y5R0dLM2VPYWNHNUVCbWZuVnV6ZzR5a29fbC1ud0pUMXlEeERmMndTZ25vbHRjZmE5QU0tSXZXWDU4STc2VmtveTBZb0wwdjc5RDlhYm5OSkpVWlZYMjFZanlaTWFPbnRyczIzYUxOZU8xeWNtSUxZT2RpX1dYN19fRHBvd0xjNkt4V1RuanFxdkU5UzQ4?oc=5",
-        "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-        "summary": "Central banks set to step up gold buying over the next year World Gold Council",
-        "source": "World Gold Council"
+        "title": "Record 45% of central banks plan to increase gold holdings, WGC survey finds - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUtVb2ZBSDgwekVaaUNRNFdfUUM4UUJVS3NvU1hBalVBWEZIajlQNXJ5dUJhYS1Bbk82cEZubDNfYmtVSmhWY0l0SXpDQnRLNmFyZ3g1c2otczk5bFI1LWNHU0VSbzNpNTNnTHV1cmtrTk82UEI1T09oTWdDbFBTWEZ5blk5aXlmbTJXMUZIZnBncjBHRDV3enhSUmZzNm8zOHZGQTBXVVJQWmVrQWY1UWhfOEw?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 03:05:00 GMT",
+        "summary": "Record 45% of central banks plan to increase gold holdings, WGC survey finds KITCO",
+        "source": "KITCO"
+      },
+      {
+        "title": "Central banks plan to keep buying more gold. Here’s an interesting step they’re taking to store it safely. - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeEJhM3l6MVptLURPRnlUVFd5X0IxOHFzdWpuM3BxdklwYU1mNE9JUTBzZ291b2JwaEQ5VS1fTTItNU9nSUcxTWdZYUlXX2JTaENUOWxGQ085NEoxQnFYcUJTYmhpckRReklsMHFNaXlicUstYnZOVUxMZGZ4d3VqNi1hSG00R2JJUVp2UC00aE5vMG4wWVJiVWN4WVVkSzRJeGJkNEhYV0JYc1NGUFdjMGpqVE52eDlUVXg3SHFnSkdHWHJ6eHh3LWRIak00NWhfNkVNUUJxUTllS2ZibUE?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 19:19:00 GMT",
+        "summary": "Central banks plan to keep buying more gold. Here’s an interesting step they’re taking to store it safely. MarketWatch",
+        "source": "MarketWatch"
       }
     ]
   },
