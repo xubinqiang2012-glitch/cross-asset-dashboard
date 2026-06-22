@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-22T05:30:12+00:00",
+  "fetched_at": "2026-06-22T12:25:19+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -47,10 +47,10 @@
         "source": "blackrock.com"
       },
       {
-        "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
-        "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
-        "summary": "Weekly market commentary blackrock.com",
+        "title": "Market Outlook April 2026: Get Paid to Wait - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Market Outlook April 2026: Get Paid to Wait blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -68,10 +68,10 @@
         "source": "Alternatives Watch"
       },
       {
-        "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFpjX1pWc1F2UEFQOWRsWlktb3E2QTZwT1c1YkVBSERtX3FxQVRjRXlvUF96WUFSaXRZdGpGSzJqY2Zhb0ZaSkpJUVd1WERmTkVNeE1TTk9abmtkbWJ6blJkRTE4dmtFdEhUQjY4aWxQNEdnTW1uTHRBOGlESGVkSE0yWTRwX0N0Ql9OcDEwT0ZWcTI2R0Rid1Vn?oc=5",
-        "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
-        "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
+        "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pYUVGeHJlTE9uUThIU0ZDT1FOZmtjQTdTaDB1ekFpWTl1SUNSenk1T21iaHZHUkd4U3Z3SWNUUi14R3ZmbWpydmhmd0FxR0phX0tNc3psMUxDUWtOclhNZmI5YmM4WGNmYndfcQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Here’s (Almost) Everything Wall Street Expects in 2026 Bloomberg.com",
         "source": "Bloomberg.com"
       }
     ],
@@ -142,20 +142,34 @@
         "source": "Fortune"
       },
       {
-        "title": "Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTmdQUUJ3WE0xdmItamhJZVB1M1QxVXpWa1ppbEQyazRkY29IbDlrZnQ1cWRUVGlBSTZ4MllIT3ZIXzlEejIzZGRPSi01UEZ6LWJHN3NQd0ZramdGNi00NzFWTUUzUlNWRU9mbzF4RUNOd2oyeXRZV1lVTzBjQ3hMclJNbTlHS3ZmZ0F5WjhWNm9lZTR0TFl1UUtROElNT3UtTWpZX21lalI4RHlKVUJKSkRpak5xSVduSV9J?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
-        "summary": "Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
+        "title": "JPMorgan Analyst’s ‘Redacted’ Report Spells Out Fear of Trump - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0RxYlNOS3FTUjlaSVN6Rm03cFBOWHFkZDAxVjhiU2ZIS0N6dW1ZZWNrN2NTaTV3SXJMdVAxVVh4X1l5WVR3MUZrbVVsU0pNT0d2VXpJTXhqS0ZFMGtIaFZRVHY3Njhzc1JKNU5jV2Nwc1VYY0NPMGN6OU1ZZjVXRFBBSXhNT3M3c1VSeTlTTjl0MHVrb3NpR1djeEhzNzAwTWJLSkpYc0JNNy04X0tJSFJZaXNDVXItUnA4?oc=5",
+        "pubDate": "Thu, 10 Apr 2025 07:00:00 GMT",
+        "summary": "JPMorgan Analyst’s ‘Redacted’ Report Spells Out Fear of Trump Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "ms": [
       {
         "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU1lQQjRSMXF6cG43TlktbFpPLVpxNXo2OXMxakRMNEZGVmhvcE00VGVKc1hLUS1nTVRhMUs5aEUwY0k1eUd6Q0N1R1Jfd3NWOTc2TkxIUlN2TVREZ1dVSUhDMVZuVDY4dkZGVlUzSkRsY2M1YzRCLXQyS2kwUlJLV1FBTXY5X2szUnZEVDlYWGVUQnJodU1EUGtEM0dTM0pXOWZ0THVLT0t1N0d5aHNfUktER2VXbjluX3RXRmhxLXZ6eUFuS3laaWdiQW9zOUozSWkzZnlnZ3M?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3ZJejZLSG5kcU1ybklxUk9KYXJ1LWhtd19WSEdtQjNiNElLOUFXbkpSR3E5MHV4SVJqVnZEU1RRdXJINjRUUjNsbWVfUmN1aWc2ekZ5Tkh2dzVHaVZKdUZwM0NWbTVjWklFOWdudWp6ekg4QjQ3cTFqRHBnU0p2YkxTWk92ZVJFNjFTdS12ZXdrTEtZSnNhdkVyd0JZbFhuUWRqNW9MZHh5M1RDSjI1TzlIcW5VRVB5ODh0azlFZVI1VHhCQzVoLWN6ZkpjXzRqakE?oc=5",
         "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
         "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
         "source": "Morgan Stanley"
+      },
+      {
+        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
+        "title": "Zacks Industry Outlook Highlights Morgan Stanley, The Charles Schwab and Interactive Brokers - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTWh3NTZqai1hZlUtaUtmYU9sVTItOVI1X3JBajZyU3Y2TGlPeWJCZTY5czJIdmlBUXdMTUVsZjhhLXhhMEEtVzlpM09Kd21zVkZjQmhyS1ZsM0g3LXhnSGk5a1FmYzB5NFQtOUx0LTkxaGxnSFhvTnN4TjNqU2tyZURCOVMtelZqY3BwRzFXRWV5d3UzMlZodWhMM1J3SkxzT2VDTmlCMktrcUJIOVVwWldBc01OREZuOC1sWF9GNXk5NDAtNDJIZWpTR0g0R0tXWHF0SEJMVG1LWml1TGppQTJYY0txSGxoNEIwRmxWSVBXSk8wTzVraU5EZWZvWUctRncxb0c5Yw?oc=5",
+        "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "summary": "Zacks Industry Outlook Highlights Morgan Stanley, The Charles Schwab and Interactive Brokers The Globe and Mail",
+        "source": "The Globe and Mail"
       },
       {
         "title": "Zacks Industry Outlook Highlights Morgan Stanley, Interactive Brokers and Evercore - TradingView",
@@ -165,25 +179,11 @@
         "source": "TradingView"
       },
       {
-        "title": "The U.S. Stock Market Is Still Hugely Popular for Global Investors - inc.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnpjTjVsdnEyd2t2bDZZZUVlLVFpS1J5QWRpUEVYX3JxYVRWdXo5RkppNEtrajIxdk85UDlidWthRHFBR2xBelVmWjNUWUJMWXR6WTlHenliTm5yZHZTNmQ4S2RXYmxaUEd3RHhCX2x3M042eGpGYXptUDc3c19RYW1MTDVkdGNJbk81dDJGVUVXUFFISmoyVm5OakYzM25Bby1SYjVvY3FNRmFMSG10RU9n?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 07:00:00 GMT",
-        "summary": "The U.S. Stock Market Is Still Hugely Popular for Global Investors inc.com",
-        "source": "inc.com"
-      },
-      {
-        "title": "Looking for a Soft Landing - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ob0drTlRmV0dPNktRZFY3WndVYm9wWnBTVjI3R3dwbzJ1cURsbzRtcWNmNmtwTEJJZUFDWk9OYm1RMWRHMlNjT2JGTjBtMUg1eVVjd3l1dHRlYXJuYjdRS0tsendsRHdzNGJtTzh0dWhURmVHbnlEcQ?oc=5",
-        "pubDate": "Tue, 22 Nov 2022 08:00:00 GMT",
-        "summary": "Looking for a Soft Landing Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "Morgan Stanley upgrades its 2023 growth outlook for China, expects stronger and earlier rebound - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kcDRtZHRUNDVGYWZUSlc4UGJNa3FJQXpYVndTRTJFWk9xQnVWRi1xRWhic0xZOWNPaFdseGdZbXl4VmRpNEwxWXV3aWtHRWtsRDVhY1NrY3pKQTI2bDNUb3JMZi1sRkRGT3E1T1JqTHRMTWc0NW85cVVDYm_SAYIBQVVfeXFMTVNKXzROZDVYcVFYR3FId2FuX2R3Y244RWJZdWpmWXprejZYLVhmQ0xFcWp1ZXcxMmNEaXp6bTkwSE90MzA0VWVOaTI4ckp4YUh3N3pMbVA4SnJVMlljejh1aE5nLVNiVDNzQnlOeVRia3ZpN0w2cTh5RHcwSmtWREI0Zw?oc=5",
-        "pubDate": "Wed, 14 Dec 2022 08:00:00 GMT",
-        "summary": "Morgan Stanley upgrades its 2023 growth outlook for China, expects stronger and earlier rebound CNBC",
-        "source": "CNBC"
+        "title": "Why the US-Israel war with Iran leaves Asian economies exposed - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaUl3MGhhUEdwdVljb0l0bms1Uzh2M3Iyd2tXb0pxMVpkNzdSTk9JNEl0NTlTRF9kSEtlUHNyWGZDR1JfSGdjRkJTRElSM1l2OGZ4SWpYZlpSWjN5aGpEOWZkZlRmRGNQRzlyWnFtTDNtSjAwaDdtUGxlYm4ya0c5NnVTaXFhdmNvbkJ5YmtFcTFxRnNHdFJVcm5IVFdJUXpZRk05UTMyUXE2TUpkT2YzM2l3UmwxRklNSUJfYTM2LXhxY0JuejhOTlZEUWJEZEpHZEppUzgtSGdqQdIB2gFBVV95cUxQd0tsZTZYdVRDVzBOQmUwaTlYOFZrU3NJbWt2b01kWXQ3b1ZBeWs1SVE1XzN6VUpUOFdhS2FBWFRQWjcxc1VQNmdLWFJFVzRsUm44eE5uenBLYUpQdzNUVVNkMnNWNGhWanVsTDhCSlg4UU10Y0ZIX0UtX1JWeEYwM05VcGUtRzdJSi1CNmtSTE1jdnNGV3dnVXF1NEQzVmZyZThqekRfMkxxZmtNRTBaUHRTU0RLRmFZYTBURTF6djh0cE1yTFUxQmhBOXhYVlBRcWFNaXA2M240dw?oc=5",
+        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "summary": "Why the US-Israel war with Iran leaves Asian economies exposed South China Morning Post",
+        "source": "South China Morning Post"
       }
     ],
     "pimco": [
@@ -209,18 +209,18 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "Income In 2026: Opportunity Without Overreach - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWYtOXByTWNoeGo3eGdMZEhkYUV2cWgwTEdTN1BrOGhPRnZVZ25yWGJnbVh4SnRiMDVWcHgxdUpSRGNuUGVjbUpKNmhZYUxzMDRpRzJSVHlWUF8yN3FzaHBLMm9qTHF1eGRWY05RNHZsU2xWR3dsMF9CVHloWkJ4X040OS1yZzczNkRvWURn?oc=5",
-        "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
-        "summary": "Income In 2026: Opportunity Without Overreach Seeking Alpha",
-        "source": "Seeking Alpha"
-      },
-      {
         "title": "AI Becomes a Macro Variable, Reshaping Investment Logic - Let's Data Science",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEd6UFdXdlNDOHFNNUZYZHFqaUNzRWhlZm51Vk14QURKUENyU0hpYkVGbmR4Y2F5RTZ6UDFmUmlaQ2I4dXY3Tzh0RnFWcnY2MVptSVZZM2ZPQ1N3a0g3M1FZS3BDblN0UkQwcU1wUVpqYUpyOTU1Q1N1Q3FCdkcwWGxmd2NUSXRTWEhRTXEyUVI5UjVvdldtLTZTWWI?oc=5",
         "pubDate": "Thu, 11 Jun 2026 14:12:00 GMT",
         "summary": "AI Becomes a Macro Variable, Reshaping Investment Logic Let's Data Science",
         "source": "Let's Data Science"
+      },
+      {
+        "title": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others - Wealth Briefing",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQODZXSnBDU3pyeFV6NjRXZHdPMlhhRVBQS1k3eTBETnNNeUNLY2VTSVlMQ0dTdmg1ME9YQ0VMUGJEUWd0MHF1SUtVYVhnR2pvYms5ZWFSTXkzSTRuRXJMQmhYQkdtQzdHcU9FTGc5QUk0UkVYa2h4WWVhajF6UGlJUXROVXJ1OEhfRGtUanU1MHk2RGtqTkU1eEpSLUk5RGNKZEdQa2pmWlNfdWFoWnU1VTBJN21wWFFZZGgxYXVmTVp0Ui1aU0JTd0xHQUl4OXZ6NVE?oc=5",
+        "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
+        "summary": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others Wealth Briefing",
+        "source": "Wealth Briefing"
       }
     ],
     "fed": [
@@ -264,7 +264,7 @@
       {
         "title": "Goldman Sachs sees structural gold buying as central bank demand hits 59 tonnes in April - investingLive",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSTVCZF9vcHpPaWdsbjgySjFJTDhSNjFMNFVmcXZnblhHTk1LZ0hvMnZEMXZlRE1kTWxVN1Z3MFVZU3VvRzUtYm9hNUlXaXhya05lMDVvbmxMN3pkV3RTcFVlbDJ1TkhWdVFyMHFUR2J0R2MxQ1FrSWluTGl4MXVXel9SbkdoQ2g1M1d1VXdFM0g3UVE5Zi1yV0VNOVN1QllmSjBoWGJLRzJNd2FpYnhhT1ozNDZHTUhTcHJCV0k4c2pKRDE5X3ZvaFVLSDhOd0JJNWc?oc=5",
-        "pubDate": "Mon, 22 Jun 2026 02:54:27 GMT",
+        "pubDate": "Mon, 22 Jun 2026 03:12:04 GMT",
         "summary": "Goldman Sachs sees structural gold buying as central bank demand hits 59 tonnes in April investingLive",
         "source": "investingLive"
       },
