@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-22T18:18:02+00:00",
+  "fetched_at": "2026-06-22T22:15:54+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -77,25 +77,11 @@
     ],
     "goldman": [
       {
-        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
-        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
-        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
         "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
         "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
         "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
         "source": "Sporting Goods Intelligence Europe"
-      },
-      {
-        "title": "Taking The Keys: Insights On The European Private Credit Market - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGZpcm1iaEVfVnFGa21fZWdMS3c2RXA3cXlJUEhkSUlUTWhFdmpTSUFvbmxwUFptZmhHSVlkMk5BSmxrV0ZIRXhheFl1YUJrcWFxUjNubHRfa3pHM3E3UUx5QVNXYnhwYmVGaHdJeVFDWHh3Wl90aU5Fc0tTOUNFa2lIQTI4T1NjV1RsMkloOXJpZGhNN1VpWlVWME5wcTA4cENZ?oc=5",
-        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "summary": "Taking The Keys: Insights On The European Private Credit Market Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
       },
       {
         "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
@@ -105,11 +91,25 @@
         "source": "Goldman Sachs"
       },
       {
+        "title": "Taking The Keys: Insights On The European Private Credit Market - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGZpcm1iaEVfVnFGa21fZWdMS3c2RXA3cXlJUEhkSUlUTWhFdmpTSUFvbmxwUFptZmhHSVlkMk5BSmxrV0ZIRXhheFl1YUJrcWFxUjNubHRfa3pHM3E3UUx5QVNXYnhwYmVGaHdJeVFDWHh3Wl90aU5Fc0tTOUNFa2lIQTI4T1NjV1RsMkloOXJpZGhNN1VpWlVWME5wcTA4cENZ?oc=5",
+        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "summary": "Taking The Keys: Insights On The European Private Credit Market Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
+      },
+      {
         "title": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets - CNBC",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDNmWFc4a0xyQm96d2RzdW5ZeDlOdjFvOVJqUXVYZVlxN2E5QmpoanRWRTREX2NmV0UxaERGUjZ3aTY5TC1oM0oybWVrcE0zaDNUWnNDcFRrUDdZRGhhMUdESU9TV1lGZVNpVWppZW5UMDN5NzFxZHVzSkN4YjZCYlhaLURYa2hReWlDSzFn0gGTAUFVX3lxTE8ydGNDVlpIWjhVeFJfcnNJT1lGMVRxV19qV1kwT212ZUFnWVE0TWNEMi00TEhiX1ZpTXJ0RHNLc0RRaUhscnNyY1pEdnExbVFibGRLRjZyOUpmSTJQbHA3TzlEMFZIYnljN0VhNHdYMV90Mjg3cUswNmxUeDIzMUlsVEd1U1ZWdVdLRXRRRFY5T2xINA?oc=5",
         "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
         "summary": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets CNBC",
         "source": "CNBC"
+      },
+      {
+        "title": "Forecasts for the World’s Biggest Economies in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGhpUEI1emNINGhfbVk4eGkwVVcxNEJoM045WDQ4dHRFSUtidjBoNm9wakFNSzk4bjZDU1V3R3E0bTBQS0tmZ0xsZmY0SFA2MTZ1N01OZEppcFYtMFVBZUlJYmJiZWlIbzU0eTVaTG40YlJval9RcExsN05LVG9zdmsyWkNEWjByRjZfY2hQbjFhOUhfbHRVZ0VqMmozZw?oc=5",
+        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+        "summary": "Forecasts for the World’s Biggest Economies in 2026 Goldman Sachs",
+        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
@@ -119,13 +119,6 @@
         "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
         "summary": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries Institutional Investor",
         "source": "Institutional Investor"
-      },
-      {
-        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
-        "source": "Chase Bank"
       },
       {
         "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
@@ -142,11 +135,18 @@
         "source": "Fortune"
       },
       {
-        "title": "JPMorgan Analyst’s ‘Redacted’ Report Spells Out Fear of Trump - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0RxYlNOS3FTUjlaSVN6Rm03cFBOWHFkZDAxVjhiU2ZIS0N6dW1ZZWNrN2NTaTV3SXJMdVAxVVh4X1l5WVR3MUZrbVVsU0pNT0d2VXpJTXhqS0ZFMGtIaFZRVHY3Njhzc1JKNU5jV2Nwc1VYY0NPMGN6OU1ZZjVXRFBBSXhNT3M3c1VSeTlTTjl0MHVrb3NpR1djeEhzNzAwTWJLSkpYc0JNNy04X0tJSFJZaXNDVXItUnA4?oc=5",
-        "pubDate": "Thu, 10 Apr 2025 07:00:00 GMT",
-        "summary": "JPMorgan Analyst’s ‘Redacted’ Report Spells Out Fear of Trump Bloomberg.com",
-        "source": "Bloomberg.com"
+        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
+        "source": "Chase Bank"
+      },
+      {
+        "title": "Speaker and Session Line-Up for 2025 Robin Hood Investors Conference - robinhood.org",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaU10SkczZ3MxMzFicld6LVo1cUFmSDhwUXg3eEY0X29KcUZoLWFkNWh2Vm5RSWE1SXVkSXc2dTRFbVE1d2dVYU9jZkY1cEU3MThWeW5kZFVWSmtTYVlvVFBpQ3RTWk9UUl9icjBvaWZWY1plUVlubXVCSEdjZ043T1BYc3dmS0Z4?oc=5",
+        "pubDate": "Fri, 05 Sep 2025 07:00:00 GMT",
+        "summary": "Speaker and Session Line-Up for 2025 Robin Hood Investors Conference robinhood.org",
+        "source": "robinhood.org"
       }
     ],
     "ms": [
