@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-24T09:50:26+00:00",
+  "fetched_at": "2026-06-24T12:29:31+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -10,11 +10,11 @@
         "source": "Bridgewater Associates"
       },
       {
-        "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - Bloomberg",
+        "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-        "summary": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% Bloomberg",
-        "source": "Bloomberg"
+        "summary": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% Bloomberg.com",
+        "source": "Bloomberg.com"
       },
       {
         "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
@@ -40,17 +40,17 @@
     ],
     "blackrock": [
       {
+        "title": "Weekly market commentary - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbENTeHZQckVxdzhUX1hiS2tJQk5oSFY0bXBkMmo0RU42NHhpcWV3dUY4M0M4cDhXM2s3UVJTX3BkWTF2ZERidGVleW5MODZ6bzVZdGMyMTFZNDRuRVJPaXcwNmpCWFhUTzRRRUdfSy1zeC1DNktDV3NNQVl0VGRZckR1V0hpZzN4UnN5MHlBV3lyd3dpdXI4?oc=5",
+        "pubDate": "Sun, 14 Jun 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
         "title": "A 2026 global macro outlook: Patience - blackrock.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
-        "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
-        "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
-        "summary": "Weekly market commentary blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -68,11 +68,11 @@
         "source": "Alternatives Watch"
       },
       {
-        "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg",
+        "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFpjX1pWc1F2UEFQOWRsWlktb3E2QTZwT1c1YkVBSERtX3FxQVRjRXlvUF96WUFSaXRZdGpGSzJqY2Zhb0ZaSkpJUVd1WERmTkVNeE1TTk9abmtkbWJ6blJkRTE4dmtFdEhUQjY4aWxQNEdnTW1uTHRBOGlESGVkSE0yWTRwX0N0Ql9OcDEwT0ZWcTI2R0Rid1Vn?oc=5",
         "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
-        "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg",
-        "source": "Bloomberg"
+        "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
@@ -269,11 +269,11 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Georgia the latest country to join the central bank Gold rush - FXStreet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEdCMWhlNUpMMXViS3o4M0RLUEhhWkRobjdEVjdvZ0lyZlI0bmcxeXRQTGhEUGRnTHRwblRqUUFrS1BnblJHMldLc3ZoX2h1WHd0dW9NM0szRnhid3FTNGxDZGNESG1EX0ZxdFRLVDd2YlRtS0lScHhzLVUtVjdNNmtWT05GbUt6LU9PbVQ2Y1A0RS1PS1V2SE1nM0JMcTlpOWxnSnprWktrYThP?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 23:41:10 GMT",
-        "summary": "Georgia the latest country to join the central bank Gold rush FXStreet",
-        "source": "FXStreet"
+        "title": "Georgia the Latest Country to Join the Central Bank Gold Rush - LinkedIn",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamJYRnI5WkxmckRQd2VvY1NvcEptVlJOMDJaUHdHUW9fczRYZmVLMDkwMlhUZEQ2WVFRQUJuNnFlZV9qd21Ga01hNGlWb1B5dTJlZXcwalB5LVRpMnJtblNxRkY4RWVITFZrY0JmZVhjSUtWVVVETjNpZklSYnYwN2tPRG1UUlY3ZEFrME1GUEVuMXU3X3M1X2lFa0xhRlRLLWc?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 11:00:01 GMT",
+        "summary": "Georgia the Latest Country to Join the Central Bank Gold Rush LinkedIn",
+        "source": "LinkedIn"
       },
       {
         "title": "Central Bank Gold Buying & US Fiscal Pressures Support Higher Gold Prices & Equity Valuations - Crux Investor",
