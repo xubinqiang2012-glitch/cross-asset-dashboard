@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-25T12:32:55+00:00",
+  "fetched_at": "2026-06-25T16:35:53+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,10 +40,17 @@
     ],
     "blackrock": [
       {
-        "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
-        "summary": "Weekly market commentary blackrock.com",
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "2026 Investment Outlook - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLV9POUpZOTlIZ2pqZW0wc2M3UGYwTG5BOERMVkR0b2l1WlZhZ2NFRjZPdDEwWlBkc2xoZEZKNS1oWGZLaTUxTXJyTW51dWlYWnZXVlhWTzdkSXloMDVKYU9Jc1VSVER5WHF1dnlxRlBSMUY4TmJ4Tl85dkdvUWdEb19LS1djYVFvNGdpYTh5OTEyaVl6bENGYXk3UmwtTjQ?oc=5",
+        "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
+        "summary": "2026 Investment Outlook blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -59,13 +66,6 @@
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
-      },
-      {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
       },
       {
         "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg",
@@ -276,6 +276,13 @@
         "source": "Mexico Business News"
       },
       {
+        "title": "World Gold Council said 45% of central banks plan to increase gold reserves in the next 12 months, reaching a record high - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPa1Eya2ZzTFNrRTlqR2J0TFlvNktUSk81OVl1UTUyODdXMlRJQXNtMm1kcVRnOWVMSWVWeTZ1TGpVVTJYM2tDekVIenFuWTNjN1djMDVyZ0Fyb28tYXfSAWNBVV95cUxNZVFLTEJBZl9sRTBDd1JaUFpPNGpwSjdSRTVsUnVVTi11SFJQR0VkU05Pa1loTXpFVXVfblNCeF9qNk1lSzZXOE5xamRTTVdMZ2xKc0NPdXhXUVAzenNCS2JkOXc?oc=5",
+        "pubDate": "Thu, 25 Jun 2026 05:42:48 GMT",
+        "summary": "World Gold Council said 45% of central banks plan to increase gold reserves in the next 12 months, reaching a record high Bitget",
+        "source": "Bitget"
+      },
+      {
         "title": "Georgia the Latest Country to Join the Central Bank Gold Rush - LinkedIn",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamJYRnI5WkxmckRQd2VvY1NvcEptVlJOMDJaUHdHUW9fczRYZmVLMDkwMlhUZEQ2WVFRQUJuNnFlZV9qd21Ga01hNGlWb1B5dTJlZXcwalB5LVRpMnJtblNxRkY4RWVITFZrY0JmZVhjSUtWVVVETjNpZklSYnYwN2tPRG1UUlY3ZEFrME1GUEVuMXU3X3M1X2lFa0xhRlRLLWc?oc=5",
         "pubDate": "Wed, 24 Jun 2026 11:00:01 GMT",
@@ -288,13 +295,6 @@
         "pubDate": "Mon, 22 Jun 2026 02:47:00 GMT",
         "summary": "Goldman Sachs sees structural gold buying as central bank demand hits 59 tonnes in April TradingView",
         "source": "TradingView"
-      },
-      {
-        "title": "Central bank gold statistics: Momentum eases in January while demand base broadens - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2htQmdDX3UtNFZjdFhWc2EzV1EwMjlOMTNoLUpVZEgzYlRnLWZJR2xYTFh2WUhqcEljTEhHdnBNVWg3SktqTE5VR2JDakY5aVU2WFVRaktnQWE2SndhbUhQWjZDU3JJRjB2YVVyQzdudlU4OG4yX0Q5SklEYUNMUFN0YWdmcDkyV3VQT1Y3M1U1Z2d6ZDJUQk5tQlRnTXVwczM2OFEzYnpacVU5QVZEdXZKczhUNmF3?oc=5",
-        "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
-        "summary": "Central bank gold statistics: Momentum eases in January while demand base broadens World Gold Council",
-        "source": "World Gold Council"
       }
     ]
   },
