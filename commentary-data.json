@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-25T16:35:53+00:00",
+  "fetched_at": "2026-06-25T20:21:53+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,6 +40,13 @@
     ],
     "blackrock": [
       {
+        "title": "Weekly market commentary - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbENTeHZQckVxdzhUX1hiS2tJQk5oSFY0bXBkMmo0RU42NHhpcWV3dUY4M0M4cDhXM2s3UVJTX3BkWTF2ZERidGVleW5MODZ6bzVZdGMyMTFZNDRuRVJPaXcwNmpCWFhUTzRRRUdfSy1zeC1DNktDV3NNQVl0VGRZckR1V0hpZzN4UnN5MHlBV3lyd3dpdXI4?oc=5",
+        "pubDate": "Sun, 21 Jun 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
         "title": "A 2026 global macro outlook: Patience - blackrock.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
@@ -47,11 +54,11 @@
         "source": "blackrock.com"
       },
       {
-        "title": "2026 Investment Outlook - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLV9POUpZOTlIZ2pqZW0wc2M3UGYwTG5BOERMVkR0b2l1WlZhZ2NFRjZPdDEwWlBkc2xoZEZKNS1oWGZLaTUxTXJyTW51dWlYWnZXVlhWTzdkSXloMDVKYU9Jc1VSVER5WHF1dnlxRlBSMUY4TmJ4Tl85dkdvUWdEb19LS1djYVFvNGdpYTh5OTEyaVl6bENGYXk3UmwtTjQ?oc=5",
-        "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
-        "summary": "2026 Investment Outlook blackrock.com",
-        "source": "blackrock.com"
+        "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
+        "source": "Alternatives Watch"
       },
       {
         "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
@@ -59,13 +66,6 @@
         "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
         "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
         "source": "Institutional Investor"
-      },
-      {
-        "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
-        "source": "Alternatives Watch"
       },
       {
         "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg",
@@ -105,11 +105,11 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Watch Goldman's Hatzius on Global Economic Outlook - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRERpVGY1Snp3UEFZeUhrMUxwS29rcDFaYUMtTXFWSlp4SFltUUd6dHBpa1owX2l1LWVsQ0lBb1RlY3E5elBPb1N2T1hFYllCcnFhQXo3ei1sRnd6SUZCMmlxMjIya00zMVUtSDJEaXY1cGx1UGZnVFBQM2FyblBYSS1zX1lJSjZoeEMyd2diNFJlcmZKYWMybldvVFp1LVlO?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "Watch Goldman's Hatzius on Global Economic Outlook Bloomberg",
-        "source": "Bloomberg"
+        "title": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDNmWFc4a0xyQm96d2RzdW5ZeDlOdjFvOVJqUXVYZVlxN2E5QmpoanRWRTREX2NmV0UxaERGUjZ3aTY5TC1oM0oybWVrcE0zaDNUWnNDcFRrUDdZRGhhMUdESU9TV1lGZVNpVWppZW5UMDN5NzFxZHVzSkN4YjZCYlhaLURYa2hReWlDSzFn0gGTAUFVX3lxTE8ydGNDVlpIWjhVeFJfcnNJT1lGMVRxV19qV1kwT212ZUFnWVE0TWNEMi00TEhiX1ZpTXJ0RHNLc0RRaUhscnNyY1pEdnExbVFibGRLRjZyOUpmSTJQbHA3TzlEMFZIYnljN0VhNHdYMV90Mjg3cUswNmxUeDIzMUlsVEd1U1ZWdVdLRXRRRFY5T2xINA?oc=5",
+        "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
+        "summary": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets CNBC",
+        "source": "CNBC"
       }
     ],
     "jpm": [
