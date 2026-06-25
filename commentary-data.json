@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-25T04:33:49+00:00",
+  "fetched_at": "2026-06-25T09:43:23+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -31,26 +31,26 @@
         "source": "Reuters"
       },
       {
-        "title": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: - HedgeCo.Net",
+        "title": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: - HedgeCo.net",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRG5DbkNNQTJaX0oxTVdHWmVGMG1LMWhTUTNfdVhhMV9QMmtKYlA4RlhZcnIwWFlUcVhKNEw5VjRrdjVSU2dHME03aWZGdkFKOUluRGtJbkNMdTV2WjBxRGVFd3ZqTGtNMXRZbjI2NGJfZUNCazJnRWlrMFU4NkZQbkhWUGd4ZmMtVlBobjZKa1huTjJ6WVpB?oc=5",
         "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
-        "summary": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: HedgeCo.Net",
-        "source": "HedgeCo.Net"
+        "summary": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: HedgeCo.net",
+        "source": "HedgeCo.net"
       }
     ],
     "blackrock": [
-      {
-        "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbENTeHZQckVxdzhUX1hiS2tJQk5oSFY0bXBkMmo0RU42NHhpcWV3dUY4M0M4cDhXM2s3UVJTX3BkWTF2ZERidGVleW5MODZ6bzVZdGMyMTFZNDRuRVJPaXcwNmpCWFhUTzRRRUdfSy1zeC1DNktDV3NNQVl0VGRZckR1V0hpZzN4UnN5MHlBV3lyd3dpdXI4?oc=5",
-        "pubDate": "Sun, 14 Jun 2026 07:00:00 GMT",
-        "summary": "Weekly market commentary blackrock.com",
-        "source": "blackrock.com"
-      },
       {
         "title": "A 2026 global macro outlook: Patience - blackrock.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "2026 Investment Outlook - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLV9POUpZOTlIZ2pqZW0wc2M3UGYwTG5BOERMVkR0b2l1WlZhZ2NFRjZPdDEwWlBkc2xoZEZKNS1oWGZLaTUxTXJyTW51dWlYWnZXVlhWTzdkSXloMDVKYU9Jc1VSVER5WHF1dnlxRlBSMUY4TmJ4Tl85dkdvUWdEb19LS1djYVFvNGdpYTh5OTEyaVl6bENGYXk3UmwtTjQ?oc=5",
+        "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
+        "summary": "2026 Investment Outlook blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -77,39 +77,39 @@
     ],
     "goldman": [
       {
-        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
-        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
-        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
-        "source": "Goldman Sachs"
+        "title": "Goldman Sachs notes shift in fund positioning towards semis and away from software - Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFFFcWFIUlY2YlpOLXpJV3RmR3l3TXVKQjduaWQ5RkNVcG9rczlCVVA2TmhYSUs0bjFqOElucmZ5LU5CNTI4UE90ekp1NnlWNnIxQnkzUXVtNUZVV1NfVXNVR0c2dW5EejYzR1g5YWtZSWMyUHMzbUFaUHBXUTVQeFRhOWZPZkwzSzl2QzM5X0FQbnhWSGg5c0l5QTBycFFrTThhS2dMRlpOX0xvSktDNGZpcERaWXhrNWhBVlYzM0VxSmNCUmRRbHRXSDJlOEgxbEd5VVFB?oc=5",
+        "pubDate": "Sun, 24 May 2026 07:00:00 GMT",
+        "summary": "Goldman Sachs notes shift in fund positioning towards semis and away from software Investing.com",
+        "source": "Investing.com"
       },
       {
-        "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
-        "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-        "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
-        "source": "Sporting Goods Intelligence Europe"
-      },
-      {
-        "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
-        "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
-        "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "Taking The Keys: Insights On The European Private Credit Market - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGZpcm1iaEVfVnFGa21fZWdMS3c2RXA3cXlJUEhkSUlUTWhFdmpTSUFvbmxwUFptZmhHSVlkMk5BSmxrV0ZIRXhheFl1YUJrcWFxUjNubHRfa3pHM3E3UUx5QVNXYnhwYmVGaHdJeVFDWHh3Wl90aU5Fc0tTOUNFa2lIQTI4T1NjV1RsMkloOXJpZGhNN1VpWlVWME5wcTA4cENZ?oc=5",
-        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "summary": "Taking The Keys: Insights On The European Private Credit Market Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
-      {
-        "title": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDNmWFc4a0xyQm96d2RzdW5ZeDlOdjFvOVJqUXVYZVlxN2E5QmpoanRWRTREX2NmV0UxaERGUjZ3aTY5TC1oM0oybWVrcE0zaDNUWnNDcFRrUDdZRGhhMUdESU9TV1lGZVNpVWppZW5UMDN5NzFxZHVzSkN4YjZCYlhaLURYa2hReWlDSzFn0gGTAUFVX3lxTE8ydGNDVlpIWjhVeFJfcnNJT1lGMVRxV19qV1kwT212ZUFnWVE0TWNEMi00TEhiX1ZpTXJ0RHNLc0RRaUhscnNyY1pEdnExbVFibGRLRjZyOUpmSTJQbHA3TzlEMFZIYnljN0VhNHdYMV90Mjg3cUswNmxUeDIzMUlsVEd1U1ZWdVdLRXRRRFY5T2xINA?oc=5",
-        "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
-        "summary": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets CNBC",
+        "title": "Watch CNBC's full interview with Goldman Sachs' Timothy Moe - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNalh2dm1mUmNpNFpFVzN1SFoyNkwyTjFjakp0VTg1TlR0Nm4tNEZaTjVZdENjc2NCNEFVUUc3YUtsQXFsTzUyZkMtaGxaWVpVUGdsRjdHXzVVeDFwREtlaWkzS0dWT0p5VFk4VF9kUFEtZjNzQ2djVm1jNGdEakFsWEZpczk1cFFta0lkNlVSaXpZcXpLbDN3QnBXbC1LRUJvcFE?oc=5",
+        "pubDate": "Thu, 04 Dec 2025 08:00:00 GMT",
+        "summary": "Watch CNBC's full interview with Goldman Sachs' Timothy Moe CNBC",
         "source": "CNBC"
+      },
+      {
+        "title": "G Sachs: HK Residential Recovery Remains Solid Amid Macro Uncertainty; 12% Home Price Growth Forecast Kept for 2026 - aastocks.com",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVElmc0prc05SUUVQa1J1QnBWaGpZck50YjhVcG14MHhwbm5GQXRqNWRjNE9ZSEdFN1FiMDgtNVAtazRzcXNsX1FQY0FKX0dhRGZWemtxYlIxak56MnFBTVA3UGpUay1aUzNvUU9URXA2S3FCU0FmR0QyM1l3Z1kxbUFqMllvamZzMDYwbzJBcTBhT0s1Znc?oc=5",
+        "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT",
+        "summary": "G Sachs: HK Residential Recovery Remains Solid Amid Macro Uncertainty; 12% Home Price Growth Forecast Kept for 2026 aastocks.com",
+        "source": "aastocks.com"
+      },
+      {
+        "title": "2022: 3 Themes in Charts - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEYWkwSGRyQzBfaDVqUmN0T2dfNWdodl96ZVRhTURKVVd5cXRvWEdCR2ZxTU45R09BdTdhd3h2ZkQ0Wm1nX2JnWWZZeW82SFotQU9lbVNLbUV1aVVnQnd4RDNabHViYjRSa2Q4TlY2ZXhkU0JOaVFBa0xlUjRtdw?oc=5",
+        "pubDate": "Fri, 16 Dec 2022 08:00:00 GMT",
+        "summary": "2022: 3 Themes in Charts Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
+        "title": "Will Gold Rise Further? Goldman Sachs Targets $5,400, and Another Institution Boldly Forecasts $7,000. - TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTdscWhCYTZ0WGZSM2FWRDdMX3VIbFZZOE5BcjktUFFfbkZoWGRPZjhxUDJIMVB3bVpCdHRBVTlsUU9GaUw5NF9GWm9zcS00amd1SEtiNkw5eVc5VHpTYVdGczlEellsRW9uRDF6TUdkY1BnSEVkWWRPemZlcTlwM00yUnBNRzF6SjY5QWtyaWZPeVh0UUdBWXlRRVpoWlloM01ZdVV3TjlDdkxfMi00N0pyZFJkZHNRd1BqM2tBY3AtUmo0Yk8xNDVKMlA?oc=5",
+        "pubDate": "Thu, 22 Jan 2026 08:00:00 GMT",
+        "summary": "Will Gold Rise Further? Goldman Sachs Targets $5,400, and Another Institution Boldly Forecasts $7,000. TradingKey",
+        "source": "TradingKey"
       }
     ],
     "jpm": [
@@ -216,11 +216,11 @@
         "source": "Let's Data Science"
       },
       {
-        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
-        "source": "IFA Magazine"
+        "title": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others - Wealth Briefing",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQODZXSnBDU3pyeFV6NjRXZHdPMlhhRVBQS1k3eTBETnNNeUNLY2VTSVlMQ0dTdmg1ME9YQ0VMUGJEUWd0MHF1SUtVYVhnR2pvYms5ZWFSTXkzSTRuRXJMQmhYQkdtQzdHcU9FTGc5QUk0UkVYa2h4WWVhajF6UGlJUXROVXJ1OEhfRGtUanU1MHk2RGtqTkU1eEpSLUk5RGNKZEdQa2pmWlNfdWFoWnU1VTBJN21wWFFZZGgxYXVmTVp0Ui1aU0JTd0xHQUl4OXZ6NVE?oc=5",
+        "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
+        "summary": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others Wealth Briefing",
+        "source": "Wealth Briefing"
       }
     ],
     "fed": [
@@ -262,20 +262,6 @@
     ],
     "wgc": [
       {
-        "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Business News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObndTM2cyVF9CZGE4bXdvRXFHVTc0aUpKVnVTazBDSFFqeWt6aHg0aFFTVURvUGFCZnIzZk1EVU1udkh6QmlObjZJdnpRazhWZHJQS01MWHpmbDkwZVVJMlVBanRzRlJNV2p2RmR3Mi1Gc1NMYi1XRkZOZ1hiWk9HMjFnRmc5MDlpSjhHb2VYTWtVZEVLaEZxem9GTXA?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 15:52:12 GMT",
-        "summary": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey Mexico Business News",
-        "source": "Mexico Business News"
-      },
-      {
-        "title": "Goldman Sachs sees structural gold buying as central bank demand hits 59 tonnes in April - investingLive",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSTVCZF9vcHpPaWdsbjgySjFJTDhSNjFMNFVmcXZnblhHTk1LZ0hvMnZEMXZlRE1kTWxVN1Z3MFVZU3VvRzUtYm9hNUlXaXhya05lMDVvbmxMN3pkV3RTcFVlbDJ1TkhWdVFyMHFUR2J0R2MxQ1FrSWluTGl4MXVXel9SbkdoQ2g1M1d1VXdFM0g3UVE5Zi1yV0VNOVN1QllmSjBoWGJLRzJNd2FpYnhhT1ozNDZHTUhTcHJCV0k4c2pKRDE5X3ZvaFVLSDhOd0JJNWc?oc=5",
-        "pubDate": "Mon, 22 Jun 2026 02:47:00 GMT",
-        "summary": "Goldman Sachs sees structural gold buying as central bank demand hits 59 tonnes in April investingLive",
-        "source": "investingLive"
-      },
-      {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -283,18 +269,32 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central banks are bringing gold reserves home as geopolitical risks rise - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTA2VTc1TnpxMXJMTm1NY0lJVHk4a1ZXOWxqUmZrRTZWT0RLTnBkVGxfYmlOQ05yN2dRb1Y5YXZJaDZHZHdSbnZWMklFU3h6bVZLOG5TSldIOUNSWWtTT2djdlZhR095TzBFV1lrby1RRXoyZzhfY0VDeHRfM3diQXpmUUhaRHhS0gGOAUFVX3lxTFBwajNmWXBVYW5KdHAyRlpkVjlaSGJiSXJIU01fOVhEcEFfTlNfQ0o0bm5PSnU4a1BXQUQzR3l2bW5HU0JSaXNOSEJFUUVnLXVJWU1JUXhSTzdabHp4ZGNKOHAza1FxRzduYUYydnpNX0ZFaXc5eWxqT1lxV1ctTTRzR2s5cVdLR1BrdWZsS0E?oc=5",
-        "pubDate": "Wed, 17 Jun 2026 07:28:36 GMT",
-        "summary": "Central banks are bringing gold reserves home as geopolitical risks rise CNBC",
-        "source": "CNBC"
+        "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Business News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObndTM2cyVF9CZGE4bXdvRXFHVTc0aUpKVnVTazBDSFFqeWt6aHg0aFFTVURvUGFCZnIzZk1EVU1udkh6QmlObjZJdnpRazhWZHJQS01MWHpmbDkwZVVJMlVBanRzRlJNV2p2RmR3Mi1Gc1NMYi1XRkZOZ1hiWk9HMjFnRmc5MDlpSjhHb2VYTWtVZEVLaEZxem9GTXA?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 15:52:12 GMT",
+        "summary": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey Mexico Business News",
+        "source": "Mexico Business News"
       },
       {
-        "title": "Record 45% of central banks plan to increase gold holdings, WGC survey finds - KITCO",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUtVb2ZBSDgwekVaaUNRNFdfUUM4UUJVS3NvU1hBalVBWEZIajlQNXJ5dUJhYS1Bbk82cEZubDNfYmtVSmhWY0l0SXpDQnRLNmFyZ3g1c2otczk5bFI1LWNHU0VSbzNpNTNnTHV1cmtrTk82UEI1T09oTWdDbFBTWEZ5blk5aXlmbTJXMUZIZnBncjBHRDV3enhSUmZzNm8zOHZGQTBXVVJQWmVrQWY1UWhfOEw?oc=5",
-        "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
-        "summary": "Record 45% of central banks plan to increase gold holdings, WGC survey finds KITCO",
-        "source": "KITCO"
+        "title": "Georgia the Latest Country to Join the Central Bank Gold Rush - LinkedIn",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamJYRnI5WkxmckRQd2VvY1NvcEptVlJOMDJaUHdHUW9fczRYZmVLMDkwMlhUZEQ2WVFRQUJuNnFlZV9qd21Ga01hNGlWb1B5dTJlZXcwalB5LVRpMnJtblNxRkY4RWVITFZrY0JmZVhjSUtWVVVETjNpZklSYnYwN2tPRG1UUlY3ZEFrME1GUEVuMXU3X3M1X2lFa0xhRlRLLWc?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 11:00:01 GMT",
+        "summary": "Georgia the Latest Country to Join the Central Bank Gold Rush LinkedIn",
+        "source": "LinkedIn"
+      },
+      {
+        "title": "Goldman Sachs sees structural gold buying as central bank demand hits 59 tonnes in April - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSjJSblJjc3I2cjlUZnhHekh0anNraVFYYXE5MENNT1lkRXFDb2YwMlZZdXdwWlpaVzBpLXBVbDI0cGFSR05rNURqU1poNG83a19QTGVPMDVUVHRKX0JIZ0FHMzFYRU1YUHo2bmpPM1dwN2xhemdfU1lXX1d1V3NuVmxuQi1TVTZCN2M1M2pRNURUcTR6TXRSMmhXUWdIRkpNamRRTnNMUzVyOV9ZQTR6QVJHcE1lYXpmX1piRWRnRHdFOWJqQ25zQkZlWXJvSzFqR2hURWZUMmNnaUJQRllTZ2ZR?oc=5",
+        "pubDate": "Mon, 22 Jun 2026 02:47:00 GMT",
+        "summary": "Goldman Sachs sees structural gold buying as central bank demand hits 59 tonnes in April TradingView",
+        "source": "TradingView"
+      },
+      {
+        "title": "Central bank gold statistics: Momentum eases in January while demand base broadens - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2htQmdDX3UtNFZjdFhWc2EzV1EwMjlOMTNoLUpVZEgzYlRnLWZJR2xYTFh2WUhqcEljTEhHdnBNVWg3SktqTE5VR2JDakY5aVU2WFVRaktnQWE2SndhbUhQWjZDU3JJRjB2YVVyQzdudlU4OG4yX0Q5SklEYUNMUFN0YWdmcDkyV3VQT1Y3M1U1Z2d6ZDJUQk5tQlRnTXVwczM2OFEzYnpacVU5QVZEdXZKczhUNmF3?oc=5",
+        "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+        "summary": "Central bank gold statistics: Momentum eases in January while demand base broadens World Gold Council",
+        "source": "World Gold Council"
       }
     ]
   },
