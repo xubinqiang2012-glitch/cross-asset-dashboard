@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-30T20:18:25+00:00",
+  "fetched_at": "2026-06-30T23:37:39+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,17 +40,17 @@
     ],
     "blackrock": [
       {
-        "title": "Weekly market commentary - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbENTeHZQckVxdzhUX1hiS2tJQk5oSFY0bXBkMmo0RU42NHhpcWV3dUY4M0M4cDhXM2s3UVJTX3BkWTF2ZERidGVleW5MODZ6bzVZdGMyMTFZNDRuRVJPaXcwNmpCWFhUTzRRRUdfSy1zeC1DNktDV3NNQVl0VGRZckR1V0hpZzN4UnN5MHlBV3lyd3dpdXI4?oc=5",
-        "pubDate": "Sun, 21 Jun 2026 07:00:00 GMT",
-        "summary": "Weekly market commentary blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
         "title": "A 2026 global macro outlook: Patience - blackrock.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
+      },
+      {
+        "title": "2026 Investment Outlook - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLV9POUpZOTlIZ2pqZW0wc2M3UGYwTG5BOERMVkR0b2l1WlZhZ2NFRjZPdDEwWlBkc2xoZEZKNS1oWGZLaTUxTXJyTW51dWlYWnZXVlhWTzdkSXloMDVKYU9Jc1VSVER5WHF1dnlxRlBSMUY4TmJ4Tl85dkdvUWdEb19LS1djYVFvNGdpYTh5OTEyaVl6bENGYXk3UmwtTjQ?oc=5",
+        "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
+        "summary": "2026 Investment Outlook blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -202,18 +202,18 @@
         "source": "dars.gov.et"
       },
       {
-        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
-        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
-        "source": "Wealth Professional"
-      },
-      {
         "title": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others - Wealth Briefing",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQODZXSnBDU3pyeFV6NjRXZHdPMlhhRVBQS1k3eTBETnNNeUNLY2VTSVlMQ0dTdmg1ME9YQ0VMUGJEUWd0MHF1SUtVYVhnR2pvYms5ZWFSTXkzSTRuRXJMQmhYQkdtQzdHcU9FTGc5QUk0UkVYa2h4WWVhajF6UGlJUXROVXJ1OEhfRGtUanU1MHk2RGtqTkU1eEpSLUk5RGNKZEdQa2pmWlNfdWFoWnU1VTBJN21wWFFZZGgxYXVmTVp0Ui1aU0JTd0xHQUl4OXZ6NVE?oc=5",
         "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
         "summary": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others Wealth Briefing",
         "source": "Wealth Briefing"
+      },
+      {
+        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
+        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
+        "source": "Wealth Professional"
       },
       {
         "title": "AI Becomes a Macro Variable, Reshaping Investment Logic - Let's Data Science",
