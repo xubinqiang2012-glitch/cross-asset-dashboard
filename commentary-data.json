@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-30T12:23:19+00:00",
+  "fetched_at": "2026-06-30T16:31:27+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,17 +40,10 @@
     ],
     "blackrock": [
       {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
-        "title": "2026 Investment Outlook - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLV9POUpZOTlIZ2pqZW0wc2M3UGYwTG5BOERMVkR0b2l1WlZhZ2NFRjZPdDEwWlBkc2xoZEZKNS1oWGZLaTUxTXJyTW51dWlYWnZXVlhWTzdkSXloMDVKYU9Jc1VSVER5WHF1dnlxRlBSMUY4TmJ4Tl85dkdvUWdEb19LS1djYVFvNGdpYTh5OTEyaVl6bENGYXk3UmwtTjQ?oc=5",
-        "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
-        "summary": "2026 Investment Outlook blackrock.com",
+        "title": "Weekly market commentary - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 21:06:50 GMT",
+        "summary": "Weekly market commentary blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -73,6 +66,13 @@
         "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
         "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
         "source": "Bloomberg.com"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
       }
     ],
     "goldman": [
@@ -114,13 +114,6 @@
     ],
     "jpm": [
       {
-        "title": "JPMorgan: Indonesia ranks second most resilient to global energy shock - IDNFinancials.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3dXYjZTay1rU2JZc0JDR0txdXBRSFlRTTRyYTc2OXVvR2ZXRTUzcUlWNjlWZXZXZG5RY3ZxQnFiSVZfLTdnTWcydmpvYVNZYW1BNnBaVktPSG5SbTZrQkhVSDVwLTVLN3FRcHdfV0E1WkNhTG44QjdWYzdEWUFMZGE4VWEyNWpJS1p3bWl5dFI5UFd6S3pOcHpvSTE2VFRSUVlWblFPUy1xWXZCZDE0?oc=5",
-        "pubDate": "Sat, 25 Apr 2026 07:00:00 GMT",
-        "summary": "JPMorgan: Indonesia ranks second most resilient to global energy shock IDNFinancials.com",
-        "source": "IDNFinancials.com"
-      },
-      {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGpLVEdXMEstR1VNVUN4TXlqZms2RG5GMGU4enhWR1JQeXBhXzM3dXR0Wk85OGtqVW5WLW14Y0JlbnJMRTZiMzEzQTA3OVFJZk9iR2tnZVlNNDN4NTYwUFY3VW1NZ2JlNmlXdzhTTUJyZ0lGMVdFVjZzSjZNeDEwd1U0RGNUN1lWS3ItaVZXeTZIUU9paWJ5QjdNaENlV3ZlUzZWR0xCek81OVhMNk81NGRLREktZDVOSFk1WG9n?oc=5",
         "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
@@ -147,6 +140,13 @@
         "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
         "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
         "source": "Fortune"
+      },
+      {
+        "title": "JPMorgan: Indonesia ranks second most resilient to global energy shock - IDNFinancials.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3dXYjZTay1rU2JZc0JDR0txdXBRSFlRTTRyYTc2OXVvR2ZXRTUzcUlWNjlWZXZXZG5RY3ZxQnFiSVZfLTdnTWcydmpvYVNZYW1BNnBaVktPSG5SbTZrQkhVSDVwLTVLN3FRcHdfV0E1WkNhTG44QjdWYzdEWUFMZGE4VWEyNWpJS1p3bWl5dFI5UFd6S3pOcHpvSTE2VFRSUVlWblFPUy1xWXZCZDE0?oc=5",
+        "pubDate": "Sat, 25 Apr 2026 07:00:00 GMT",
+        "summary": "JPMorgan: Indonesia ranks second most resilient to global energy shock IDNFinancials.com",
+        "source": "IDNFinancials.com"
       }
     ],
     "ms": [
@@ -262,6 +262,13 @@
     ],
     "wgc": [
       {
+        "title": "Uzbekistan Ranks Second Worldwide in Central Bank Gold Purchases in Early 2026 - Caspian Post",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOXRoc25mU2ZPYWVlaS1uM2ZyeGdwa01NSkVOaFlHU01Pd2R6bDJ1bjJfdWZESXowOWJsbWtvTWtTWlJ6QnVEMHhjWlhNSVJVdTRtSF9XWHQtV1pmX1dPNUhfNjFBNnFDcGR4NGhRUmlzeDQ2c2hEMU1URkYwbnQxNzg1eVZRN0xmX1RmZWVxVEc0QXJnMVkyQ2hXTldybDNDRWhNTkloR3ZtcUVQYUV2RlllYw?oc=5",
+        "pubDate": "Tue, 30 Jun 2026 13:33:13 GMT",
+        "summary": "Uzbekistan Ranks Second Worldwide in Central Bank Gold Purchases in Early 2026 Caspian Post",
+        "source": "Caspian Post"
+      },
+      {
         "title": "Gold: Central bank flows and real yields – Societe Generale - FXStreet",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZEE0eUFmMmZfSGJQMnRqT2ZFS20zSF84QlpicXY5cEpYYUpwMUN4WVh5elZaWTF2UWU5RGN5NWxtbEhsNzdsR2pfb1hrcE0wcFlVRG1PVk9JX1lCOTdWU3lFdHFURUhLYVlZZlc3c0QxNUp4a3Q2bjlkMHZhZXN2NWQzMVE3TmJXb0hGTXZzTlpBQ29ITjAzUVYzWFRWbXZ4?oc=5",
         "pubDate": "Mon, 29 Jun 2026 11:13:07 GMT",
@@ -269,11 +276,11 @@
         "source": "FXStreet"
       },
       {
-        "title": "Why central bank gold holdings are at a 50‑year high - Ticker News",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV2xhRXJiU0VGRXJ3bF9IN0VCdFdPX3JmT3BiUUJaRmx5cmk4WHZ4U3NaaE1yUS1fQkR0ZE9VNFhMd0hOWVJ3S3FkY1BwcDhDZHNEOEZuMmY4NU1pem1TTkpuNF90TlFrSmllT1BadElQUFAzZEZTaXZIb1BPeE80VNIBhgFBVV95cUxPQ3RjR3h1RHl5NVJzMTBQN3hSMXFMdmJBNG0xV083dEhFZ2hqLXBQeDFvOVRuLThmQ0lncGhkRk0zMDdzU29PYU9rSUVBMmw4aWN0eXFQN3IwNU9fQ2hncU8yTWFyM0djd05MZHA2cFhyanZYZUg1Y2E4TWozdGxNYmw1NDVmZw?oc=5",
-        "pubDate": "Sat, 27 Jun 2026 08:09:32 GMT",
-        "summary": "Why central bank gold holdings are at a 50‑year high Ticker News",
-        "source": "Ticker News"
+        "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - The Conversation",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjU4ZF9OR3BwRGZDMzBJSnphN0JlUHRZNG5VTmxyS0tRTkRNR1VMM2FCRG5RV0dJRFllekNvZVZfYnJqZG95VGEzSEV2RDF2bUtERTBIQm8yb2NWakN3dk43UXVoZXZHRXdiWWx1OFF2NFAtc2RSRmg0aFdiekd6NmJwMWYtTl9ad0FSbnBvUUZMQ24xMWFmdE5ob1R1NnRKdVk3eVZ5ZmpLZTdFVjJTYll1eDZ4Y2V1?oc=5",
+        "pubDate": "Fri, 26 Jun 2026 01:18:00 GMT",
+        "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
+        "source": "The Conversation"
       },
       {
         "title": "Central Bank Gold Reserves Survey 2026 - World Gold Council",
@@ -288,13 +295,6 @@
         "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "summary": "Central banks are bringing gold reserves home as geopolitical risks rise CNBC",
         "source": "CNBC"
-      },
-      {
-        "title": "Central banks are still hungry for gold - KITCO",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVRpRHIxNnN2dG50aFJvd1JJdURrWkhueWtPUmhBV3Q5aTN6QlhSUjQ1MnBJQmFoVzRoNXhkZXVzbHUzQWVBMFlFbU1VejVQVVQzVnBmdVppRnowa0dlY0JqakhFSE0xOXRQTlcycFBpUWdGdlVYMGNONWM1SW12c000Y2xuWV9R?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Central banks are still hungry for gold KITCO",
-        "source": "KITCO"
       }
     ]
   },
