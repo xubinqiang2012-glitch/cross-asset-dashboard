@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T10:13:00+00:00",
+  "fetched_at": "2026-07-01T12:48:36+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,18 +40,18 @@
     ],
     "blackrock": [
       {
-        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
       },
       {
-        "title": "2026 Investment Outlook - BlackRock",
+        "title": "2026 Investment Outlook - blackrock.com",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLV9POUpZOTlIZ2pqZW0wc2M3UGYwTG5BOERMVkR0b2l1WlZhZ2NFRjZPdDEwWlBkc2xoZEZKNS1oWGZLaTUxTXJyTW51dWlYWnZXVlhWTzdkSXloMDVKYU9Jc1VSVER5WHF1dnlxRlBSMUY4TmJ4Tl85dkdvUWdEb19LS1djYVFvNGdpYTh5OTEyaVl6bENGYXk3UmwtTjQ?oc=5",
         "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
-        "summary": "2026 Investment Outlook BlackRock",
-        "source": "BlackRock"
+        "summary": "2026 Investment Outlook blackrock.com",
+        "source": "blackrock.com"
       },
       {
         "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
@@ -209,18 +209,18 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "Pimco Corporate & Income Strategy Fund (PCN) Holds Steady Near Key Support – Modest Decline Reflects Cautious Sentiment - Growth Factor - dars.gov.et",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNS1vRTJnNmwyZkQ0YlFrbEdfTkU4aklvejBUdU5aZ25yXzNjbExpeEdPMV9QVFQ5VmExeGxiTXFENHllVWIwVUpLRGhtUHdhYnA3RjNJQVB6aUQzQzVRSnhPMldCeHh3bThQTktKSl9FRzFic1JqUGtaODRmenYtRWd4SnVfY0xNUUZTMHJxU0hHa096OTAxM3ZFd2RtREFDYTRPaGZLNkNJVHhIVzVJUFZQOVBTSjZuNEdPVzlWX2NSeDQ3b05nTlpnTnRSQUdDemFZRWE2RnI0eXFJYkpid3N1dGJfLXBkSGZPRg?oc=5",
-        "pubDate": "Thu, 25 Jun 2026 00:40:21 GMT",
-        "summary": "Pimco Corporate & Income Strategy Fund (PCN) Holds Steady Near Key Support – Modest Decline Reflects Cautious Sentiment - Growth Factor dars.gov.et",
-        "source": "dars.gov.et"
-      },
-      {
         "title": "AI Becomes a Macro Variable, Reshaping Investment Logic - Let's Data Science",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEd6UFdXdlNDOHFNNUZYZHFqaUNzRWhlZm51Vk14QURKUENyU0hpYkVGbmR4Y2F5RTZ6UDFmUmlaQ2I4dXY3Tzh0RnFWcnY2MVptSVZZM2ZPQ1N3a0g3M1FZS3BDblN0UkQwcU1wUVpqYUpyOTU1Q1N1Q3FCdkcwWGxmd2NUSXRTWEhRTXEyUVI5UjVvdldtLTZTWWI?oc=5",
         "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
         "summary": "AI Becomes a Macro Variable, Reshaping Investment Logic Let's Data Science",
         "source": "Let's Data Science"
+      },
+      {
+        "title": "Pimco Corporate & Income Strategy Fund (PCN) Holds Steady Near Key Support – Modest Decline Reflects Cautious Sentiment - Growth Factor - dars.gov.et",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNS1vRTJnNmwyZkQ0YlFrbEdfTkU4aklvejBUdU5aZ25yXzNjbExpeEdPMV9QVFQ5VmExeGxiTXFENHllVWIwVUpLRGhtUHdhYnA3RjNJQVB6aUQzQzVRSnhPMldCeHh3bThQTktKSl9FRzFic1JqUGtaODRmenYtRWd4SnVfY0xNUUZTMHJxU0hHa096OTAxM3ZFd2RtREFDYTRPaGZLNkNJVHhIVzVJUFZQOVBTSjZuNEdPVzlWX2NSeDQ3b05nTlpnTnRSQUdDemFZRWE2RnI0eXFJYkpid3N1dGJfLXBkSGZPRg?oc=5",
+        "pubDate": "Thu, 25 Jun 2026 00:40:21 GMT",
+        "summary": "Pimco Corporate & Income Strategy Fund (PCN) Holds Steady Near Key Support – Modest Decline Reflects Cautious Sentiment - Growth Factor dars.gov.et",
+        "source": "dars.gov.et"
       }
     ],
     "fed": [
