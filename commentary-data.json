@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T12:48:36+00:00",
+  "fetched_at": "2026-07-01T16:39:19+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,17 +40,10 @@
     ],
     "blackrock": [
       {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
-        "title": "2026 Investment Outlook - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLV9POUpZOTlIZ2pqZW0wc2M3UGYwTG5BOERMVkR0b2l1WlZhZ2NFRjZPdDEwWlBkc2xoZEZKNS1oWGZLaTUxTXJyTW51dWlYWnZXVlhWTzdkSXloMDVKYU9Jc1VSVER5WHF1dnlxRlBSMUY4TmJ4Tl85dkdvUWdEb19LS1djYVFvNGdpYTh5OTEyaVl6bENGYXk3UmwtTjQ?oc=5",
-        "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
-        "summary": "2026 Investment Outlook blackrock.com",
+        "title": "Weekly market commentary - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary blackrock.com",
         "source": "blackrock.com"
       },
       {
@@ -73,6 +66,13 @@
         "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
         "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
         "source": "Bloomberg.com"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
       }
     ],
     "goldman": [
@@ -135,18 +135,18 @@
         "source": "J.P. Morgan Private Bank"
       },
       {
+        "title": "Speaker and Session Line-Up for 2025 Robin Hood Investors Conference - robinhood.org",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaU10SkczZ3MxMzFicld6LVo1cUFmSDhwUXg3eEY0X29KcUZoLWFkNWh2Vm5RSWE1SXVkSXc2dTRFbVE1d2dVYU9jZkY1cEU3MThWeW5kZFVWSmtTYVlvVFBpQ3RTWk9UUl9icjBvaWZWY1plUVlubXVCSEdjZ043T1BYc3dmS0Z4?oc=5",
+        "pubDate": "Fri, 05 Sep 2025 07:00:00 GMT",
+        "summary": "Speaker and Session Line-Up for 2025 Robin Hood Investors Conference robinhood.org",
+        "source": "robinhood.org"
+      },
+      {
         "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
         "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
         "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
         "source": "Fortune"
-      },
-      {
-        "title": "JPMorgan: Indonesia ranks second most resilient to global energy shock - IDNFinancials.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3dXYjZTay1rU2JZc0JDR0txdXBRSFlRTTRyYTc2OXVvR2ZXRTUzcUlWNjlWZXZXZG5RY3ZxQnFiSVZfLTdnTWcydmpvYVNZYW1BNnBaVktPSG5SbTZrQkhVSDVwLTVLN3FRcHdfV0E1WkNhTG44QjdWYzdEWUFMZGE4VWEyNWpJS1p3bWl5dFI5UFd6S3pOcHpvSTE2VFRSUVlWblFPUy1xWXZCZDE0?oc=5",
-        "pubDate": "Sat, 25 Apr 2026 07:00:00 GMT",
-        "summary": "JPMorgan: Indonesia ranks second most resilient to global energy shock IDNFinancials.com",
-        "source": "IDNFinancials.com"
       }
     ],
     "ms": [
@@ -172,18 +172,18 @@
         "source": "The Globe and Mail"
       },
       {
+        "title": "AI Becomes a Macro Variable, Reshaping Investment Logic - Let's Data Science",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEd6UFdXdlNDOHFNNUZYZHFqaUNzRWhlZm51Vk14QURKUENyU0hpYkVGbmR4Y2F5RTZ6UDFmUmlaQ2I4dXY3Tzh0RnFWcnY2MVptSVZZM2ZPQ1N3a0g3M1FZS3BDblN0UkQwcU1wUVpqYUpyOTU1Q1N1Q3FCdkcwWGxmd2NUSXRTWEhRTXEyUVI5UjVvdldtLTZTWWI?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+        "summary": "AI Becomes a Macro Variable, Reshaping Investment Logic Let's Data Science",
+        "source": "Let's Data Science"
+      },
+      {
         "title": "Why the US-Israel war with Iran leaves Asian economies exposed - South China Morning Post",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaUl3MGhhUEdwdVljb0l0bms1Uzh2M3Iyd2tXb0pxMVpkNzdSTk9JNEl0NTlTRF9kSEtlUHNyWGZDR1JfSGdjRkJTRElSM1l2OGZ4SWpYZlpSWjN5aGpEOWZkZlRmRGNQRzlyWnFtTDNtSjAwaDdtUGxlYm4ya0c5NnVTaXFhdmNvbkJ5YmtFcTFxRnNHdFJVcm5IVFdJUXpZRk05UTMyUXE2TUpkT2YzM2l3UmwxRklNSUJfYTM2LXhxY0JuejhOTlZEUWJEZEpHZEppUzgtSGdqQdIB2gFBVV95cUxQd0tsZTZYdVRDVzBOQmUwaTlYOFZrU3NJbWt2b01kWXQ3b1ZBeWs1SVE1XzN6VUpUOFdhS2FBWFRQWjcxc1VQNmdLWFJFVzRsUm44eE5uenBLYUpQdzNUVVNkMnNWNGhWanVsTDhCSlg4UU10Y0ZIX0UtX1JWeEYwM05VcGUtRzdJSi1CNmtSTE1jdnNGV3dnVXF1NEQzVmZyZThqekRfMkxxZmtNRTBaUHRTU0RLRmFZYTBURTF6djh0cE1yTFUxQmhBOXhYVlBRcWFNaXA2M240dw?oc=5",
         "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
         "summary": "Why the US-Israel war with Iran leaves Asian economies exposed South China Morning Post",
         "source": "South China Morning Post"
-      },
-      {
-        "title": "Why Morgan Stanley slashed its gold price forecast to $5,200, down from $5,700 — is the gold bull run over - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOWlU1V3BXeXdrYm9SWFo0bnVxbExtWHN0NC0tS1djZU1Md3NXS3RPQVpGcTRad09zMmVuU1FOX0EzMTlQWHFXNHV0Y3NUakxDc2lQU2kxQWttb0dESW1pVC1fUWU3Qm83Umhhel8wQjhlTW1LZFJaQjVTeHQ5bnpkaHNTZUhScHlPc2pTY1RUc0d2ay01bWFmay1BXzNxU05rS2NfU1lkX3NWOXZjbTFsbnhnS1pNNFRrbGlWNzhRUU4tN2N5ZHFJNGtjeGNFNUxGWkxWVHVBcHIwbnBQTWg4a3k3UFluUko4YzRlbVA2aDVqYkViMkdIM0FFTGJsR2lPYWt4YkJfWlg2MF81NERtTGMyV1JzRmZpdXYyNlZOVG5mOWRLMjVNckx2ZWFCNGxyZFJYT21PN2xwVVVPajVRYkJFc01fOTBSNlVoNjVSZHYxQzgzSDB1OdIB3gJBVV95cUxPeXhmSUJvaS1BT2xvQWphamgxVTYwX0dsZkh0UjIxVDFFOF94OHJsMk40NWk1S3lVeFpjQzMyNzBJS24wS1NwMld4c1EtUzFRYW40Y0JEbnRoQXNBTFpTQXpDRlNtWFhaVTBvZWdHZTNDWTBtOUxHelJtMmFCOEFPZ2xIcEMydnM0Z0dxLTlqYXRLTlVpRmFGZURwbF9SLVN5UnBCejJTUlZIXzk0aFhWTVp0N3lPNW5YUGZWYkZid290UnMtUkczdVhTZ3JzOXZ5eEhMVE9DY290OEpkQVhOSXMxSDV6LUgtcVZqeHcteGtKOUJreXJXYWxGMXZjaDZFYnEya0Vqb1RKcTVGNkstSnllZUdlRXNWZ1g3cmpBN2tXeExMb3A0N3hNU2pHTFRtZ0pKMDg0ajVWU2VCSENadzM3cEROVlNiUTdORWcxdzAxWlRRVVJKcFQwSkNhZw?oc=5",
-        "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
-        "summary": "Why Morgan Stanley slashed its gold price forecast to $5,200, down from $5,700 — is the gold bull run over The Economic Times",
-        "source": "The Economic Times"
       }
     ],
     "pimco": [
