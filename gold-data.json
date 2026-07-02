@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-02T09:32:04+00:00",
+  "fetched_at": "2026-07-02T12:20:43+00:00",
   "values": {
     "real_yield": 2.2
   },
@@ -7,7 +7,7 @@
     "real_yield": "2026-06-30"
   },
   "errors": {
-    "gold": "<urlopen error timed out>",
-    "dxy": "<urlopen error timed out>"
+    "gold": "HTTP Error 404: Not Found",
+    "dxy": "HTTP Error 404: Not Found"
   }
 }
