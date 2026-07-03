@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-03T07:35:10+00:00",
+  "fetched_at": "2026-07-03T10:49:36+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,17 +40,17 @@
     ],
     "blackrock": [
       {
+        "title": "Weekly market commentary - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary BlackRock",
+        "source": "BlackRock"
+      },
+      {
         "title": "A 2026 global macro outlook: Patience - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "2026 Investment Outlook - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLV9POUpZOTlIZ2pqZW0wc2M3UGYwTG5BOERMVkR0b2l1WlZhZ2NFRjZPdDEwWlBkc2xoZEZKNS1oWGZLaTUxTXJyTW51dWlYWnZXVlhWTzdkSXloMDVKYU9Jc1VSVER5WHF1dnlxRlBSMUY4TmJ4Tl85dkdvUWdEb19LS1djYVFvNGdpYTh5OTEyaVl6bENGYXk3UmwtTjQ?oc=5",
-        "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
-        "summary": "2026 Investment Outlook BlackRock",
         "source": "BlackRock"
       },
       {
@@ -262,6 +262,13 @@
         "source": "World Gold Council"
       },
       {
+        "title": "Gold ounce will not drop below $4,000 until the end of 2026: World Gold Council - Egypt Independent",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzc1dkJQaHdiVTcyRm5SU2JGQ0lFYUk5Zkl2cExvZXZyMHoyazFiVU80anU5VldUUXl1TVItZ2tDNFFhUlI1UzJVd3ZPS2gwcEVHajdkZ0VpUWhuVmhXemc4WjNKQ2lYUHl2ZlRJd1g3LVVlZjdpWHdQU2drbmZKVVVkVDR4d3lTTlQ2V0c5NEFVbnJab21BUXUyUmFLQ0dKNDFxVHhyVTczN3BHQ3RR?oc=5",
+        "pubDate": "Fri, 03 Jul 2026 08:16:20 GMT",
+        "summary": "Gold ounce will not drop below $4,000 until the end of 2026: World Gold Council Egypt Independent",
+        "source": "Egypt Independent"
+      },
+      {
         "title": "Central Bank Gold Reserves - GoldSilver",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3OE80bm1FcnZrN0J4U05XM3p1Um9hN3JWTG03Mks3Rm55ckptTXhmaENTT29LVlB1VnlwanJzM0N3T2pjY0tESzNZeEVDSHlxa2ZLNlZ2Y2ZzR1BWbkpRdTJmcjNRU3R3RlNXSlJnVmstUWkteXF1Y3U5VGo?oc=5",
         "pubDate": "Tue, 30 Jun 2026 15:58:03 GMT",
@@ -274,13 +281,6 @@
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
-      },
-      {
-        "title": "Uzbekistan Ranks Second Worldwide in Central Bank Gold Purchases in Early 2026 - Caspian Post",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOXRoc25mU2ZPYWVlaS1uM2ZyeGdwa01NSkVOaFlHU01Pd2R6bDJ1bjJfdWZESXowOWJsbWtvTWtTWlJ6QnVEMHhjWlhNSVJVdTRtSF9XWHQtV1pmX1dPNUhfNjFBNnFDcGR4NGhRUmlzeDQ2c2hEMU1URkYwbnQxNzg1eVZRN0xmX1RmZWVxVEc0QXJnMVkyQ2hXTldybDNDRWhNTkloR3ZtcUVQYUV2RlllYw?oc=5",
-        "pubDate": "Tue, 30 Jun 2026 13:33:13 GMT",
-        "summary": "Uzbekistan Ranks Second Worldwide in Central Bank Gold Purchases in Early 2026 Caspian Post",
-        "source": "Caspian Post"
       },
       {
         "title": "Market expectations for the central bank's gold purchases are running high, but uncertainties remain; institutions suggest short-term outlooks hold more value. - Moomoo",
