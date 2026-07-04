@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-04T08:43:40+00:00",
+  "fetched_at": "2026-07-04T13:43:29+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -17,13 +17,6 @@
         "source": "Bridgewater Associates"
       },
       {
-        "title": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace - Crypto Briefing",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fMFlpLWpqZXEtYUxXLTB1SHFMeWZLSXBIT25BMlhaRUswN0lSdVFNVDRlQTZreTlSdXBqSDA2U3BtVUpoODV0bWtsUVM4SFA1Z3VxYVV2UmRuT2VzVDI2b2N5VjlGS1lwbUMzcFFza09zdw?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 23:20:03 GMT",
-        "summary": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace Crypto Briefing",
-        "source": "Crypto Briefing"
-      },
-      {
         "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
         "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
@@ -36,6 +29,13 @@
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
         "summary": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% Bloomberg.com",
         "source": "Bloomberg.com"
+      },
+      {
+        "title": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ybUxjcVpNc251R1BTVjFuTHdPeVVqZE5xdnRGTzlKdGZoTWQ1ZXd3NVBLTVg4VjVJOXVrNng3RC1yVkdUeHluY01McjRkT3RuR3AtZlNBbTRPX2gzNUhNOWpMd9IBY0FVX3lxTE1ybUxjcVpNc251R1BTVjFuTHdPeVVqZE5xdnRGTzlKdGZoTWQ1ZXd3NVBLTVg4VjVJOXVrNng3RC1yVkdUeHluY01McjRkT3RuR3AtZlNBbTRPX2gzNUhNOWpMdw?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 23:58:16 GMT",
+        "summary": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace Bitget",
+        "source": "Bitget"
       }
     ],
     "blackrock": [
@@ -114,6 +114,13 @@
     ],
     "jpm": [
       {
+        "title": "Salem’s Lot: Gulf War update; the Purge of senior US military officers; a US fossil fuel reliance fever dream - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2dXZnQ5Y2h3VjhmVFZKQUhCdjB2Zm9yeGZHUDNmUm5DMXdydy1OY2xwU3FHRUpnbUpTQ2oxWFBDMXZKYVBiUmpzNjNFQ1ZLSHV1cVhSdmFlOGhsTmpiZkZ2dnoxTERGZFlBVVVTTWh2Q3VNT0l4TnM1c0ZxYzdSS0FKV29CajZMQTJOaQ?oc=5",
+        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+        "summary": "Salem’s Lot: Gulf War update; the Purge of senior US military officers; a US fossil fuel reliance fever dream J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
+      },
+      {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGpLVEdXMEstR1VNVUN4TXlqZms2RG5GMGU4enhWR1JQeXBhXzM3dXR0Wk85OGtqVW5WLW14Y0JlbnJMRTZiMzEzQTA3OVFJZk9iR2tnZVlNNDN4NTYwUFY3VW1NZ2JlNmlXdzhTTUJyZ0lGMVdFVjZzSjZNeDEwd1U0RGNUN1lWS3ItaVZXeTZIUU9paWJ5QjdNaENlV3ZlUzZWR0xCek81OVhMNk81NGRLREktZDVOSFk1WG9n?oc=5",
         "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
@@ -128,13 +135,6 @@
         "source": "Chase Bank"
       },
       {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0ZXa182UTVvRUg1Ulc0enh4dlN0SkpjNjdLQXkwYXZmMG8yOG9MdDExcDd0aXNjQlNRSExIY2FLM09mSTRZX1pXRlVRZlhERGJXck1pVWlaOTRKeGhWakRsenpJZDFuZ1NKNnlKazJmZXFTZ0MzalJPYlJ6Q3lmNFAySjRqLU1mVElOS1RVanRDOXlZcmxtYklNZWd4emc1U1phRlViRXRmWTVXMlZ2LV9Fc0ZJYUM1SkxrMVVxZG43LWdOOG9zYnZMT05mZw?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
-      },
-      {
         "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
         "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
@@ -142,11 +142,11 @@
         "source": "Fortune"
       },
       {
-        "title": "JPMorgan: Indonesia ranks second most resilient to global energy shock - IDNFinancials.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3dXYjZTay1rU2JZc0JDR0txdXBRSFlRTTRyYTc2OXVvR2ZXRTUzcUlWNjlWZXZXZG5RY3ZxQnFiSVZfLTdnTWcydmpvYVNZYW1BNnBaVktPSG5SbTZrQkhVSDVwLTVLN3FRcHdfV0E1WkNhTG44QjdWYzdEWUFMZGE4VWEyNWpJS1p3bWl5dFI5UFd6S3pOcHpvSTE2VFRSUVlWblFPUy1xWXZCZDE0?oc=5",
-        "pubDate": "Sat, 25 Apr 2026 07:00:00 GMT",
-        "summary": "JPMorgan: Indonesia ranks second most resilient to global energy shock IDNFinancials.com",
-        "source": "IDNFinancials.com"
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0ZXa182UTVvRUg1Ulc0enh4dlN0SkpjNjdLQXkwYXZmMG8yOG9MdDExcDd0aXNjQlNRSExIY2FLM09mSTRZX1pXRlVRZlhERGJXck1pVWlaOTRKeGhWakRsenpJZDFuZ1NKNnlKazJmZXFTZ0MzalJPYlJ6Q3lmNFAySjRqLU1mVElOS1RVanRDOXlZcmxtYklNZWd4emc1U1phRlViRXRmWTVXMlZ2LV9Fc0ZJYUM1SkxrMVVxZG43LWdOOG9zYnZMT05mZw?oc=5",
+        "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
       }
     ],
     "ms": [
@@ -264,7 +264,7 @@
       {
         "title": "Central banks boost gold reserves with net 41 tonnes purchased in May – World Gold Council - KITCO",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3dzcVZncW9EeDFaempVbllwNGoxTUNRNnJ0NmkwT2ppTm9iOEdGTDgyTXo2TTN6WXVHMFlXTnZvZEoxRVFseU1MTW9SX2FQYlFRS1N2Q2xfSzlxbXoxVXJlcGZKT2RUbTdudzlPR3FmT05CbVdWUmNaaTh6U2EyT3VXMnBVYzRYQzFYYzEycVZPMTFqVnp2RjI3OXJnYnBWUUY2TndkVDV2bG9NZzdLQnNuVlZRRTZheFE?oc=5",
-        "pubDate": "Fri, 03 Jul 2026 16:41:00 GMT",
+        "pubDate": "Fri, 03 Jul 2026 19:58:15 GMT",
         "summary": "Central banks boost gold reserves with net 41 tonnes purchased in May – World Gold Council KITCO",
         "source": "KITCO"
       },
