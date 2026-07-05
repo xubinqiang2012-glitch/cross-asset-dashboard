@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-05T13:49:43+00:00",
+  "fetched_at": "2026-07-05T19:24:40+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,17 +40,17 @@
     ],
     "blackrock": [
       {
-        "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "summary": "Weekly market commentary BlackRock",
-        "source": "BlackRock"
-      },
-      {
         "title": "A 2026 global macro outlook: Patience - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "A 2026 global macro outlook: Patience BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "Weekly market commentary - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       },
       {
@@ -68,11 +68,11 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "2026 Global Outlook - Q2 Update - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BeGhqRzgyTWhwcjQyZmkzaEppMWlMRG1DdUM4Y3pYN0pMajNlSWtTYlJxUkhQaG84ZFRmTXhuc19XSmt5VXhLRFMtekcyN2tMaDVBRTYyZ1BNRFAwMzhWRFA3eTdkMi1yaDV3WGgzSEFkTlN4VVZUZjJ3?oc=5",
-        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-        "summary": "2026 Global Outlook - Q2 Update Seeking Alpha",
-        "source": "Seeking Alpha"
+        "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFpjX1pWc1F2UEFQOWRsWlktb3E2QTZwT1c1YkVBSERtX3FxQVRjRXlvUF96WUFSaXRZdGpGSzJqY2Zhb0ZaSkpJUVd1WERmTkVNeE1TTk9abmtkbWJ6blJkRTE4dmtFdEhUQjY4aWxQNEdnTW1uTHRBOGlESGVkSE0yWTRwX0N0Ql9OcDEwT0ZWcTI2R0Rid1Vn?oc=5",
+        "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
+        "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
@@ -142,11 +142,11 @@
         "source": "Fortune"
       },
       {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0ZXa182UTVvRUg1Ulc0enh4dlN0SkpjNjdLQXkwYXZmMG8yOG9MdDExcDd0aXNjQlNRSExIY2FLM09mSTRZX1pXRlVRZlhERGJXck1pVWlaOTRKeGhWakRsenpJZDFuZ1NKNnlKazJmZXFTZ0MzalJPYlJ6Q3lmNFAySjRqLU1mVElOS1RVanRDOXlZcmxtYklNZWd4emc1U1phRlViRXRmWTVXMlZ2LV9Fc0ZJYUM1SkxrMVVxZG43LWdOOG9zYnZMT05mZw?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
+        "title": "The War-Driven Spike in Oil Prices May Lead to Only ‘Modest’ GDP Contractions, Says Michael Cembalest - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEdkLW1PRU8wTnlWTHhOQmc2VFcyUXZLdk1GVzhoc1BMMHJ1M1pFVDFMU0FTY0gzYm9kMldPOFpsd1BMc29mekFNR0QzSFNFUXc2TFFYU3dlNjhiRHg2S09OZnNMUWRldklsSjRWR3hjWHhwXzcxd0R2ZlJUanV2V2lkaWtwMUN4SUxqeEdnV2JHSThmTmxkNVhHUEl3bEhxejRZdTN5RGEycmdtR1VfWjU3bjZQbWsxWVFWU2k1TEZzR0pzNWQxbjM0NFYwMUk?oc=5",
+        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "summary": "The War-Driven Spike in Oil Prices May Lead to Only ‘Modest’ GDP Contractions, Says Michael Cembalest Institutional Investor",
+        "source": "Institutional Investor"
       }
     ],
     "ms": [
@@ -172,11 +172,11 @@
         "source": "The Globe and Mail"
       },
       {
-        "title": "Why the US-Israel war with Iran leaves Asian economies exposed - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaUl3MGhhUEdwdVljb0l0bms1Uzh2M3Iyd2tXb0pxMVpkNzdSTk9JNEl0NTlTRF9kSEtlUHNyWGZDR1JfSGdjRkJTRElSM1l2OGZ4SWpYZlpSWjN5aGpEOWZkZlRmRGNQRzlyWnFtTDNtSjAwaDdtUGxlYm4ya0c5NnVTaXFhdmNvbkJ5YmtFcTFxRnNHdFJVcm5IVFdJUXpZRk05UTMyUXE2TUpkT2YzM2l3UmwxRklNSUJfYTM2LXhxY0JuejhOTlZEUWJEZEpHZEppUzgtSGdqQdIB2gFBVV95cUxQd0tsZTZYdVRDVzBOQmUwaTlYOFZrU3NJbWt2b01kWXQ3b1ZBeWs1SVE1XzN6VUpUOFdhS2FBWFRQWjcxc1VQNmdLWFJFVzRsUm44eE5uenBLYUpQdzNUVVNkMnNWNGhWanVsTDhCSlg4UU10Y0ZIX0UtX1JWeEYwM05VcGUtRzdJSi1CNmtSTE1jdnNGV3dnVXF1NEQzVmZyZThqekRfMkxxZmtNRTBaUHRTU0RLRmFZYTBURTF6djh0cE1yTFUxQmhBOXhYVlBRcWFNaXA2M240dw?oc=5",
-        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
-        "summary": "Why the US-Israel war with Iran leaves Asian economies exposed South China Morning Post",
-        "source": "South China Morning Post"
+        "title": "AI Becomes a Macro Variable, Reshaping Investment Logic - Let's Data Science",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEd6UFdXdlNDOHFNNUZYZHFqaUNzRWhlZm51Vk14QURKUENyU0hpYkVGbmR4Y2F5RTZ6UDFmUmlaQ2I4dXY3Tzh0RnFWcnY2MVptSVZZM2ZPQ1N3a0g3M1FZS3BDblN0UkQwcU1wUVpqYUpyOTU1Q1N1Q3FCdkcwWGxmd2NUSXRTWEhRTXEyUVI5UjVvdldtLTZTWWI?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+        "summary": "AI Becomes a Macro Variable, Reshaping Investment Logic Let's Data Science",
+        "source": "Let's Data Science"
       }
     ],
     "pimco": [
@@ -202,18 +202,18 @@
         "source": "Let's Data Science"
       },
       {
-        "title": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others - Wealth Briefing",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQODZXSnBDU3pyeFV6NjRXZHdPMlhhRVBQS1k3eTBETnNNeUNLY2VTSVlMQ0dTdmg1ME9YQ0VMUGJEUWd0MHF1SUtVYVhnR2pvYms5ZWFSTXkzSTRuRXJMQmhYQkdtQzdHcU9FTGc5QUk0UkVYa2h4WWVhajF6UGlJUXROVXJ1OEhfRGtUanU1MHk2RGtqTkU1eEpSLUk5RGNKZEdQa2pmWlNfdWFoWnU1VTBJN21wWFFZZGgxYXVmTVp0Ui1aU0JTd0xHQUl4OXZ6NVE?oc=5",
-        "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
-        "summary": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others Wealth Briefing",
-        "source": "Wealth Briefing"
+        "title": "AI Credit Expansion: Assessing The Micro And Macro Risks - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR1kwcEJuLU1ITmFXVWZiaVZLdzRHUEZWOU9LZUNkcE13VV81UTZBcnNkcFE4RGF5ZG4wZGlQd1I2M19laml6aWJqcFZUUktyTG9fNGszSTNUODBmRFd6QTQ2N3F6LVRZcHk0T1VtaWhQR0Fzcnk0WE0zV3k1a2RVM0NaMjBEa2E2X3hGeGlQUWJCQQ?oc=5",
+        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
+        "summary": "AI Credit Expansion: Assessing The Micro And Macro Risks Seeking Alpha",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
-        "source": "IFA Magazine"
+        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
+        "source": "Livewire Markets"
       }
     ],
     "fed": [
@@ -269,6 +269,13 @@
         "source": "Seeking Alpha"
       },
       {
+        "title": "Central Bank Gold Reserves Survey 2026 - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkI4UmNFV245NHdZeHJnbngyWmo5Q1loYVdFQzdqNlFzQ1M0MEYxTmlpX3dOM2plY2huTkR3UTZfQWZDTUF4U1Q3MDJJdGlSZjV4UkZFc2Z3cC1FMWQ0TGpka19NVzZIUzdwbWxlcXZqclZPbzFDV004OGxLVWlLOFZR?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+        "summary": "Central Bank Gold Reserves Survey 2026 World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
         "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - The Conversation",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjU4ZF9OR3BwRGZDMzBJSnphN0JlUHRZNG5VTmxyS0tRTkRNR1VMM2FCRG5RV0dJRFllekNvZVZfYnJqZG95VGEzSEV2RDF2bUtERTBIQm8yb2NWakN3dk43UXVoZXZHRXdiWWx1OFF2NFAtc2RSRmg0aFdiekd6NmJwMWYtTl9ad0FSbnBvUUZMQ24xMWFmdE5ob1R1NnRKdVk3eVZ5ZmpLZTdFVjJTYll1eDZ4Y2V1?oc=5",
         "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
@@ -281,13 +288,6 @@
         "pubDate": "Mon, 29 Jun 2026 16:31:00 GMT",
         "summary": "Gold's biggest buyers aren't slowing down, but SocGen sees a more measured pace ahead KITCO",
         "source": "KITCO"
-      },
-      {
-        "title": "Central Bank Gold Reserves Survey 2026 - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkI4UmNFV245NHdZeHJnbngyWmo5Q1loYVdFQzdqNlFzQ1M0MEYxTmlpX3dOM2plY2huTkR3UTZfQWZDTUF4U1Q3MDJJdGlSZjV4UkZFc2Z3cC1FMWQ0TGpka19NVzZIUzdwbWxlcXZqclZPbzFDV004OGxLVWlLOFZR?oc=5",
-        "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Reserves Survey 2026 World Gold Council",
-        "source": "World Gold Council"
       }
     ]
   },
