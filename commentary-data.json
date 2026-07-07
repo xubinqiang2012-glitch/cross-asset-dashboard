@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T10:00:08+00:00",
+  "fetched_at": "2026-07-07T12:38:48+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -218,6 +218,13 @@
     ],
     "fed": [
       {
+        "title": "Bowman, Opening Remarks on Sound Practices for Artificial Intelligence",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260707a.htm",
+        "pubDate": "Tue, 7 Jul 2026 11:00:00 GMT",
+        "summary": "Speech At the Financial Stability Board Virtual Outreach Event",
+        "source": ""
+      },
+      {
         "title": "Waller, Two Thoughts on the Transmission of Monetary Policy",
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm",
         "pubDate": "Mon, 6 Jul 2026 15:00:00 GMT",
@@ -243,13 +250,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20260606a.htm",
         "pubDate": "Sat, 6 Jun 2026 16:00:00 GMT",
         "summary": "Speech At American University, Washington, D.C.",
-        "source": ""
-      },
-      {
-        "title": "Powell, Acceptance Remarks",
-        "link": "https://www.federalreserve.gov/newsevents/speech/powell20260531a.htm",
-        "pubDate": "Mon, 1 Jun 2026 00:30:00 GMT",
-        "summary": "Speech For the 2026 John F. Kennedy Profile in Courage Award, John F. Kennedy Library Foundation, Boston, Massachusetts",
         "source": ""
       }
     ],
