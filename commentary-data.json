@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-06T23:31:43+00:00",
+  "fetched_at": "2026-07-07T04:16:10+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -24,18 +24,18 @@
         "source": "Global Citizen"
       },
       {
-        "title": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace - Crypto Briefing",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fMFlpLWpqZXEtYUxXLTB1SHFMeWZLSXBIT25BMlhaRUswN0lSdVFNVDRlQTZreTlSdXBqSDA2U3BtVUpoODV0bWtsUVM4SFA1Z3VxYVV2UmRuT2VzVDI2b2N5VjlGS1lwbUMzcFFza09zdw?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 23:20:03 GMT",
-        "summary": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace Crypto Briefing",
-        "source": "Crypto Briefing"
-      },
-      {
         "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
         "summary": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% Bloomberg.com",
         "source": "Bloomberg.com"
+      },
+      {
+        "title": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace - Crypto Briefing",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fMFlpLWpqZXEtYUxXLTB1SHFMeWZLSXBIT25BMlhaRUswN0lSdVFNVDRlQTZreTlSdXBqSDA2U3BtVUpoODV0bWtsUVM4SFA1Z3VxYVV2UmRuT2VzVDI2b2N5VjlGS1lwbUMzcFFza09zdw?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 23:20:03 GMT",
+        "summary": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace Crypto Briefing",
+        "source": "Crypto Briefing"
       }
     ],
     "blackrock": [
@@ -181,13 +181,6 @@
     ],
     "pimco": [
       {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
-        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
-        "source": "CNBC"
-      },
-      {
         "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
         "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
@@ -207,6 +200,13 @@
         "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
         "summary": "AI Becomes a Macro Variable, Reshaping Investment Logic Let's Data Science",
         "source": "Let's Data Science"
+      },
+      {
+        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
+        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
+        "source": "CNBC"
       },
       {
         "title": "Pimco Corporate & Income Strategy Fund (PCN) Holds Steady Near Key Support – Modest Decline Reflects Cautious Sentiment - Growth Factor - dars.gov.et",
