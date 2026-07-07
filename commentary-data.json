@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T16:41:30+00:00",
+  "fetched_at": "2026-07-07T20:13:30+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -31,26 +31,19 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace - Crypto Briefing",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fMFlpLWpqZXEtYUxXLTB1SHFMeWZLSXBIT25BMlhaRUswN0lSdVFNVDRlQTZreTlSdXBqSDA2U3BtVUpoODV0bWtsUVM4SFA1Z3VxYVV2UmRuT2VzVDI2b2N5VjlGS1lwbUMzcFFza09zdw?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 23:20:03 GMT",
-        "summary": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace Crypto Briefing",
-        "source": "Crypto Briefing"
+        "title": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: - HedgeCo.Net",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRG5DbkNNQTJaX0oxTVdHWmVGMG1LMWhTUTNfdVhhMV9QMmtKYlA4RlhZcnIwWFlUcVhKNEw5VjRrdjVSU2dHME03aWZGdkFKOUluRGtJbkNMdTV2WjBxRGVFd3ZqTGtNMXRZbjI2NGJfZUNCazJnRWlrMFU4NkZQbkhWUGd4ZmMtVlBobjZKa1huTjJ6WVpB?oc=5",
+        "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
+        "summary": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: HedgeCo.Net",
+        "source": "HedgeCo.Net"
       }
     ],
     "blackrock": [
       {
-        "title": "A 2026 global macro outlook: Patience - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "2026 Investment Outlook - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLV9POUpZOTlIZ2pqZW0wc2M3UGYwTG5BOERMVkR0b2l1WlZhZ2NFRjZPdDEwWlBkc2xoZEZKNS1oWGZLaTUxTXJyTW51dWlYWnZXVlhWTzdkSXloMDVKYU9Jc1VSVER5WHF1dnlxRlBSMUY4TmJ4Tl85dkdvUWdEb19LS1djYVFvNGdpYTh5OTEyaVl6bENGYXk3UmwtTjQ?oc=5",
-        "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
-        "summary": "2026 Investment Outlook BlackRock",
+        "title": "Weekly market commentary - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       },
       {
@@ -73,21 +66,28 @@
         "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
         "summary": "BlackRock Q4 2025 Hedge Fund Outlook: Adapting To The New Regime Hedge Fund Alpha",
         "source": "Hedge Fund Alpha"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
+        "source": "BlackRock"
       }
     ],
     "goldman": [
-      {
-        "title": "How Will AI Impact the Labor Market? - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlFuVVp3cjRNX0RzM3JxaDdLWjgwSlZ5WXJIeDdjWUliMm44aGlBYk15QlVDYjlQZzhrQXJKNGhibV9RaWp0c2NHd1duYURrbTNrSUdQbkYxaWdpd19aQ1NEUHRCaXJfb0FyVkhzcE9IRUZOR3VEYmFHaFpWWWloTmtqSU5oNXZybWNIOFNJeGI1X1VkN2JqUzFMdWFmZw?oc=5",
-        "pubDate": "Thu, 02 Jul 2026 22:10:53 GMT",
-        "summary": "How Will AI Impact the Labor Market? Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
       {
         "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
         "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
         "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
+        "title": "How Will AI Impact the Labor Market? - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlFuVVp3cjRNX0RzM3JxaDdLWjgwSlZ5WXJIeDdjWUliMm44aGlBYk15QlVDYjlQZzhrQXJKNGhibV9RaWp0c2NHd1duYURrbTNrSUdQbkYxaWdpd19aQ1NEUHRCaXJfb0FyVkhzcE9IRUZOR3VEYmFHaFpWWWloTmtqSU5oNXZybWNIOFNJeGI1X1VkN2JqUzFMdWFmZw?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 22:10:53 GMT",
+        "summary": "How Will AI Impact the Labor Market? Goldman Sachs",
         "source": "Goldman Sachs"
       },
       {
@@ -129,8 +129,8 @@
       },
       {
         "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0ZXa182UTVvRUg1Ulc0enh4dlN0SkpjNjdLQXkwYXZmMG8yOG9MdDExcDd0aXNjQlNRSExIY2FLM09mSTRZX1pXRlVRZlhERGJXck1pVWlaOTRKeGhWakRsenpJZDFuZ1NKNnlKazJmZXFTZ0MzalJPYlJ6Q3lmNFAySjRqLU1mVElOS1RVanRDOXlZcmxtYklNZWd4emc1U1phRlViRXRmWTVXMlZ2LV9Fc0ZJYUM1SkxrMVVxZG43LWdOOG9zYnZMT05mZw?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
         "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
       },
@@ -172,11 +172,11 @@
         "source": "The Globe and Mail"
       },
       {
-        "title": "Why Morgan Stanley slashed its gold price forecast to $5,200, down from $5,700 — is the gold bull run over - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOWlU1V3BXeXdrYm9SWFo0bnVxbExtWHN0NC0tS1djZU1Md3NXS3RPQVpGcTRad09zMmVuU1FOX0EzMTlQWHFXNHV0Y3NUakxDc2lQU2kxQWttb0dESW1pVC1fUWU3Qm83Umhhel8wQjhlTW1LZFJaQjVTeHQ5bnpkaHNTZUhScHlPc2pTY1RUc0d2ay01bWFmay1BXzNxU05rS2NfU1lkX3NWOXZjbTFsbnhnS1pNNFRrbGlWNzhRUU4tN2N5ZHFJNGtjeGNFNUxGWkxWVHVBcHIwbnBQTWg4a3k3UFluUko4YzRlbVA2aDVqYkViMkdIM0FFTGJsR2lPYWt4YkJfWlg2MF81NERtTGMyV1JzRmZpdXYyNlZOVG5mOWRLMjVNckx2ZWFCNGxyZFJYT21PN2xwVVVPajVRYkJFc01fOTBSNlVoNjVSZHYxQzgzSDB1OdIB3gJBVV95cUxPeXhmSUJvaS1BT2xvQWphamgxVTYwX0dsZkh0UjIxVDFFOF94OHJsMk40NWk1S3lVeFpjQzMyNzBJS24wS1NwMld4c1EtUzFRYW40Y0JEbnRoQXNBTFpTQXpDRlNtWFhaVTBvZWdHZTNDWTBtOUxHelJtMmFCOEFPZ2xIcEMydnM0Z0dxLTlqYXRLTlVpRmFGZURwbF9SLVN5UnBCejJTUlZIXzk0aFhWTVp0N3lPNW5YUGZWYkZid290UnMtUkczdVhTZ3JzOXZ5eEhMVE9DY290OEpkQVhOSXMxSDV6LUgtcVZqeHcteGtKOUJreXJXYWxGMXZjaDZFYnEya0Vqb1RKcTVGNkstSnllZUdlRXNWZ1g3cmpBN2tXeExMb3A0N3hNU2pHTFRtZ0pKMDg0ajVWU2VCSENadzM3cEROVlNiUTdORWcxdzAxWlRRVVJKcFQwSkNhZw?oc=5",
-        "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
-        "summary": "Why Morgan Stanley slashed its gold price forecast to $5,200, down from $5,700 — is the gold bull run over The Economic Times",
-        "source": "The Economic Times"
+        "title": "Why the US-Israel war with Iran leaves Asian economies exposed - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaUl3MGhhUEdwdVljb0l0bms1Uzh2M3Iyd2tXb0pxMVpkNzdSTk9JNEl0NTlTRF9kSEtlUHNyWGZDR1JfSGdjRkJTRElSM1l2OGZ4SWpYZlpSWjN5aGpEOWZkZlRmRGNQRzlyWnFtTDNtSjAwaDdtUGxlYm4ya0c5NnVTaXFhdmNvbkJ5YmtFcTFxRnNHdFJVcm5IVFdJUXpZRk05UTMyUXE2TUpkT2YzM2l3UmwxRklNSUJfYTM2LXhxY0JuejhOTlZEUWJEZEpHZEppUzgtSGdqQdIB2gFBVV95cUxQd0tsZTZYdVRDVzBOQmUwaTlYOFZrU3NJbWt2b01kWXQ3b1ZBeWs1SVE1XzN6VUpUOFdhS2FBWFRQWjcxc1VQNmdLWFJFVzRsUm44eE5uenBLYUpQdzNUVVNkMnNWNGhWanVsTDhCSlg4UU10Y0ZIX0UtX1JWeEYwM05VcGUtRzdJSi1CNmtSTE1jdnNGV3dnVXF1NEQzVmZyZThqekRfMkxxZmtNRTBaUHRTU0RLRmFZYTBURTF6djh0cE1yTFUxQmhBOXhYVlBRcWFNaXA2M240dw?oc=5",
+        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "summary": "Why the US-Israel war with Iran leaves Asian economies exposed South China Morning Post",
+        "source": "South China Morning Post"
       }
     ],
     "pimco": [
