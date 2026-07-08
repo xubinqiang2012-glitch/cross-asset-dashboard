@@ -1,20 +1,20 @@
 {
-  "fetched_at": "2026-07-08T10:30:12+00:00",
+  "fetched_at": "2026-07-08T14:40:12+00:00",
   "sources": {
     "bridgewater": [
-      {
-        "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPME85MVhISm9ObkwyS1BtWWxzcldrQ05kenpJaEhTaElhRXhTUkpYeEszNUZPSmQ0b2FmSDlETVdSaDFmM05IR0N6ZDFYVFpOX1lsV1dlRWF6cklXcGlPMHJybU1fZ25MYU9WUkhGZzFxSkoxamxmeGJpbmJvOWVGdVEzOHVvVVBPWDBNTTVYd2F2Z3pLRkFVX0hLM3pBRlVESWw2aWxR?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 21:09:46 GMT",
-        "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Yahoo Finance",
-        "source": "Yahoo Finance"
-      },
       {
         "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
         "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
         "summary": "The Macro Implications of the AI Capex Boom Bridgewater Associates",
         "source": "Bridgewater Associates"
+      },
+      {
+        "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPME85MVhISm9ObkwyS1BtWWxzcldrQ05kenpJaEhTaElhRXhTUkpYeEszNUZPSmQ0b2FmSDlETVdSaDFmM05IR0N6ZDFYVFpOX1lsV1dlRWF6cklXcGlPMHJybU1fZ25MYU9WUkhGZzFxSkoxamxmeGJpbmJvOWVGdVEzOHVvVVBPWDBNTTVYd2F2Z3pLRkFVX0hLM3pBRlVESWw2aWxR?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 21:09:46 GMT",
+        "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Yahoo Finance",
+        "source": "Yahoo Finance"
       },
       {
         "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
@@ -91,25 +91,25 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
-        "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-        "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
-        "source": "Sporting Goods Intelligence Europe"
+        "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
+        "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+        "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
+        "source": "Goldman Sachs"
       },
       {
-        "title": "Taking The Keys: Insights On The European Private Credit Market - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGZpcm1iaEVfVnFGa21fZWdMS3c2RXA3cXlJUEhkSUlUTWhFdmpTSUFvbmxwUFptZmhHSVlkMk5BSmxrV0ZIRXhheFl1YUJrcWFxUjNubHRfa3pHM3E3UUx5QVNXYnhwYmVGaHdJeVFDWHh3Wl90aU5Fc0tTOUNFa2lIQTI4T1NjV1RsMkloOXJpZGhNN1VpWlVWME5wcTA4cENZ?oc=5",
-        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "summary": "Taking The Keys: Insights On The European Private Credit Market Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
+        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
+        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
+        "source": "Goldman Sachs"
       },
       {
-        "title": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDNmWFc4a0xyQm96d2RzdW5ZeDlOdjFvOVJqUXVYZVlxN2E5QmpoanRWRTREX2NmV0UxaERGUjZ3aTY5TC1oM0oybWVrcE0zaDNUWnNDcFRrUDdZRGhhMUdESU9TV1lGZVNpVWppZW5UMDN5NzFxZHVzSkN4YjZCYlhaLURYa2hReWlDSzFn0gGTAUFVX3lxTE8ydGNDVlpIWjhVeFJfcnNJT1lGMVRxV19qV1kwT212ZUFnWVE0TWNEMi00TEhiX1ZpTXJ0RHNLc0RRaUhscnNyY1pEdnExbVFibGRLRjZyOUpmSTJQbHA3TzlEMFZIYnljN0VhNHdYMV90Mjg3cUswNmxUeDIzMUlsVEd1U1ZWdVdLRXRRRFY5T2xINA?oc=5",
-        "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
-        "summary": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets CNBC",
-        "source": "CNBC"
+        "title": "The Outlook for India’s Economy in 2026 amid A New US Trade Deal - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3NpaHFzYWtwMlMyNjc5SlZ3UzU4dkI4ckhIcDM5eGthWk15dVBuemludEdkMjUxekdSWWt1WG5SYy1GVlNtZ09WSVFxQ3FVZUhIRWdwRVBmbm80WGpCd0pQcDNCclkwWTI5VmhCXzV2NkZrbmR2ckRfektZN3JlNXRtY1FVLWdGa2FXSjhSaVY3aUgwYUR3SlRYVlhIZTVwZ2JqUUVtaDBKUUU?oc=5",
+        "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT",
+        "summary": "The Outlook for India’s Economy in 2026 amid A New US Trade Deal Goldman Sachs",
+        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
@@ -128,18 +128,18 @@
         "source": "Chase Bank"
       },
       {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0ZXa182UTVvRUg1Ulc0enh4dlN0SkpjNjdLQXkwYXZmMG8yOG9MdDExcDd0aXNjQlNRSExIY2FLM09mSTRZX1pXRlVRZlhERGJXck1pVWlaOTRKeGhWakRsenpJZDFuZ1NKNnlKazJmZXFTZ0MzalJPYlJ6Q3lmNFAySjRqLU1mVElOS1RVanRDOXlZcmxtYklNZWd4emc1U1phRlViRXRmWTVXMlZ2LV9Fc0ZJYUM1SkxrMVVxZG43LWdOOG9zYnZMT05mZw?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
-      },
-      {
         "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
         "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
         "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
         "source": "Fortune"
+      },
+      {
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
       },
       {
         "title": "JPMorgan: Indonesia ranks second most resilient to global energy shock - IDNFinancials.com",
@@ -188,6 +188,13 @@
         "source": "Wealth Professional"
       },
       {
+        "title": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others - Wealth Briefing",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQODZXSnBDU3pyeFV6NjRXZHdPMlhhRVBQS1k3eTBETnNNeUNLY2VTSVlMQ0dTdmg1ME9YQ0VMUGJEUWd0MHF1SUtVYVhnR2pvYms5ZWFSTXkzSTRuRXJMQmhYQkdtQzdHcU9FTGc5QUk0UkVYa2h4WWVhajF6UGlJUXROVXJ1OEhfRGtUanU1MHk2RGtqTkU1eEpSLUk5RGNKZEdQa2pmWlNfdWFoWnU1VTBJN21wWFFZZGgxYXVmTVp0Ui1aU0JTd0xHQUl4OXZ6NVE?oc=5",
+        "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
+        "summary": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others Wealth Briefing",
+        "source": "Wealth Briefing"
+      },
+      {
         "title": "AI Becomes a Macro Variable, Reshaping Investment Logic - Let's Data Science",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEd6UFdXdlNDOHFNNUZYZHFqaUNzRWhlZm51Vk14QURKUENyU0hpYkVGbmR4Y2F5RTZ6UDFmUmlaQ2I4dXY3Tzh0RnFWcnY2MVptSVZZM2ZPQ1N3a0g3M1FZS3BDblN0UkQwcU1wUVpqYUpyOTU1Q1N1Q3FCdkcwWGxmd2NUSXRTWEhRTXEyUVI5UjVvdldtLTZTWWI?oc=5",
         "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
@@ -207,13 +214,6 @@
         "pubDate": "Thu, 25 Jun 2026 00:40:21 GMT",
         "summary": "Pimco Corporate & Income Strategy Fund (PCN) Holds Steady Near Key Support – Modest Decline Reflects Cautious Sentiment - Growth Factor dars.gov.et",
         "source": "dars.gov.et"
-      },
-      {
-        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
-        "source": "Livewire Markets"
       }
     ],
     "fed": [
@@ -257,7 +257,7 @@
       {
         "title": "China’s central bank buys the dip, increasing gold reserves by 15 tonnes in June - KITCO",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTJTUzBqWS1tZlNYWnYzblZXSkdCVGVtVjJGd1pBbXZxWGd0Vk4xTWwxZWViXzBucm5YU2lWbzlRcWMwaHdVREF5X3o5QXFmMGxjbmNBT0pwSVRaWDJFMmJCU3hNakEwa1o2RlRxNTB6bXNMM3hTVkJLTTVPMmg4Z2dobUFQRlotSUtHcGMyZlVMWlBFZW55SlZzYS1nSWl5aDBUVlpUOHd0QnVmSWg0dGZmVmM?oc=5",
-        "pubDate": "Tue, 07 Jul 2026 17:40:00 GMT",
+        "pubDate": "Tue, 07 Jul 2026 20:53:15 GMT",
         "summary": "China’s central bank buys the dip, increasing gold reserves by 15 tonnes in June KITCO",
         "source": "KITCO"
       },
