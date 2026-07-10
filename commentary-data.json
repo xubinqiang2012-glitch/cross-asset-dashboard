@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T21:19:48+00:00",
+  "fetched_at": "2026-07-10T23:12:25+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -121,13 +121,6 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
-        "source": "Chase Bank"
-      },
-      {
         "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
         "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
@@ -140,6 +133,13 @@
         "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
         "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
+      },
+      {
+        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
+        "source": "Chase Bank"
       },
       {
         "title": "JPMorgan: Indonesia ranks second most resilient to global energy shock - IDNFinancials.com",
@@ -269,18 +269,18 @@
         "source": "KITCO"
       },
       {
-        "title": "China Just Bought Its Most Gold Since 2023. It Did It During the Quarter Gold Fell 16%. - GoldSilver",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSlpydEZ2NkU3TW41VndPWTJWcjdMREptcnNmekdCU2JFRWdiOEg4Nk9KZjQzdmFqemVrNWdvLXRFd0RUUEZaeDJpNzhMYnc3ZDhHUWgxTVZSZWtSTkJ2bnNtT3NOSHZVdV9VVVdudTZ0MmZienFrQ0d1TDJMbnRDWXVKRXpIbDVjWXc?oc=5",
-        "pubDate": "Tue, 07 Jul 2026 21:20:10 GMT",
-        "summary": "China Just Bought Its Most Gold Since 2023. It Did It During the Quarter Gold Fell 16%. GoldSilver",
-        "source": "GoldSilver"
-      },
-      {
         "title": "China buys 15 tons of gold in June as central banks build up reserves - Nikkei Asia",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHpvdVNSQXhkMnc1bWptcTljbTJ5M04tcG5PR3lieGk2cG1HdTJSb3Joc0RtSVE1aWcwVmhRaVhPdG1iSVhNdEhkeTZmVGFkenBoNzFvQ2hoSGVWX0hUc1dELUdyYzBUWWFIY3RqMEVsWEFENlZDNDg2bXltTmJkRGZWUnhTblcyU0hXN0RBeUhKd0tjOXJvSF9UQ2V0NkNnOWdScWJHeDhUTHVrcVFhTFREVWpuX0llNTk2T2Jtbw?oc=5",
         "pubDate": "Wed, 08 Jul 2026 15:40:00 GMT",
         "summary": "China buys 15 tons of gold in June as central banks build up reserves Nikkei Asia",
         "source": "Nikkei Asia"
+      },
+      {
+        "title": "China Just Bought Its Most Gold Since 2023. It Did It During the Quarter Gold Fell 16%. - GoldSilver",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSlpydEZ2NkU3TW41VndPWTJWcjdMREptcnNmekdCU2JFRWdiOEg4Nk9KZjQzdmFqemVrNWdvLXRFd0RUUEZaeDJpNzhMYnc3ZDhHUWgxTVZSZWtSTkJ2bnNtT3NOSHZVdV9VVVdudTZ0MmZienFrQ0d1TDJMbnRDWXVKRXpIbDVjWXc?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 21:20:10 GMT",
+        "summary": "China Just Bought Its Most Gold Since 2023. It Did It During the Quarter Gold Fell 16%. GoldSilver",
+        "source": "GoldSilver"
       },
       {
         "title": "Central Bank Gold Reserves Survey 2026 - World Gold Council",
