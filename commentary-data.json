@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T18:00:53+00:00",
+  "fetched_at": "2026-07-10T19:50:34+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,17 +40,17 @@
     ],
     "blackrock": [
       {
-        "title": "Global Weekly Commentary - Insights - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UX0xsZ1E3OWQydkhOUnBNUFNMaWd4aG9walJuekZQM05FQ1JFcGo2VXJCS1FlS3JDbkNjdGdGbXJQbVJjZUFqS3JoYzhFNVh5ODRDbHVFWUdRZnc3eXBfWVJLM2Qta3o3NzRLUTUtRmlRVTdYUnNGOA?oc=5",
-        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-        "summary": "Global Weekly Commentary - Insights BlackRock",
-        "source": "BlackRock"
-      },
-      {
         "title": "A 2026 global macro outlook: Patience - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "A 2026 global macro outlook: Patience BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "Market Outlook April 2026: Get Paid to Wait - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
         "source": "BlackRock"
       },
       {
@@ -84,6 +84,13 @@
         "source": "Goldman Sachs"
       },
       {
+        "title": "How Will AI Impact the Labor Market? - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlFuVVp3cjRNX0RzM3JxaDdLWjgwSlZ5WXJIeDdjWUliMm44aGlBYk15QlVDYjlQZzhrQXJKNGhibV9RaWp0c2NHd1duYURrbTNrSUdQbkYxaWdpd19aQ1NEUHRCaXJfb0FyVkhzcE9IRUZOR3VEYmFHaFpWWWloTmtqSU5oNXZybWNIOFNJeGI1X1VkN2JqUzFMdWFmZw?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 22:10:53 GMT",
+        "summary": "How Will AI Impact the Labor Market? Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
         "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
         "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
@@ -91,25 +98,18 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
-        "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-        "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
-        "source": "Sporting Goods Intelligence Europe"
+        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
+        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
+        "source": "Goldman Sachs"
       },
       {
-        "title": "Taking The Keys: Insights On The European Private Credit Market - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGZpcm1iaEVfVnFGa21fZWdMS3c2RXA3cXlJUEhkSUlUTWhFdmpTSUFvbmxwUFptZmhHSVlkMk5BSmxrV0ZIRXhheFl1YUJrcWFxUjNubHRfa3pHM3E3UUx5QVNXYnhwYmVGaHdJeVFDWHh3Wl90aU5Fc0tTOUNFa2lIQTI4T1NjV1RsMkloOXJpZGhNN1VpWlVWME5wcTA4cENZ?oc=5",
-        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "summary": "Taking The Keys: Insights On The European Private Credit Market Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
-      {
-        "title": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDNmWFc4a0xyQm96d2RzdW5ZeDlOdjFvOVJqUXVYZVlxN2E5QmpoanRWRTREX2NmV0UxaERGUjZ3aTY5TC1oM0oybWVrcE0zaDNUWnNDcFRrUDdZRGhhMUdESU9TV1lGZVNpVWppZW5UMDN5NzFxZHVzSkN4YjZCYlhaLURYa2hReWlDSzFn0gGTAUFVX3lxTE8ydGNDVlpIWjhVeFJfcnNJT1lGMVRxV19qV1kwT212ZUFnWVE0TWNEMi00TEhiX1ZpTXJ0RHNLc0RRaUhscnNyY1pEdnExbVFibGRLRjZyOUpmSTJQbHA3TzlEMFZIYnljN0VhNHdYMV90Mjg3cUswNmxUeDIzMUlsVEd1U1ZWdVdLRXRRRFY5T2xINA?oc=5",
-        "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
-        "summary": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets CNBC",
-        "source": "CNBC"
+        "title": "The Outlook for India’s Economy in 2026 amid A New US Trade Deal - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3NpaHFzYWtwMlMyNjc5SlZ3UzU4dkI4ckhIcDM5eGthWk15dVBuemludEdkMjUxekdSWWt1WG5SYy1GVlNtZ09WSVFxQ3FVZUhIRWdwRVBmbm80WGpCd0pQcDNCclkwWTI5VmhCXzV2NkZrbmR2ckRfektZN3JlNXRtY1FVLWdGa2FXSjhSaVY3aUgwYUR3SlRYVlhIZTVwZ2JqUUVtaDBKUUU?oc=5",
+        "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT",
+        "summary": "The Outlook for India’s Economy in 2026 amid A New US Trade Deal Goldman Sachs",
+        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
@@ -195,11 +195,11 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others - Wealth Briefing",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQODZXSnBDU3pyeFV6NjRXZHdPMlhhRVBQS1k3eTBETnNNeUNLY2VTSVlMQ0dTdmg1ME9YQ0VMUGJEUWd0MHF1SUtVYVhnR2pvYms5ZWFSTXkzSTRuRXJMQmhYQkdtQzdHcU9FTGc5QUk0UkVYa2h4WWVhajF6UGlJUXROVXJ1OEhfRGtUanU1MHk2RGtqTkU1eEpSLUk5RGNKZEdQa2pmWlNfdWFoWnU1VTBJN21wWFFZZGgxYXVmTVp0Ui1aU0JTd0xHQUl4OXZ6NVE?oc=5",
-        "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
-        "summary": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others Wealth Briefing",
-        "source": "Wealth Briefing"
+        "title": "Portfolio Managers See Potential for REIT Outperformance in 2026 - Nareit",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2hLclVySEFpUmRCb25ZTHJ5UjVXYkxRR0d2RkVPZUY4Z2pUejEtc2lIa3lrQkw1OFZPUk5BRTh3ZXRNUWM5UTZ4NHJGbHdDeTR3bEMxZXBkdDl6Zl85Vk9sTmtFa2VjYk9TcGJ0QllDdEdqaUZRQ0NrOVhtZzZobkkzdGVlazRtN3ZrNWI4ZWVKQ25TTXU5dVF2dUFtNkRs?oc=5",
+        "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+        "summary": "Portfolio Managers See Potential for REIT Outperformance in 2026 Nareit",
+        "source": "Nareit"
       },
       {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
@@ -209,11 +209,11 @@
         "source": "CNBC"
       },
       {
-        "title": "Pimco Corporate & Income Strategy Fund (PCN) Holds Steady Near Key Support – Modest Decline Reflects Cautious Sentiment - Growth Factor - dars.gov.et",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNS1vRTJnNmwyZkQ0YlFrbEdfTkU4aklvejBUdU5aZ25yXzNjbExpeEdPMV9QVFQ5VmExeGxiTXFENHllVWIwVUpLRGhtUHdhYnA3RjNJQVB6aUQzQzVRSnhPMldCeHh3bThQTktKSl9FRzFic1JqUGtaODRmenYtRWd4SnVfY0xNUUZTMHJxU0hHa096OTAxM3ZFd2RtREFDYTRPaGZLNkNJVHhIVzVJUFZQOVBTSjZuNEdPVzlWX2NSeDQ3b05nTlpnTnRSQUdDemFZRWE2RnI0eXFJYkpid3N1dGJfLXBkSGZPRg?oc=5",
-        "pubDate": "Thu, 25 Jun 2026 00:40:21 GMT",
-        "summary": "Pimco Corporate & Income Strategy Fund (PCN) Holds Steady Near Key Support – Modest Decline Reflects Cautious Sentiment - Growth Factor dars.gov.et",
-        "source": "dars.gov.et"
+        "title": "AI Credit Expansion: Assessing The Micro And Macro Risks - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR1kwcEJuLU1ITmFXVWZiaVZLdzRHUEZWOU9LZUNkcE13VV81UTZBcnNkcFE4RGF5ZG4wZGlQd1I2M19laml6aWJqcFZUUktyTG9fNGszSTNUODBmRFd6QTQ2N3F6LVRZcHk0T1VtaWhQR0Fzcnk0WE0zV3k1a2RVM0NaMjBEa2E2X3hGeGlQUWJCQQ?oc=5",
+        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
+        "summary": "AI Credit Expansion: Assessing The Micro And Macro Risks Seeking Alpha",
+        "source": "Seeking Alpha"
       },
       {
         "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
