@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-11T19:10:39+00:00",
+  "fetched_at": "2026-07-12T03:24:28+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -47,10 +47,10 @@
         "source": "BlackRock"
       },
       {
-        "title": "Market Outlook April 2026: Get Paid to Wait - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
+        "title": "Global Weekly Commentary - Insights - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UX0xsZ1E3OWQydkhOUnBNUFNMaWd4aG9walJuekZQM05FQ1JFcGo2VXJCS1FlS3JDbkNjdGdGbXJQbVJjZUFqS3JoYzhFNVh5ODRDbHVFWUdRZnc3eXBfWVJLM2Qta3o3NzRLUTUtRmlRVTdYUnNGOA?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "summary": "Global Weekly Commentary - Insights BlackRock",
         "source": "BlackRock"
       },
       {
@@ -202,18 +202,18 @@
         "source": "CNBC"
       },
       {
+        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
+        "source": "IFA Magazine"
+      },
+      {
         "title": "Pimco Corporate & Income Strategy Fund (PCN) Holds Steady Near Key Support – Modest Decline Reflects Cautious Sentiment - Growth Factor - dars.gov.et",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNS1vRTJnNmwyZkQ0YlFrbEdfTkU4aklvejBUdU5aZ25yXzNjbExpeEdPMV9QVFQ5VmExeGxiTXFENHllVWIwVUpLRGhtUHdhYnA3RjNJQVB6aUQzQzVRSnhPMldCeHh3bThQTktKSl9FRzFic1JqUGtaODRmenYtRWd4SnVfY0xNUUZTMHJxU0hHa096OTAxM3ZFd2RtREFDYTRPaGZLNkNJVHhIVzVJUFZQOVBTSjZuNEdPVzlWX2NSeDQ3b05nTlpnTnRSQUdDemFZRWE2RnI0eXFJYkpid3N1dGJfLXBkSGZPRg?oc=5",
         "pubDate": "Thu, 25 Jun 2026 00:40:21 GMT",
         "summary": "Pimco Corporate & Income Strategy Fund (PCN) Holds Steady Near Key Support – Modest Decline Reflects Cautious Sentiment - Growth Factor dars.gov.et",
         "source": "dars.gov.et"
-      },
-      {
-        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
-        "source": "Livewire Markets"
       }
     ],
     "fed": [
@@ -255,13 +255,6 @@
     ],
     "wgc": [
       {
-        "title": "China buys 15 tons of gold in June as central banks build up reserves - Nikkei Asia",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHpvdVNSQXhkMnc1bWptcTljbTJ5M04tcG5PR3lieGk2cG1HdTJSb3Joc0RtSVE1aWcwVmhRaVhPdG1iSVhNdEhkeTZmVGFkenBoNzFvQ2hoSGVWX0hUc1dELUdyYzBUWWFIY3RqMEVsWEFENlZDNDg2bXltTmJkRGZWUnhTblcyU0hXN0RBeUhKd0tjOXJvSF9UQ2V0NkNnOWdScWJHeDhUTHVrcVFhTFREVWpuX0llNTk2T2Jtbw?oc=5",
-        "pubDate": "Wed, 08 Jul 2026 15:40:00 GMT",
-        "summary": "China buys 15 tons of gold in June as central banks build up reserves Nikkei Asia",
-        "source": "Nikkei Asia"
-      },
-      {
         "title": "Gold Plunges, Yet China's Central Bank Ramps Up Buying for 20th Straight Month: Experts Say Understand This Before Buying Gold - finance.biggo.com",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jWTREREVQQjlaQlFYUzAzQkprYVFhcXZoVWl2ZzhSUDVkQkZ3cTBxMVhaeWJYUVg0eWxyaUNkOHdoSVRVLXBsUFQ0VjJOd3JSQmZEMGdrQmFXRmdrdE1qc19SSi03RjRsZjlmSmNYZE1IQmJIR3c?oc=5",
         "pubDate": "Thu, 09 Jul 2026 03:39:18 GMT",
@@ -288,6 +281,13 @@
         "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
         "source": "The Conversation"
+      },
+      {
+        "title": "China’s central bank buys the dip, increasing gold reserves by 15 tonnes in June - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTJTUzBqWS1tZlNYWnYzblZXSkdCVGVtVjJGd1pBbXZxWGd0Vk4xTWwxZWViXzBucm5YU2lWbzlRcWMwaHdVREF5X3o5QXFmMGxjbmNBT0pwSVRaWDJFMmJCU3hNakEwa1o2RlRxNTB6bXNMM3hTVkJLTTVPMmg4Z2dobUFQRlotSUtHcGMyZlVMWlBFZW55SlZzYS1nSWl5aDBUVlpUOHd0QnVmSWg0dGZmVmM?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 17:40:00 GMT",
+        "summary": "China’s central bank buys the dip, increasing gold reserves by 15 tonnes in June KITCO",
+        "source": "KITCO"
       }
     ]
   },
