@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T13:36:55+00:00",
+  "fetched_at": "2026-07-12T19:11:23+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -181,13 +181,6 @@
     ],
     "pimco": [
       {
-        "title": "Markets Brief: Vanguard on the AI Borrowing Binge, Pimco on the Return of Financial Engineering - Morningstar",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb25pS2Z1UnpGd2pOTm5RckNUNmxDVjN6VWJXRXFiVjFMNmFBZnJCMUxNbmZjd2FRU183MktJNXpDTnJlcXY3ODE1cmFURXd6REphOFpUOW9SMGU5aWJQSERtN3VWMnRzbHRoTkQ3ZkZPWThvQmV0WTFNQ1VvX25ldkVOZF82VWJHN25KVVFaRUZpYU14UzYtZ1pWUm5Pc1BNV0V3bU9qdkk3ajgxcVMzdU9B?oc=5",
-        "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
-        "summary": "Markets Brief: Vanguard on the AI Borrowing Binge, Pimco on the Return of Financial Engineering Morningstar",
-        "source": "Morningstar"
-      },
-      {
         "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
         "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
@@ -214,6 +207,13 @@
         "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
         "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
         "source": "IFA Magazine"
+      },
+      {
+        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
+        "source": "Livewire Markets"
       }
     ],
     "fed": [
@@ -255,17 +255,10 @@
     ],
     "wgc": [
       {
-        "title": "Gold Plunges, Yet China's Central Bank Ramps Up Buying for 20th Straight Month: Experts Say Understand This Before Buying Gold - finance.biggo.com",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jWTREREVQQjlaQlFYUzAzQkprYVFhcXZoVWl2ZzhSUDVkQkZ3cTBxMVhaeWJYUVg0eWxyaUNkOHdoSVRVLXBsUFQ0VjJOd3JSQmZEMGdrQmFXRmdrdE1qc19SSi03RjRsZjlmSmNYZE1IQmJIR3c?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 03:39:18 GMT",
-        "summary": "Gold Plunges, Yet China's Central Bank Ramps Up Buying for 20th Straight Month: Experts Say Understand This Before Buying Gold finance.biggo.com",
-        "source": "finance.biggo.com"
-      },
-      {
-        "title": "Central banks boost gold reserves with net 41 tonnes purchased in May – World Gold Council - KITCO",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3dzcVZncW9EeDFaempVbllwNGoxTUNRNnJ0NmkwT2ppTm9iOEdGTDgyTXo2TTN6WXVHMFlXTnZvZEoxRVFseU1MTW9SX2FQYlFRS1N2Q2xfSzlxbXoxVXJlcGZKT2RUbTdudzlPR3FmT05CbVdWUmNaaTh6U2EyT3VXMnBVYzRYQzFYYzEycVZPMTFqVnp2RjI3OXJnYnBWUUY2TndkVDV2bG9NZzdLQnNuVlZRRTZheFE?oc=5",
-        "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
-        "summary": "Central banks boost gold reserves with net 41 tonnes purchased in May – World Gold Council KITCO",
+        "title": "China’s central bank buys the dip, increasing gold reserves by 15 tonnes in June - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTJTUzBqWS1tZlNYWnYzblZXSkdCVGVtVjJGd1pBbXZxWGd0Vk4xTWwxZWViXzBucm5YU2lWbzlRcWMwaHdVREF5X3o5QXFmMGxjbmNBT0pwSVRaWDJFMmJCU3hNakEwa1o2RlRxNTB6bXNMM3hTVkJLTTVPMmg4Z2dobUFQRlotSUtHcGMyZlVMWlBFZW55SlZzYS1nSWl5aDBUVlpUOHd0QnVmSWg0dGZmVmM?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 17:40:00 GMT",
+        "summary": "China’s central bank buys the dip, increasing gold reserves by 15 tonnes in June KITCO",
         "source": "KITCO"
       },
       {
@@ -283,10 +276,17 @@
         "source": "The Conversation"
       },
       {
-        "title": "China’s central bank buys the dip, increasing gold reserves by 15 tonnes in June - KITCO",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTJTUzBqWS1tZlNYWnYzblZXSkdCVGVtVjJGd1pBbXZxWGd0Vk4xTWwxZWViXzBucm5YU2lWbzlRcWMwaHdVREF5X3o5QXFmMGxjbmNBT0pwSVRaWDJFMmJCU3hNakEwa1o2RlRxNTB6bXNMM3hTVkJLTTVPMmg4Z2dobUFQRlotSUtHcGMyZlVMWlBFZW55SlZzYS1nSWl5aDBUVlpUOHd0QnVmSWg0dGZmVmM?oc=5",
-        "pubDate": "Tue, 07 Jul 2026 17:40:00 GMT",
-        "summary": "China’s central bank buys the dip, increasing gold reserves by 15 tonnes in June KITCO",
+        "title": "Central banks boost gold reserves with net 41 tonnes purchased in May – World Gold Council - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3dzcVZncW9EeDFaempVbllwNGoxTUNRNnJ0NmkwT2ppTm9iOEdGTDgyTXo2TTN6WXVHMFlXTnZvZEoxRVFseU1MTW9SX2FQYlFRS1N2Q2xfSzlxbXoxVXJlcGZKT2RUbTdudzlPR3FmT05CbVdWUmNaaTh6U2EyT3VXMnBVYzRYQzFYYzEycVZPMTFqVnp2RjI3OXJnYnBWUUY2TndkVDV2bG9NZzdLQnNuVlZRRTZheFE?oc=5",
+        "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
+        "summary": "Central banks boost gold reserves with net 41 tonnes purchased in May – World Gold Council KITCO",
+        "source": "KITCO"
+      },
+      {
+        "title": "Central banks buy net 17 tonnes of gold in April, led by Poland and China – WGC - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTBXOGFWajJjdXRITTQ2TlFkT3VZdFNuVW9jekNFby10YWtXR3hoaVJVTzZnejJDbkhXYWF1SjFuSEZpVm5xZWhmRXdFaGcya1hCdTVhZnptekx5VllTNE95WVRxWkswQWhxSFpPLU9qUl9KcXJIbDlraVRGaVpxdFJ0aEZfeHNxeVVQXy1ERmIyMmZ2QXpBcjRfNTUwT0YwNkRsWHRyUmhMbE03cmt3WDgzZw?oc=5",
+        "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+        "summary": "Central banks buy net 17 tonnes of gold in April, led by Poland and China – WGC KITCO",
         "source": "KITCO"
       }
     ]
