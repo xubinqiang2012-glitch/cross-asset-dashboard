@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T21:12:27+00:00",
+  "fetched_at": "2026-07-13T23:12:16+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -38,44 +38,15 @@
         "source": "HedgeCo.Net"
       }
     ],
-    "blackrock": [
-      {
-        "title": "A 2026 global macro outlook: Patience - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "Hedge Fund Outlook - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
-        "summary": "Hedge Fund Outlook BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
-        "source": "Alternatives Watch"
-      },
-      {
-        "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
-        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
-        "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
-        "source": "Institutional Investor"
-      },
-      {
-        "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFpjX1pWc1F2UEFQOWRsWlktb3E2QTZwT1c1YkVBSERtX3FxQVRjRXlvUF96WUFSaXRZdGpGSzJqY2Zhb0ZaSkpJUVd1WERmTkVNeE1TTk9abmtkbWJ6blJkRTE4dmtFdEhUQjY4aWxQNEdnTW1uTHRBOGlESGVkSE0yWTRwX0N0Ql9OcDEwT0ZWcTI2R0Rid1Vn?oc=5",
-        "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
-        "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
-        "source": "Bloomberg.com"
-      }
-    ],
+    "blackrock": [],
     "goldman": [
+      {
+        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
+        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
       {
         "title": "US Market Pulse July 2026 - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
@@ -91,13 +62,6 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
-        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
-        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
         "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
         "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
@@ -105,11 +69,11 @@
         "source": "Sporting Goods Intelligence Europe"
       },
       {
-        "title": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDNmWFc4a0xyQm96d2RzdW5ZeDlOdjFvOVJqUXVYZVlxN2E5QmpoanRWRTREX2NmV0UxaERGUjZ3aTY5TC1oM0oybWVrcE0zaDNUWnNDcFRrUDdZRGhhMUdESU9TV1lGZVNpVWppZW5UMDN5NzFxZHVzSkN4YjZCYlhaLURYa2hReWlDSzFn0gGTAUFVX3lxTE8ydGNDVlpIWjhVeFJfcnNJT1lGMVRxV19qV1kwT212ZUFnWVE0TWNEMi00TEhiX1ZpTXJ0RHNLc0RRaUhscnNyY1pEdnExbVFibGRLRjZyOUpmSTJQbHA3TzlEMFZIYnljN0VhNHdYMV90Mjg3cUswNmxUeDIzMUlsVEd1U1ZWdVdLRXRRRFY5T2xINA?oc=5",
-        "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
-        "summary": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets CNBC",
-        "source": "CNBC"
+        "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
+        "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+        "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
+        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
@@ -151,10 +115,10 @@
     ],
     "ms": [
       {
-        "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
-        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "Midyear Economic Outlook: AI Drives Resilient Growth Morgan Stanley",
+        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3ZJejZLSG5kcU1ybklxUk9KYXJ1LWhtd19WSEdtQjNiNElLOUFXbkpSR3E5MHV4SVJqVnZEU1RRdXJINjRUUjNsbWVfUmN1aWc2ekZ5Tkh2dzVHaVZKdUZwM0NWbTVjWklFOWdudWp6ekg4QjQ3cTFqRHBnU0p2YkxTWk92ZVJFNjFTdS12ZXdrTEtZSnNhdkVyd0JZbFhuUWRqNW9MZHh5M1RDSjI1TzlIcW5VRVB5ODh0azlFZVI1VHhCQzVoLWN6ZkpjXzRqakE?oc=5",
+        "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
         "source": "Morgan Stanley"
       },
       {
@@ -170,13 +134,6 @@
         "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "summary": "Zacks Industry Outlook Highlights Morgan Stanley, The Charles Schwab and Interactive Brokers The Globe and Mail",
         "source": "The Globe and Mail"
-      },
-      {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
-        "source": "Morgan Stanley"
       },
       {
         "title": "Banco Bilbao Vizcaya Argentaria (BBVA) Morgan Stanley European Financials Conference 2026 summary - Quartr",
