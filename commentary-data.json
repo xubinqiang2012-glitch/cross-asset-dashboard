@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T03:58:54+00:00",
+  "fetched_at": "2026-07-13T07:36:13+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -47,10 +47,10 @@
         "source": "BlackRock"
       },
       {
-        "title": "Market Outlook April 2026: Get Paid to Wait - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
+        "title": "Hedge Fund Outlook - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
+        "summary": "Hedge Fund Outlook BlackRock",
         "source": "BlackRock"
       },
       {
@@ -68,27 +68,27 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "BlackRock Q4 2025 Hedge Fund Outlook: Adapting To The New Regime - Hedge Fund Alpha",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PQ29xSExhTVJxYmVvd0NiSVB4TlNLNmE1MTZzd2dqT29uMTIyLXRKS3g1WkJnRTJUcklDMFpXNWMtTkpucGRqd0FmRmRXcTI5bHYxZ01IRzQtSkVXMzJaR0JyTlJiSjFiUGF3VFVabkZ2SGJUN0dyNQ?oc=5",
-        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
-        "summary": "BlackRock Q4 2025 Hedge Fund Outlook: Adapting To The New Regime Hedge Fund Alpha",
-        "source": "Hedge Fund Alpha"
+        "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFpjX1pWc1F2UEFQOWRsWlktb3E2QTZwT1c1YkVBSERtX3FxQVRjRXlvUF96WUFSaXRZdGpGSzJqY2Zhb0ZaSkpJUVd1WERmTkVNeE1TTk9abmtkbWJ6blJkRTE4dmtFdEhUQjY4aWxQNEdnTW1uTHRBOGlESGVkSE0yWTRwX0N0Ql9OcDEwT0ZWcTI2R0Rid1Vn?oc=5",
+        "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
+        "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
-      {
-        "title": "US Market Pulse July 2026 - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
-        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-        "summary": "US Market Pulse July 2026 Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
       {
         "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
         "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
         "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
         "source": "Goldman Sachs"
+      },
+      {
+        "title": "US Market Pulse July 2026 - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "summary": "US Market Pulse July 2026 Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
       },
       {
         "title": "Market Know-How 3Q 2026: The Geo Paradigm - Goldman Sachs Asset Management",
@@ -188,18 +188,18 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others - Wealth Briefing",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQODZXSnBDU3pyeFV6NjRXZHdPMlhhRVBQS1k3eTBETnNNeUNLY2VTSVlMQ0dTdmg1ME9YQ0VMUGJEUWd0MHF1SUtVYVhnR2pvYms5ZWFSTXkzSTRuRXJMQmhYQkdtQzdHcU9FTGc5QUk0UkVYa2h4WWVhajF6UGlJUXROVXJ1OEhfRGtUanU1MHk2RGtqTkU1eEpSLUk5RGNKZEdQa2pmWlNfdWFoWnU1VTBJN21wWFFZZGgxYXVmTVp0Ui1aU0JTd0xHQUl4OXZ6NVE?oc=5",
-        "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
-        "summary": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others Wealth Briefing",
-        "source": "Wealth Briefing"
-      },
-      {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
         "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
         "source": "CNBC"
+      },
+      {
+        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
+        "source": "Livewire Markets"
       },
       {
         "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
@@ -209,11 +209,11 @@
         "source": "IFA Magazine"
       },
       {
-        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
-        "source": "Livewire Markets"
+        "title": "PIMCO announces the appointment of Lotfi Karoui as Managing Director and Multi-Asset Credit Strategist - RankiaPro",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmZ2WXZBczVvRjNBTWpJM25BdEFVSFVtaW1mREhKbWtfTDJrX0lTbURjYWlzeGVYWm5JVE4zUkxvQy1SZkRubzJHdDNENjM1Z1Btc1ZONmZEbnE1RGlzZ0YtdGZVU3dtVDRydjhqQUdGdmtEU3N4V3RFOU96MjNtWTJwOUhJZnNkUmRXXzZqWjdmWXA4cnNkQlVBX2lNc1VHQXJnLXRWYlRIRkVzcmVOcGhXbE1uT293c0t0emdLc2Q2TjJiSzNqUGRJNnV2dw?oc=5",
+        "pubDate": "Tue, 21 Oct 2025 07:00:00 GMT",
+        "summary": "PIMCO announces the appointment of Lotfi Karoui as Managing Director and Multi-Asset Credit Strategist RankiaPro",
+        "source": "RankiaPro"
       }
     ],
     "fed": [
