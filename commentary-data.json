@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T07:36:13+00:00",
+  "fetched_at": "2026-07-13T11:27:55+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -188,18 +188,18 @@
         "source": "Wealth Professional"
       },
       {
+        "title": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others - Wealth Briefing",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQODZXSnBDU3pyeFV6NjRXZHdPMlhhRVBQS1k3eTBETnNNeUNLY2VTSVlMQ0dTdmg1ME9YQ0VMUGJEUWd0MHF1SUtVYVhnR2pvYms5ZWFSTXkzSTRuRXJMQmhYQkdtQzdHcU9FTGc5QUk0UkVYa2h4WWVhajF6UGlJUXROVXJ1OEhfRGtUanU1MHk2RGtqTkU1eEpSLUk5RGNKZEdQa2pmWlNfdWFoWnU1VTBJN21wWFFZZGgxYXVmTVp0Ui1aU0JTd0xHQUl4OXZ6NVE?oc=5",
+        "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
+        "summary": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others Wealth Briefing",
+        "source": "Wealth Briefing"
+      },
+      {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
         "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
         "source": "CNBC"
-      },
-      {
-        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
-        "source": "Livewire Markets"
       },
       {
         "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
@@ -209,14 +209,21 @@
         "source": "IFA Magazine"
       },
       {
-        "title": "PIMCO announces the appointment of Lotfi Karoui as Managing Director and Multi-Asset Credit Strategist - RankiaPro",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmZ2WXZBczVvRjNBTWpJM25BdEFVSFVtaW1mREhKbWtfTDJrX0lTbURjYWlzeGVYWm5JVE4zUkxvQy1SZkRubzJHdDNENjM1Z1Btc1ZONmZEbnE1RGlzZ0YtdGZVU3dtVDRydjhqQUdGdmtEU3N4V3RFOU96MjNtWTJwOUhJZnNkUmRXXzZqWjdmWXA4cnNkQlVBX2lNc1VHQXJnLXRWYlRIRkVzcmVOcGhXbE1uT293c0t0emdLc2Q2TjJiSzNqUGRJNnV2dw?oc=5",
-        "pubDate": "Tue, 21 Oct 2025 07:00:00 GMT",
-        "summary": "PIMCO announces the appointment of Lotfi Karoui as Managing Director and Multi-Asset Credit Strategist RankiaPro",
-        "source": "RankiaPro"
+        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
+        "source": "Livewire Markets"
       }
     ],
     "fed": [
+      {
+        "title": "Bowman, Modernizing Financial Regulation",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm",
+        "pubDate": "Mon, 13 Jul 2026 09:25:00 GMT",
+        "summary": "Speech At a Bank Policy Institute London Conference, London, United Kingdom",
+        "source": ""
+      },
       {
         "title": "Bowman, Opening Remarks on Sound Practices for Artificial Intelligence",
         "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260707a.htm",
@@ -243,13 +250,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm",
         "pubDate": "Mon, 22 Jun 2026 13:00:00 GMT",
         "summary": "Speech At the Fifth Conference on the International Roles of the Dollar, Board of Governors of the Federal Reserve System, Washington, D.C.",
-        "source": ""
-      },
-      {
-        "title": "Barr, Deregulating in a Financial Boom: What Could Go Wrong?",
-        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260606a.htm",
-        "pubDate": "Sat, 6 Jun 2026 16:00:00 GMT",
-        "summary": "Speech At American University, Washington, D.C.",
         "source": ""
       }
     ],
