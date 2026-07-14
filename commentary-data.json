@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T15:46:29+00:00",
+  "fetched_at": "2026-07-14T17:33:48+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -165,18 +165,18 @@
         "source": "Devdiscourse"
       },
       {
-        "title": "AI Market Trends 2026: Global Investment, Risks, and Buildout - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYVVkMUg5TTVySTJlUFJmX041MlVhYmpweFZJWkZBcGh2VGxSc09WYmtiN0Fvcy1kbkZveGlYeGVQd1phVko0eHFNdnFCR09PZThsSmhOU1pmQTlPd3g1MmkxaTIzMzFhTmh4aFFXM1pIOTNGellydnpkc3RKWnViM2Z6dkxUUQ?oc=5",
-        "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
-        "summary": "AI Market Trends 2026: Global Investment, Risks, and Buildout Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
         "title": "Zacks Industry Outlook Highlights Morgan Stanley, The Charles Schwab and Interactive Brokers - The Globe and Mail",
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTWh3NTZqai1hZlUtaUtmYU9sVTItOVI1X3JBajZyU3Y2TGlPeWJCZTY5czJIdmlBUXdMTUVsZjhhLXhhMEEtVzlpM09Kd21zVkZjQmhyS1ZsM0g3LXhnSGk5a1FmYzB5NFQtOUx0LTkxaGxnSFhvTnN4TjNqU2tyZURCOVMtelZqY3BwRzFXRWV5d3UzMlZodWhMM1J3SkxzT2VDTmlCMktrcUJIOVVwWldBc01OREZuOC1sWF9GNXk5NDAtNDJIZWpTR0g0R0tXWHF0SEJMVG1LWml1TGppQTJYY0txSGxoNEIwRmxWSVBXSk8wTzVraU5EZWZvWUctRncxb0c5Yw?oc=5",
         "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "summary": "Zacks Industry Outlook Highlights Morgan Stanley, The Charles Schwab and Interactive Brokers The Globe and Mail",
         "source": "The Globe and Mail"
+      },
+      {
+        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "source": "Morgan Stanley"
       },
       {
         "title": "Banco Bilbao Vizcaya Argentaria (BBVA) Morgan Stanley European Financials Conference 2026 summary - Quartr",
@@ -225,6 +225,13 @@
     ],
     "fed": [
       {
+        "title": "Barr, Will Artificial Intelligence Broadly Raise Living Standards or Drive Income and Wealth Inequality?",
+        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260714a.htm",
+        "pubDate": "Tue, 14 Jul 2026 16:40:00 GMT",
+        "summary": "Speech At “Next-Gen Financial Inclusion,” the third annual Financial Inclusion Conference hosted by the Federal Reserve Board",
+        "source": ""
+      },
+      {
         "title": "Waller, Monetary Policy at a Crossroads",
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20260713a.htm",
         "pubDate": "Mon, 13 Jul 2026 16:30:00 GMT",
@@ -251,36 +258,29 @@
         "pubDate": "Mon, 6 Jul 2026 15:00:00 GMT",
         "summary": "Speech At Challenges for Monetary Policy Transmission in a Changing World, a conference sponsored by the Bank of Italy for the research network initiated by the European System of Central Banks, Rome, Italy",
         "source": ""
-      },
-      {
-        "title": "Cook, Welcome Remarks",
-        "link": "https://www.federalreserve.gov/newsevents/speech/cook20260624a.htm",
-        "pubDate": "Wed, 24 Jun 2026 18:00:00 GMT",
-        "summary": "Speech At the State of Small Business Symposium hosted by the Federal Reserve Bank of Cleveland (via pre-recorded video)",
-        "source": ""
       }
     ],
     "wgc": [
       {
-        "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
+        "title": "Central banks are buying gold at record pace and moving away from the dollar - Crypto Briefing",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWm1va2NkVkZOenVvWGlRQXpNaW5CNDBId3FVLWh4cHdMbHhMVEZQR3pTcGF2SFZDdzdwYmlYaEJ5Y2JJS0VnTEVFOU5HcFdFZUtmZFdvelNwankwdVFacnJ1dERqc0xDV0ZjS3N3ZVc3eXdmMnM0bUliRWZkYmE0enFB?oc=5",
+        "pubDate": "Tue, 14 Jul 2026 16:50:06 GMT",
+        "summary": "Central banks are buying gold at record pace and moving away from the dollar Crypto Briefing",
+        "source": "Crypto Briefing"
+      },
+      {
+        "title": "China’s central bank buys the dip, increasing gold reserves by 15 tonnes in June - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTJTUzBqWS1tZlNYWnYzblZXSkdCVGVtVjJGd1pBbXZxWGd0Vk4xTWwxZWViXzBucm5YU2lWbzlRcWMwaHdVREF5X3o5QXFmMGxjbmNBT0pwSVRaWDJFMmJCU3hNakEwa1o2RlRxNTB6bXNMM3hTVkJLTTVPMmg4Z2dobUFQRlotSUtHcGMyZlVMWlBFZW55SlZzYS1nSWl5aDBUVlpUOHd0QnVmSWg0dGZmVmM?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 17:40:00 GMT",
+        "summary": "China’s central bank buys the dip, increasing gold reserves by 15 tonnes in June KITCO",
+        "source": "KITCO"
+      },
+      {
+        "title": "Central Bank Gold Reserves Survey 2026 - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkI4UmNFV245NHdZeHJnbngyWmo5Q1loYVdFQzdqNlFzQ1M0MEYxTmlpX3dOM2plY2huTkR3UTZfQWZDTUF4U1Q3MDJJdGlSZjV4UkZFc2Z3cC1FMWQ0TGpka19NVzZIUzdwbWxlcXZqclZPbzFDV004OGxLVWlLOFZR?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+        "summary": "Central Bank Gold Reserves Survey 2026 World Gold Council",
         "source": "World Gold Council"
-      },
-      {
-        "title": "Central bank gold buying jumps as Poland and China lead May purchases - Mugglehead Investment Magazine",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSllhZzFLZldaSXdSd2xLZkR0d0NYc1c1emowMWpoYWxGRnN6STNhSkFRQm9FUllZUWpTWWtiTUNVcVZGaWdpQ2dvd1dqVVFDNll2VVdCaS01UlpCVkFrMlQ0QmxsZXBGVHg3SDE2SkYxcjlUWFlrWW9weUVRU1k4VDA1VTE2UjAwSkxjMVpFcVQwYzFWZVU0bA?oc=5",
-        "pubDate": "Sat, 11 Jul 2026 02:56:34 GMT",
-        "summary": "Central bank gold buying jumps as Poland and China lead May purchases Mugglehead Investment Magazine",
-        "source": "Mugglehead Investment Magazine"
-      },
-      {
-        "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - The Conversation",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjU4ZF9OR3BwRGZDMzBJSnphN0JlUHRZNG5VTmxyS0tRTkRNR1VMM2FCRG5RV0dJRFllekNvZVZfYnJqZG95VGEzSEV2RDF2bUtERTBIQm8yb2NWakN3dk43UXVoZXZHRXdiWWx1OFF2NFAtc2RSRmg0aFdiekd6NmJwMWYtTl9ad0FSbnBvUUZMQ24xMWFmdE5ob1R1NnRKdVk3eVZ5ZmpLZTdFVjJTYll1eDZ4Y2V1?oc=5",
-        "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
-        "source": "The Conversation"
       },
       {
         "title": "Central banks boost gold reserves with net 41 tonnes purchased in May – World Gold Council - KITCO",
@@ -290,11 +290,11 @@
         "source": "KITCO"
       },
       {
-        "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Business News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObndTM2cyVF9CZGE4bXdvRXFHVTc0aUpKVnVTazBDSFFqeWt6aHg0aFFTVURvUGFCZnIzZk1EVU1udkh6QmlObjZJdnpRazhWZHJQS01MWHpmbDkwZVVJMlVBanRzRlJNV2p2RmR3Mi1Gc1NMYi1XRkZOZ1hiWk9HMjFnRmc5MDlpSjhHb2VYTWtVZEVLaEZxem9GTXA?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 15:52:12 GMT",
-        "summary": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey Mexico Business News",
-        "source": "Mexico Business News"
+        "title": "Central banks buy net 17 tonnes of gold in April, led by Poland and China – WGC - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTBXOGFWajJjdXRITTQ2TlFkT3VZdFNuVW9jekNFby10YWtXR3hoaVJVTzZnejJDbkhXYWF1SjFuSEZpVm5xZWhmRXdFaGcya1hCdTVhZnptekx5VllTNE95WVRxWkswQWhxSFpPLU9qUl9KcXJIbDlraVRGaVpxdFJ0aEZfeHNxeVVQXy1ERmIyMmZ2QXpBcjRfNTUwT0YwNkRsWHRyUmhMbE03cmt3WDgzZw?oc=5",
+        "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+        "summary": "Central banks buy net 17 tonnes of gold in April, led by Poland and China – WGC KITCO",
+        "source": "KITCO"
       }
     ]
   },
