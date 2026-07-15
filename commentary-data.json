@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-15T15:49:30+00:00",
+  "fetched_at": "2026-07-15T17:38:11+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -188,6 +188,13 @@
     ],
     "pimco": [
       {
+        "title": "PIMCO outlook: Rupture and resilience - ZAWYA",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS1JickRIVjRfdlpzcDJWM1BjQ1VxRjh2U3BlcE1wT0ZDemp0VWtDRFk0UkVmMWgtNmlrdC1kbUNFOEtlNUJaMnZFajJ0dEpVOHVjcllJWGZ5SWxmbXlvUE9wWjU4T01GYjVMRzNEOWNoTUV6YTdDdGxxb2Z6dGNqeTN2aUpEanpHQTB6bkJUQ0tTU3FkenRTWQ?oc=5",
+        "pubDate": "Wed, 15 Jul 2026 16:58:59 GMT",
+        "summary": "PIMCO outlook: Rupture and resilience ZAWYA",
+        "source": "ZAWYA"
+      },
+      {
         "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
         "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
@@ -214,16 +221,16 @@
         "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
         "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
         "source": "IFA Magazine"
-      },
-      {
-        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
-        "source": "Livewire Markets"
       }
     ],
     "fed": [
+      {
+        "title": "Cook, Economic Outlook",
+        "link": "https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm",
+        "pubDate": "Wed, 15 Jul 2026 17:00:00 GMT",
+        "summary": "Speech At The Exchequer Club of Washington D.C., Washington, D.C.",
+        "source": ""
+      },
       {
         "title": "Bowman, Responsible Innovation and Financial Inclusion",
         "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260714a.htm",
@@ -251,13 +258,6 @@
         "pubDate": "Mon, 13 Jul 2026 09:25:00 GMT",
         "summary": "Speech At a Bank Policy Institute London Conference, London, United Kingdom",
         "source": ""
-      },
-      {
-        "title": "Bowman, Opening Remarks on Sound Practices for Artificial Intelligence",
-        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260707a.htm",
-        "pubDate": "Tue, 7 Jul 2026 11:00:00 GMT",
-        "summary": "Speech At the Financial Stability Board Virtual Outreach Event",
-        "source": ""
       }
     ],
     "wgc": [
@@ -283,18 +283,18 @@
         "source": "The Conversation"
       },
       {
-        "title": "Gold’s Worst Week of 2026. Central Banks Just Filed a Record Buy Signal. - GoldSilver",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEQyY04wUEZnSm9ubm9ZclBmVWdMY3JKQVdOOUR0QUVqUG5LellQUV9DV1VCZVZNYVVna1hCVk5wNG5zbFVmd2xibVVnUEFRQU5kcjl5di1CcThWR2RPTWZxZS1QT2dTcGg0aElNYWJLWlZPNEZNMUc4RnZUNkxIelVQS2I0N1dSSXVvVE5FakpNWXZnNUVlSFdVZ1Y3dlBlWUhlTkVFMUU5UQ?oc=5",
-        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-        "summary": "Gold’s Worst Week of 2026. Central Banks Just Filed a Record Buy Signal. GoldSilver",
-        "source": "GoldSilver"
-      },
-      {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
+      },
+      {
+        "title": "Gold’s Worst Week of 2026. Central Banks Just Filed a Record Buy Signal. - GoldSilver",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEQyY04wUEZnSm9ubm9ZclBmVWdMY3JKQVdOOUR0QUVqUG5LellQUV9DV1VCZVZNYVVna1hCVk5wNG5zbFVmd2xibVVnUEFRQU5kcjl5di1CcThWR2RPTWZxZS1QT2dTcGg0aElNYWJLWlZPNEZNMUc4RnZUNkxIelVQS2I0N1dSSXVvVE5FakpNWXZnNUVlSFdVZ1Y3dlBlWUhlTkVFMUU5UQ?oc=5",
+        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+        "summary": "Gold’s Worst Week of 2026. Central Banks Just Filed a Record Buy Signal. GoldSilver",
+        "source": "GoldSilver"
       }
     ]
   },
