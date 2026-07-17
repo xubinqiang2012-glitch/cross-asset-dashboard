@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-17T06:27:02+00:00",
+  "fetched_at": "2026-07-17T10:11:19+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -77,18 +77,18 @@
     ],
     "goldman": [
       {
-        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
-        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
-        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
         "title": "US Market Pulse July 2026 - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
         "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
         "summary": "US Market Pulse July 2026 Goldman Sachs Asset Management",
         "source": "Goldman Sachs Asset Management"
+      },
+      {
+        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
+        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
+        "source": "Goldman Sachs"
       },
       {
         "title": "Market Know-How 3Q 2026: The Geo Paradigm - Goldman Sachs Asset Management",
@@ -172,10 +172,10 @@
         "source": "Quartr"
       },
       {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "title": "AI Market Trends 2026: Global Investment, Risks, and Buildout - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYVVkMUg5TTVySTJlUFJmX041MlVhYmpweFZJWkZBcGh2VGxSc09WYmtiN0Fvcy1kbkZveGlYeGVQd1phVko0eHFNdnFCR09PZThsSmhOU1pmQTlPd3g1MmkxaTIzMzFhTmh4aFFXM1pIOTNGellydnpkc3RKWnViM2Z6dkxUUQ?oc=5",
+        "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
+        "summary": "AI Market Trends 2026: Global Investment, Risks, and Buildout Morgan Stanley",
         "source": "Morgan Stanley"
       },
       {
@@ -262,6 +262,13 @@
     ],
     "wgc": [
       {
+        "title": "India gold market update: Mixed demand signals | Post by Kavita Chacko | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVJ0b1BMMkZuVkYtYWw5cFBtNHRXR0VTa0NjT2l4NHp2MHV5eXlqRTVuNjh4S29yeHBacWZvcnU2RHlydlZQckNuYkZDcFZFalNLMzRJTkZQZ3VFeEpnREFaRUd6Y0NnREFaVF8tR0pYc2pJZFcxZjYzT09MMWlIeVJBbFdkbDRSY3U1NFVBVUFoT0V2dkxNeA?oc=5",
+        "pubDate": "Fri, 17 Jul 2026 07:57:24 GMT",
+        "summary": "India gold market update: Mixed demand signals | Post by Kavita Chacko | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
         "title": "Central bank gold statistics: Central banks remain committed to gold | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0RmSUIyTEM4QkRSbHpzak9zYWxmSEJKcXJiWkJJR0ZDOW5hX3RSN2pMdHdObjVYeVc1TURZdnIzNVE5YnM4dV95MDZYbXFWd3JsMUF2S0ZQN2VHWDVPNVl2MDVFNS1DMW1vaVNKZm1aTjd4aVVMcFhqdmd5RWVBbXhBNFlCenB3OVdSb1JpSUs2TFNLeVJlVEJWQkVFX1M2Y0xCTmVTYjctUGJwMzVra3hB?oc=5",
         "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
@@ -281,13 +288,6 @@
         "pubDate": "Sat, 11 Jul 2026 02:56:34 GMT",
         "summary": "Central bank gold buying jumps as Poland and China lead May purchases Mugglehead Investment Magazine",
         "source": "Mugglehead Investment Magazine"
-      },
-      {
-        "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
       },
       {
         "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Business News",
