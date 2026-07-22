@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T17:40:56+00:00",
+  "fetched_at": "2026-07-22T19:42:28+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -61,18 +61,18 @@
         "source": "Alternatives Watch"
       },
       {
-        "title": "BlackRock Q4 2025 Hedge Fund Outlook: Adapting To The New Regime - Hedge Fund Alpha",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PQ29xSExhTVJxYmVvd0NiSVB4TlNLNmE1MTZzd2dqT29uMTIyLXRKS3g1WkJnRTJUcklDMFpXNWMtTkpucGRqd0FmRmRXcTI5bHYxZ01IRzQtSkVXMzJaR0JyTlJiSjFiUGF3VFVabkZ2SGJUN0dyNQ?oc=5",
-        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
-        "summary": "BlackRock Q4 2025 Hedge Fund Outlook: Adapting To The New Regime Hedge Fund Alpha",
-        "source": "Hedge Fund Alpha"
-      },
-      {
         "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
         "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
         "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
         "source": "Institutional Investor"
+      },
+      {
+        "title": "BlackRock Q4 2025 Hedge Fund Outlook: Adapting To The New Regime - Hedge Fund Alpha",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PQ29xSExhTVJxYmVvd0NiSVB4TlNLNmE1MTZzd2dqT29uMTIyLXRKS3g1WkJnRTJUcklDMFpXNWMtTkpucGRqd0FmRmRXcTI5bHYxZ01IRzQtSkVXMzJaR0JyTlJiSjFiUGF3VFVabkZ2SGJUN0dyNQ?oc=5",
+        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "summary": "BlackRock Q4 2025 Hedge Fund Outlook: Adapting To The New Regime Hedge Fund Alpha",
+        "source": "Hedge Fund Alpha"
       }
     ],
     "goldman": [
@@ -98,18 +98,18 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Goldman Sachs: Oil, the Fed, and Al - eFXdata",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iQ0pPWERjYWNqbjF1Nng5SDR0ejNlR2dMeTZGZEh3bjZIVDdOUE81UGJCZUZScHEtakFvNkFKX0FPcHJlbTREazR0TmNDWlBzWWdKV2NjRnBsOVRIMEZSdDVlaXBYS0ZtdmRIMGFoV1RiNjViQWJpSkxB0gF_QVVfeXFMTUo1NlJ6OVdmZDVvNDJ4UTJkRzR2RnB3bUVuMDR3dHNqdzRJekpobW9qQmd0Qnp6ZHRYcFRyazRCZmE4X2ZZLUlXRGlmUDh1TnZ3Ui1qYVc5NkJGZHd3YVBIZUZKOTliNEFKaWU3ODJNU1RGaVZuSFBlWVpWRGQxZw?oc=5",
-        "pubDate": "Thu, 16 Jul 2026 14:15:01 GMT",
-        "summary": "Goldman Sachs: Oil, the Fed, and Al eFXdata",
-        "source": "eFXdata"
-      },
-      {
         "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
         "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
         "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
         "source": "Sporting Goods Intelligence Europe"
+      },
+      {
+        "title": "Goldman Sachs: Oil, the Fed, and Al - eFXdata",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iQ0pPWERjYWNqbjF1Nng5SDR0ejNlR2dMeTZGZEh3bjZIVDdOUE81UGJCZUZScHEtakFvNkFKX0FPcHJlbTREazR0TmNDWlBzWWdKV2NjRnBsOVRIMEZSdDVlaXBYS0ZtdmRIMGFoV1RiNjViQWJpSkxB0gF_QVVfeXFMTUo1NlJ6OVdmZDVvNDJ4UTJkRzR2RnB3bUVuMDR3dHNqdzRJekpobW9qQmd0Qnp6ZHRYcFRyazRCZmE4X2ZZLUlXRGlmUDh1TnZ3Ui1qYVc5NkJGZHd3YVBIZUZKOTliNEFKaWU3ODJNU1RGaVZuSFBlWVpWRGQxZw?oc=5",
+        "pubDate": "Thu, 16 Jul 2026 14:15:01 GMT",
+        "summary": "Goldman Sachs: Oil, the Fed, and Al eFXdata",
+        "source": "eFXdata"
       }
     ],
     "jpm": [
@@ -283,18 +283,18 @@
         "source": "Global Finance Magazine"
       },
       {
+        "title": "Exclusive Interview with World Gold Council Global Head of Research Ankai: The Long-term Allocation Logic of Gold Remains Unshaken - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoTkZyMW9uRFVDS2ZBNEhnUTkzWUY5ZFpsenYwYndRbUdoM0tIcS1YZzR0MXVISUFidDlqamJlMzloaU5hRDZyN3Vrek5reHh6YUJhci1ENG84dVlZZGExRzNzd9IBY0FVX3lxTFBoTkZyMW9uRFVDS2ZBNEhnUTkzWUY5ZFpsenYwYndRbUdoM0tIcS1YZzR0MXVISUFidDlqamJlMzloaU5hRDZyN3Vrek5reHh6YUJhci1ENG84dVlZZGExRzNzdw?oc=5",
+        "pubDate": "Wed, 22 Jul 2026 11:35:48 GMT",
+        "summary": "Exclusive Interview with World Gold Council Global Head of Research Ankai: The Long-term Allocation Logic of Gold Remains Unshaken Bitget",
+        "source": "Bitget"
+      },
+      {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
-      },
-      {
-        "title": "Goldman Sachs note hints China's real gold accumulation may be much more than double official numbers - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQnhYSklESGNFTFRjcC1KN09UajVodXY4RGdvOVdIQVdMeXJmcXZuWTJlSFY1dEVxZnpXQy13MHJKQ1FnS3RPdWI5TFNKN0tqRnQ3dmZYekR4SjgxUmY1MGU1SlFLUWhodkxqeDI5b1lST3RiVU0zTGJiQjBXVHM1a1oyX0tLZENqZVEtUVJkM04taXprWFIyTTVWcjVtOGRmSmZxTW9XekhJVmNMbVBROHpmYXRfWkNWOE45SmdsZkZHT1VfM3k4bzZ6VGg2aG1GeDNla1lCaWlCdnBBOWtUcXRyaTAtSkhyNW52cV93NUlBMVk?oc=5",
-        "pubDate": "Sun, 19 Jul 2026 22:50:13 GMT",
-        "summary": "Goldman Sachs note hints China's real gold accumulation may be much more than double official numbers TradingView",
-        "source": "TradingView"
       }
     ]
   },
