@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T23:14:54+00:00",
+  "fetched_at": "2026-07-23T03:43:40+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,10 +40,10 @@
     ],
     "blackrock": [
       {
-        "title": "Global Weekly Commentary - Insights - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UX0xsZ1E3OWQydkhOUnBNUFNMaWd4aG9walJuekZQM05FQ1JFcGo2VXJCS1FlS3JDbkNjdGdGbXJQbVJjZUFqS3JoYzhFNVh5ODRDbHVFWUdRZnc3eXBfWVJLM2Qta3o3NzRLUTUtRmlRVTdYUnNGOA?oc=5",
+        "title": "Weekly market commentary - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40dE1NY3d4TUlfbC1GWHZzQ2R5QThvMnJWUURDbElmRE1sNi1ndUdXOFQ5amdXVmtjRWphOWo1cEl1S29mTFNrTF84UjQyMlVaZ1ZLUUItNFp3Z2xxVWRheHJQRzZaWFZ3ZUdSS1BhS3VZM2s?oc=5",
         "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
-        "summary": "Global Weekly Commentary - Insights BlackRock",
+        "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       },
       {
@@ -61,34 +61,34 @@
         "source": "Alternatives Watch"
       },
       {
-        "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
-        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
-        "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
-        "source": "Institutional Investor"
-      },
-      {
         "title": "BlackRock Q4 2025 Hedge Fund Outlook: Adapting To The New Regime - Hedge Fund Alpha",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PQ29xSExhTVJxYmVvd0NiSVB4TlNLNmE1MTZzd2dqT29uMTIyLXRKS3g1WkJnRTJUcklDMFpXNWMtTkpucGRqd0FmRmRXcTI5bHYxZ01IRzQtSkVXMzJaR0JyTlJiSjFiUGF3VFVabkZ2SGJUN0dyNQ?oc=5",
         "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
         "summary": "BlackRock Q4 2025 Hedge Fund Outlook: Adapting To The New Regime Hedge Fund Alpha",
         "source": "Hedge Fund Alpha"
+      },
+      {
+        "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
+        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
+        "source": "Institutional Investor"
       }
     ],
     "goldman": [
-      {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
-        "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
       {
         "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
         "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
         "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
         "source": "Goldman Sachs"
+      },
+      {
+        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
+        "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
       },
       {
         "title": "US Market Pulse July 2026 - Goldman Sachs Asset Management",
@@ -276,18 +276,18 @@
         "source": "Global Finance Magazine"
       },
       {
-        "title": "Exclusive Interview with World Gold Council Global Head of Research Ankai: The Long-term Allocation Logic of Gold Remains Unshaken - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoTkZyMW9uRFVDS2ZBNEhnUTkzWUY5ZFpsenYwYndRbUdoM0tIcS1YZzR0MXVISUFidDlqamJlMzloaU5hRDZyN3Vrek5reHh6YUJhci1ENG84dVlZZGExRzNzd9IBY0FVX3lxTFBoTkZyMW9uRFVDS2ZBNEhnUTkzWUY5ZFpsenYwYndRbUdoM0tIcS1YZzR0MXVISUFidDlqamJlMzloaU5hRDZyN3Vrek5reHh6YUJhci1ENG84dVlZZGExRzNzdw?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 11:35:48 GMT",
-        "summary": "Exclusive Interview with World Gold Council Global Head of Research Ankai: The Long-term Allocation Logic of Gold Remains Unshaken Bitget",
-        "source": "Bitget"
-      },
-      {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
+      },
+      {
+        "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - The Conversation",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjU4ZF9OR3BwRGZDMzBJSnphN0JlUHRZNG5VTmxyS0tRTkRNR1VMM2FCRG5RV0dJRFllekNvZVZfYnJqZG95VGEzSEV2RDF2bUtERTBIQm8yb2NWakN3dk43UXVoZXZHRXdiWWx1OFF2NFAtc2RSRmg0aFdiekd6NmJwMWYtTl9ad0FSbnBvUUZMQ24xMWFmdE5ob1R1NnRKdVk3eVZ5ZmpLZTdFVjJTYll1eDZ4Y2V1?oc=5",
+        "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
+        "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
+        "source": "The Conversation"
       }
     ]
   },
