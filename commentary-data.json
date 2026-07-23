@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-23T06:39:46+00:00",
+  "fetched_at": "2026-07-23T10:34:22+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -181,6 +181,13 @@
     ],
     "pimco": [
       {
+        "title": "Pimco’s Clarida: Key Bond Market Risks and Opportunities in a Fragmenting World - Morningstar",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3A0d1BSOE13dnp1MTNTZ08yMnZlZ20zNDF0OXBMcDBKZXVwSUh2SU00VU1Ybm9xSTJyM1llbk10dHVOSEJDYURZc0pwbDdONG5fNHE2Ukh3eFRkNU5UeTJkaWN3ZjZVeFVFRG1nejZqT1IwT0pCaHA0c1VMY1hxOUp4NGlNcTItVVRJY1JVLUVUSjNRUEx5NFd0S0NkV0hTUXBhZWpiaw?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 10:10:13 GMT",
+        "summary": "Pimco’s Clarida: Key Bond Market Risks and Opportunities in a Fragmenting World Morningstar",
+        "source": "Morningstar"
+      },
+      {
         "title": "PIMCO: Increasing Instability, Emerging Markets Remain Resilient - Bitget",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XczhnS0ROQmd3YXhVR3F4Rzg0M2g1eGNDd0Zqa3dPMGVLTnZwZzdFbVU4aXk2a3I4OVZQZ25fc2tyaVpmelUxSkJwcUM3OHk4WmJFUVVFRGRqR25MWmswOFB0b9IBY0FVX3lxTE9XczhnS0ROQmd3YXhVR3F4Rzg0M2g1eGNDd0Zqa3dPMGVLTnZwZzdFbVU4aXk2a3I4OVZQZ25fc2tyaVpmelUxSkJwcUM3OHk4WmJFUVVFRGRqR25MWmswOFB0bw?oc=5",
         "pubDate": "Fri, 17 Jul 2026 08:24:55 GMT",
@@ -207,13 +214,6 @@
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
         "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
         "source": "CNBC"
-      },
-      {
-        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
-        "source": "Livewire Markets"
       }
     ],
     "fed": [
@@ -283,11 +283,11 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Exclusive Interview with World Gold Council Global Head of Research Ankai: The Long-term Allocation Logic of Gold Remains Unshaken - Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoTkZyMW9uRFVDS2ZBNEhnUTkzWUY5ZFpsenYwYndRbUdoM0tIcS1YZzR0MXVISUFidDlqamJlMzloaU5hRDZyN3Vrek5reHh6YUJhci1ENG84dVlZZGExRzNzd9IBY0FVX3lxTFBoTkZyMW9uRFVDS2ZBNEhnUTkzWUY5ZFpsenYwYndRbUdoM0tIcS1YZzR0MXVISUFidDlqamJlMzloaU5hRDZyN3Vrek5reHh6YUJhci1ENG84dVlZZGExRzNzdw?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 11:35:48 GMT",
-        "summary": "Exclusive Interview with World Gold Council Global Head of Research Ankai: The Long-term Allocation Logic of Gold Remains Unshaken Bitget",
-        "source": "Bitget"
+        "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - The Conversation",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjU4ZF9OR3BwRGZDMzBJSnphN0JlUHRZNG5VTmxyS0tRTkRNR1VMM2FCRG5RV0dJRFllekNvZVZfYnJqZG95VGEzSEV2RDF2bUtERTBIQm8yb2NWakN3dk43UXVoZXZHRXdiWWx1OFF2NFAtc2RSRmg0aFdiekd6NmJwMWYtTl9ad0FSbnBvUUZMQ24xMWFmdE5ob1R1NnRKdVk3eVZ5ZmpLZTdFVjJTYll1eDZ4Y2V1?oc=5",
+        "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
+        "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
+        "source": "The Conversation"
       }
     ]
   },
