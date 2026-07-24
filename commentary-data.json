@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T10:27:49+00:00",
+  "fetched_at": "2026-07-24T14:11:32+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,17 +40,17 @@
     ],
     "blackrock": [
       {
+        "title": "Weekly market commentary - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
+        "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary BlackRock",
+        "source": "BlackRock"
+      },
+      {
         "title": "Global Weekly Commentary - Insights - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UX0xsZ1E3OWQydkhOUnBNUFNMaWd4aG9walJuekZQM05FQ1JFcGo2VXJCS1FlS3JDbkNjdGdGbXJQbVJjZUFqS3JoYzhFNVh5ODRDbHVFWUdRZnc3eXBfWVJLM2Qta3o3NzRLUTUtRmlRVTdYUnNGOA?oc=5",
         "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
         "summary": "Global Weekly Commentary - Insights BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40dE1NY3d4TUlfbC1GWHZzQ2R5QThvMnJWUURDbElmRE1sNi1ndUdXOFQ5amdXVmtjRWphOWo1cEl1S29mTFNrTF84UjQyMlVaZ1ZLUUItNFp3Z2xxVWRheHJQRzZaWFZ3ZUdSS1BhS3VZM2s?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
-        "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       },
       {
