@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T23:19:11+00:00",
+  "fetched_at": "2026-07-28T03:33:55+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -17,11 +17,11 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - Bloomberg",
+        "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-        "summary": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% Bloomberg",
-        "source": "Bloomberg"
+        "summary": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% Bloomberg.com",
+        "source": "Bloomberg.com"
       },
       {
         "title": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: - HedgeCo.Net",
@@ -41,9 +41,16 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 27 Jul 2026 18:59:25 GMT",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbENTeHZQckVxdzhUX1hiS2tJQk5oSFY0bXBkMmo0RU42NHhpcWV3dUY4M0M4cDhXM2s3UVJTX3BkWTF2ZERidGVleW5MODZ6bzVZdGMyMTFZNDRuRVJPaXcwNmpCWFhUTzRRRUdfSy1zeC1DNktDV3NNQVl0VGRZckR1V0hpZzN4UnN5MHlBV3lyd3dpdXI4?oc=5",
+        "pubDate": "Sun, 19 Jul 2026 07:00:00 GMT",
         "summary": "Weekly market commentary BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
         "source": "BlackRock"
       },
       {
@@ -255,18 +262,18 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central bank gold demand has ‘very long runway’ as East/West market split returns - Schroders - KITCO",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3VkaXR1c1VWYl9DcW5GSW12SEVfR1c3c3EySW12ODhtTTlBV1pSYnpCZVhHeTBKcnc1MVhBQmMyYWx1UXRYM1NDU1Jvd1pnRmFGbjdqSVBpRlZSdmxBNUU4Umg5ck9zbE9sRHhSQk0xTm96SjVhbWQyVnRBU2o0LVpnQXc0SlhKS2ZFb3NqbDVDNGRyWUoxTlRhMVpJa09fOWNuSXA5VjVRYTFXcXNDSDZHd29leXN3UUZLWnRR?oc=5",
-        "pubDate": "Tue, 21 Jul 2026 15:57:00 GMT",
-        "summary": "Central bank gold demand has ‘very long runway’ as East/West market split returns - Schroders KITCO",
-        "source": "KITCO"
-      },
-      {
         "title": "Gold Purchases Accelerate as Dollar Confidence Wanes - Global Finance Magazine",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlBxeFpwNTBlMk1GVENhS0FQUDRBZ2h2dGI2NnFBVHBJNUdmbGVDWTl5UTYxNnQtdEF6U1o0S1pwcFNLaWlOV3RRX2VheEd5QW1xTVZSOVVBalVMaUhZY2FFQXpCQml4MjA2MGt4QkJ6bWZ1RVE5N3dkRjF3X3RPNHRJMHF5TVV6QnRWUTln?oc=5",
         "pubDate": "Fri, 17 Jul 2026 06:00:00 GMT",
         "summary": "Gold Purchases Accelerate as Dollar Confidence Wanes Global Finance Magazine",
         "source": "Global Finance Magazine"
+      },
+      {
+        "title": "Central bank gold demand has ‘very long runway’ as East/West market split returns - Schroders - KITCO",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3VkaXR1c1VWYl9DcW5GSW12SEVfR1c3c3EySW12ODhtTTlBV1pSYnpCZVhHeTBKcnc1MVhBQmMyYWx1UXRYM1NDU1Jvd1pnRmFGbjdqSVBpRlZSdmxBNUU4Umg5ck9zbE9sRHhSQk0xTm96SjVhbWQyVnRBU2o0LVpnQXc0SlhKS2ZFb3NqbDVDNGRyWUoxTlRhMVpJa09fOWNuSXA5VjVRYTFXcXNDSDZHd29leXN3UUZLWnRR?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 15:57:00 GMT",
+        "summary": "Central bank gold demand has ‘very long runway’ as East/West market split returns - Schroders KITCO",
+        "source": "KITCO"
       },
       {
         "title": "Central bank gold statistics: Central banks remain committed to gold | Post by Marissa Salim | Insights - World Gold Council",
