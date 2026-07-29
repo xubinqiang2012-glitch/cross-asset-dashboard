@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T17:37:48+00:00",
+  "fetched_at": "2026-07-29T19:41:34+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -77,6 +77,13 @@
     ],
     "goldman": [
       {
+        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
+        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
         "title": "US Market Pulse July 2026 - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
         "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
@@ -91,13 +98,6 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Cracks in Private Credit - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MVXhpRVhQYndnNi1oM3NOTkMzNWkxYnl2UU9IZDJRSDRKMHNGYkUxbjFxWXFIZHgtMGxUS1EtZFhyOHg2UFc5cUFEcl9nVV82OUNJemxzYUR6aWE3RURONUtzQUE3Y2cwSEtXcDMxaEhmYVJ0d05DRnZ6bHhuVjQ?oc=5",
-        "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
-        "summary": "Cracks in Private Credit Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
         "title": "World Cup 2026: big event, small economic impact? - sgieurope.com",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
         "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
@@ -105,11 +105,11 @@
         "source": "sgieurope.com"
       },
       {
-        "title": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets - cnbc.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDNmWFc4a0xyQm96d2RzdW5ZeDlOdjFvOVJqUXVYZVlxN2E5QmpoanRWRTREX2NmV0UxaERGUjZ3aTY5TC1oM0oybWVrcE0zaDNUWnNDcFRrUDdZRGhhMUdESU9TV1lGZVNpVWppZW5UMDN5NzFxZHVzSkN4YjZCYlhaLURYa2hReWlDSzFn0gGTAUFVX3lxTE8ydGNDVlpIWjhVeFJfcnNJT1lGMVRxV19qV1kwT212ZUFnWVE0TWNEMi00TEhiX1ZpTXJ0RHNLc0RRaUhscnNyY1pEdnExbVFibGRLRjZyOUpmSTJQbHA3TzlEMFZIYnljN0VhNHdYMV90Mjg3cUswNmxUeDIzMUlsVEd1U1ZWdVdLRXRRRFY5T2xINA?oc=5",
-        "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
-        "summary": "Goldman Sachs says AI and energy resilience are creating a North-South divide in Asian markets cnbc.com",
-        "source": "cnbc.com"
+        "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
+        "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+        "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
+        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
@@ -179,11 +179,11 @@
         "source": "Quartr"
       },
       {
-        "title": "Morgan Stanley's Bullish Outlook: Indian Equities Set for Rebound - devdiscourse.com",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHdmeE9SNEtrY1poaUFMenkxcmlWZ282d05KN0h3b083NG81R040dG5sdmVSRlMxdFE5Ynpkd2pLLU94cWRrMFJvblllVTk2VV9mSlMyTnhsbk9XZjBIUTh0aTBiTjVidERrOG5xWUw4alBFTVRxX1pfbXFyODlQTmJHSVh4QnRLUGhVMHVXX1VLNG5vcXptUzR6cVM5ejV6WVNRMHVHSDlFV0NQS2FUYTlpaXlUWl9W0gG-AUFVX3lxTFBRWjYyR2hDbXZEdk0wRE5uaHd1OUZlR3FqT2xhUUZ2QURhd1kxend3M0hXbVlfdVFZdzRYTTVEQU9yMjZrZzBoa1NDUWw1ZmpLOTZveG84UG11a0prYUJhSElweTdQYUMwMTdSazVPZG9JQlFoVFNxYzhBcUFLTFBLSS1ZUXlsQ2xNX2ZKLW9TTE54MDNDMjNxVzBLLWhnU0tjRWI0aVFpMkdNUkVkRmdkRHI0LTVhSk9ldV9hNXc?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-        "summary": "Morgan Stanley's Bullish Outlook: Indian Equities Set for Rebound devdiscourse.com",
-        "source": "devdiscourse.com"
+        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "source": "Morgan Stanley"
       }
     ],
     "pimco": [
@@ -209,11 +209,11 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - cnbc.com",
+        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida cnbc.com",
-        "source": "cnbc.com"
+        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
+        "source": "CNBC"
       },
       {
         "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
@@ -262,11 +262,11 @@
     ],
     "wgc": [
       {
-        "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - gold.org",
+        "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights gold.org",
-        "source": "gold.org"
+        "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
+        "source": "World Gold Council"
       },
       {
         "title": "Gold Purchases Accelerate as Dollar Confidence Wanes - Global Finance Magazine",
@@ -276,16 +276,16 @@
         "source": "Global Finance Magazine"
       },
       {
-        "title": "Central bank gold statistics: Central banks remain committed to gold | Post by Marissa Salim | Insights - gold.org",
+        "title": "Central bank gold statistics: Central banks remain committed to gold | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0RmSUIyTEM4QkRSbHpzak9zYWxmSEJKcXJiWkJJR0ZDOW5hX3RSN2pMdHdObjVYeVc1TURZdnIzNVE5YnM4dV95MDZYbXFWd3JsMUF2S0ZQN2VHWDVPNVl2MDVFNS1DMW1vaVNKZm1aTjd4aVVMcFhqdmd5RWVBbXhBNFlCenB3OVdSb1JpSUs2TFNLeVJlVEJWQkVFX1M2Y0xCTmVTYjctUGJwMzVra3hB?oc=5",
         "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-        "summary": "Central bank gold statistics: Central banks remain committed to gold | Post by Marissa Salim | Insights gold.org",
-        "source": "gold.org"
+        "summary": "Central bank gold statistics: Central banks remain committed to gold | Post by Marissa Salim | Insights World Gold Council",
+        "source": "World Gold Council"
       },
       {
         "title": "Central bank gold demand has ‘very long runway’ as East/West market split returns - Schroders - KITCO",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3VkaXR1c1VWYl9DcW5GSW12SEVfR1c3c3EySW12ODhtTTlBV1pSYnpCZVhHeTBKcnc1MVhBQmMyYWx1UXRYM1NDU1Jvd1pnRmFGbjdqSVBpRlZSdmxBNUU4Umg5ck9zbE9sRHhSQk0xTm96SjVhbWQyVnRBU2o0LVpnQXc0SlhKS2ZFb3NqbDVDNGRyWUoxTlRhMVpJa09fOWNuSXA5VjVRYTFXcXNDSDZHd29leXN3UUZLWnRR?oc=5",
-        "pubDate": "Tue, 21 Jul 2026 15:57:00 GMT",
+        "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
         "summary": "Central bank gold demand has ‘very long runway’ as East/West market split returns - Schroders KITCO",
         "source": "KITCO"
       },
