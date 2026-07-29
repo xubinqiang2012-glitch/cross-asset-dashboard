@@ -1,13 +1,10 @@
 {
-  "fetched_at": "2026-07-29T10:48:28+00:00",
-  "values": {
-    "real_yield": 2.44
-  },
-  "source_dates": {
-    "real_yield": "2026-07-27"
-  },
+  "fetched_at": "2026-07-29T14:30:42+00:00",
+  "values": {},
+  "source_dates": {},
   "errors": {
     "gold": "HTTP Error 404: Not Found",
-    "dxy": "HTTP Error 404: Not Found"
+    "dxy": "HTTP Error 404: Not Found",
+    "real_yield": "HTTP Error 502: Bad Gateway"
   }
 }
