@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T19:51:00+00:00",
+  "fetched_at": "2026-07-30T21:30:42+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,10 +40,10 @@
     ],
     "blackrock": [
       {
-        "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbENTeHZQckVxdzhUX1hiS2tJQk5oSFY0bXBkMmo0RU42NHhpcWV3dUY4M0M4cDhXM2s3UVJTX3BkWTF2ZERidGVleW5MODZ6bzVZdGMyMTFZNDRuRVJPaXcwNmpCWFhUTzRRRUdfSy1zeC1DNktDV3NNQVl0VGRZckR1V0hpZzN4UnN5MHlBV3lyd3dpdXI4?oc=5",
-        "pubDate": "Sun, 19 Jul 2026 07:00:00 GMT",
-        "summary": "Weekly market commentary BlackRock",
+        "title": "Global Weekly Commentary - Insights - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UX0xsZ1E3OWQydkhOUnBNUFNMaWd4aG9walJuekZQM05FQ1JFcGo2VXJCS1FlS3JDbkNjdGdGbXJQbVJjZUFqS3JoYzhFNVh5ODRDbHVFWUdRZnc3eXBfWVJLM2Qta3o3NzRLUTUtRmlRVTdYUnNGOA?oc=5",
+        "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
+        "summary": "Global Weekly Commentary - Insights BlackRock",
         "source": "BlackRock"
       },
       {
@@ -68,10 +68,10 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "Global Weekly Commentary - Insights - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1laG4tQ3hkTWNwejc4TEdNNTlRTXppWkJXM0w4NmF3N0gydzI5c0JyNkcwX2gxVnRneE42YktPSk1TYld2aUhvdUZCdEVUOUxRVzcyZXhET3FRRHpKbGhZU01xXzA4cTV2UXNOcXhhRjlQOERwbXg2ZFNJX1c?oc=5",
+        "title": "Weekly market commentary - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
         "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
-        "summary": "Global Weekly Commentary - Insights BlackRock",
+        "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       }
     ],
@@ -91,11 +91,11 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
+        "title": "World Cup 2026: big event, small economic impact? - sgieurope.com",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
         "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-        "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
-        "source": "Sporting Goods Intelligence Europe"
+        "summary": "World Cup 2026: big event, small economic impact? sgieurope.com",
+        "source": "sgieurope.com"
       },
       {
         "title": "Market Know-How 3Q 2026: The Geo Paradigm - Goldman Sachs Asset Management",
@@ -114,11 +114,11 @@
     ],
     "jpm": [
       {
-        "title": "Semiquincententacles: the US grip on global markets - J.P. Morgan Private Bank",
+        "title": "Semiquincententacles: the US grip on global markets - privatebank.jpmorgan.com",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVZ2SjFWN2daaXBhVVFDa2YxY2JKM2ItbE53bmprN3h4T3BnZV9mVWFVakxyam9zV2Z4UHJQU3RDS2xYU3g1QXJtZG85enJWejZIX0dJc0JibXl4Q3RvelVKX3pTZUIzc3A2dDZuWnc2b1JXQk1SejhnRjZrX25tQlZXVDdPUHNqYkwwSG9mRDgwV2dkN2lxb0dUaUNZdFE4b29EVlpTSlZHcFZEdmlDMm9tWXJEeEYtX3NQMU04TVZOZ0NDcmc?oc=5",
         "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "Semiquincententacles: the US grip on global markets J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
+        "summary": "Semiquincententacles: the US grip on global markets privatebank.jpmorgan.com",
+        "source": "privatebank.jpmorgan.com"
       },
       {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
@@ -151,11 +151,11 @@
     ],
     "ms": [
       {
-        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
+        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - morganstanley.com",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3ZJejZLSG5kcU1ybklxUk9KYXJ1LWhtd19WSEdtQjNiNElLOUFXbkpSR3E5MHV4SVJqVnZEU1RRdXJINjRUUjNsbWVfUmN1aWc2ekZ5Tkh2dzVHaVZKdUZwM0NWbTVjWklFOWdudWp6ekg4QjQ3cTFqRHBnU0p2YkxTWk92ZVJFNjFTdS12ZXdrTEtZSnNhdkVyd0JZbFhuUWRqNW9MZHh5M1RDSjI1TzlIcW5VRVB5ODh0azlFZVI1VHhCQzVoLWN6ZkpjXzRqakE?oc=5",
         "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
-        "source": "Morgan Stanley"
+        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates morganstanley.com",
+        "source": "morganstanley.com"
       },
       {
         "title": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead - Barron's",
@@ -179,11 +179,11 @@
         "source": "Quartr"
       },
       {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
+        "title": "The Big Forces Driving Markets in 2026 - morganstanley.com",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
-        "source": "Morgan Stanley"
+        "summary": "The Big Forces Driving Markets in 2026 morganstanley.com",
+        "source": "morganstanley.com"
       }
     ],
     "pimco": [
@@ -209,11 +209,11 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - cnbc.com",
+        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida cnbc.com",
-        "source": "cnbc.com"
+        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
+        "source": "CNBC"
       },
       {
         "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
@@ -276,11 +276,11 @@
         "source": "IndexBox"
       },
       {
-        "title": "Gold Purchases Accelerate as Dollar Confidence Wanes - Global Finance Magazine",
+        "title": "Gold Purchases Accelerate as Dollar Confidence Wanes - gfmag.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlBxeFpwNTBlMk1GVENhS0FQUDRBZ2h2dGI2NnFBVHBJNUdmbGVDWTl5UTYxNnQtdEF6U1o0S1pwcFNLaWlOV3RRX2VheEd5QW1xTVZSOVVBalVMaUhZY2FFQXpCQml4MjA2MGt4QkJ6bWZ1RVE5N3dkRjF3X3RPNHRJMHF5TVV6QnRWUTln?oc=5",
         "pubDate": "Fri, 17 Jul 2026 06:00:00 GMT",
-        "summary": "Gold Purchases Accelerate as Dollar Confidence Wanes Global Finance Magazine",
-        "source": "Global Finance Magazine"
+        "summary": "Gold Purchases Accelerate as Dollar Confidence Wanes gfmag.com",
+        "source": "gfmag.com"
       },
       {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
