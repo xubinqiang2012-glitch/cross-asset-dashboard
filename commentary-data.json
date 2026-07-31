@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T10:50:24+00:00",
+  "fetched_at": "2026-07-31T14:33:43+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -84,18 +84,11 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "US Market Pulse July 2026 - am.gs.com",
+        "title": "US Market Pulse July 2026 - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
         "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-        "summary": "US Market Pulse July 2026 am.gs.com",
-        "source": "am.gs.com"
-      },
-      {
-        "title": "Are US Stock Market Valuations Outpacing Fundamentals? - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1LUGF1eHpVcVlORmRMWHlrS0x4My1FQ2lldWdQUHlxMXFTMkRSQlJUVzA5UDROeDdfNkpIVENuUUxGeFVSdlhnMHFBOVU4T0YzUnNNeC1HQ1lWaFdGZzJsemRMREdRR1Uzc0RrUnFTbWo1SnE1RDhGdVZnX0RZdG50XzVadGhZVkhZOTBCcWtURVpmNGpWV3VrSk96NnIyYkE?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-        "summary": "Are US Stock Market Valuations Outpacing Fundamentals? Goldman Sachs",
-        "source": "Goldman Sachs"
+        "summary": "US Market Pulse July 2026 Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
       },
       {
         "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
@@ -105,20 +98,27 @@
         "source": "Sporting Goods Intelligence Europe"
       },
       {
-        "title": "Market Know-How 3Q 2026: The Geo Paradigm - am.gs.com",
+        "title": "Are US Stock Market Valuations Outpacing Fundamentals? - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1LUGF1eHpVcVlORmRMWHlrS0x4My1FQ2lldWdQUHlxMXFTMkRSQlJUVzA5UDROeDdfNkpIVENuUUxGeFVSdlhnMHFBOVU4T0YzUnNNeC1HQ1lWaFdGZzJsemRMREdRR1Uzc0RrUnFTbWo1SnE1RDhGdVZnX0RZdG50XzVadGhZVkhZOTBCcWtURVpmNGpWV3VrSk96NnIyYkE?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+        "summary": "Are US Stock Market Valuations Outpacing Fundamentals? Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
+        "title": "Market Know-How 3Q 2026: The Geo Paradigm - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56QlRSLUFNR0lra0dabzgxMTJwWkZRZzh4YnpLUFVncm0xSkZWN0pkaUpjdGY1MGtrVnJpR2gxQVkzNFhCMHJTcXItZk5KQUhBRkdZS0x5VzNMTXp3OEptRWxrWjBTTUdNZk83NVh3VlZRSU0?oc=5",
         "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-        "summary": "Market Know-How 3Q 2026: The Geo Paradigm am.gs.com",
-        "source": "am.gs.com"
+        "summary": "Market Know-How 3Q 2026: The Geo Paradigm Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
       }
     ],
     "jpm": [
       {
-        "title": "Semiquincententacles: the US grip on global markets - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVZ2SjFWN2daaXBhVVFDa2YxY2JKM2ItbE53bmprN3h4T3BnZV9mVWFVakxyam9zV2Z4UHJQU3RDS2xYU3g1QXJtZG85enJWejZIX0dJc0JibXl4Q3RvelVKX3pTZUIzc3A2dDZuWnc2b1JXQk1SejhnRjZrX25tQlZXVDdPUHNqYkwwSG9mRDgwV2dkN2lxb0dUaUNZdFE4b29EVlpTSlZHcFZEdmlDMm9tWXJEeEYtX3NQMU04TVZOZ0NDcmc?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "Semiquincententacles: the US grip on global markets J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
+        "title": "JPMorgan: Indonesia ranks second most resilient to global energy shock - IDNFinancials",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3dXYjZTay1rU2JZc0JDR0txdXBRSFlRTTRyYTc2OXVvR2ZXRTUzcUlWNjlWZXZXZG5RY3ZxQnFiSVZfLTdnTWcydmpvYVNZYW1BNnBaVktPSG5SbTZrQkhVSDVwLTVLN3FRcHdfV0E1WkNhTG44QjdWYzdEWUFMZGE4VWEyNWpJS1p3bWl5dFI5UFd6S3pOcHpvSTE2VFRSUVlWblFPUy1xWXZCZDE0?oc=5",
+        "pubDate": "Sat, 25 Apr 2026 07:00:00 GMT",
+        "summary": "JPMorgan: Indonesia ranks second most resilient to global energy shock IDNFinancials",
+        "source": "IDNFinancials"
       },
       {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
@@ -135,18 +135,18 @@
         "source": "Chase Bank"
       },
       {
+        "title": "Semiquincententacles: the US grip on global markets - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjFLcHJOUk1sLUlMMGhSSFFvMHN5NVl6c0JoY2Z6cGNmaHF5UlgwWXgzY04xODVMek1kdFVwRUFoUXhTaXhENmZTd2NLZldkaVNEbk1mVnRBTXdWZVhsZzh3VG1PQkFVeUs2ck5hQUVZMkYzN1FnYmoyUTE5VGJFWGtJSWJpVlBPTlRMUXdhSW0zMDZvQ2tHUlFGVnNaejdiWjQ5VDA0ZVhIZmZPUlBtZDZkX3lQT2dWclFMQXppTmpFa0FQSHc?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "summary": "Semiquincententacles: the US grip on global markets J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
+      },
+      {
         "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
         "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
         "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
         "source": "Fortune"
-      },
-      {
-        "title": "JPMorgan: Indonesia ranks second most resilient to global energy shock - idnfinancials.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3dXYjZTay1rU2JZc0JDR0txdXBRSFlRTTRyYTc2OXVvR2ZXRTUzcUlWNjlWZXZXZG5RY3ZxQnFiSVZfLTdnTWcydmpvYVNZYW1BNnBaVktPSG5SbTZrQkhVSDVwLTVLN3FRcHdfV0E1WkNhTG44QjdWYzdEWUFMZGE4VWEyNWpJS1p3bWl5dFI5UFd6S3pOcHpvSTE2VFRSUVlWblFPUy1xWXZCZDE0?oc=5",
-        "pubDate": "Sat, 25 Apr 2026 07:00:00 GMT",
-        "summary": "JPMorgan: Indonesia ranks second most resilient to global energy shock idnfinancials.com",
-        "source": "idnfinancials.com"
       }
     ],
     "ms": [
@@ -158,11 +158,11 @@
         "source": "Morgan Stanley"
       },
       {
-        "title": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead - Barron's",
+        "title": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead - barrons.com",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1F6S2NVZm4yVTRubjk4VXdZV3JrNmFZTTg3dG8wa3g5aHRfR2pKWE16NF9qR2g3YWpwb1RfS0xFS3BqM3o5TmNGUm9TclNmY3ZVMTQyMnBmRGZOWlF2TFhMWlJiTEdyZTJoUDBfQlA4bjR3SU1oRWllNGFSd3V0Z2RMYzBvdEEwRUZBQlllcGVySXp3NWFHczJsRXZ1TjkydzNCZHpSMGNkTUdsaEVFMG1DT0M2NWIzcm02SDhCaw?oc=5",
         "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "summary": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead Barron's",
-        "source": "Barron's"
+        "summary": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead barrons.com",
+        "source": "barrons.com"
       },
       {
         "title": "Zacks Industry Outlook Highlights Morgan Stanley, The Charles Schwab and Interactive Brokers - The Globe and Mail",
@@ -195,18 +195,18 @@
         "source": "Morningstar"
       },
       {
-        "title": "PIMCO Outlook: Rupture and resilience - Zawya",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemxJbWhpQThrbWFXNFBLdDJvQWRPeFVpeFJyV09BMHdKNXU1WVAycFllc01nM2F5akJHVG91UTQ0dzY5Q3NsTm5tc0F4Tm43eTBYMXpMLWNtekJyVkc5WnFpMTZYZEpKeGpvX2o1d09GWjFhaUtCdTh1WWc1YmRjUEVIdzBFTU83YkM4bk1LWQ?oc=5",
-        "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
-        "summary": "PIMCO Outlook: Rupture and resilience Zawya",
-        "source": "Zawya"
-      },
-      {
         "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
         "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
         "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
         "source": "Wealth Professional"
+      },
+      {
+        "title": "PIMCO Outlook: Rupture and resilience - Zawya",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemxJbWhpQThrbWFXNFBLdDJvQWRPeFVpeFJyV09BMHdKNXU1WVAycFllc01nM2F5akJHVG91UTQ0dzY5Q3NsTm5tc0F4Tm43eTBYMXpMLWNtekJyVkc5WnFpMTZYZEpKeGpvX2o1d09GWjFhaUtCdTh1WWc1YmRjUEVIdzBFTU83YkM4bk1LWQ?oc=5",
+        "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+        "summary": "PIMCO Outlook: Rupture and resilience Zawya",
+        "source": "Zawya"
       },
       {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
@@ -262,25 +262,18 @@
     ],
     "wgc": [
       {
-        "title": "Gold Demand Trends: Q2 2026 - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXFpSFotaVFKRno1MVJWYnhmdGJVMVQ5RUVEMVAtcFZuV2tST0s1eFF1RjB3TWVJOUkyYTRFU1VxVlRIUmlFM19VaU11aU10QXZDSDFWUnRIQkFidzBzTHhJLXROU24tQlpqQXNPaVk0MnlGVXJXMXBUeFc4aHFJOWxHbVlMeHJpcHJJ?oc=5",
-        "pubDate": "Thu, 30 Jul 2026 12:00:00 GMT",
-        "summary": "Gold Demand Trends: Q2 2026 World Gold Council",
-        "source": "World Gold Council"
+        "title": "Central banks slashed their gold purchases in early 2026 - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2prSmZtODNPdG1qUGlybnlxcm5QRjB1T1ZFampQai1mNlBwZHBacjZJRDhvVk9GRF81aHJkS29HWENCY1FlUWI0LTMwSDdHMkQyZkJ6cjY3MTduck1CVTdVRUU4WWJEMWc5LUlHM1l3Q0JzM1gzeUFsNFhiTVhDVS04Wkk?oc=5",
+        "pubDate": "Thu, 30 Jul 2026 06:00:22 GMT",
+        "summary": "Central banks slashed their gold purchases in early 2026 Financial Times",
+        "source": "Financial Times"
       },
       {
-        "title": "Central Bank Gold Purchases Jump 62% to 288.9 Tonnes in Q2 - Cryptonews.net",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZ0FfRXZjclMzWXNkUl9idV9ZSldUMnJ5ajJVaHRfa0xNUTNPN2dGbUh3Z3NNOE4teENDNmEwNUROV1hhd2Zyam5fTm5CUVBreDQ2dU5ZNkc?oc=5",
-        "pubDate": "Fri, 31 Jul 2026 03:36:56 GMT",
-        "summary": "Central Bank Gold Purchases Jump 62% to 288.9 Tonnes in Q2 Cryptonews.net",
-        "source": "Cryptonews.net"
-      },
-      {
-        "title": "Gold (XAU/USD) & Silver Price Forecast: World Gold Council Reports Strong Central Bank Buying - FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUkyUml0d1VpaEEyN0VHZGdtcEFvV25uRGxWOGZ4M0dhVEwybW93anVxd3E5UmFxbW90VUlaZl96azJQeXRRXy0tSDAzVHFjNFY5ckp1bU9ibmtpVktuTEtwWW02dktXamtVc2dyNW1xeURzR2ZlTmJpeFJpWWNjMzVkUVZZSkFDVURVczdFX1N0NmM4R3JONTNzcjdqcXI3N2EtQXFWcWNzMU1yRDJaMFlSVWVYOUk3UzdBVV8tYlVjZk1fa1VqZEhMby15eVJIRURhMUxn?oc=5",
-        "pubDate": "Fri, 31 Jul 2026 09:23:00 GMT",
-        "summary": "Gold (XAU/USD) & Silver Price Forecast: World Gold Council Reports Strong Central Bank Buying FXEmpire",
-        "source": "FXEmpire"
+        "title": "Gold demand proves resilient despite Q2 selloff as central banks return and Asian buying remains strong - WGC - kitco.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTR3Z0VOYUdjbjB1Q01aQ0hJcHYtUUZucWZPMFZDUGhhd3RwUXFvNHBRanUyZVNQUUkxWmprZzNDUFphSFNDemgwejBqT3BDb2NVVU10Y0JvUWlTLVRiS1FpRnctOEUtVWN2TlJRX1d2UjhuOWpZeVo5YkRJQ1RMLWtjMVFjdUdmTkVmNlA3QVJNc1FjaDZEZUlORzJGTlN4X3gyc2pjQVFGMmZIaXBBZk5xOUJaYWpGZXc?oc=5",
+        "pubDate": "Thu, 30 Jul 2026 17:34:20 GMT",
+        "summary": "Gold demand proves resilient despite Q2 selloff as central banks return and Asian buying remains strong - WGC kitco.com",
+        "source": "kitco.com"
       },
       {
         "title": "Central banks bought far less gold than thought in Q1, World Gold Council says (GLD:NYSEARCA) - Seeking Alpha",
@@ -290,11 +283,18 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "World Gold Council: Central bank gold purchases rose 62% year-on-year to 289 tonnes, reaching a four-year high, while demand for gold jewelry remains under pressure. - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHZFVUZFYlZ0NlJDTW1WYy12SXF2MGJwdC1JYTlDTUdpazAybUhoRmNOWDNqT0FIWTh3eldBOVNNa1RjZkxSOERfalRnMTJHS0dvWVk2ZV9XVlVUTVZ0NVY4X01iRzhCOFVFWU0zRUNHbE4yOUhSeVFWbGFRVWVrak54U2xuSE42bzRGUG1UOFhkQjlwb012QkdSejhrbEV0X0dF?oc=5",
-        "pubDate": "Thu, 30 Jul 2026 06:57:07 GMT",
-        "summary": "World Gold Council: Central bank gold purchases rose 62% year-on-year to 289 tonnes, reaching a four-year high, while demand for gold jewelry remains under pressure. Moomoo",
-        "source": "Moomoo"
+        "title": "Gold (XAU/USD) & Silver Price Forecast: World Gold Council Reports Strong Central Bank Buying - FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUkyUml0d1VpaEEyN0VHZGdtcEFvV25uRGxWOGZ4M0dhVEwybW93anVxd3E5UmFxbW90VUlaZl96azJQeXRRXy0tSDAzVHFjNFY5ckp1bU9ibmtpVktuTEtwWW02dktXamtVc2dyNW1xeURzR2ZlTmJpeFJpWWNjMzVkUVZZSkFDVURVczdFX1N0NmM4R3JONTNzcjdqcXI3N2EtQXFWcWNzMU1yRDJaMFlSVWVYOUk3UzdBVV8tYlVjZk1fa1VqZEhMby15eVJIRURhMUxn?oc=5",
+        "pubDate": "Fri, 31 Jul 2026 09:23:00 GMT",
+        "summary": "Gold (XAU/USD) & Silver Price Forecast: World Gold Council Reports Strong Central Bank Buying FXEmpire",
+        "source": "FXEmpire"
+      },
+      {
+        "title": "Central Bank Gold Reserves Survey 2026 - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkI4UmNFV245NHdZeHJnbngyWmo5Q1loYVdFQzdqNlFzQ1M0MEYxTmlpX3dOM2plY2huTkR3UTZfQWZDTUF4U1Q3MDJJdGlSZjV4UkZFc2Z3cC1FMWQ0TGpka19NVzZIUzdwbWxlcXZqclZPbzFDV004OGxLVWlLOFZR?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+        "summary": "Central Bank Gold Reserves Survey 2026 World Gold Council",
+        "source": "World Gold Council"
       }
     ]
   },
