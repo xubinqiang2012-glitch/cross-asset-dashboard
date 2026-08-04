@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-08-04T14:38:31+00:00",
+  "fetched_at": "2026-08-04T18:03:01+00:00",
   "sources": {
     "bridgewater": [
       {
-        "title": "The Macro Implications of the AI Capex Boom - bridgewater.com",
+        "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
         "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
-        "summary": "The Macro Implications of the AI Capex Boom bridgewater.com",
-        "source": "bridgewater.com"
+        "summary": "The Macro Implications of the AI Capex Boom Bridgewater Associates",
+        "source": "Bridgewater Associates"
       },
       {
         "title": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine - HedgeCo.Net",
@@ -31,11 +31,11 @@
         "source": "Reuters"
       },
       {
-        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - globalcitizen.org",
+        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
         "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge globalcitizen.org",
-        "source": "globalcitizen.org"
+        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
+        "source": "Global Citizen"
       }
     ],
     "blackrock": [
@@ -121,18 +121,11 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "Semiquincententacles: the US grip on global markets - J.P. Morgan Private Bank",
+        "title": "Semiquincententacles: the US grip on global markets - privatebank.jpmorgan.com",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVZ2SjFWN2daaXBhVVFDa2YxY2JKM2ItbE53bmprN3h4T3BnZV9mVWFVakxyam9zV2Z4UHJQU3RDS2xYU3g1QXJtZG85enJWejZIX0dJc0JibXl4Q3RvelVKX3pTZUIzc3A2dDZuWnc2b1JXQk1SejhnRjZrX25tQlZXVDdPUHNqYkwwSG9mRDgwV2dkN2lxb0dUaUNZdFE4b29EVlpTSlZHcFZEdmlDMm9tWXJEeEYtX3NQMU04TVZOZ0NDcmc?oc=5",
         "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "Semiquincententacles: the US grip on global markets J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
-      },
-      {
-        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
-        "source": "Chase Bank"
+        "summary": "Semiquincententacles: the US grip on global markets privatebank.jpmorgan.com",
+        "source": "privatebank.jpmorgan.com"
       },
       {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
@@ -140,6 +133,13 @@
         "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
         "summary": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries Institutional Investor",
         "source": "Institutional Investor"
+      },
+      {
+        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
+        "source": "Chase Bank"
       },
       {
         "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - fortune.com",
@@ -172,11 +172,11 @@
         "source": "The Globe and Mail"
       },
       {
-        "title": "Banco Bilbao Vizcaya Argentaria (BBVA) Morgan Stanley European Financials Conference 2026 summary - Quartr",
+        "title": "Banco Bilbao Vizcaya Argentaria (BBVA) Morgan Stanley European Financials Conference 2026 summary - quartr.com",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNalJQV09qQm9TWmxqNXFxWTEybWJwaGxWV1F3TG9aaExDSDMxMWJaLWM2SXhNejdhMERwRmZnQjZpQXFlRHZ1bm5RRTZ0cEdrS1ZQalJVR2UwS1VRV1h5NGJwaEFjZm1uWEJBQnRKdkRrcnZLWmF5d1Boa0dxaUpZdU5EdXVaZm5FNVE4aWxGNGl5aFpSWTRzb2M0Z0NUZzVabGYxcEVJZG1INDZ3NDVjNGVZd1B5WkMtazF6WlpTOA?oc=5",
         "pubDate": "Sun, 26 Apr 2026 10:13:57 GMT",
-        "summary": "Banco Bilbao Vizcaya Argentaria (BBVA) Morgan Stanley European Financials Conference 2026 summary Quartr",
-        "source": "Quartr"
+        "summary": "Banco Bilbao Vizcaya Argentaria (BBVA) Morgan Stanley European Financials Conference 2026 summary quartr.com",
+        "source": "quartr.com"
       },
       {
         "title": "Why Morgan Stanley slashed its gold price forecast to $5,200, down from $5,700 — is the gold bull run over - The Economic Times",
@@ -262,6 +262,13 @@
     ],
     "wgc": [
       {
+        "title": "Central Bank Gold Buying Accelerated Again in June - LinkedIn",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGltYVZjNVJ6OVdaVTlpUHZyWmJTZk9PSlhIRnZtRGtNdTZYc0R5bTZOTy13THdSLVREd3A3b245LWN1M0Q1d0xqVXdqOUpkWFZkNHBnTXZWMk12SlpjMWxnRkNTU3h3OU1VZVVScDBpZThlWWJFQ3RFTTNyeUVfT3JjZmo1SkloQVZwa0NMZzRHSk1YcVB4ajVPZE5Mdw?oc=5",
+        "pubDate": "Tue, 04 Aug 2026 15:27:45 GMT",
+        "summary": "Central Bank Gold Buying Accelerated Again in June LinkedIn",
+        "source": "LinkedIn"
+      },
+      {
         "title": "Gold Demand Trends: Q2 2026 - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXFpSFotaVFKRno1MVJWYnhmdGJVMVQ5RUVEMVAtcFZuV2tST0s1eFF1RjB3TWVJOUkyYTRFU1VxVlRIUmlFM19VaU11aU10QXZDSDFWUnRIQkFidzBzTHhJLXROU24tQlpqQXNPaVk0MnlGVXJXMXBUeFc4aHFJOWxHbVlMeHJpcHJJ?oc=5",
         "pubDate": "Thu, 30 Jul 2026 12:00:00 GMT",
@@ -288,13 +295,6 @@
         "pubDate": "Fri, 31 Jul 2026 03:36:56 GMT",
         "summary": "Central Bank Gold Purchases Jump 62% to 288.9 Tonnes in Q2 Cryptonews.net",
         "source": "Cryptonews.net"
-      },
-      {
-        "title": "Gold Purchases Accelerate as Dollar Confidence Wanes - Global Finance Magazine",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlBxeFpwNTBlMk1GVENhS0FQUDRBZ2h2dGI2NnFBVHBJNUdmbGVDWTl5UTYxNnQtdEF6U1o0S1pwcFNLaWlOV3RRX2VheEd5QW1xTVZSOVVBalVMaUhZY2FFQXpCQml4MjA2MGt4QkJ6bWZ1RVE5N3dkRjF3X3RPNHRJMHF5TVV6QnRWUTln?oc=5",
-        "pubDate": "Fri, 17 Jul 2026 06:00:00 GMT",
-        "summary": "Gold Purchases Accelerate as Dollar Confidence Wanes Global Finance Magazine",
-        "source": "Global Finance Magazine"
       }
     ]
   },
