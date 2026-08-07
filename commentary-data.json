@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07T11:06:16+00:00",
+  "fetched_at": "2026-08-07T13:37:38+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -47,11 +47,11 @@
         "source": "BlackRock"
       },
       {
-        "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - alternativeswatch.com",
+        "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds alternativeswatch.com",
-        "source": "alternativeswatch.com"
+        "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
+        "source": "Alternatives Watch"
       },
       {
         "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
@@ -181,18 +181,25 @@
     ],
     "pimco": [
       {
-        "title": "Pimco’s Clarida: Key Bond Market Risks and Opportunities in a Fragmenting World - morningstar.com",
+        "title": "Pimco’s Clarida: Key Bond Market Risks and Opportunities in a Fragmenting World - Morningstar",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3A0d1BSOE13dnp1MTNTZ08yMnZlZ20zNDF0OXBMcDBKZXVwSUh2SU00VU1Ybm9xSTJyM1llbk10dHVOSEJDYURZc0pwbDdONG5fNHE2Ukh3eFRkNU5UeTJkaWN3ZjZVeFVFRG1nejZqT1IwT0pCaHA0c1VMY1hxOUp4NGlNcTItVVRJY1JVLUVUSjNRUEx5NFd0S0NkV0hTUXBhZWpiaw?oc=5",
         "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
-        "summary": "Pimco’s Clarida: Key Bond Market Risks and Opportunities in a Fragmenting World morningstar.com",
-        "source": "morningstar.com"
+        "summary": "Pimco’s Clarida: Key Bond Market Risks and Opportunities in a Fragmenting World Morningstar",
+        "source": "Morningstar"
       },
       {
-        "title": "PIMCO Outlook: Rupture and resilience - Zawya",
+        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
+        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
+        "source": "Wealth Professional"
+      },
+      {
+        "title": "PIMCO Outlook: Rupture and resilience - zawya.com",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemxJbWhpQThrbWFXNFBLdDJvQWRPeFVpeFJyV09BMHdKNXU1WVAycFllc01nM2F5akJHVG91UTQ0dzY5Q3NsTm5tc0F4Tm43eTBYMXpMLWNtekJyVkc5WnFpMTZYZEpKeGpvX2o1d09GWjFhaUtCdTh1WWc1YmRjUEVIdzBFTU83YkM4bk1LWQ?oc=5",
         "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
-        "summary": "PIMCO Outlook: Rupture and resilience Zawya",
-        "source": "Zawya"
+        "summary": "PIMCO Outlook: Rupture and resilience zawya.com",
+        "source": "zawya.com"
       },
       {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
@@ -202,18 +209,11 @@
         "source": "CNBC"
       },
       {
-        "title": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others - wealthbriefingasia.com",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcDFtc0Fad2VzZ09vd1RNNzZ4Wl9xMHJKb0ZHQmtSY25PVU16SlkybXFxTFUtOXhEV3FFQ29LV3Y5WTc4dV91Q0JvSTBjUnE4Q0tfandVODc5WkQyWUhUN1NoTXRnWDZvTzRsbUpyN19jNUFvMUpTd2cxcUNfZWplbVhSSDFncWVDaFJvVjRRTFY3TWtrRXhkT1RrV3JJVXJvRHA5S1M3bzdXQWVXR2x3SUkyUExIZHVVNi1TX2g0NUZDRkRVZFdXM1psNzN3UWlfREotV1FkOGhjc0tMaWdYWnExRWsyWjcxN0Y1OWVabjZFVEY5bEowUUxn?oc=5",
-        "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
-        "summary": "What’s New In Investments, Funds? – State Street IM, Ninety One, Jupiter AM, Others wealthbriefingasia.com",
-        "source": "wealthbriefingasia.com"
-      },
-      {
-        "title": "PIMCO sees bond opportunities amid geopolitical market rupture - investordaily.com.au",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQalhPXzAzWmVNblNlRkgyaHk2QXRoYk9IRmdwTmVrN0tfUy0xeVBlWDBaZkw1Z0hKVUxIeVJVVjRQY0pKODFjQUZrdXVnLWZJcmJiamk3b3psaVRRQVFkczdOcHRWNVlNU2wwTVpRT0xtTnlYeVo0MUdkTkNTTlh5V1B1MWQ0TThScmtMc182SnUzOTBBWk42MEVXYWs?oc=5",
-        "pubDate": "Thu, 11 Jun 2026 06:47:37 GMT",
-        "summary": "PIMCO sees bond opportunities amid geopolitical market rupture investordaily.com.au",
-        "source": "investordaily.com.au"
+        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
+        "source": "IFA Magazine"
       }
     ],
     "fed": [
@@ -276,18 +276,18 @@
         "source": "LinkedIn"
       },
       {
-        "title": "Gold Erases Early Rally as WGC Reports First-Half Central Bank Buying at Lowest Since 2022 - bullionvault.com",
+        "title": "Gold Erases Early Rally as WGC Reports First-Half Central Bank Buying at Lowest Since 2022 - BullionVault",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVdVRzlxdzF4Q1BrNnBkMkRWRmdHSmRKOU9lbHZ4T1I3MTM5X1BvQXg2dXVJZ0gyemJiTE4wWHE5OFFFUjlPVlJpSFh3SmRGOFhQRFdScVROM1ZFbDlHdVRjdjZrMDUzZUxIdW9JLWY5YlNaRHpBLTc1RmtUdVNURWh0LS1iYktqTTFrREhfbmVKN0k3enBZQ2Y5MWs4V00?oc=5",
         "pubDate": "Mon, 03 Aug 2026 14:20:13 GMT",
-        "summary": "Gold Erases Early Rally as WGC Reports First-Half Central Bank Buying at Lowest Since 2022 bullionvault.com",
-        "source": "bullionvault.com"
+        "summary": "Gold Erases Early Rally as WGC Reports First-Half Central Bank Buying at Lowest Since 2022 BullionVault",
+        "source": "BullionVault"
       },
       {
-        "title": "Central Bank Gold Rush (Q2 2026) - Voronoi",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xUTFHQlNZQ2o4eWF6cUNjdFI4VmUzRHBmUjZEZXd1aEdhMlU0S20xd1VaMHJmLUtKM3pyNkYzV0ZiQ1FDWi02MXB1MUt0ZXdCaEc2dWhYaGJ4Nm42bjNGajhvV0NwMVNmVDkyZ2J3NHBaZzYzdE44Wnln?oc=5",
-        "pubDate": "Wed, 05 Aug 2026 02:00:44 GMT",
-        "summary": "Central Bank Gold Rush (Q2 2026) Voronoi",
-        "source": "Voronoi"
+        "title": "Gold Purchases Accelerate as Dollar Confidence Wanes - Global Finance Magazine",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlBxeFpwNTBlMk1GVENhS0FQUDRBZ2h2dGI2NnFBVHBJNUdmbGVDWTl5UTYxNnQtdEF6U1o0S1pwcFNLaWlOV3RRX2VheEd5QW1xTVZSOVVBalVMaUhZY2FFQXpCQml4MjA2MGt4QkJ6bWZ1RVE5N3dkRjF3X3RPNHRJMHF5TVV6QnRWUTln?oc=5",
+        "pubDate": "Fri, 17 Jul 2026 06:00:00 GMT",
+        "summary": "Gold Purchases Accelerate as Dollar Confidence Wanes Global Finance Magazine",
+        "source": "Global Finance Magazine"
       }
     ]
   },
