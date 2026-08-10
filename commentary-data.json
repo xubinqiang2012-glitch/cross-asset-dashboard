@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T18:47:23+00:00",
+  "fetched_at": "2026-08-10T02:33:39+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -61,10 +61,10 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "Mega forces: An investment opportunity - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDdiQ09tMVNsMjFHck1LQUFZQjBIajVVMUlVdDMxd1d2M285T3h3VkgyS3ZiNWd3dmlvVXVubEFPTnNnRm5ib3ZvV3B4S0tWa3VtRUp4X016a1lGOUdqc2tXbDVGMWdLN0ZGOXlSSUlYUEFMVF9jVS1BRXdkZTNFaFNLVjhpYnFQWHZzcUxXYzE?oc=5",
-        "pubDate": "Fri, 31 Jul 2026 11:14:33 GMT",
-        "summary": "Mega forces: An investment opportunity BlackRock",
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
         "source": "BlackRock"
       },
       {
@@ -128,6 +128,13 @@
         "source": "J.P. Morgan Private Bank"
       },
       {
+        "title": "JPMorgan: Indonesia ranks second most resilient to global energy shock - idnfinancials.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3dXYjZTay1rU2JZc0JDR0txdXBRSFlRTTRyYTc2OXVvR2ZXRTUzcUlWNjlWZXZXZG5RY3ZxQnFiSVZfLTdnTWcydmpvYVNZYW1BNnBaVktPSG5SbTZrQkhVSDVwLTVLN3FRcHdfV0E1WkNhTG44QjdWYzdEWUFMZGE4VWEyNWpJS1p3bWl5dFI5UFd6S3pOcHpvSTE2VFRSUVlWblFPUy1xWXZCZDE0?oc=5",
+        "pubDate": "Sat, 25 Apr 2026 07:00:00 GMT",
+        "summary": "JPMorgan: Indonesia ranks second most resilient to global energy shock idnfinancials.com",
+        "source": "idnfinancials.com"
+      },
+      {
         "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
@@ -140,22 +147,15 @@
         "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
         "summary": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries Institutional Investor",
         "source": "Institutional Investor"
-      },
-      {
-        "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
-        "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
-        "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
-        "source": "Fortune"
       }
     ],
     "ms": [
       {
-        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - morganstanley.com",
+        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3ZJejZLSG5kcU1ybklxUk9KYXJ1LWhtd19WSEdtQjNiNElLOUFXbkpSR3E5MHV4SVJqVnZEU1RRdXJINjRUUjNsbWVfUmN1aWc2ekZ5Tkh2dzVHaVZKdUZwM0NWbTVjWklFOWdudWp6ekg4QjQ3cTFqRHBnU0p2YkxTWk92ZVJFNjFTdS12ZXdrTEtZSnNhdkVyd0JZbFhuUWRqNW9MZHh5M1RDSjI1TzlIcW5VRVB5ODh0azlFZVI1VHhCQzVoLWN6ZkpjXzRqakE?oc=5",
         "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates morganstanley.com",
-        "source": "morganstanley.com"
+        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
+        "source": "Morgan Stanley"
       },
       {
         "title": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead - Barron's",
@@ -172,11 +172,11 @@
         "source": "The Globe and Mail"
       },
       {
-        "title": "The Big Forces Driving Markets in 2026 - morganstanley.com",
+        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 morganstanley.com",
-        "source": "morganstanley.com"
+        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "source": "Morgan Stanley"
       }
     ],
     "pimco": [
@@ -276,18 +276,18 @@
         "source": "LinkedIn"
       },
       {
-        "title": "Central Bank Gold Rush (Q2 2026) - Voronoi",
+        "title": "Central Bank Gold Rush (Q2 2026) - voronoiapp.com",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xUTFHQlNZQ2o4eWF6cUNjdFI4VmUzRHBmUjZEZXd1aEdhMlU0S20xd1VaMHJmLUtKM3pyNkYzV0ZiQ1FDWi02MXB1MUt0ZXdCaEc2dWhYaGJ4Nm42bjNGajhvV0NwMVNmVDkyZ2J3NHBaZzYzdE44Wnln?oc=5",
         "pubDate": "Wed, 05 Aug 2026 02:00:44 GMT",
-        "summary": "Central Bank Gold Rush (Q2 2026) Voronoi",
-        "source": "Voronoi"
+        "summary": "Central Bank Gold Rush (Q2 2026) voronoiapp.com",
+        "source": "voronoiapp.com"
       },
       {
-        "title": "Gold Purchases Accelerate as Dollar Confidence Wanes - gfmag.com",
+        "title": "Gold Purchases Accelerate as Dollar Confidence Wanes - Global Finance Magazine",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlBxeFpwNTBlMk1GVENhS0FQUDRBZ2h2dGI2NnFBVHBJNUdmbGVDWTl5UTYxNnQtdEF6U1o0S1pwcFNLaWlOV3RRX2VheEd5QW1xTVZSOVVBalVMaUhZY2FFQXpCQml4MjA2MGt4QkJ6bWZ1RVE5N3dkRjF3X3RPNHRJMHF5TVV6QnRWUTln?oc=5",
         "pubDate": "Fri, 17 Jul 2026 06:00:00 GMT",
-        "summary": "Gold Purchases Accelerate as Dollar Confidence Wanes gfmag.com",
-        "source": "gfmag.com"
+        "summary": "Gold Purchases Accelerate as Dollar Confidence Wanes Global Finance Magazine",
+        "source": "Global Finance Magazine"
       }
     ]
   },
