@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-11T02:26:28+00:00",
+  "fetched_at": "2026-08-11T05:27:59+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -17,11 +17,11 @@
         "source": "HedgeCo.Net"
       },
       {
-        "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - reuters.com",
+        "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajVFYml4M2Fza29FZ1NHNkdOZkNpbFFhMmdjcUxBdWtpLU90S1VuZHVpOHpPU2dra0VKMWhpR09uTFc1ZC1GeFhQN3Q1WEpFR3MtR2FWLUZxeDB2Y2tjTWhhNzUzakQxUVcya2ZWcm01NzMtTmFubkx3aDM1bDQtVEZtRm9mSEZHdnR3b0JUM2ZJTXF0ZS03R2VMTUxoQlhQY2hfeFNCdnM1V2tTZmYtTlFMaHVXTzRhZk5iOGNhbw?oc=5",
         "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say reuters.com",
-        "source": "reuters.com"
+        "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Reuters",
+        "source": "Reuters"
       },
       {
         "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - Bloomberg.com",
@@ -41,7 +41,7 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbENTeHZQckVxdzhUX1hiS2tJQk5oSFY0bXBkMmo0RU42NHhpcWV3dUY4M0M4cDhXM2s3UVJTX3BkWTF2ZERidGVleW5MODZ6bzVZdGMyMTFZNDRuRVJPaXcwNmpCWFhUTzRRRUdfSy1zeC1DNktDV3NNQVl0VGRZckR1V0hpZzN4UnN5MHlBV3lyd3dpdXI4?oc=5",
         "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
         "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
@@ -66,13 +66,6 @@
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "A 2026 global macro outlook: Patience BlackRock",
         "source": "BlackRock"
-      },
-      {
-        "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFpjX1pWc1F2UEFQOWRsWlktb3E2QTZwT1c1YkVBSERtX3FxQVRjRXlvUF96WUFSaXRZdGpGSzJqY2Zhb0ZaSkpJUVd1WERmTkVNeE1TTk9abmtkbWJ6blJkRTE4dmtFdEhUQjY4aWxQNEdnTW1uTHRBOGlESGVkSE0yWTRwX0N0Ql9OcDEwT0ZWcTI2R0Rid1Vn?oc=5",
-        "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
-        "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
-        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
@@ -177,13 +170,6 @@
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
         "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
         "source": "Morgan Stanley"
-      },
-      {
-        "title": "Why Morgan Stanley slashed its gold price forecast to $5,200, down from $5,700 — is the gold bull run over - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOWlU1V3BXeXdrYm9SWFo0bnVxbExtWHN0NC0tS1djZU1Md3NXS3RPQVpGcTRad09zMmVuU1FOX0EzMTlQWHFXNHV0Y3NUakxDc2lQU2kxQWttb0dESW1pVC1fUWU3Qm83Umhhel8wQjhlTW1LZFJaQjVTeHQ5bnpkaHNTZUhScHlPc2pTY1RUc0d2ay01bWFmay1BXzNxU05rS2NfU1lkX3NWOXZjbTFsbnhnS1pNNFRrbGlWNzhRUU4tN2N5ZHFJNGtjeGNFNUxGWkxWVHVBcHIwbnBQTWg4a3k3UFluUko4YzRlbVA2aDVqYkViMkdIM0FFTGJsR2lPYWt4YkJfWlg2MF81NERtTGMyV1JzRmZpdXYyNlZOVG5mOWRLMjVNckx2ZWFCNGxyZFJYT21PN2xwVVVPajVRYkJFc01fOTBSNlVoNjVSZHYxQzgzSDB1OdIB3gJBVV95cUxPeXhmSUJvaS1BT2xvQWphamgxVTYwX0dsZkh0UjIxVDFFOF94OHJsMk40NWk1S3lVeFpjQzMyNzBJS24wS1NwMld4c1EtUzFRYW40Y0JEbnRoQXNBTFpTQXpDRlNtWFhaVTBvZWdHZTNDWTBtOUxHelJtMmFCOEFPZ2xIcEMydnM0Z0dxLTlqYXRLTlVpRmFGZURwbF9SLVN5UnBCejJTUlZIXzk0aFhWTVp0N3lPNW5YUGZWYkZid290UnMtUkczdVhTZ3JzOXZ5eEhMVE9DY290OEpkQVhOSXMxSDV6LUgtcVZqeHcteGtKOUJreXJXYWxGMXZjaDZFYnEya0Vqb1RKcTVGNkstSnllZUdlRXNWZ1g3cmpBN2tXeExMb3A0N3hNU2pHTFRtZ0pKMDg0ajVWU2VCSENadzM3cEROVlNiUTdORWcxdzAxWlRRVVJKcFQwSkNhZw?oc=5",
-        "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
-        "summary": "Why Morgan Stanley slashed its gold price forecast to $5,200, down from $5,700 — is the gold bull run over The Economic Times",
-        "source": "The Economic Times"
       }
     ],
     "pimco": [
@@ -202,11 +188,11 @@
         "source": "Zawya"
       },
       {
-        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
+        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - wealthprofessional.ca",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
         "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
-        "source": "Wealth Professional"
+        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 wealthprofessional.ca",
+        "source": "wealthprofessional.ca"
       },
       {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
@@ -262,6 +248,13 @@
     ],
     "wgc": [
       {
+        "title": "World Gold Council Survey: 89% of Central Banks Expect Global Gold Reserves to Grow - News and Statistics - IndexBox",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkRydjgxV3pGdDBtbmJweXFnTjRGSEtUdHNjcW42OUVFbElPWWR2Skt6WDJaeUNJWk9OSmk0clhidE1JWG54STdhOGxJZUtnY1BtS2d6WlR3LVdKbld3QkhtQXVGTUYyYjBraDFjM3htcE5QdFoyWjZYM2FobVNOSzNMU1l5czA?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 04:50:00 GMT",
+        "summary": "World Gold Council Survey: 89% of Central Banks Expect Global Gold Reserves to Grow - News and Statistics IndexBox",
+        "source": "IndexBox"
+      },
+      {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -276,13 +269,6 @@
         "source": "Global Finance Magazine"
       },
       {
-        "title": "Western ETF Selling Masks Record Central Bank Gold Buying - Crux Investor",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWdvTlJaVGFDRU84UTB4dld5bGJBcHVWX09hYkpHRjdrVGdLTmFDR2E1N1E1bmpPdlR4cTBlcTVCX0NJeENsSU9HdFRZN3hjQzhoSEFqem5ZWlRIS0cwVlVtcE03YWM5cTMyYW9tekpYZGNUV2FPRUJESGFCeFk3Q3l5by1kbmlleGZzUEZCV1o3aV9iXzQw?oc=5",
-        "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
-        "summary": "Western ETF Selling Masks Record Central Bank Gold Buying Crux Investor",
-        "source": "Crux Investor"
-      },
-      {
         "title": "Central Bank Gold Buying Accelerated Again in June - LinkedIn",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGltYVZjNVJ6OVdaVTlpUHZyWmJTZk9PSlhIRnZtRGtNdTZYc0R5bTZOTy13THdSLVREd3A3b245LWN1M0Q1d0xqVXdqOUpkWFZkNHBnTXZWMk12SlpjMWxnRkNTU3h3OU1VZVVScDBpZThlWWJFQ3RFTTNyeUVfT3JjZmo1SkloQVZwa0NMZzRHSk1YcVB4ajVPZE5Mdw?oc=5",
         "pubDate": "Tue, 04 Aug 2026 15:27:45 GMT",
@@ -290,11 +276,11 @@
         "source": "LinkedIn"
       },
       {
-        "title": "China Central Bank Gold Purchases July 2026: 21-Month Streak, 2,366 Tonnes Held - News and Statistics - IndexBox",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXM1Y2FIOGNQSjlkN1hlVWx3WUxjd0FPT21mUmJEZXBkbC03QU5RMmlCdnNOd3ZTSGhSem9vUmhaSXJGTWt2dEtKVXRRWkF1NHN0cElHbGI5Qngxc3pTSkZBUnFacHRXSFRlQVY5MkZMMVpoamtXZjVQQ2tLNUZCWkFBeDg5eTVkazFvWmNZZ1M?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 18:02:00 GMT",
-        "summary": "China Central Bank Gold Purchases July 2026: 21-Month Streak, 2,366 Tonnes Held - News and Statistics IndexBox",
-        "source": "IndexBox"
+        "title": "Western ETF Selling Masks Record Central Bank Gold Buying - Crux Investor",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWdvTlJaVGFDRU84UTB4dld5bGJBcHVWX09hYkpHRjdrVGdLTmFDR2E1N1E1bmpPdlR4cTBlcTVCX0NJeENsSU9HdFRZN3hjQzhoSEFqem5ZWlRIS0cwVlVtcE03YWM5cTMyYW9tekpYZGNUV2FPRUJESGFCeFk3Q3l5by1kbmlleGZzUEZCV1o3aV9iXzQw?oc=5",
+        "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
+        "summary": "Western ETF Selling Masks Record Central Bank Gold Buying Crux Investor",
+        "source": "Crux Investor"
       }
     ]
   },
