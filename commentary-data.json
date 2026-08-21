@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T13:09:59+00:00",
+  "fetched_at": "2026-08-21T14:52:51+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -195,20 +195,6 @@
         "source": "Morningstar"
       },
       {
-        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
-        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
-        "source": "Wealth Professional"
-      },
-      {
-        "title": "PIMCO Dynamic Income Strategy Fund (PDX) Gains 1.08% as Income Demand Strengthens - Volatility Stop - Vinanet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1ZQcDQ4R0Qwdk43M1U0b1g3SGZhTTgtYXBHOUxTOGE5RVMyZi01cWtzZ19KTVVpZEdVSTRPLWpIb1pESW9seHhfLTNENGlGc0o5Z0JFTnQtYzB5ajNUWXFsdy1FOFNjMUNyaWRCb0ExR1ZVY0FTLWdfRXhra2szc3VHSWJfb1RRaWNQN3c0VkFjZVc0bVVLOXE0NERwT3VNQzFGNVlKaG1xRHhYTjZyWDVXVmxOWWZWU3c?oc=5",
-        "pubDate": "Fri, 14 Aug 2026 12:40:22 GMT",
-        "summary": "PIMCO Dynamic Income Strategy Fund (PDX) Gains 1.08% as Income Demand Strengthens - Volatility Stop Vinanet",
-        "source": "Vinanet"
-      },
-      {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
@@ -221,6 +207,20 @@
         "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
         "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
         "source": "IFA Magazine"
+      },
+      {
+        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
+        "source": "Livewire Markets"
+      },
+      {
+        "title": "PIMCO Cyclical Outlook: how to invest in the current environment - RankiaPro",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3M2bWlxcVdSUDZWWEk2VE1OY0hEd1FaclFBZWRhM0dnVkVpcHNtd19VM25wNkJhMFEtVEFMbDZPTFNyTnYyamszX1JHU3BtbHhRa0N0Vy1pd2FCaGdieTlyVnVoekRRLXRjSkViRWZpbVNLQ3hPelVCWkY2N2V1aFhyb1V6N01Wb0ZMNWxqN1BwZw?oc=5",
+        "pubDate": "Fri, 01 Dec 2023 18:48:21 GMT",
+        "summary": "PIMCO Cyclical Outlook: how to invest in the current environment RankiaPro",
+        "source": "RankiaPro"
       }
     ],
     "fed": [
@@ -276,13 +276,6 @@
         "source": "Crux Investor"
       },
       {
-        "title": "World Gold Council: China's gold ETFs recorded net inflows in July as central bank gold purchases remained robust - 富途牛牛",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGowcm5SeXJXN25mS1ZQaWpRTmpBR05HZ0NaUDJYRjZfNXp4RXY2b0s5ZFJqMVhRUFZWMnJnanR6S3p1Wkk1VC05UmV6V1pHOFdBN2VQX1NlY2Rsck12eDVMSnAwOUU3THFUUmttQ0JjSHVXSTRpWklSU294U0VScHdfOUlSampsaUVLZ2w2RDNaVkR6S2dJSWFWdVB4UlE?oc=5",
-        "pubDate": "Thu, 20 Aug 2026 13:04:47 GMT",
-        "summary": "World Gold Council: China's gold ETFs recorded net inflows in July as central bank gold purchases remained robust 富途牛牛",
-        "source": "富途牛牛"
-      },
-      {
         "title": "Central banks bought 76% less gold in Q1 after ‘sizeable’ data correction - TheBanker.com",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0RFlvdDM3NHRqNllrdFBCblg4OXJSNlRESFF3TnVBZnlsVk5yelRzV3o2NFJpRW84UDh0dU9uaE9DV093NzNWUWlEYjRKUGM1Vm9feWRjYXZ3eERENFM5V0kyOXZHcXhHcVRKZDZwbmM3anNhWU5DNjJ3?oc=5",
         "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
@@ -295,6 +288,13 @@
         "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
         "summary": "Central banks slashed their gold purchases in early 2026 Financial Times",
         "source": "Financial Times"
+      },
+      {
+        "title": "World Gold Council: China's gold ETFs recorded net inflows in July as central bank gold purchases remained robust - 富途牛牛",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGowcm5SeXJXN25mS1ZQaWpRTmpBR05HZ0NaUDJYRjZfNXp4RXY2b0s5ZFJqMVhRUFZWMnJnanR6S3p1Wkk1VC05UmV6V1pHOFdBN2VQX1NlY2Rsck12eDVMSnAwOUU3THFUUmttQ0JjSHVXSTRpWklSU294U0VScHdfOUlSampsaUVLZ2w2RDNaVkR6S2dJSWFWdVB4UlE?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 13:04:47 GMT",
+        "summary": "World Gold Council: China's gold ETFs recorded net inflows in July as central bank gold purchases remained robust 富途牛牛",
+        "source": "富途牛牛"
       }
     ]
   },
