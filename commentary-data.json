@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T18:58:15+00:00",
+  "fetched_at": "2026-08-24T20:47:22+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -202,13 +202,6 @@
         "source": "CNBC"
       },
       {
-        "title": "PIMCO Outlook: Rupture and resilience - Zawya",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemxJbWhpQThrbWFXNFBLdDJvQWRPeFVpeFJyV09BMHdKNXU1WVAycFllc01nM2F5akJHVG91UTQ0dzY5Q3NsTm5tc0F4Tm43eTBYMXpMLWNtekJyVkc5WnFpMTZYZEpKeGpvX2o1d09GWjFhaUtCdTh1WWc1YmRjUEVIdzBFTU83YkM4bk1LWQ?oc=5",
-        "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
-        "summary": "PIMCO Outlook: Rupture and resilience Zawya",
-        "source": "Zawya"
-      },
-      {
         "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
         "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
@@ -221,6 +214,13 @@
         "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
         "summary": "PIMCO sees bond opportunities amid geopolitical market rupture investordaily.com.au",
         "source": "investordaily.com.au"
+      },
+      {
+        "title": "The Best Active Bond ETFs to Buy - Morningstar",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xVUZBazBTZktwWEJCQVk5ZnhWejN6WFkySHppbWdQZ1VyUzcxT1gxSWZJM01qT2lnRTE1N2xIdnRaN180YzhJc2JnNllHclNyc3I3N0Q5eFZiNkFEREVzU2ZpOXlZQU1jWmxj?oc=5",
+        "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
+        "summary": "The Best Active Bond ETFs to Buy Morningstar",
+        "source": "Morningstar"
       }
     ],
     "fed": [
