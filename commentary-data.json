@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T05:00:48+00:00",
+  "fetched_at": "2026-08-24T07:19:27+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,17 +40,17 @@
     ],
     "blackrock": [
       {
+        "title": "Two market signals, one story - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbENTeHZQckVxdzhUX1hiS2tJQk5oSFY0bXBkMmo0RU42NHhpcWV3dUY4M0M4cDhXM2s3UVJTX3BkWTF2ZERidGVleW5MODZ6bzVZdGMyMTFZNDRuRVJPaXcwNmpCWFhUTzRRRUdfSy1zeC1DNktDV3NNQVl0VGRZckR1V0hpZzN4UnN5MHlBV3lyd3dpdXI4?oc=5",
+        "pubDate": "Sun, 09 Aug 2026 07:00:00 GMT",
+        "summary": "Two market signals, one story BlackRock",
+        "source": "BlackRock"
+      },
+      {
         "title": "A 2026 global macro outlook: Patience - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "Market Outlook April 2026: Get Paid to Wait - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
         "source": "BlackRock"
       },
       {
@@ -68,10 +68,10 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "Hedge Fund Outlook - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
-        "summary": "Hedge Fund Outlook BlackRock",
+        "title": "Market Outlook April 2026: Get Paid to Wait - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
         "source": "BlackRock"
       }
     ],
@@ -202,13 +202,6 @@
         "source": "CNBC"
       },
       {
-        "title": "PIMCO Outlook: Rupture and resilience - Zawya",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemxJbWhpQThrbWFXNFBLdDJvQWRPeFVpeFJyV09BMHdKNXU1WVAycFllc01nM2F5akJHVG91UTQ0dzY5Q3NsTm5tc0F4Tm43eTBYMXpMLWNtekJyVkc5WnFpMTZYZEpKeGpvX2o1d09GWjFhaUtCdTh1WWc1YmRjUEVIdzBFTU83YkM4bk1LWQ?oc=5",
-        "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
-        "summary": "PIMCO Outlook: Rupture and resilience Zawya",
-        "source": "Zawya"
-      },
-      {
         "title": "PDO Retreats 0.70% to $12.79: PIMCO Income Fund Consolidates Between Support and Resistance - Insider Sentiment - vinanet.vn",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV3FEaTVrMlNwUU51ZmVkWmRfbzQ5cGJXS2FUSS1CQ2FCTVBYZkU5aGZwLWhXQm1UT1lvNW5ZUElaUzdaRTg4c05vb2N1dXFONWZyT0ViQ0wzOGNVeFdhSVROTVFIMkdlQmhRU2JRdDVBYUUyWUlKMFJSLVlfY2pmSHg3Tk5NZ3VLMEVMZi1GWXJVQ1hmN3dSd0tQbHh1eVNqaVZaV2h2bDB4UmIyR21Jd1huR2lzZ3BHZHVMZ2hzYkw5OGdKR3dn?oc=5",
         "pubDate": "Sun, 16 Aug 2026 13:38:24 GMT",
@@ -221,6 +214,13 @@
         "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
         "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
         "source": "IFA Magazine"
+      },
+      {
+        "title": "PIMCO sees bond opportunities amid geopolitical market rupture - investordaily.com.au",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQalhPXzAzWmVNblNlRkgyaHk2QXRoYk9IRmdwTmVrN0tfUy0xeVBlWDBaZkw1Z0hKVUxIeVJVVjRQY0pKODFjQUZrdXVnLWZJcmJiamk3b3psaVRRQVFkczdOcHRWNVlNU2wwTVpRT0xtTnlYeVo0MUdkTkNTTlh5V1B1MWQ0TThScmtMc182SnUzOTBBWk42MEVXYWs?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+        "summary": "PIMCO sees bond opportunities amid geopolitical market rupture investordaily.com.au",
+        "source": "investordaily.com.au"
       }
     ],
     "fed": [
