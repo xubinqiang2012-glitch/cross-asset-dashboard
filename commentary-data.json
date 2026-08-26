@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T16:58:47+00:00",
+  "fetched_at": "2026-08-26T20:02:48+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -17,6 +17,13 @@
         "source": "Reuters"
       },
       {
+        "title": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine - HedgeCo.Net",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmV5aGJZN2hxa2JVQVdUZXVkSFV3dnR2VkZXS2Rfc2ZaclNaWENlWEM3ZnFTWVRzcEF3b1oxQVktUFR2Uy1pcGFVQkVxSDh0bGk5bTdlTm5tYXdvSC1FOWlFeEpnMlJ2djdDS1VRNGstMWZ6RHI5Q2l2SFVmcGpOMWJPZi1icXFkdTh6bHRiSk5JdHNlYVpJTHpPbFMyU3NuRDFXOXFVaVlHX3NMNVVwbWwxc3dUUVRHVnpycHJIQUZkUm5BaWhtbG5MZWxyZE0wbjNYeDhINGI?oc=5",
+        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
+        "summary": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine HedgeCo.Net",
+        "source": "HedgeCo.Net"
+      },
+      {
         "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - Bloomberg",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
@@ -29,23 +36,9 @@
         "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
         "source": "Global Citizen"
-      },
-      {
-        "title": "Bridgewater’s Gold Conviction: Why Ray Dalio’s 15% Allocation Thesis Is Back at the Center of the Macro Trade - HedgeCo.Net",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZVBUQlAwTjJLQkN6Mi1vLW8tazhiQkxGT1FnWE5IR1VubmVuc1dLek1BY1dUNG1rLVNNcnd1azZNUl9DeXRYdTAtc1hRdTRWd2lzb0hXelJYUjN2UENRZ0JBb3lhQUg3SldHYUkwS01MZUF5S0U3Y0xxb3d3MlVuam5wZTN0dFo5MjQzVzRIQ3pKbThLTDI5ZGpXbjFZZnFIOHZ5X0VYQm9zX1ZrSGtFcGFBZklOaFlyWk9xeWhYa0owck9oMGFvV2kwWkllTXk4UHhSLXdLRHZXVW8?oc=5",
-        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "Bridgewater’s Gold Conviction: Why Ray Dalio’s 15% Allocation Thesis Is Back at the Center of the Macro Trade HedgeCo.Net",
-        "source": "HedgeCo.Net"
       }
     ],
     "blackrock": [
-      {
-        "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
-        "summary": "Weekly market commentary BlackRock",
-        "source": "BlackRock"
-      },
       {
         "title": "A 2026 global macro outlook: Patience - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
@@ -61,10 +54,24 @@
         "source": "BlackRock"
       },
       {
-        "title": "Hedge Fund Outlook - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
-        "summary": "Hedge Fund Outlook BlackRock",
+        "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
+        "source": "Alternatives Watch"
+      },
+      {
+        "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
+        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
+        "source": "Institutional Investor"
+      },
+      {
+        "title": "Weekly market commentary - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUGRHWnhxbldxRnFpZXdzaFZtYS0wUEZueWtJcEQ0ek56ajJmdWZxd0xweTZ0a3pRdDVMTWZEY3djTFJYQmdTTk03anRnWllJWVNUcUN0bmxTWWhkc0ZVVFhFdzVDS0U?oc=5",
+        "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       }
     ],
@@ -77,6 +84,13 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
+        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
+        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
         "title": "US Market Pulse August 2026 - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
         "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
@@ -84,18 +98,11 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Are US Stock Market Valuations Outpacing Fundamentals? - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1LUGF1eHpVcVlORmRMWHlrS0x4My1FQ2lldWdQUHlxMXFTMkRSQlJUVzA5UDROeDdfNkpIVENuUUxGeFVSdlhnMHFBOVU4T0YzUnNNeC1HQ1lWaFdGZzJsemRMREdRR1Uzc0RrUnFTbWo1SnE1RDhGdVZnX0RZdG50XzVadGhZVkhZOTBCcWtURVpmNGpWV3VrSk96NnIyYkE?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-        "summary": "Are US Stock Market Valuations Outpacing Fundamentals? Goldman Sachs",
+        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
+        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
         "source": "Goldman Sachs"
-      },
-      {
-        "title": "Goldman Sachs stock trades close to analyst targets as semiconductor forecast lifts outlook - Ad-hoc-news.de",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVGhIVW1IeS1LNHJBRC05Rmk5Ukl4N05BVEtiT0wyemwwOFRHNXNBSG54MEl5alJIZ1FvNUpkU3EtRTRVcEt3SVJzUE5lNUJnV2k4RVpjS2pjclRJQlZ0cjlZVFd2a28wdDNMNGtKdlBubVIxb3JxbV9DTFhiR1phWFJ6bFpZWGFWd3B0OXhQT3B3eHVWSk9ldnBRT3NMR1ZadU12Ykh2d19hNHo3emlWMElKLUJ3bWN5N0EwNzVZOFRuc0tBc25ERUpJSQ?oc=5",
-        "pubDate": "Mon, 24 Aug 2026 07:22:17 GMT",
-        "summary": "Goldman Sachs stock trades close to analyst targets as semiconductor forecast lifts outlook Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de"
       },
       {
         "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
