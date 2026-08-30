@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-30T04:40:57+00:00",
+  "fetched_at": "2026-08-30T11:35:54+00:00",
   "sources": {
     "bridgewater": [
+      {
+        "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
+        "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+        "summary": "The Macro Implications of the AI Capex Boom Bridgewater Associates",
+        "source": "Bridgewater Associates"
+      },
       {
         "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajVFYml4M2Fza29FZ1NHNkdOZkNpbFFhMmdjcUxBdWtpLU90S1VuZHVpOHpPU2dra0VKMWhpR09uTFc1ZC1GeFhQN3Q1WEpFR3MtR2FWLUZxeDB2Y2tjTWhhNzUzakQxUVcya2ZWcm01NzMtTmFubkx3aDM1bDQtVEZtRm9mSEZHdnR3b0JUM2ZJTXF0ZS03R2VMTUxoQlhQY2hfeFNCdnM1V2tTZmYtTlFMaHVXTzRhZk5iOGNhbw?oc=5",
@@ -17,13 +24,6 @@
         "source": "HedgeCo.Net"
       },
       {
-        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
-        "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
-        "source": "Global Citizen"
-      },
-      {
         "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
@@ -31,11 +31,11 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "March has been a brutal month for macro hedge funds — with one notable exception - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTVla0I4OHpPbnpIbVY0dkVxZWdGdFV6UGl6X0Rva1R6YjE5NHRQNVgxOHJCb1FvbXhwaWdqNk9IaFBMYXBEeUVqeGEwWjVreTJPWUoxVXZzd3dSUWZiZ0hDZ1kwbHJRdTEwX3ItUmhxOHZ1YmRJUWdFa1ZDLXh0dUJFWlFLdDdSZ241MVZRdXB2d3BZalg0SWVlUVBKZVNFZ1FWZ2tjYUE5RXNT?oc=5",
-        "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-        "summary": "March has been a brutal month for macro hedge funds — with one notable exception Business Insider",
-        "source": "Business Insider"
+        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
+        "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
+        "source": "Global Citizen"
       }
     ],
     "blackrock": [
@@ -179,11 +179,11 @@
         "source": "The Globe and Mail"
       },
       {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
-        "source": "Morgan Stanley"
+        "title": "Why the US-Israel war with Iran leaves Asian economies exposed - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaUl3MGhhUEdwdVljb0l0bms1Uzh2M3Iyd2tXb0pxMVpkNzdSTk9JNEl0NTlTRF9kSEtlUHNyWGZDR1JfSGdjRkJTRElSM1l2OGZ4SWpYZlpSWjN5aGpEOWZkZlRmRGNQRzlyWnFtTDNtSjAwaDdtUGxlYm4ya0c5NnVTaXFhdmNvbkJ5YmtFcTFxRnNHdFJVcm5IVFdJUXpZRk05UTMyUXE2TUpkT2YzM2l3UmwxRklNSUJfYTM2LXhxY0JuejhOTlZEUWJEZEpHZEppUzgtSGdqQdIB2gFBVV95cUxQd0tsZTZYdVRDVzBOQmUwaTlYOFZrU3NJbWt2b01kWXQ3b1ZBeWs1SVE1XzN6VUpUOFdhS2FBWFRQWjcxc1VQNmdLWFJFVzRsUm44eE5uenBLYUpQdzNUVVNkMnNWNGhWanVsTDhCSlg4UU10Y0ZIX0UtX1JWeEYwM05VcGUtRzdJSi1CNmtSTE1jdnNGV3dnVXF1NEQzVmZyZThqekRfMkxxZmtNRTBaUHRTU0RLRmFZYTBURTF6djh0cE1yTFUxQmhBOXhYVlBRcWFNaXA2M240dw?oc=5",
+        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "summary": "Why the US-Israel war with Iran leaves Asian economies exposed South China Morning Post",
+        "source": "South China Morning Post"
       }
     ],
     "pimco": [
@@ -202,13 +202,6 @@
         "source": "Taipei Times"
       },
       {
-        "title": "PIMCO Access Income Fund (PAXS) Slips to $14.06, Holding Above Key Support Amid Fixed-Income Uncertainty - Money Flow - vinanet.vn",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOODlnX0ZUMFRoWmZPQ3pIWVg3N3puYXY1dGZiUUtQYU16MUJSOUZqM0R1dk5kSXdyLXU3WHM3RUpsR1loTUdnRmJaOVRUTlpkNDhOME16SXBKVmxzV21sdEp6U25UWWRXUTl1Uk9DX0w0UnlWUi1mUTVFZHpkMG1NbktjZ0FjYUxMbVN5aXRXdFRabEpnckFnRkxCMVJQSFlBR3o2MTV3clE2cm91b3FYSXo0bE53X2lXeGlCSUdqWVNFeEFESW9HNkNaQ3lnaG5YTW9lVUx3?oc=5",
-        "pubDate": "Fri, 28 Aug 2026 18:37:10 GMT",
-        "summary": "PIMCO Access Income Fund (PAXS) Slips to $14.06, Holding Above Key Support Amid Fixed-Income Uncertainty - Money Flow vinanet.vn",
-        "source": "vinanet.vn"
-      },
-      {
         "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
         "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
@@ -221,6 +214,13 @@
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
         "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
         "source": "CNBC"
+      },
+      {
+        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
+        "source": "IFA Magazine"
       }
     ],
     "fed": [
