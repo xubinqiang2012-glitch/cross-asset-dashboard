@@ -1,14 +1,7 @@
 {
-  "fetched_at": "2026-09-02T21:02:23+00:00",
+  "fetched_at": "2026-09-03T00:15:15+00:00",
   "sources": {
     "bridgewater": [
-      {
-        "title": "The Macro Implications of the AI Capex Boom - bridgewater.com",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
-        "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
-        "summary": "The Macro Implications of the AI Capex Boom bridgewater.com",
-        "source": "bridgewater.com"
-      },
       {
         "title": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine - HedgeCo.Net",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmV5aGJZN2hxa2JVQVdUZXVkSFV3dnR2VkZXS2Rfc2ZaclNaWENlWEM3ZnFTWVRzcEF3b1oxQVktUFR2Uy1pcGFVQkVxSDh0bGk5bTdlTm5tYXdvSC1FOWlFeEpnMlJ2djdDS1VRNGstMWZ6RHI5Q2l2SFVmcGpOMWJPZi1icXFkdTh6bHRiSk5JdHNlYVpJTHpPbFMyU3NuRDFXOXFVaVlHX3NMNVVwbWwxc3dUUVRHVnpycHJIQUZkUm5BaWhtbG5MZWxyZE0wbjNYeDhINGI?oc=5",
@@ -24,11 +17,11 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "March has been a brutal month for macro hedge funds — with one notable exception - Business Insider",
+        "title": "March has been a brutal month for macro hedge funds — with one notable exception - businessinsider.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTVla0I4OHpPbnpIbVY0dkVxZWdGdFV6UGl6X0Rva1R6YjE5NHRQNVgxOHJCb1FvbXhwaWdqNk9IaFBMYXBEeUVqeGEwWjVreTJPWUoxVXZzd3dSUWZiZ0hDZ1kwbHJRdTEwX3ItUmhxOHZ1YmRJUWdFa1ZDLXh0dUJFWlFLdDdSZ241MVZRdXB2d3BZalg0SWVlUVBKZVNFZ1FWZ2tjYUE5RXNT?oc=5",
         "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-        "summary": "March has been a brutal month for macro hedge funds — with one notable exception Business Insider",
-        "source": "Business Insider"
+        "summary": "March has been a brutal month for macro hedge funds — with one notable exception businessinsider.com",
+        "source": "businessinsider.com"
       },
       {
         "title": "Bridgewater, D.E. Shaw Among Biggest Hedge Fund Gainers in 2025 - Bloomberg.com",
@@ -36,14 +29,21 @@
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "Bridgewater, D.E. Shaw Among Biggest Hedge Fund Gainers in 2025 Bloomberg.com",
         "source": "Bloomberg.com"
+      },
+      {
+        "title": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: - HedgeCo.Net",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRG5DbkNNQTJaX0oxTVdHWmVGMG1LMWhTUTNfdVhhMV9QMmtKYlA4RlhZcnIwWFlUcVhKNEw5VjRrdjVSU2dHME03aWZGdkFKOUluRGtJbkNMdTV2WjBxRGVFd3ZqTGtNMXRZbjI2NGJfZUNCazJnRWlrMFU4NkZQbkhWUGd4ZmMtVlBobjZKa1huTjJ6WVpB?oc=5",
+        "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
+        "summary": "Ray Dalio After Bridgewater: The Macro Legend’s Next Act: HedgeCo.Net",
+        "source": "HedgeCo.Net"
       }
     ],
     "blackrock": [
       {
-        "title": "Hedge Fund Outlook - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
-        "summary": "Hedge Fund Outlook BlackRock",
+        "title": "Global Weekly Commentary - Insights - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UX0xsZ1E3OWQydkhOUnBNUFNMaWd4aG9walJuekZQM05FQ1JFcGo2VXJCS1FlS3JDbkNjdGdGbXJQbVJjZUFqS3JoYzhFNVh5ODRDbHVFWUdRZnc3eXBfWVJLM2Qta3o3NzRLUTUtRmlRVTdYUnNGOA?oc=5",
+        "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+        "summary": "Global Weekly Commentary - Insights BlackRock",
         "source": "BlackRock"
       },
       {
@@ -54,10 +54,10 @@
         "source": "CoinDesk"
       },
       {
-        "title": "Market Outlook: The AI Boom & Two-Speed Economy - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUkyVDctbGg1S1E3RDhuSEZfOVczaDlxSzBTVkVJRy0wWlBPZmo1RmRyVW5pUURnbkpVb01JdTUtM0RCam5PQl95dnpWZUZBSUFCTlFsTGJ1TmY0X2I5YmpfeEhudml2UHB2N0dUTi1rODBnMkk3UThlM0pQRnVtdzFzemFtWmVoQmpaRElQWUJGc0E?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "summary": "Market Outlook: The AI Boom & Two-Speed Economy BlackRock",
+        "title": "Hedge Fund Outlook - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
+        "summary": "Hedge Fund Outlook BlackRock",
         "source": "BlackRock"
       },
       {
@@ -77,13 +77,6 @@
     ],
     "goldman": [
       {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
-        "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
-      {
         "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
         "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
@@ -91,10 +84,17 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
-        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
-        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
+        "title": "Market Know-How 3Q 2026: The Geo Paradigm - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56QlRSLUFNR0lra0dabzgxMTJwWkZRZzh4YnpLUFVncm0xSkZWN0pkaUpjdGY1MGtrVnJpR2gxQVkzNFhCMHJTcXItZk5KQUhBRkdZS0x5VzNMTXp3OEptRWxrWjBTTUdNZk83NVh3VlZRSU0?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "summary": "Market Know-How 3Q 2026: The Geo Paradigm Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
+      },
+      {
+        "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
+        "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+        "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
         "source": "Goldman Sachs"
       },
       {
@@ -105,11 +105,11 @@
         "source": "Sporting Goods Intelligence Europe"
       },
       {
-        "title": "The ex-Goldman Sachs macro MD with an alternative method of making money - efinancialcareers.com",
+        "title": "The ex-Goldman Sachs macro MD with an alternative method of making money - eFinancialCareers",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3NJYTQza29jVDBXR3laUHlSUW8ta2tvdVBmdjVhTkZYN0xJVEdPaks3dU5wRTNvWDBsaWxoX1JxY085SnZXeVRDc1I4U1lwNUl6OTItS0dXMk9OMUo1T05rcVU5bG5EczRxd3QzV0dsOHotZ2pxVDBWZmJRcUJoX0JYQ25jb005QUozNEJ1VUlENWlhYlJkUTVOaWR5MVAwaUUyaGJQOHh1WW4zUkkzag?oc=5",
         "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
-        "summary": "The ex-Goldman Sachs macro MD with an alternative method of making money efinancialcareers.com",
-        "source": "efinancialcareers.com"
+        "summary": "The ex-Goldman Sachs macro MD with an alternative method of making money eFinancialCareers",
+        "source": "eFinancialCareers"
       }
     ],
     "jpm": [
@@ -142,11 +142,11 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
+        "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - fortune.com",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
         "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
-        "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
-        "source": "Fortune"
+        "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says fortune.com",
+        "source": "fortune.com"
       }
     ],
     "ms": [
@@ -172,27 +172,27 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "Watch Morgan Stanley Expects a ‘Spicier’ US Inflation Report - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWZCcUo5SlB1Z3NhUS1RYTdMWk9UM0k5dENtNGM0Z2xCUV9LUE1YZGtNeVpnN1ZEMzlrNVVraWhFaURrNlg0RXZwa253TGpmZm8xYldieXdKRWFuVkhDYUV6LUFXMlRYTkQzLUtOY3llV0xxTmxLVUZMbmIxakRKalZkV3g4dTlqTE53dEJsRGJKN1p2R0VobFpLY2ZqWEl2eWlhNzREMHl0WVU?oc=5",
-        "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
-        "summary": "Watch Morgan Stanley Expects a ‘Spicier’ US Inflation Report Bloomberg.com",
-        "source": "Bloomberg.com"
-      },
-      {
         "title": "Zacks Industry Outlook Highlights Morgan Stanley, Robinhood Markets and Piper Sandler - TradingView",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcTU5Zm96aFZFdXBEXzdaX2pRNFlWSDlmcTlFam1wQmZ3WlhEc0JwZW9HSHJNeUhfR2lQeFdxS0gwOG5sdHNZZ1oySktPRGRUcUpuRFZxMjJoaGxFdmc5QjN2VURtb1h5cjZhb081d3NLcGFta3ZLeUNfRGQxZzIxZnQ3Qk5LSHlKRTZWanhDYTFLRVpNQXBFNldjNk5WLW5EYmk4bDZIWTlCakU1UXBaZnF5WXZadkZZVkpxeklLclcwS1BwZHhGWXY1UG5QOEdHdUtCLVJNdw?oc=5",
         "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
         "summary": "Zacks Industry Outlook Highlights Morgan Stanley, Robinhood Markets and Piper Sandler TradingView",
         "source": "TradingView"
+      },
+      {
+        "title": "AI Market Trends 2026: Global Investment, Risks, and Buildout - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYVVkMUg5TTVySTJlUFJmX041MlVhYmpweFZJWkZBcGh2VGxSc09WYmtiN0Fvcy1kbkZveGlYeGVQd1phVko0eHFNdnFCR09PZThsSmhOU1pmQTlPd3g1MmkxaTIzMzFhTmh4aFFXM1pIOTNGellydnpkc3RKWnViM2Z6dkxUUQ?oc=5",
+        "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
+        "summary": "AI Market Trends 2026: Global Investment, Risks, and Buildout Morgan Stanley",
+        "source": "Morgan Stanley"
       }
     ],
     "pimco": [
       {
-        "title": "AI debt flood is stoking bond yields, Pimco says - Taipei Times",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05UlBueTlhQUljVWJJU0ZkU1hJSFJvU1VqMkxhMHMtMTB3TkptczhYMVZ2ZHBKaWptdG92S0Npa3lWZnpBazByaDlXX3ZqVFA2ZWxMN3Z1VHBvTmNaTGR6czlpQVYxNHNqUlJLYmZ5c0RXempzMkE?oc=5",
-        "pubDate": "Fri, 28 Aug 2026 16:00:00 GMT",
-        "summary": "AI debt flood is stoking bond yields, Pimco says Taipei Times",
-        "source": "Taipei Times"
+        "title": "PIMCO Dynamic Income Strategy Fund (PDX) Gains 0.64% as Income Demand Holds Steady - Institutional Buy Signals - vinanet.vn",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODdXZlU5VERkZzRBZy1oRkFKNXJCNkg5WThrMFNmdTdlZXM3WVU3dHB3YmttcTREZmlzN0otdFRZQW1VSUJKTlB3Ujk0QnRzd0lIa015emVwQTAtY3JuTTFKTnJYUG4yNDlQUDlxalVLMVNjOUNCdUZwSm0yZWE1Zl9tLVZKdzBkMUdTc2xEUGxDNHlfNHVlb1k0SXVtUnJIMjItUnhtWVhMeldCbGw3ZTZaTTVEdGVNaDNHRg?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 11:42:34 GMT",
+        "summary": "PIMCO Dynamic Income Strategy Fund (PDX) Gains 0.64% as Income Demand Holds Steady - Institutional Buy Signals vinanet.vn",
+        "source": "vinanet.vn"
       },
       {
         "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
@@ -202,25 +202,25 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
-        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
-        "source": "CNBC"
-      },
-      {
-        "title": "PIMCO Dynamic Income Strategy Fund (PDX) Gains 1.08% as Income Demand Strengthens - Volatility Stop - vinanet.vn",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1ZQcDQ4R0Qwdk43M1U0b1g3SGZhTTgtYXBHOUxTOGE5RVMyZi01cWtzZ19KTVVpZEdVSTRPLWpIb1pESW9seHhfLTNENGlGc0o5Z0JFTnQtYzB5ajNUWXFsdy1FOFNjMUNyaWRCb0ExR1ZVY0FTLWdfRXhra2szc3VHSWJfb1RRaWNQN3c0VkFjZVc0bVVLOXE0NERwT3VNQzFGNVlKaG1xRHhYTjZyWDVXVmxOWWZWU3c?oc=5",
-        "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
-        "summary": "PIMCO Dynamic Income Strategy Fund (PDX) Gains 1.08% as Income Demand Strengthens - Volatility Stop vinanet.vn",
-        "source": "vinanet.vn"
-      },
-      {
-        "title": "Quilter taps Pimco for bond fund - Funds Europe",
+        "title": "Quilter taps Pimco for bond fund - funds-europe.com",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHT3VpRUgyVU5jNGhBMEVxN1A2LXZYSWNwN3UzaTdrMmxvTkFKUENpdUNVV2VuTS1uYWNlRjEzMWR2MGhvWlZ3VkxMNXRTdHZLdnY2SUlSUlBsbFNzYnlKOEs1eHRrREw3QkE?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "Quilter taps Pimco for bond fund Funds Europe",
-        "source": "Funds Europe"
+        "summary": "Quilter taps Pimco for bond fund funds-europe.com",
+        "source": "funds-europe.com"
+      },
+      {
+        "title": "The Best Active Bond ETFs to Buy - Morningstar",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xVUZBazBTZktwWEJCQVk5ZnhWejN6WFkySHppbWdQZ1VyUzcxT1gxSWZJM01qT2lnRTE1N2xIdnRaN180YzhJc2JnNllHclNyc3I3N0Q5eFZiNkFEREVzU2ZpOXlZQU1jWmxj?oc=5",
+        "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
+        "summary": "The Best Active Bond ETFs to Buy Morningstar",
+        "source": "Morningstar"
+      },
+      {
+        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
+        "source": "Livewire Markets"
       }
     ],
     "fed": [
@@ -276,18 +276,18 @@
         "source": "Binance"
       },
       {
+        "title": "World Gold Council: China's gold ETFs recorded net inflows in July as central bank gold purchases remained robust - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3g4eVlMUHBlWU1NOVZyTjNZU3BCQnNQTzRJcTlGODMwcDdfVzNLQkowaTV0U1dKLUI4eVNSMU9lc3dvYi1fMWhwNEVMWHNnT05VRFUwOVFxQzJaTkRncm9sSm5RQm1kWkh4TDVia0poNTBJRkVHNFB0Y0FWckt2c2xMdm1EbXlyMDdqVnlRV0ZrdmJteU5USzdLNUh6WThQ?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 12:21:50 GMT",
+        "summary": "World Gold Council: China's gold ETFs recorded net inflows in July as central bank gold purchases remained robust Moomoo",
+        "source": "Moomoo"
+      },
+      {
         "title": "Central banks bought 76% less gold in Q1 after ‘sizeable’ data correction - TheBanker.com",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0RFlvdDM3NHRqNllrdFBCblg4OXJSNlRESFF3TnVBZnlsVk5yelRzV3o2NFJpRW84UDh0dU9uaE9DV093NzNWUWlEYjRKUGM1Vm9feWRjYXZ3eERENFM5V0kyOXZHcXhHcVRKZDZwbmM3anNhWU5DNjJ3?oc=5",
         "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
         "summary": "Central banks bought 76% less gold in Q1 after ‘sizeable’ data correction TheBanker.com",
         "source": "TheBanker.com"
-      },
-      {
-        "title": "Africa’s largest gold producer ends central bank gold-buying arrangement - Business Insider Africa",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWZESU1lakJ6R1dncHZwQkI3dTNDdHRSU19sT3NIazRGeFJEc1k5ZTVUSzJIYVNFYnRPOTZqRWZDRlpaNVZFd3pOTWFuaHNkV0pIUHVRT09ROURRck9iX0xydEphSFhFZnZOZDRwTW9OWVJIQXRuZzB1Z2VlSmxHTEVDVHI0ZUJTQ0IzUzdGZmJiV0tTdUFWUFFmdHE1dzFTTmRPOUxkenoyS2tmT09zSnZEN2doOHVKajhPVzlGa0lfTmx0MGFj?oc=5",
-        "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT",
-        "summary": "Africa’s largest gold producer ends central bank gold-buying arrangement Business Insider Africa",
-        "source": "Business Insider Africa"
       },
       {
         "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Business News",
