@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T04:34:24+00:00",
+  "fetched_at": "2026-09-08T11:17:50+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -31,11 +31,11 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - globalcitizen.org",
+        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
         "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge globalcitizen.org",
-        "source": "globalcitizen.org"
+        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
+        "source": "Global Citizen"
       }
     ],
     "blackrock": [
@@ -61,11 +61,11 @@
         "source": "CoinDesk"
       },
       {
-        "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - Alternatives Watch",
+        "title": "BlackRock outlines 2026's expanding opportunity set for hedge funds - alternativeswatch.com",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds Alternatives Watch",
-        "source": "Alternatives Watch"
+        "summary": "BlackRock outlines 2026's expanding opportunity set for hedge funds alternativeswatch.com",
+        "source": "alternativeswatch.com"
       },
       {
         "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
@@ -76,13 +76,6 @@
       }
     ],
     "goldman": [
-      {
-        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
-        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
-        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
       {
         "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
@@ -98,18 +91,25 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
-        "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
-        "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
+        "title": "Are US Stock Market Valuations Outpacing Fundamentals? - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1LUGF1eHpVcVlORmRMWHlrS0x4My1FQ2lldWdQUHlxMXFTMkRSQlJUVzA5UDROeDdfNkpIVENuUUxGeFVSdlhnMHFBOVU4T0YzUnNNeC1HQ1lWaFdGZzJsemRMREdRR1Uzc0RrUnFTbWo1SnE1RDhGdVZnX0RZdG50XzVadGhZVkhZOTBCcWtURVpmNGpWV3VrSk96NnIyYkE?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+        "summary": "Are US Stock Market Valuations Outpacing Fundamentals? Goldman Sachs",
         "source": "Goldman Sachs"
       },
       {
-        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
-        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
-        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
+        "title": "US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2xRQXdjZ1VETDByU0MyT1FwZ1pxTmlkNDVIbm1YUllpTTBwMjJXZndtWEZuY0hHTFhYOE5ydzBqaG5naHYtQkZKY0JxeDBRUTZTTVY5SC0xcHFiVnpfRm9hN1VJeEhSU3dIbWJnRW1uLWpDZjV6MDRHMWw0a2JPdGFKX1I3RWYyZjdLb1NzYkw5TUpEY1J3dHVmeWZybGE2QU04aHhqcnZ6MmF2SmJxWHlDZzRWRDhuX0RxRk04TEU4ckxITGc?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "summary": "US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth Goldman Sachs",
         "source": "Goldman Sachs"
+      },
+      {
+        "title": "Market Know-How 3Q 2026: The Geo Paradigm - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56QlRSLUFNR0lra0dabzgxMTJwWkZRZzh4YnpLUFVncm0xSkZWN0pkaUpjdGY1MGtrVnJpR2gxQVkzNFhCMHJTcXItZk5KQUhBRkdZS0x5VzNMTXp3OEptRWxrWjBTTUdNZk83NVh3VlZRSU0?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "summary": "Market Know-How 3Q 2026: The Geo Paradigm Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
       }
     ],
     "jpm": [
@@ -269,11 +269,11 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central Bank Gold Buying Falls 54% in July as Investment Demand Rises | WGC Data - News and Statistics - IndexBox",
+        "title": "Central Bank Gold Buying Falls 54% in July as Investment Demand Rises | WGC Data - News and Statistics - indexbox.io",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVBSZkN0alpRRm91aV84NkNSTkhxcktlY1ZRZHJsX3lCVl9jaVJmQnNqU1hDM1F1N2U4WVRaeVE5WlNaQ1RmX2tzVWpFdjcyZTZwOHBUUjlLNmhrTFV4U2tQSE5DQ2VtZzJYcjMzbWtNNkEyN01WT25KZ2JlOTl0bzg3S2hpNXBpQUxSQjhQMFYyZlhRR2VQZGVtRjRxTXhNRmc?oc=5",
         "pubDate": "Fri, 04 Sep 2026 19:31:06 GMT",
-        "summary": "Central Bank Gold Buying Falls 54% in July as Investment Demand Rises | WGC Data - News and Statistics IndexBox",
-        "source": "IndexBox"
+        "summary": "Central Bank Gold Buying Falls 54% in July as Investment Demand Rises | WGC Data - News and Statistics indexbox.io",
+        "source": "indexbox.io"
       },
       {
         "title": "Central banks add 23 net tonnes of gold in July with China and Poland leading purchases – World Gold Council - KITCO",
