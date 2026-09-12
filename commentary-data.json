@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-11T20:57:32+00:00",
+  "fetched_at": "2026-09-12T00:17:35+00:00",
   "sources": {
     "bridgewater": [
       {
-        "title": "The Macro Implications of the AI Capex Boom - bridgewater.com",
+        "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
         "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
-        "summary": "The Macro Implications of the AI Capex Boom bridgewater.com",
-        "source": "bridgewater.com"
+        "summary": "The Macro Implications of the AI Capex Boom Bridgewater Associates",
+        "source": "Bridgewater Associates"
       },
       {
         "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Reuters",
@@ -91,13 +91,6 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "The ex-Goldman Sachs macro MD with an alternative method of making money - eFinancialCareers",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3NJYTQza29jVDBXR3laUHlSUW8ta2tvdVBmdjVhTkZYN0xJVEdPaks3dU5wRTNvWDBsaWxoX1JxY085SnZXeVRDc1I4U1lwNUl6OTItS0dXMk9OMUo1T05rcVU5bG5EczRxd3QzV0dsOHotZ2pxVDBWZmJRcUJoX0JYQ25jb005QUozNEJ1VUlENWlhYlJkUTVOaWR5MVAwaUUyaGJQOHh1WW4zUkkzag?oc=5",
-        "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
-        "summary": "The ex-Goldman Sachs macro MD with an alternative method of making money eFinancialCareers",
-        "source": "eFinancialCareers"
-      },
-      {
         "title": "Are US Stock Market Valuations Outpacing Fundamentals? - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1LUGF1eHpVcVlORmRMWHlrS0x4My1FQ2lldWdQUHlxMXFTMkRSQlJUVzA5UDROeDdfNkpIVENuUUxGeFVSdlhnMHFBOVU4T0YzUnNNeC1HQ1lWaFdGZzJsemRMREdRR1Uzc0RrUnFTbWo1SnE1RDhGdVZnX0RZdG50XzVadGhZVkhZOTBCcWtURVpmNGpWV3VrSk96NnIyYkE?oc=5",
         "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
@@ -110,6 +103,13 @@
         "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
         "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
         "source": "Sporting Goods Intelligence Europe"
+      },
+      {
+        "title": "The ex-Goldman Sachs macro MD with an alternative method of making money - efinancialcareers.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3NJYTQza29jVDBXR3laUHlSUW8ta2tvdVBmdjVhTkZYN0xJVEdPaks3dU5wRTNvWDBsaWxoX1JxY085SnZXeVRDc1I4U1lwNUl6OTItS0dXMk9OMUo1T05rcVU5bG5EczRxd3QzV0dsOHotZ2pxVDBWZmJRcUJoX0JYQ25jb005QUozNEJ1VUlENWlhYlJkUTVOaWR5MVAwaUUyaGJQOHh1WW4zUkkzag?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "summary": "The ex-Goldman Sachs macro MD with an alternative method of making money efinancialcareers.com",
+        "source": "efinancialcareers.com"
       }
     ],
     "jpm": [
@@ -290,11 +290,11 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central Bank Gold Buying Falls 54% in July as Investment Demand Rises | WGC Data - News and Statistics - IndexBox",
+        "title": "Central Bank Gold Buying Falls 54% in July as Investment Demand Rises | WGC Data - News and Statistics - indexbox.io",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVBSZkN0alpRRm91aV84NkNSTkhxcktlY1ZRZHJsX3lCVl9jaVJmQnNqU1hDM1F1N2U4WVRaeVE5WlNaQ1RmX2tzVWpFdjcyZTZwOHBUUjlLNmhrTFV4U2tQSE5DQ2VtZzJYcjMzbWtNNkEyN01WT25KZ2JlOTl0bzg3S2hpNXBpQUxSQjhQMFYyZlhRR2VQZGVtRjRxTXhNRmc?oc=5",
         "pubDate": "Fri, 04 Sep 2026 19:31:06 GMT",
-        "summary": "Central Bank Gold Buying Falls 54% in July as Investment Demand Rises | WGC Data - News and Statistics IndexBox",
-        "source": "IndexBox"
+        "summary": "Central Bank Gold Buying Falls 54% in July as Investment Demand Rises | WGC Data - News and Statistics indexbox.io",
+        "source": "indexbox.io"
       }
     ]
   },
