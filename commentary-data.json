@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T19:21:11+00:00",
+  "fetched_at": "2026-09-14T23:07:30+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -40,6 +40,13 @@
     ],
     "blackrock": [
       {
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
+        "source": "BlackRock"
+      },
+      {
         "title": "Fall Macro Outlook: Supply in Capital Markets 101 - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmxXZVMyYVN2TzhDSFJac1JDa1U1eC1HR0Y3Y3RTU0VEZ2wwNUlWOGJseGNxN3BnOUpzYk4tbUZ6N0oyd3ZOOTFDdWt1aVdlcThnV1B2YXVXdnBjQ1BRa1o5T0xXUFV4NVhzbGdzbTA4c2x0ZkxTYS1ramVqMDdtMDBvVQ?oc=5",
         "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
@@ -47,25 +54,11 @@
         "source": "BlackRock"
       },
       {
-        "title": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT - coindesk.com",
+        "title": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT - CoinDesk",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeVViQUZKNXVtcERHZ2NkcThSQmFTeXFsUXJ4aXJKMVA2ZmNJcVhQbDBqR2dQMlZZZzNjckd4dERxV1F0MV9CZkNqY0RtRzgxTzZ1R3JJOTVfTjhpNFIyRHFTa0pkSEhEYXpkSUx5cFd1WTQzb2Q2NmY4VGdveWxwbndhQzQ2NzZrM2QzTlUza1hKOUN2MURRb2NjQXhqMUE3bzlJbTktOFdrVFRqQ1VQYnNNb1pxTDZ0NGJCN2NJZlNOdHBVakVQUGlQcmx6Und3MnUwTmx5X254aTZJX0FuVHB3?oc=5",
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT coindesk.com",
-        "source": "coindesk.com"
-      },
-      {
-        "title": "Hedge Fund Outlook - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
-        "summary": "Hedge Fund Outlook BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "Bitcoin Macro Case Strengthens With U.S. Debt Above $40 Trillion, BlackRock Says - Yellow.com",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DeFI1TXNoZTA3YVQ0eUNwQUlLcVNoZTRJejFCVmxtRHVEYjh1aENGQnBHWDNLZjE0cU1EX19PUFJnMk9WTFdtazNlTUl2TzQwV200amVTaEwzSllZM1dJ?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "Bitcoin Macro Case Strengthens With U.S. Debt Above $40 Trillion, BlackRock Says Yellow.com",
-        "source": "Yellow.com"
+        "summary": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT CoinDesk",
+        "source": "CoinDesk"
       },
       {
         "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - Alternatives Watch",
@@ -73,6 +66,13 @@
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
+      },
+      {
+        "title": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZElGSXJjR0FjUnlmNkhUNnFBbl9uMHR5VWUxRWhfbEFVWTREX2x6UzRpTmlaSEtROXJMRDdZUnpBUkNwSEVtNWFBMzJIZGxBWHVhZmRzeEYySTR2emlQd2hHeV9feFZ5WVVCb3VPLVoxMWRDdXcyUnI2TVVQUkJCcEZWQmplYkxTbi0yOVdOMlV0aHhZbmlud0JKemtYNUlfYkxXaUVQVlhRZHhvMGtHUHAzRFRyWF9paFFJbVln?oc=5",
+        "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
+        "summary": "BlackRock Says Hedge Funds Are Key as Diversification Falters in Volatile Markets Institutional Investor",
+        "source": "Institutional Investor"
       }
     ],
     "goldman": [
@@ -114,11 +114,11 @@
     ],
     "jpm": [
       {
-        "title": "Patchmageddon - J.P. Morgan Private Bank",
+        "title": "Patchmageddon - privatebank.jpmorgan.com",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc1ZYRTF3RkkzakRMMlFpNHBoY1dxNTNFRHBhakdXcWpsaDZIUWFVaXA1dS10WG9iN3NMa0lHdVdkSlhZeWNjcUN5c2U1ZENJTl90N01yZENtQnZUcUxaY2FhOTJQM1hYeXVuMUphcDktRVVIVTZzUXBCRlFhRUFBMXdqTEd0V1dFaUZSMC1tdkc?oc=5",
         "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "summary": "Patchmageddon J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
+        "summary": "Patchmageddon privatebank.jpmorgan.com",
+        "source": "privatebank.jpmorgan.com"
       },
       {
         "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - Yahoo Finance",
@@ -128,11 +128,11 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
+        "title": "Eye on the Market Outlook 2026: Smothering heights - chase.com",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
-        "source": "Chase Bank"
+        "summary": "Eye on the Market Outlook 2026: Smothering heights chase.com",
+        "source": "chase.com"
       },
       {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
@@ -142,11 +142,11 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "Semiquincententacles: the US grip on global markets - J.P. Morgan Private Bank",
+        "title": "Semiquincententacles: the US grip on global markets - privatebank.jpmorgan.com",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVZ2SjFWN2daaXBhVVFDa2YxY2JKM2ItbE53bmprN3h4T3BnZV9mVWFVakxyam9zV2Z4UHJQU3RDS2xYU3g1QXJtZG85enJWejZIX0dJc0JibXl4Q3RvelVKX3pTZUIzc3A2dDZuWnc2b1JXQk1SejhnRjZrX25tQlZXVDdPUHNqYkwwSG9mRDgwV2dkN2lxb0dUaUNZdFE4b29EVlpTSlZHcFZEdmlDMm9tWXJEeEYtX3NQMU04TVZOZ0NDcmc?oc=5",
         "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "Semiquincententacles: the US grip on global markets J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
+        "summary": "Semiquincententacles: the US grip on global markets privatebank.jpmorgan.com",
+        "source": "privatebank.jpmorgan.com"
       }
     ],
     "ms": [
@@ -195,18 +195,25 @@
         "source": "Morningstar"
       },
       {
-        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - wealthprofessional.ca",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
-        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 wealthprofessional.ca",
-        "source": "wealthprofessional.ca"
+        "title": "AI debt flood is stoking bond yields, Pimco says - Taipei Times",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05UlBueTlhQUljVWJJU0ZkU1hJSFJvU1VqMkxhMHMtMTB3TkptczhYMVZ2ZHBKaWptdG92S0Npa3lWZnpBazByaDlXX3ZqVFA2ZWxMN3Z1VHBvTmNaTGR6czlpQVYxNHNqUlJLYmZ5c0RXempzMkE?oc=5",
+        "pubDate": "Fri, 28 Aug 2026 16:00:00 GMT",
+        "summary": "AI debt flood is stoking bond yields, Pimco says Taipei Times",
+        "source": "Taipei Times"
       },
       {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
+        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
+        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
+        "source": "Wealth Professional"
+      },
+      {
+        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
-        "source": "CNBC"
+        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida cnbc.com",
+        "source": "cnbc.com"
       },
       {
         "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
@@ -214,13 +221,6 @@
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
         "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
         "source": "Livewire Markets"
-      },
-      {
-        "title": "PIMCO adds 4 fixed income ETFs to product suite - Money Management",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGs4ZngyZkZmRW5zRWdEOHBNZGhIN3JTQTk1eUI2VlhVd3NqWDBPcnJtdmh0VldfQjRIMlNkQUZITWpYcTlGOE9FbTJrbk5EbEI5eDFfd21GNmduX0ZvQVlFMGs3bUtrcUlDYlNTRFhiR1BWMXVQVkpKcWtkVUE1aFZGclZxNTg?oc=5",
-        "pubDate": "Wed, 17 Dec 2025 09:34:12 GMT",
-        "summary": "PIMCO adds 4 fixed income ETFs to product suite Money Management",
-        "source": "Money Management"
       }
     ],
     "fed": [
@@ -262,17 +262,17 @@
     ],
     "wgc": [
       {
-        "title": "China gold market update: Official buying accelerated in August | Post by Ray Jia | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1JCZDJXbmYyNk5mSkU4QjdUNGFHZEl0MzBmcDVXNjNBeGhFUHlHRWo2d2pZSTVtbWZXeUlRLWQyOTA0eTRzQlJmdjFtNVMzYjZJaVlrWGhDbDNCcVNVbTVQR25xV3N3MjZNVXBKaFFRUExveHpYdVY3cWQyTGxLdnNhMEtzZkV4VVZoS2g1akVMcksxaU1pUHgwSVE3RVJSd0p0TFZZNmZoQ2M?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 10:03:04 GMT",
-        "summary": "China gold market update: Official buying accelerated in August | Post by Ray Jia | Insights World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
         "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
         "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
         "summary": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
+        "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
+        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
+        "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
       },
       {
