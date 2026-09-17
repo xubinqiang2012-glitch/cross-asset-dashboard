@@ -1,13 +1,10 @@
 {
-  "fetched_at": "2026-09-16T21:19:04+00:00",
-  "values": {
-    "real_yield": 2.62
-  },
-  "source_dates": {
-    "real_yield": "2026-09-15"
-  },
+  "fetched_at": "2026-09-17T00:32:22+00:00",
+  "values": {},
+  "source_dates": {},
   "errors": {
     "gold": "HTTP Error 404: Not Found",
-    "dxy": "HTTP Error 404: Not Found"
+    "dxy": "HTTP Error 404: Not Found",
+    "real_yield": "The read operation timed out"
   }
 }
