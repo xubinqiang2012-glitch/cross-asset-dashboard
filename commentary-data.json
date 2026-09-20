@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T10:59:21+00:00",
+  "fetched_at": "2026-09-20T15:45:33+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -17,11 +17,11 @@
         "source": "Bridgewater Associates"
       },
       {
-        "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - Bloomberg.com",
+        "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-        "summary": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% Bloomberg.com",
-        "source": "Bloomberg.com"
+        "summary": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% bloomberg.com",
+        "source": "bloomberg.com"
       },
       {
         "title": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine - HedgeCo.Net",
@@ -54,11 +54,18 @@
         "source": "BlackRock"
       },
       {
-        "title": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT - CoinDesk",
+        "title": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week - CoinDesk",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeVViQUZKNXVtcERHZ2NkcThSQmFTeXFsUXJ4aXJKMVA2ZmNJcVhQbDBqR2dQMlZZZzNjckd4dERxV1F0MV9CZkNqY0RtRzgxTzZ1R3JJOTVfTjhpNFIyRHFTa0pkSEhEYXpkSUx5cFd1WTQzb2Q2NmY4VGdveWxwbndhQzQ2NzZrM2QzTlUza1hKOUN2MURRb2NjQXhqMUE3bzlJbTktOFdrVFRqQ1VQYnNNb1pxTDZ0NGJCN2NJZlNOdHBVakVQUGlQcmx6Und3MnUwTmx5X254aTZJX0FuVHB3?oc=5",
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT CoinDesk",
+        "summary": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week CoinDesk",
         "source": "CoinDesk"
+      },
+      {
+        "title": "2026 Global Outlook - Q2 Update - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BeGhqRzgyTWhwcjQyZmkzaEppMWlMRG1DdUM4Y3pYN0pMajNlSWtTYlJxUkhQaG84ZFRmTXhuc19XSmt5VXhLRFMtekcyN2tMaDVBRTYyZ1BNRFAwMzhWRFA3eTdkMi1yaDV3WGgzSEFkTlN4VVZUZjJ3?oc=5",
+        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+        "summary": "2026 Global Outlook - Q2 Update Seeking Alpha",
+        "source": "Seeking Alpha"
       },
       {
         "title": "A 2026 global macro outlook: Patience - BlackRock",
@@ -66,13 +73,6 @@
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
         "summary": "A 2026 global macro outlook: Patience BlackRock",
         "source": "BlackRock"
-      },
-      {
-        "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFpjX1pWc1F2UEFQOWRsWlktb3E2QTZwT1c1YkVBSERtX3FxQVRjRXlvUF96WUFSaXRZdGpGSzJqY2Zhb0ZaSkpJUVd1WERmTkVNeE1TTk9abmtkbWJ6blJkRTE4dmtFdEhUQjY4aWxQNEdnTW1uTHRBOGlESGVkSE0yWTRwX0N0Ql9OcDEwT0ZWcTI2R0Rid1Vn?oc=5",
-        "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
-        "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
-        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
@@ -84,18 +84,11 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "US Market Pulse September 2026 - Goldman Sachs Asset Management",
+        "title": "US Market Pulse September 2026 - am.gs.com",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
         "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
-        "summary": "US Market Pulse September 2026 Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
-      {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
+        "summary": "US Market Pulse September 2026 am.gs.com",
+        "source": "am.gs.com"
       },
       {
         "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
@@ -103,6 +96,13 @@
         "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
         "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
         "source": "Sporting Goods Intelligence Europe"
+      },
+      {
+        "title": "Weekly Market Monitor - am.gs.com",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
+        "summary": "Weekly Market Monitor am.gs.com",
+        "source": "am.gs.com"
       },
       {
         "title": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026 - Goldman Sachs",
@@ -151,13 +151,6 @@
     ],
     "ms": [
       {
-        "title": "Where Macro Meets Micro: Investing Through Structural Change - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW5SMGNkaVpvNHNmRlUzYmMwM1RJdXhOTVdLTnB2T0w1U21HRzNXMHVURmpSTmhxVTdETWVMT3Z1Nkl3bEk2Y0UxQ3BqV3JmUWpDLS14c3QtOVlPUVlhOWhlM3hqUUd4NlRfVlVlcGE5NGVXWTJTVXhYNnEwRF9OYy1td2h1UzFNdUpTaUNZbms0NURrcTZOWXhmMm9tTkk?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "summary": "Where Macro Meets Micro: Investing Through Structural Change Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
         "title": "AI Momentum Bolsters Global Markets - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUhna3M4eVBPZkRlSHNuRl9MalhjWXJXN3M5QVNmVDJ1enhaZzdYOHg3WmlFNjdsMkxwNkhMakV6N3FEcUZyYkRER1ZSR2J5QVVuTHdWZzJ3SHJVWEJuUUw3SXNOZU5pSzVWdXREYTZ2WnlKUmdlMVpGMTdaTHFvRi1EUllqZw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
@@ -165,11 +158,18 @@
         "source": "Morgan Stanley"
       },
       {
-        "title": "Watch Morgan Stanley Expects a ‘Spicier’ US Inflation Report - Bloomberg.com",
+        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3ZJejZLSG5kcU1ybklxUk9KYXJ1LWhtd19WSEdtQjNiNElLOUFXbkpSR3E5MHV4SVJqVnZEU1RRdXJINjRUUjNsbWVfUmN1aWc2ekZ5Tkh2dzVHaVZKdUZwM0NWbTVjWklFOWdudWp6ekg4QjQ3cTFqRHBnU0p2YkxTWk92ZVJFNjFTdS12ZXdrTEtZSnNhdkVyd0JZbFhuUWRqNW9MZHh5M1RDSjI1TzlIcW5VRVB5ODh0azlFZVI1VHhCQzVoLWN6ZkpjXzRqakE?oc=5",
+        "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
+        "title": "Watch Morgan Stanley Expects a ‘Spicier’ US Inflation Report - bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWZCcUo5SlB1Z3NhUS1RYTdMWk9UM0k5dENtNGM0Z2xCUV9LUE1YZGtNeVpnN1ZEMzlrNVVraWhFaURrNlg0RXZwa253TGpmZm8xYldieXdKRWFuVkhDYUV6LUFXMlRYTkQzLUtOY3llV0xxTmxLVUZMbmIxakRKalZkV3g4dTlqTE53dEJsRGJKN1p2R0VobFpLY2ZqWEl2eWlhNzREMHl0WVU?oc=5",
         "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
-        "summary": "Watch Morgan Stanley Expects a ‘Spicier’ US Inflation Report Bloomberg.com",
-        "source": "Bloomberg.com"
+        "summary": "Watch Morgan Stanley Expects a ‘Spicier’ US Inflation Report bloomberg.com",
+        "source": "bloomberg.com"
       },
       {
         "title": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead - Barron's",
@@ -195,11 +195,11 @@
         "source": "Morningstar"
       },
       {
-        "title": "PIMCO Dynamic Income Strategy Fund (PDX) Gains 0.64% as Income Demand Holds Steady - Zero Gamma Level - CarePlus VietNam",
+        "title": "PIMCO Dynamic Income Strategy Fund (PDX) Gains 0.64% as Income Demand Holds Steady - Zero Gamma Level - careplusvn.com",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObThtdENUeHZOWDZSSkV0ZEVUcGJEaFJyRWJfRWdUbElUM1VyQ0gxMVZwUlk2dDhwYklScHZoVGMwcnNaSTdmWWNtQ0syR0VQTWl0TXVCS0ZBRTBiMDhTVXU3dHRrRUQ3aktodFY1M0R2TlQycDJIU0VLN19WRFdXbkhoOWcyUzBvR3VxQUMyeU5CR0k5RnhWQWVZdDlqZ2QzT2k0VzZ6ODZZdzJoSkNkX2NGNEdPWlV0dzMtLVBGOVpOd3M?oc=5",
         "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT",
-        "summary": "PIMCO Dynamic Income Strategy Fund (PDX) Gains 0.64% as Income Demand Holds Steady - Zero Gamma Level CarePlus VietNam",
-        "source": "CarePlus VietNam"
+        "summary": "PIMCO Dynamic Income Strategy Fund (PDX) Gains 0.64% as Income Demand Holds Steady - Zero Gamma Level careplusvn.com",
+        "source": "careplusvn.com"
       },
       {
         "title": "PDI: The Valuation Premium Just Became A Discount (NYSE:PDI) - Seeking Alpha",
@@ -262,18 +262,18 @@
     ],
     "wgc": [
       {
-        "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
+        "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - gold.org",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
         "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
+        "summary": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights gold.org",
+        "source": "gold.org"
       },
       {
-        "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
+        "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - gold.org",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
+        "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights gold.org",
+        "source": "gold.org"
       },
       {
         "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - The Conversation",
