@@ -1,20 +1,20 @@
 {
-  "fetched_at": "2026-09-25T00:32:54+00:00",
+  "fetched_at": "2026-09-25T07:47:25+00:00",
   "sources": {
     "bridgewater": [
-      {
-        "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajVFYml4M2Fza29FZ1NHNkdOZkNpbFFhMmdjcUxBdWtpLU90S1VuZHVpOHpPU2dra0VKMWhpR09uTFc1ZC1GeFhQN3Q1WEpFR3MtR2FWLUZxeDB2Y2tjTWhhNzUzakQxUVcya2ZWcm01NzMtTmFubkx3aDM1bDQtVEZtRm9mSEZHdnR3b0JUM2ZJTXF0ZS03R2VMTUxoQlhQY2hfeFNCdnM1V2tTZmYtTlFMaHVXTzRhZk5iOGNhbw?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Reuters",
-        "source": "Reuters"
-      },
       {
         "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEh4UVVNcFpLWlp3S1JxZFJpV1V6RU1oX2owQUJJT2tSM0lMUzRjXzdaWS1CZm1rVEFveGI3OTZqa3VITzQ1QVc4dXlOeVE1UmtiVTByX28wUHZBT1ZLVGZRVXhuM1VKU3RNWngwblpxT2QzUHpNajhmSjBEZTVpaVp1akxabmoyVDVpbkVBYnZfU2JOOWZ5Vg?oc=5",
         "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
         "summary": "The Macro Implications of the AI Capex Boom Bridgewater Associates",
         "source": "Bridgewater Associates"
+      },
+      {
+        "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajVFYml4M2Fza29FZ1NHNkdOZkNpbFFhMmdjcUxBdWtpLU90S1VuZHVpOHpPU2dra0VKMWhpR09uTFc1ZC1GeFhQN3Q1WEpFR3MtR2FWLUZxeDB2Y2tjTWhhNzUzakQxUVcya2ZWcm01NzMtTmFubkx3aDM1bDQtVEZtRm9mSEZHdnR3b0JUM2ZJTXF0ZS03R2VMTUxoQlhQY2hfeFNCdnM1V2tTZmYtTlFMaHVXTzRhZk5iOGNhbw?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Reuters",
+        "source": "Reuters"
       },
       {
         "title": "Macro Hedge Funds Hammered in China as Bridgewater Loses 5.6% - Bloomberg.com",
@@ -24,11 +24,11 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine - HedgeCo.Net",
+        "title": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine - hedgeco.net",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmV5aGJZN2hxa2JVQVdUZXVkSFV3dnR2VkZXS2Rfc2ZaclNaWENlWEM3ZnFTWVRzcEF3b1oxQVktUFR2Uy1pcGFVQkVxSDh0bGk5bTdlTm5tYXdvSC1FOWlFeEpnMlJ2djdDS1VRNGstMWZ6RHI5Q2l2SFVmcGpOMWJPZi1icXFkdTh6bHRiSk5JdHNlYVpJTHpPbFMyU3NuRDFXOXFVaVlHX3NMNVVwbWwxc3dUUVRHVnpycHJIQUZkUm5BaWhtbG5MZWxyZE0wbjNYeDhINGI?oc=5",
         "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
-        "summary": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine HedgeCo.Net",
-        "source": "HedgeCo.Net"
+        "summary": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine hedgeco.net",
+        "source": "hedgeco.net"
       },
       {
         "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
@@ -40,18 +40,18 @@
     ],
     "blackrock": [
       {
-        "title": "Weekly market commentary - BlackRock",
+        "title": "Weekly market commentary - blackrock.com",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
         "pubDate": "Sun, 20 Sep 2026 07:00:00 GMT",
-        "summary": "Weekly market commentary BlackRock",
-        "source": "BlackRock"
+        "summary": "Weekly market commentary blackrock.com",
+        "source": "blackrock.com"
       },
       {
-        "title": "Mega forces: An investment opportunity - BlackRock",
+        "title": "Mega forces: An investment opportunity - blackrock.com",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDdiQ09tMVNsMjFHck1LQUFZQjBIajVVMUlVdDMxd1d2M285T3h3VkgyS3ZiNWd3dmlvVXVubEFPTnNnRm5ib3ZvV3B4S0tWa3VtRUp4X016a1lGOUdqc2tXbDVGMWdLN0ZGOXlSSUlYUEFMVF9jVS1BRXdkZTNFaFNLVjhpYnFQWHZzcUxXYzE?oc=5",
         "pubDate": "Fri, 31 Jul 2026 11:14:33 GMT",
-        "summary": "Mega forces: An investment opportunity BlackRock",
-        "source": "BlackRock"
+        "summary": "Mega forces: An investment opportunity blackrock.com",
+        "source": "blackrock.com"
       },
       {
         "title": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week - CoinDesk",
@@ -68,11 +68,11 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "title": "A 2026 global macro outlook: Patience - blackrock.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
+        "summary": "A 2026 global macro outlook: Patience blackrock.com",
+        "source": "blackrock.com"
       }
     ],
     "goldman": [
@@ -84,13 +84,6 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
-        "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
-      {
         "title": "US Market Pulse September 2026 - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
         "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
@@ -98,11 +91,11 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
-        "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-        "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
-        "source": "Sporting Goods Intelligence Europe"
+        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
+        "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
+        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
       },
       {
         "title": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026 - Goldman Sachs",
@@ -110,22 +103,29 @@
         "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
         "summary": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026 Goldman Sachs",
         "source": "Goldman Sachs"
+      },
+      {
+        "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
+        "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
+        "source": "Sporting Goods Intelligence Europe"
       }
     ],
     "jpm": [
       {
-        "title": "Patchmageddon - J.P. Morgan Private Bank",
+        "title": "Patchmageddon - privatebank.jpmorgan.com",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc1ZYRTF3RkkzakRMMlFpNHBoY1dxNTNFRHBhakdXcWpsaDZIUWFVaXA1dS10WG9iN3NMa0lHdVdkSlhZeWNjcUN5c2U1ZENJTl90N01yZENtQnZUcUxaY2FhOTJQM1hYeXVuMUphcDktRVVIVTZzUXBCRlFhRUFBMXdqTEd0V1dFaUZSMC1tdkc?oc=5",
         "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "summary": "Patchmageddon J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
+        "summary": "Patchmageddon privatebank.jpmorgan.com",
+        "source": "privatebank.jpmorgan.com"
       },
       {
-        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - Yahoo Finance",
+        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tnUzRabGFZNVJYWkNKZ0ljblY1Yzk2d2FvOFl3NVBUYVhtLVBsMFlleVltQ3h1dVZyTEhTR2ZiSzBOTUNGcndhNmUtbnBoUVlDZ1ppekp5N3lqYUVSSGt4MTV5RUVibk5idUdHaGtUVDgweTFrSjRXUUJzbWVhU0tLbnJaZl9BdEFpbmZBbmpHcUJ5T1FMZkc2ZlRkUjQyN0pGYUdBWWxzdw?oc=5",
         "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? Yahoo Finance",
-        "source": "Yahoo Finance"
+        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? finance.yahoo.com",
+        "source": "finance.yahoo.com"
       },
       {
         "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
@@ -135,11 +135,11 @@
         "source": "Chase Bank"
       },
       {
-        "title": "Semiquincententacles: the US grip on global markets - J.P. Morgan Private Bank",
+        "title": "Semiquincententacles: the US grip on global markets - privatebank.jpmorgan.com",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVZ2SjFWN2daaXBhVVFDa2YxY2JKM2ItbE53bmprN3h4T3BnZV9mVWFVakxyam9zV2Z4UHJQU3RDS2xYU3g1QXJtZG85enJWejZIX0dJc0JibXl4Q3RvelVKX3pTZUIzc3A2dDZuWnc2b1JXQk1SejhnRjZrX25tQlZXVDdPUHNqYkwwSG9mRDgwV2dkN2lxb0dUaUNZdFE4b29EVlpTSlZHcFZEdmlDMm9tWXJEeEYtX3NQMU04TVZOZ0NDcmc?oc=5",
         "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "Semiquincententacles: the US grip on global markets J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
+        "summary": "Semiquincententacles: the US grip on global markets privatebank.jpmorgan.com",
+        "source": "privatebank.jpmorgan.com"
       },
       {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
@@ -172,18 +172,18 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "Watch Morgan Stanley Expects a ‘Spicier’ US Inflation Report - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWZCcUo5SlB1Z3NhUS1RYTdMWk9UM0k5dENtNGM0Z2xCUV9LUE1YZGtNeVpnN1ZEMzlrNVVraWhFaURrNlg0RXZwa253TGpmZm8xYldieXdKRWFuVkhDYUV6LUFXMlRYTkQzLUtOY3llV0xxTmxLVUZMbmIxakRKalZkV3g4dTlqTE53dEJsRGJKN1p2R0VobFpLY2ZqWEl2eWlhNzREMHl0WVU?oc=5",
-        "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
-        "summary": "Watch Morgan Stanley Expects a ‘Spicier’ US Inflation Report Bloomberg.com",
-        "source": "Bloomberg.com"
-      },
-      {
         "title": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead - Barron's",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1F6S2NVZm4yVTRubjk4VXdZV3JrNmFZTTg3dG8wa3g5aHRfR2pKWE16NF9qR2g3YWpwb1RfS0xFS3BqM3o5TmNGUm9TclNmY3ZVMTQyMnBmRGZOWlF2TFhMWlJiTEdyZTJoUDBfQlA4bjR3SU1oRWllNGFSd3V0Z2RMYzBvdEEwRUZBQlllcGVySXp3NWFHczJsRXZ1TjkydzNCZHpSMGNkTUdsaEVFMG1DT0M2NWIzcm02SDhCaw?oc=5",
         "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "summary": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead Barron's",
         "source": "Barron's"
+      },
+      {
+        "title": "Watch Morgan Stanley Expects a ‘Spicier’ US Inflation Report - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWZCcUo5SlB1Z3NhUS1RYTdMWk9UM0k5dENtNGM0Z2xCUV9LUE1YZGtNeVpnN1ZEMzlrNVVraWhFaURrNlg0RXZwa253TGpmZm8xYldieXdKRWFuVkhDYUV6LUFXMlRYTkQzLUtOY3llV0xxTmxLVUZMbmIxakRKalZkV3g4dTlqTE53dEJsRGJKN1p2R0VobFpLY2ZqWEl2eWlhNzREMHl0WVU?oc=5",
+        "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
+        "summary": "Watch Morgan Stanley Expects a ‘Spicier’ US Inflation Report Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "pimco": [
@@ -195,18 +195,18 @@
         "source": "Morningstar"
       },
       {
-        "title": "PIMCO Income Strategy Fund (PFL) Edges Lower as Yield-Seeking Traders Weigh Interest Rate Outlook - Head and Shoulders - careplusvn.com",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzdNM2xsRUdydTlwNXZQT2lTek14bUdWREtXZ1hzS3ZEQTkwMFFudVlEUFhYY25oRmxKNDQ3TmVWcUhuZURmaktwZnB3RjgxVWFmSVNaQ0FadjJGQWRZWkUyODV1N0pval9LbDdRcm9VbXRzTVhWcnB4WEdjVS16emlRZnRfeVlNOEtLanVXdG9adEdGT01NaDR1VlhSUWN3OVhGaGtqUjlWLWxMX3Z0bWlRai0tYUM1T0N4V3htamh5N2M0dmRzTjlqVU1Fa3VPWnNkTGhHTQ?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "summary": "PIMCO Income Strategy Fund (PFL) Edges Lower as Yield-Seeking Traders Weigh Interest Rate Outlook - Head and Shoulders careplusvn.com",
-        "source": "careplusvn.com"
-      },
-      {
         "title": "PDI: The Valuation Premium Just Became A Discount (NYSE:PDI) - Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1RaOFdLalFUVThFdVVKRXF1aHFmejNwTDdQOGJJMDNuSFlpRWdlckI3VFowTHV0MnhxM2FwZkgyQ241Z2c4aF94WF9tTURaSDBUNVlYeXhOeHdZWE5oT3VfOG9zRkZDd3FRVlhRbHBDbzRhRVpSRHR5VkI4ZmhHaHV6NGpZRWNiRG9yRGNVN1FBLWM?oc=5",
         "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
         "summary": "PDI: The Valuation Premium Just Became A Discount (NYSE:PDI) Seeking Alpha",
         "source": "Seeking Alpha"
+      },
+      {
+        "title": "PIMCO Income Strategy Fund (PFL) Edges Lower as Yield-Seeking Traders Weigh Interest Rate Outlook - Head and Shoulders - careplusvn.com",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzdNM2xsRUdydTlwNXZQT2lTek14bUdWREtXZ1hzS3ZEQTkwMFFudVlEUFhYY25oRmxKNDQ3TmVWcUhuZURmaktwZnB3RjgxVWFmSVNaQ0FadjJGQWRZWkUyODV1N0pval9LbDdRcm9VbXRzTVhWcnB4WEdjVS16emlRZnRfeVlNOEtLanVXdG9adEdGT01NaDR1VlhSUWN3OVhGaGtqUjlWLWxMX3Z0bWlRai0tYUM1T0N4V3htamh5N2M0dmRzTjlqVU1Fa3VPWnNkTGhHTQ?oc=5",
+        "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "summary": "PIMCO Income Strategy Fund (PFL) Edges Lower as Yield-Seeking Traders Weigh Interest Rate Outlook - Head and Shoulders careplusvn.com",
+        "source": "careplusvn.com"
       },
       {
         "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
@@ -216,11 +216,11 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
+        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
-        "source": "CNBC"
+        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida cnbc.com",
+        "source": "cnbc.com"
       }
     ],
     "fed": [
@@ -269,6 +269,13 @@
         "source": "World Gold Council"
       },
       {
+        "title": "Material World: Central-bank gold buying strengthens case for re-rating of mining equities - AdviserVoice",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeGVOU2VYTFZNTFY1WTE0MkRnc1RwMnNyT3VvQ2tLcXo3WmZKN21QdnZ6N3h2eGc2R2F5a3ZXMGJLQXVab29NODhzWWdsZmpUcTZ6X0thS2pKX25BZE1HOC1DRHR5bXo4cDMtOVdVWExCTFZzTkdUcVhOVXhrUUozLVlRcXk0MmpyMXZUSTR4bWtkd3BUdGNjUDVucFplQ2dUaTVBNnJDOVlMbzl0Q1d5UHVORVpkTDZYVGZfT25LTXJUaTBrYkNqQzh3?oc=5",
+        "pubDate": "Fri, 25 Sep 2026 03:13:23 GMT",
+        "summary": "Material World: Central-bank gold buying strengthens case for re-rating of mining equities AdviserVoice",
+        "source": "AdviserVoice"
+      },
+      {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -288,13 +295,6 @@
         "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
         "summary": "Central banks add 23 net tonnes of gold in July with China and Poland leading purchases – World Gold Council Kitco",
         "source": "Kitco"
-      },
-      {
-        "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Business News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObndTM2cyVF9CZGE4bXdvRXFHVTc0aUpKVnVTazBDSFFqeWt6aHg0aFFTVURvUGFCZnIzZk1EVU1udkh6QmlObjZJdnpRazhWZHJQS01MWHpmbDkwZVVJMlVBanRzRlJNV2p2RmR3Mi1Gc1NMYi1XRkZOZ1hiWk9HMjFnRmc5MDlpSjhHb2VYTWtVZEVLaEZxem9GTXA?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey Mexico Business News",
-        "source": "Mexico Business News"
       }
     ]
   },
