@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T05:22:28+00:00",
+  "fetched_at": "2026-09-28T13:52:47+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -31,27 +31,20 @@
         "source": "HedgeCo.Net"
       },
       {
-        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
+        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - globalcitizen.org",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
         "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
-        "source": "Global Citizen"
+        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge globalcitizen.org",
+        "source": "globalcitizen.org"
       }
     ],
     "blackrock": [
       {
         "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
+        "pubDate": "Sun, 20 Sep 2026 07:00:00 GMT",
         "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
-      },
-      {
-        "title": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week - CoinDesk",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeVViQUZKNXVtcERHZ2NkcThSQmFTeXFsUXJ4aXJKMVA2ZmNJcVhQbDBqR2dQMlZZZzNjckd4dERxV1F0MV9CZkNqY0RtRzgxTzZ1R3JJOTVfTjhpNFIyRHFTa0pkSEhEYXpkSUx5cFd1WTQzb2Q2NmY4VGdveWxwbndhQzQ2NzZrM2QzTlUza1hKOUN2MURRb2NjQXhqMUE3bzlJbTktOFdrVFRqQ1VQYnNNb1pxTDZ0NGJCN2NJZlNOdHBVakVQUGlQcmx6Und3MnUwTmx5X254aTZJX0FuVHB3?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week CoinDesk",
-        "source": "CoinDesk"
       },
       {
         "title": "Mega forces: An investment opportunity - BlackRock",
@@ -61,11 +54,25 @@
         "source": "BlackRock"
       },
       {
-        "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFpjX1pWc1F2UEFQOWRsWlktb3E2QTZwT1c1YkVBSERtX3FxQVRjRXlvUF96WUFSaXRZdGpGSzJqY2Zhb0ZaSkpJUVd1WERmTkVNeE1TTk9abmtkbWJ6blJkRTE4dmtFdEhUQjY4aWxQNEdnTW1uTHRBOGlESGVkSE0yWTRwX0N0Ql9OcDEwT0ZWcTI2R0Rid1Vn?oc=5",
-        "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
-        "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
-        "source": "Bloomberg.com"
+        "title": "Hedge Fund Outlook - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
+        "summary": "Hedge Fund Outlook BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week - Cryptonews.net",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NYmxLWGFBUTd3cHQ1Y3ZITmFta0czSk1aWlJzc3Z3c3hiZXkzVXNpWk53MzRRLUlQMHNidWZYVUxJVUFyZlBoOVVsNS0wb3VTS3MydVozMWc?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "summary": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week Cryptonews.net",
+        "source": "Cryptonews.net"
+      },
+      {
+        "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - Alternatives Watch",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
+        "source": "Alternatives Watch"
       }
     ],
     "goldman": [
@@ -84,13 +91,6 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
-        "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
-      {
         "title": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026 - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDZ2dUk3YUJGenFKNm9feDlCc3RxZU9jaXA0WkYxM21uY2dBVmpGXzVMVkQtSXpUbjNEVEJjSGY0M1ZWcExLZ0U1dFNfaVhRc3FSV0IwOXJRMWwwLXpkQTE5RWZvYXBIV1B3NVVvUTdscUlScm5id29aRnNXVEF1OU56T25qbnAwV3dVNUJTZDdaVF8tRHE1SExhb1g5TThkQ0tHbWxBNlI?oc=5",
         "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
@@ -103,6 +103,13 @@
         "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
         "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
         "source": "Sporting Goods Intelligence Europe"
+      },
+      {
+        "title": "Market Know-How 3Q 2026: The Geo Paradigm - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56QlRSLUFNR0lra0dabzgxMTJwWkZRZzh4YnpLUFVncm0xSkZWN0pkaUpjdGY1MGtrVnJpR2gxQVkzNFhCMHJTcXItZk5KQUhBRkdZS0x5VzNMTXp3OEptRWxrWjBTTUdNZk83NVh3VlZRSU0?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "summary": "Market Know-How 3Q 2026: The Geo Paradigm Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
       }
     ],
     "jpm": [
@@ -262,11 +269,11 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central bank gold purchases exceed official disclosures; institutions forecast gold prices to reach $4,900 by year-end - moomoo.com",
+        "title": "Central bank gold purchases exceed official disclosures; institutions forecast gold prices to reach $4,900 by year-end - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSktoNEJYRWZsbnA3TWNkY19JbjZYRGVxbkRBOVNuWVJlZTQxbk9fU0RuRmVVWDBOYVFuc2hRZG1MSXVOTGxnSzFBSXY3X2V4QjZ4ZGhRUUg4UHBZeFZ1b0hsamxrdG5TVUFXc0NGMTNzNl9VNmdGLXVrdVZCcmNLOTVKOGhhWkNrNFdXbE44T2ZfUnhsaDhIVnpkUmpKZUJmNFBlMFNWaGFNVWNtZWgzRVNaLUpuam1lZllHTEw1V2lGb0Z5?oc=5",
         "pubDate": "Thu, 24 Sep 2026 04:20:50 GMT",
-        "summary": "Central bank gold purchases exceed official disclosures; institutions forecast gold prices to reach $4,900 by year-end moomoo.com",
-        "source": "moomoo.com"
+        "summary": "Central bank gold purchases exceed official disclosures; institutions forecast gold prices to reach $4,900 by year-end Moomoo",
+        "source": "Moomoo"
       },
       {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
