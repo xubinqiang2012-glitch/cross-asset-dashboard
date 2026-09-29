@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T08:29:11+00:00",
+  "fetched_at": "2026-09-29T16:30:41+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -24,34 +24,34 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine - hedgeco.net",
+        "title": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine - HedgeCo.Net",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmV5aGJZN2hxa2JVQVdUZXVkSFV3dnR2VkZXS2Rfc2ZaclNaWENlWEM3ZnFTWVRzcEF3b1oxQVktUFR2Uy1pcGFVQkVxSDh0bGk5bTdlTm5tYXdvSC1FOWlFeEpnMlJ2djdDS1VRNGstMWZ6RHI5Q2l2SFVmcGpOMWJPZi1icXFkdTh6bHRiSk5JdHNlYVpJTHpPbFMyU3NuRDFXOXFVaVlHX3NMNVVwbWwxc3dUUVRHVnpycHJIQUZkUm5BaWhtbG5MZWxyZE0wbjNYeDhINGI?oc=5",
         "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
-        "summary": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine hedgeco.net",
-        "source": "hedgeco.net"
+        "summary": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine HedgeCo.Net",
+        "source": "HedgeCo.Net"
       },
       {
-        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - globalcitizen.org",
+        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
         "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge globalcitizen.org",
-        "source": "globalcitizen.org"
+        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
+        "source": "Global Citizen"
       }
     ],
     "blackrock": [
       {
-        "title": "Weekly market commentary - blackrock.com",
+        "title": "Weekly market commentary - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Tue, 29 Sep 2026 05:10:17 GMT",
-        "summary": "Weekly market commentary blackrock.com",
-        "source": "blackrock.com"
+        "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+        "summary": "Weekly market commentary BlackRock",
+        "source": "BlackRock"
       },
       {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
+        "source": "BlackRock"
       },
       {
         "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
@@ -218,6 +218,13 @@
     ],
     "fed": [
       {
+        "title": "Bowman, Opening Remarks",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
+        "pubDate": "Tue, 29 Sep 2026 15:00:00 GMT",
+        "summary": "Speech At the Community Bank Cyber Workshop, Denver, Colorado (via pre-recorded video)",
+        "source": ""
+      },
+      {
         "title": "Cook, An Update on AI and the Economy",
         "link": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm",
         "pubDate": "Mon, 28 Sep 2026 17:25:00 GMT",
@@ -241,13 +248,6 @@
       {
         "title": "Bowman, Initial Findings from Independent Review of Silicon Valley Bank",
         "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm",
-        "pubDate": "Fri, 18 Sep 2026 13:30:00 GMT",
-        "summary": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom",
-        "source": ""
-      },
-      {
-        "title": "Bowman, The Final Chapter on Modernizing Bank Regulatory Stress Testing",
-        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm",
         "pubDate": "Fri, 18 Sep 2026 13:30:00 GMT",
         "summary": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom",
         "source": ""
@@ -283,11 +283,11 @@
         "source": "The Conversation"
       },
       {
-        "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - mexicobusiness.news",
+        "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Business News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObndTM2cyVF9CZGE4bXdvRXFHVTc0aUpKVnVTazBDSFFqeWt6aHg0aFFTVURvUGFCZnIzZk1EVU1udkh6QmlObjZJdnpRazhWZHJQS01MWHpmbDkwZVVJMlVBanRzRlJNV2p2RmR3Mi1Gc1NMYi1XRkZOZ1hiWk9HMjFnRmc5MDlpSjhHb2VYTWtVZEVLaEZxem9GTXA?oc=5",
         "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey mexicobusiness.news",
-        "source": "mexicobusiness.news"
+        "summary": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey Mexico Business News",
+        "source": "Mexico Business News"
       }
     ]
   },
