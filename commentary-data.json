@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T20:33:14+00:00",
+  "fetched_at": "2026-09-29T01:56:33+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -42,7 +42,7 @@
       {
         "title": "Weekly market commentary - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 28 Sep 2026 17:08:15 GMT",
+        "pubDate": "Tue, 29 Sep 2026 01:02:02 GMT",
         "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       },
@@ -61,11 +61,11 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - Alternatives Watch",
+        "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - alternativeswatch.com",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
-        "source": "Alternatives Watch"
+        "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds alternativeswatch.com",
+        "source": "alternativeswatch.com"
       }
     ],
     "goldman": [
@@ -135,11 +135,11 @@
         "source": "J.P. Morgan Private Bank"
       },
       {
-        "title": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds - Institutional Investor",
+        "title": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds - institutionalinvestor.com",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2NRMUM4SzZ6SXB5MzJMeWdBTE9zdndYdXMxaEhOb1hlSURVdXFIZUxfWGp6SFJqbDA1TTRCek9LTFB5aGlVNW9oa0VwcG5UWVIzbzl3bmNRN0RKWUUzQ0RDamhtcnA0N0JpZWVac25IVnVacTN2Z3pmUkF1MmdISEdqbVRJZEFTYnlBNC10ZXJ6YTVWSDlkRm9QTmpkQUdTNF9DN0hyZTd1QQ?oc=5",
         "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-        "summary": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds Institutional Investor",
-        "source": "Institutional Investor"
+        "summary": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds institutionalinvestor.com",
+        "source": "institutionalinvestor.com"
       }
     ],
     "ms": [
@@ -276,18 +276,18 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - The Conversation",
+        "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - theconversation.com",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjU4ZF9OR3BwRGZDMzBJSnphN0JlUHRZNG5VTmxyS0tRTkRNR1VMM2FCRG5RV0dJRFllekNvZVZfYnJqZG95VGEzSEV2RDF2bUtERTBIQm8yb2NWakN3dk43UXVoZXZHRXdiWWx1OFF2NFAtc2RSRmg0aFdiekd6NmJwMWYtTl9ad0FSbnBvUUZMQ24xMWFmdE5ob1R1NnRKdVk3eVZ5ZmpLZTdFVjJTYll1eDZ4Y2V1?oc=5",
         "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
-        "source": "The Conversation"
+        "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? theconversation.com",
+        "source": "theconversation.com"
       },
       {
-        "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Business News",
+        "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - mexicobusiness.news",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObndTM2cyVF9CZGE4bXdvRXFHVTc0aUpKVnVTazBDSFFqeWt6aHg0aFFTVURvUGFCZnIzZk1EVU1udkh6QmlObjZJdnpRazhWZHJQS01MWHpmbDkwZVVJMlVBanRzRlJNV2p2RmR3Mi1Gc1NMYi1XRkZOZ1hiWk9HMjFnRmc5MDlpSjhHb2VYTWtVZEVLaEZxem9GTXA?oc=5",
         "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey Mexico Business News",
-        "source": "Mexico Business News"
+        "summary": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey mexicobusiness.news",
+        "source": "mexicobusiness.news"
       }
     ]
   },
