@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T16:30:41+00:00",
+  "fetched_at": "2026-09-29T22:14:31+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -218,6 +218,20 @@
     ],
     "fed": [
       {
+        "title": "Waller, Payments in the Age of AI Agents",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
+        "pubDate": "Tue, 29 Sep 2026 19:00:00 GMT",
+        "summary": "Speech At Sibos 2026, Miami, Florida",
+        "source": ""
+      },
+      {
+        "title": "Barr, Economic Conditions and Monetary Policy",
+        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
+        "pubDate": "Tue, 29 Sep 2026 16:40:00 GMT",
+        "summary": "Speech At the Detroit Economic Club, Detroit, Michigan",
+        "source": ""
+      },
+      {
         "title": "Bowman, Opening Remarks",
         "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
         "pubDate": "Tue, 29 Sep 2026 15:00:00 GMT",
@@ -236,20 +250,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
         "pubDate": "Wed, 23 Sep 2026 14:05:00 GMT",
         "summary": "Speech At “Housing Affordability 2026: A Community Development Summit,” hosted by the Federal Reserve Bank of Chicago, Chicago, Illinois",
-        "source": ""
-      },
-      {
-        "title": "Jefferson, Discount Window Modernization and Treasury Market Functioning",
-        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm",
-        "pubDate": "Tue, 22 Sep 2026 14:20:00 GMT",
-        "summary": "Speech At the 2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York, New York",
-        "source": ""
-      },
-      {
-        "title": "Bowman, Initial Findings from Independent Review of Silicon Valley Bank",
-        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm",
-        "pubDate": "Fri, 18 Sep 2026 13:30:00 GMT",
-        "summary": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom",
         "source": ""
       }
     ],
@@ -276,11 +276,11 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - The Conversation",
+        "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - theconversation.com",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjU4ZF9OR3BwRGZDMzBJSnphN0JlUHRZNG5VTmxyS0tRTkRNR1VMM2FCRG5RV0dJRFllekNvZVZfYnJqZG95VGEzSEV2RDF2bUtERTBIQm8yb2NWakN3dk43UXVoZXZHRXdiWWx1OFF2NFAtc2RSRmg0aFdiekd6NmJwMWYtTl9ad0FSbnBvUUZMQ24xMWFmdE5ob1R1NnRKdVk3eVZ5ZmpLZTdFVjJTYll1eDZ4Y2V1?oc=5",
         "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
-        "source": "The Conversation"
+        "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? theconversation.com",
+        "source": "theconversation.com"
       },
       {
         "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Business News",
