@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T16:24:22+00:00",
+  "fetched_at": "2026-09-30T22:15:01+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -24,11 +24,11 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine - HedgeCo.Net",
+        "title": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine - hedgeco.net",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmV5aGJZN2hxa2JVQVdUZXVkSFV3dnR2VkZXS2Rfc2ZaclNaWENlWEM3ZnFTWVRzcEF3b1oxQVktUFR2Uy1pcGFVQkVxSDh0bGk5bTdlTm5tYXdvSC1FOWlFeEpnMlJ2djdDS1VRNGstMWZ6RHI5Q2l2SFVmcGpOMWJPZi1icXFkdTh6bHRiSk5JdHNlYVpJTHpPbFMyU3NuRDFXOXFVaVlHX3NMNVVwbWwxc3dUUVRHVnpycHJIQUZkUm5BaWhtbG5MZWxyZE0wbjNYeDhINGI?oc=5",
         "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
-        "summary": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine HedgeCo.Net",
-        "source": "HedgeCo.Net"
+        "summary": "Bridgewater’s Leadership Overhaul: Greg Jensen, AI, and the Reinvention of the World’s Largest Macro Machine hedgeco.net",
+        "source": "hedgeco.net"
       },
       {
         "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
@@ -121,13 +121,6 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - fool.com",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUC1uRlFQWnRDcF9BMnlTZDQ0T0hBTEJkcjdCZVJXaEp3aEtlQzFzc2JaVGFZRXBhZGRpcURrTXYtUmFMMXg2SEtKOW9tQmNsYXR1N0ttNkNxZVZ2eEJkVWpIdzB2UVp2R25BUnN0a29lM0JfZjU0eVJ4aU1yeVl5LXRuX1V0THdqMXVneTd3WlpxZFNfMTNBVA?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? fool.com",
-        "source": "fool.com"
-      },
-      {
         "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
@@ -140,6 +133,13 @@
         "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "summary": "Semiquincententacles: the US grip on global markets J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
+      },
+      {
+        "title": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2NRMUM4SzZ6SXB5MzJMeWdBTE9zdndYdXMxaEhOb1hlSURVdXFIZUxfWGp6SFJqbDA1TTRCek9LTFB5aGlVNW9oa0VwcG5UWVIzbzl3bmNRN0RKWUUzQ0RDamhtcnA0N0JpZWVac25IVnVacTN2Z3pmUkF1MmdISEdqbVRJZEFTYnlBNC10ZXJ6YTVWSDlkRm9QTmpkQUdTNF9DN0hyZTd1QQ?oc=5",
+        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+        "summary": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds Institutional Investor",
+        "source": "Institutional Investor"
       }
     ],
     "ms": [
@@ -195,10 +195,10 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "PIMCO Income Strategy Fund (PFL) Edges Lower as Yield-Seeking Traders Weigh Interest Rate Outlook - Head and Shoulders - careplusvn.com",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzdNM2xsRUdydTlwNXZQT2lTek14bUdWREtXZ1hzS3ZEQTkwMFFudVlEUFhYY25oRmxKNDQ3TmVWcUhuZURmaktwZnB3RjgxVWFmSVNaQ0FadjJGQWRZWkUyODV1N0pval9LbDdRcm9VbXRzTVhWcnB4WEdjVS16emlRZnRfeVlNOEtLanVXdG9adEdGT01NaDR1VlhSUWN3OVhGaGtqUjlWLWxMX3Z0bWlRai0tYUM1T0N4V3htamh5N2M0dmRzTjlqVU1Fa3VPWnNkTGhHTQ?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "summary": "PIMCO Income Strategy Fund (PFL) Edges Lower as Yield-Seeking Traders Weigh Interest Rate Outlook - Head and Shoulders careplusvn.com",
+        "title": "Pimco High Income Fund (PHK) Holds Steady at $4.64 as Investors Weigh Rate Outlook - Bollinger Walk - careplusvn.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVVvVmN2UWdHZExDS3hwVU9QN3p0NHEtdEZYNXV3VDFpS3pKNHJSQXEyZ2FmMkI0YzBXUlpRS1d0Z0ItZzNjd2xoVEV6QkJNak42cVlhQlY3eWhtbFdHNHJQMG4zUGJoUmFUbFlENEx1Q1BXMFhZWU9IcVZ6dlpnYjVrdW9udVo3RHc2WkV4WEpLUldGNENnSTl6U2syVGt5X3N0b3N6dTEzREVDSFZfWmRycHJxaFhzd0g3cTZmaFpVQQ?oc=5",
+        "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
+        "summary": "Pimco High Income Fund (PHK) Holds Steady at $4.64 as Investors Weigh Rate Outlook - Bollinger Walk careplusvn.com",
         "source": "careplusvn.com"
       },
       {
@@ -209,14 +209,21 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
+        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
-        "source": "CNBC"
+        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida cnbc.com",
+        "source": "cnbc.com"
       }
     ],
     "fed": [
+      {
+        "title": "Cook, The Dual Mandate in Rural America",
+        "link": "https://www.federalreserve.gov/newsevents/speech/cook20260930a.htm",
+        "pubDate": "Wed, 30 Sep 2026 19:25:00 GMT",
+        "summary": "Speech At the 2026 Investing in Rural America Conference, Federal Reserve Bank of Richmond, Asheville, North Carolina",
+        "source": ""
+      },
       {
         "title": "Waller, Payments in the Age of AI Agents",
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
@@ -243,13 +250,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm",
         "pubDate": "Mon, 28 Sep 2026 17:25:00 GMT",
         "summary": "Speech At the Oakland Tech Week Opening Keynote, cohosted by the Kapor Center, Oakland, California",
-        "source": ""
-      },
-      {
-        "title": "Barr, A Long-Term View on the Costs of Shelter",
-        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
-        "pubDate": "Wed, 23 Sep 2026 14:05:00 GMT",
-        "summary": "Speech At “Housing Affordability 2026: A Community Development Summit,” hosted by the Federal Reserve Bank of Chicago, Chicago, Illinois",
         "source": ""
       }
     ],
