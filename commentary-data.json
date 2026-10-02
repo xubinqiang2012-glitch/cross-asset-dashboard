@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T22:40:27+00:00",
+  "fetched_at": "2026-10-02T05:35:40+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -8,6 +8,13 @@
         "pubDate": "Thu, 01 Oct 2026 21:08:28 GMT",
         "summary": "Bridgewater's flagship macro fund posts double-digit gains this year, sources say Reuters",
         "source": "Reuters"
+      },
+      {
+        "title": "Bridgewater's flagship macro fund posts double-digit gains this year, sources say - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMDIwWEN0YUVxUVpwSEdJa3pnb05aUXV6bFJCSmZGcDJsYUh3VkstTG5yZll5dUFUZ3hKS0xORWtQUkJYMWVkVThadkNkNnZyWmV5WUUzM3pfZHMyWHlocXpKVkc1eGx2cFd0QUF4WjVvNEFFNEV1RTNlcnVEamFyY2FKVEhiRzBSQi1FOU91LXVpSGdWeWsyWTZ5MnJIN3BuZHl5emNSRHVacHVZWFdVOE1JREN5TnVNdVRxNVVHZTRYNnR3Mm50OHl3UHhfekpBMlJhWjNGajFrcU5zVTVZcUhjamV4OExVNFFBUTBpbw?oc=5",
+        "pubDate": "Thu, 01 Oct 2026 22:19:32 GMT",
+        "summary": "Bridgewater's flagship macro fund posts double-digit gains this year, sources say MSN",
+        "source": "MSN"
       },
       {
         "title": "Bridgewater's flagship macro fund posts robust double-digit gains this year, sources say - Merced Sun-Star",
@@ -29,29 +36,29 @@
         "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
         "summary": "The Macro Implications of the AI Capex Boom Bridgewater Associates",
         "source": "Bridgewater Associates"
-      },
-      {
-        "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0xMZkgxVDVNNXdrZEZGNnJHNG5tNDI3NGEteUJhN0tjWTJKM2VJT3dFQTN0QkRTejhQR1dNMGNMOC1LNlpjMDUxWnJJa2VrdlE0RlAwZlpERGdDV2ZibmJpMGtVM2xWdURKcU82QTVuMHBWcW43S0dsMFQ4Y0J6ZzA4NEdiR0Mta09FaWozYlhyTXhIYlhxQk5Nckg4eE1Lc2tqdURB?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Yahoo Finance",
-        "source": "Yahoo Finance"
       }
     ],
     "blackrock": [
       {
-        "title": "Weekly market commentary - blackrock.com",
+        "title": "Weekly market commentary - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
         "pubDate": "Sun, 27 Sep 2026 07:00:00 GMT",
-        "summary": "Weekly market commentary blackrock.com",
-        "source": "blackrock.com"
+        "summary": "Weekly market commentary BlackRock",
+        "source": "BlackRock"
       },
       {
-        "title": "Mega forces: An investment opportunity - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDdiQ09tMVNsMjFHck1LQUFZQjBIajVVMUlVdDMxd1d2M285T3h3VkgyS3ZiNWd3dmlvVXVubEFPTnNnRm5ib3ZvV3B4S0tWa3VtRUp4X016a1lGOUdqc2tXbDVGMWdLN0ZGOXlSSUlYUEFMVF9jVS1BRXdkZTNFaFNLVjhpYnFQWHZzcUxXYzE?oc=5",
-        "pubDate": "Fri, 31 Jul 2026 11:14:33 GMT",
-        "summary": "Mega forces: An investment opportunity blackrock.com",
-        "source": "blackrock.com"
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "2026 Global Outlook - Q2 Update - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BeGhqRzgyTWhwcjQyZmkzaEppMWlMRG1DdUM4Y3pYN0pMajNlSWtTYlJxUkhQaG84ZFRmTXhuc19XSmt5VXhLRFMtekcyN2tMaDVBRTYyZ1BNRFAwMzhWRFA3eTdkMi1yaDV3WGgzSEFkTlN4VVZUZjJ3?oc=5",
+        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+        "summary": "2026 Global Outlook - Q2 Update Seeking Alpha",
+        "source": "Seeking Alpha"
       },
       {
         "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
@@ -61,18 +68,11 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "A 2026 global macro outlook: Patience - blackrock.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience blackrock.com",
-        "source": "blackrock.com"
-      },
-      {
-        "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - Alternatives Watch",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
-        "source": "Alternatives Watch"
+        "title": "Hedge Fund Outlook - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
+        "summary": "Hedge Fund Outlook BlackRock",
+        "source": "BlackRock"
       }
     ],
     "goldman": [
@@ -151,18 +151,18 @@
     ],
     "ms": [
       {
-        "title": "Where Macro Meets Micro: Investing Through Structural Change - morganstanley.com",
+        "title": "Where Macro Meets Micro: Investing Through Structural Change - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW5SMGNkaVpvNHNmRlUzYmMwM1RJdXhOTVdLTnB2T0w1U21HRzNXMHVURmpSTmhxVTdETWVMT3Z1Nkl3bEk2Y0UxQ3BqV3JmUWpDLS14c3QtOVlPUVlhOWhlM3hqUUd4NlRfVlVlcGE5NGVXWTJTVXhYNnEwRF9OYy1td2h1UzFNdUpTaUNZbms0NURrcTZOWXhmMm9tTkk?oc=5",
         "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "summary": "Where Macro Meets Micro: Investing Through Structural Change morganstanley.com",
-        "source": "morganstanley.com"
+        "summary": "Where Macro Meets Micro: Investing Through Structural Change Morgan Stanley",
+        "source": "Morgan Stanley"
       },
       {
-        "title": "AI Momentum Bolsters Global Markets - morganstanley.com",
+        "title": "AI Momentum Bolsters Global Markets - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUhna3M4eVBPZkRlSHNuRl9MalhjWXJXN3M5QVNmVDJ1enhaZzdYOHg3WmlFNjdsMkxwNkhMakV6N3FEcUZyYkRER1ZSR2J5QVVuTHdWZzJ3SHJVWEJuUUw3SXNOZU5pSzVWdXREYTZ2WnlKUmdlMVpGMTdaTHFvRi1EUllqZw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "AI Momentum Bolsters Global Markets morganstanley.com",
-        "source": "morganstanley.com"
+        "summary": "AI Momentum Bolsters Global Markets Morgan Stanley",
+        "source": "Morgan Stanley"
       },
       {
         "title": "Watch Morgan Stanley Expects a ‘Spicier’ US Inflation Report - Bloomberg.com",
@@ -174,19 +174,26 @@
       {
         "title": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead - Barron's",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1F6S2NVZm4yVTRubjk4VXdZV3JrNmFZTTg3dG8wa3g5aHRfR2pKWE16NF9qR2g3YWpwb1RfS0xFS3BqM3o5TmNGUm9TclNmY3ZVMTQyMnBmRGZOWlF2TFhMWlJiTEdyZTJoUDBfQlA4bjR3SU1oRWllNGFSd3V0Z2RMYzBvdEEwRUZBQlllcGVySXp3NWFHczJsRXZ1TjkydzNCZHpSMGNkTUdsaEVFMG1DT0M2NWIzcm02SDhCaw?oc=5",
-        "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "pubDate": "Wed, 10 Jun 2026 19:31:57 GMT",
         "summary": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead Barron's",
         "source": "Barron's"
       },
       {
-        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - morganstanley.com",
+        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSE5QYkZlTV9xUC1oUnNVTmFsT0tXb25TZnc0enJSakJoNnFBSlVseTVKM3pNazdfcFBRa3VJMC1MZVdKRWUwSExULTVOeS1lbnozSHRjMmlxTzRaTHgwNTZVTThwOHhFTWowR2RwdzktczNVV2d1azlLZ3BaN0xWNC0zcHpzX2NEZzRqRFZIYlhFMWRtSnUyT1RHaEl3bUJVT1ZhWENIc0F6T0lyU0NURzM0X0QwcTlfVF85QXJHQ2tMMjhlSmJ2WlcwZXFtU2VNNkE?oc=5",
         "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates morganstanley.com",
-        "source": "morganstanley.com"
+        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
+        "source": "Morgan Stanley"
       }
     ],
     "pimco": [
+      {
+        "title": "PIMCO Overview: Investment Strategies and Fund Insights - Investopedia",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lTjI5dnQ5WERGRWxEVFljeXVOR2xVTlNLMGo5bHhKSXc1RDVkX09Lb3BCM1RsZmZlOUZsZ00xZWZqWGQ1aDkyQUFTclJmWUlIUF92OU5lV1hnQQ?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
+        "summary": "PIMCO Overview: Investment Strategies and Fund Insights Investopedia",
+        "source": "Investopedia"
+      },
       {
         "title": "Pimco’s Clarida: Key Bond Market Risks and Opportunities in a Fragmenting World - Morningstar",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3A0d1BSOE13dnp1MTNTZ08yMnZlZ20zNDF0OXBMcDBKZXVwSUh2SU00VU1Ybm9xSTJyM1llbk10dHVOSEJDYURZc0pwbDdONG5fNHE2Ukh3eFRkNU5UeTJkaWN3ZjZVeFVFRG1nejZqT1IwT0pCaHA0c1VMY1hxOUp4NGlNcTItVVRJY1JVLUVUSjNRUEx5NFd0S0NkV0hTUXBhZWpiaw?oc=5",
@@ -214,13 +221,6 @@
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
         "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
         "source": "CNBC"
-      },
-      {
-        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - livewiremarkets.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan livewiremarkets.com",
-        "source": "livewiremarkets.com"
       }
     ],
     "fed": [
@@ -290,11 +290,11 @@
         "source": "Moomoo"
       },
       {
-        "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - mexicobusiness.news",
+        "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Business News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObndTM2cyVF9CZGE4bXdvRXFHVTc0aUpKVnVTazBDSFFqeWt6aHg0aFFTVURvUGFCZnIzZk1EVU1udkh6QmlObjZJdnpRazhWZHJQS01MWHpmbDkwZVVJMlVBanRzRlJNV2p2RmR3Mi1Gc1NMYi1XRkZOZ1hiWk9HMjFnRmc5MDlpSjhHb2VYTWtVZEVLaEZxem9GTXA?oc=5",
         "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey mexicobusiness.news",
-        "source": "mexicobusiness.news"
+        "summary": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey Mexico Business News",
+        "source": "Mexico Business News"
       }
     ]
   },
