@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T15:11:12+00:00",
+  "fetched_at": "2026-10-06T20:58:45+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -8,6 +8,13 @@
         "pubDate": "Thu, 01 Oct 2026 21:08:28 GMT",
         "summary": "Bridgewater's flagship macro fund posts double-digit gains this year, sources say Reuters",
         "source": "Reuters"
+      },
+      {
+        "title": "Bridgewater Pitched Policymakers on an AI “Token Tax” to Fund Citizen Equity Stakes: - HedgeCo.Net",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb3hpZ1RPTmtEUkIxWmE3YlE0Nm1VLVZTYXY4ZEpmaU5GZFdSWlVxLVZnS000RjJHVGhYTDVMNE5pTWhPWnlSTVFaLWxrOFplQ01fUTlweU5BY3BuRm92bHJVMHNxOEhUU1VIaWFQSktWODJmRVRwOXhINGpDeFpvT3lJRXdpZUR5LUtyQU5uMDFFRnozajlfV2JxY3ZOM3B0SFlZdFVIdkpETzlyWTdqWG1meHlIUF83Vzln?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 14:11:08 GMT",
+        "summary": "Bridgewater Pitched Policymakers on an AI “Token Tax” to Fund Citizen Equity Stakes: HedgeCo.Net",
+        "source": "HedgeCo.Net"
       },
       {
         "title": "Bridgewater’s flagship macro fund posts double-digit gains this year, sources say - KWSN",
@@ -29,13 +36,6 @@
         "pubDate": "Fri, 02 Oct 2026 16:31:33 GMT",
         "summary": "Bridgewater’s Pure Alpha up 18.4% YTD as macro strategy rebounds Hedgeweek",
         "source": "Hedgeweek"
-      },
-      {
-        "title": "Bridgewater's flagship macro fund posts robust double-digit gains this year, sources say - Devdiscourse",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcmw0ZWlwNnhNZjc0NW1ycnA0YzhmSVI5WkVNN21OR0J4bnZjZFc2Nmo0Y2ZXNlJwR3hqcm9kelNQNTdpRmdwa3pRZnpTUnlGLUk5Sm9VWGtJb0VseVU5WkVBYUZxNTcxOFhSb0NwRGhHa3J3NWZVNmRwcXdybjZ2M29KeWlFaGtjYlBsYWNIdWdBV3RkeEZ4UWdCSW51TGhXdVhJaGwxdnJGd3pJMFZKMG5oOGFpaENRdzlRa3liZk5TNG9aam51WDE0WGdIS3BYUEtSTElJOTdfU2RFNnfSAeMBQVVfeXFMUFRWdjhXZ25mSzcxVWpJcXY1SlJGUmwxY3NVLUxqdHFyRmF3amFURDIyblVWRFFWUHNGS3Q2YVNkSmNwaVpfaHNsZnYtOEM5S0tfZWF5Q3FxUkYxOEdOLW9RZ2ZtVm1BOU13UUVBMmk0VlpuQ1dPQmkzWjFxblM3Z2ktRUVPSERLdUtMRjFlckZUa29LYXVMLUpGbkJSU1YxazF4SmpydWtHbjRuUF9jS1ZLenRIY1RzMW1EazFyYkd4UkJPRFh1alJ6WjZCQ0tWU3BVbW1DU3JSNmRud1RibG5fRjQ?oc=5",
-        "pubDate": "Thu, 01 Oct 2026 14:48:56 GMT",
-        "summary": "Bridgewater's flagship macro fund posts robust double-digit gains this year, sources say Devdiscourse",
-        "source": "Devdiscourse"
       }
     ],
     "blackrock": [
@@ -77,10 +77,10 @@
     ],
     "goldman": [
       {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
-        "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
+        "title": "US Market Pulse October 2026 - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 19:32:49 GMT",
+        "summary": "US Market Pulse October 2026 Goldman Sachs Asset Management",
         "source": "Goldman Sachs Asset Management"
       },
       {
@@ -91,18 +91,18 @@
         "source": "Goldman Sachs"
       },
       {
+        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
+        "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT",
+        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
+      },
+      {
         "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
         "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
         "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
         "source": "Sporting Goods Intelligence Europe"
-      },
-      {
-        "title": "US Market Pulse September 2026 - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
-        "summary": "US Market Pulse September 2026 Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
       },
       {
         "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
@@ -121,11 +121,11 @@
         "source": "J.P. Morgan Private Bank"
       },
       {
-        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tnUzRabGFZNVJYWkNKZ0ljblY1Yzk2d2FvOFl3NVBUYVhtLVBsMFlleVltQ3h1dVZyTEhTR2ZiSzBOTUNGcndhNmUtbnBoUVlDZ1ppekp5N3lqYUVSSGt4MTV5RUVibk5idUdHaGtUVDgweTFrSjRXUUJzbWVhU0tLbnJaZl9BdEFpbmZBbmpHcUJ5T1FMZkc2ZlRkUjQyN0pGYUdBWWxzdw?oc=5",
+        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUC1uRlFQWnRDcF9BMnlTZDQ0T0hBTEJkcjdCZVJXaEp3aEtlQzFzc2JaVGFZRXBhZGRpcURrTXYtUmFMMXg2SEtKOW9tQmNsYXR1N0ttNkNxZVZ2eEJkVWpIdzB2UVp2R25BUnN0a29lM0JfZjU0eVJ4aU1yeVl5LXRuX1V0THdqMXVneTd3WlpxZFNfMTNBVA?oc=5",
         "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? Yahoo Finance",
-        "source": "Yahoo Finance"
+        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? The Motley Fool",
+        "source": "The Motley Fool"
       },
       {
         "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
@@ -135,18 +135,18 @@
         "source": "Chase Bank"
       },
       {
-        "title": "Semiquincententacles: the US grip on global markets - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVZ2SjFWN2daaXBhVVFDa2YxY2JKM2ItbE53bmprN3h4T3BnZV9mVWFVakxyam9zV2Z4UHJQU3RDS2xYU3g1QXJtZG85enJWejZIX0dJc0JibXl4Q3RvelVKX3pTZUIzc3A2dDZuWnc2b1JXQk1SejhnRjZrX25tQlZXVDdPUHNqYkwwSG9mRDgwV2dkN2lxb0dUaUNZdFE4b29EVlpTSlZHcFZEdmlDMm9tWXJEeEYtX3NQMU04TVZOZ0NDcmc?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "Semiquincententacles: the US grip on global markets J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
-      },
-      {
         "title": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGpLVEdXMEstR1VNVUN4TXlqZms2RG5GMGU4enhWR1JQeXBhXzM3dXR0Wk85OGtqVW5WLW14Y0JlbnJMRTZiMzEzQTA3OVFJZk9iR2tnZVlNNDN4NTYwUFY3VW1NZ2JlNmlXdzhTTUJyZ0lGMVdFVjZzSjZNeDEwd1U0RGNUN1lWS3ItaVZXeTZIUU9paWJ5QjdNaENlV3ZlUzZWR0xCek81OVhMNk81NGRLREktZDVOSFk1WG9n?oc=5",
         "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
         "summary": "J.P. Morgan’s Michael Cembalest: Bubble or Not, AI Is Starting to Transform Industries Institutional Investor",
         "source": "Institutional Investor"
+      },
+      {
+        "title": "Eye on the Market Outlook 2025: The Alchemists - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVpJS3p0OGRmRWY4TnZTLUFPYjFZR3RjNVhLNXR1VC1reGNJYUNwaUZvRjNveWpxZ3pINzkyTHBiYnBWTG5NbmRtSk8yY1FqVVowOEtZTGxJaG1VeW5jTU5QLWdOQTJ6VjI2d3BiVjhxZzFHclZRZ0hGOFBjb2RIRjRkMlRTUHhmVVlHa3Fzcw?oc=5",
+        "pubDate": "Thu, 01 Jan 2026 12:40:17 GMT",
+        "summary": "Eye on the Market Outlook 2025: The Alchemists J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
       }
     ],
     "ms": [
@@ -209,18 +209,18 @@
         "source": "CNBC"
       },
       {
-        "title": "AI debt flood is stoking bond yields, Pimco says - Taipei Times",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05UlBueTlhQUljVWJJU0ZkU1hJSFJvU1VqMkxhMHMtMTB3TkptczhYMVZ2ZHBKaWptdG92S0Npa3lWZnpBazByaDlXX3ZqVFA2ZWxMN3Z1VHBvTmNaTGR6czlpQVYxNHNqUlJLYmZ5c0RXempzMkE?oc=5",
-        "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT",
-        "summary": "AI debt flood is stoking bond yields, Pimco says Taipei Times",
-        "source": "Taipei Times"
-      },
-      {
         "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
         "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
         "source": "Livewire Markets"
+      },
+      {
+        "title": "PIMCO: Increasing Instability, Emerging Markets Remain Resilient - Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZRVZQSTdKU05ZNkZYS1h1ZndFXzJTaUxoci04NTN0ejBJX01YN25sZnVCTDZ4cHgyWGV0Rm5OSnYxcExBemJKU3Y4WDRSS2NDOFdYRWhUS2VnNC1RZGfSAWNBVV95cUxPV3M4Z0tETkJnd2F4VUdxeEc4NDNoNXhjQ3dGamt3TzBlS052cGc3RW1VOGl5NmtyODlWUGduX3NrcmlaZnpVMUpCcHFDNzh5OFpiRVFVRURkakduTFprMDhQdG8?oc=5",
+        "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "summary": "PIMCO: Increasing Instability, Emerging Markets Remain Resilient Bitget",
+        "source": "Bitget"
       }
     ],
     "fed": [
@@ -269,6 +269,13 @@
         "source": "World Gold Council"
       },
       {
+        "title": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council - Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEJFR3YwV0p1YTlSd0VUUTRLNzBGUlBQeXNOTVBmbWNzN1ZhaXZjU2RZSmN0aUZQelNTUERyVWlQMkYxVDFNcjRXT0lvM1FmQUk2Rld6TDVQWktGdEZpN0JTQkVzekJGOTU0MFdqTUF5SUVZOGVxMDJibTY3YjJtNV95QlplaHlnTTA5cThSYkhrQU5SWWlTNXhyUkJ3cF9aM3NCS0UxRU4xQ096TVNxQUwxdTFYM3Jh?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 14:19:00 GMT",
+        "summary": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council Kitco",
+        "source": "Kitco"
+      },
+      {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -288,13 +295,6 @@
         "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
         "source": "The Conversation"
-      },
-      {
-        "title": "Central bank gold purchases exceed official disclosures; institutions forecast gold prices to reach $4,900 by year-end - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSktoNEJYRWZsbnA3TWNkY19JbjZYRGVxbkRBOVNuWVJlZTQxbk9fU0RuRmVVWDBOYVFuc2hRZG1MSXVOTGxnSzFBSXY3X2V4QjZ4ZGhRUUg4UHBZeFZ1b0hsamxrdG5TVUFXc0NGMTNzNl9VNmdGLXVrdVZCcmNLOTVKOGhhWkNrNFdXbE44T2ZfUnhsaDhIVnpkUmpKZUJmNFBlMFNWaGFNVWNtZWgzRVNaLUpuam1lZllHTEw1V2lGb0Z5?oc=5",
-        "pubDate": "Thu, 24 Sep 2026 04:20:50 GMT",
-        "summary": "Central bank gold purchases exceed official disclosures; institutions forecast gold prices to reach $4,900 by year-end Moomoo",
-        "source": "Moomoo"
       }
     ]
   },
