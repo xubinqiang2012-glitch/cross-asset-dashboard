@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T17:25:27+00:00",
+  "fetched_at": "2026-10-07T23:05:10+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -8,6 +8,13 @@
         "pubDate": "Thu, 01 Oct 2026 21:08:28 GMT",
         "summary": "Bridgewater's flagship macro fund posts double-digit gains this year, sources say Reuters",
         "source": "Reuters"
+      },
+      {
+        "title": "Bridgewater Pitched Policymakers on an AI “Token Tax” to Fund Citizen Equity Stakes: - HedgeCo.Net",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb3hpZ1RPTmtEUkIxWmE3YlE0Nm1VLVZTYXY4ZEpmaU5GZFdSWlVxLVZnS000RjJHVGhYTDVMNE5pTWhPWnlSTVFaLWxrOFplQ01fUTlweU5BY3BuRm92bHJVMHNxOEhUU1VIaWFQSktWODJmRVRwOXhINGpDeFpvT3lJRXdpZUR5LUtyQU5uMDFFRnozajlfV2JxY3ZOM3B0SFlZdFVIdkpETzlyWTdqWG1meHlIUF83Vzln?oc=5",
+        "pubDate": "Wed, 07 Oct 2026 09:44:36 GMT",
+        "summary": "Bridgewater Pitched Policymakers on an AI “Token Tax” to Fund Citizen Equity Stakes: HedgeCo.Net",
+        "source": "HedgeCo.Net"
       },
       {
         "title": "The Macro Implications of the AI Capex Boom - Bridgewater Associates",
@@ -29,13 +36,6 @@
         "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
         "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Yahoo Finance",
         "source": "Yahoo Finance"
-      },
-      {
-        "title": "Bridgewater Pitched Policymakers on an AI “Token Tax” to Fund Citizen Equity Stakes: - HedgeCo.Net",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb3hpZ1RPTmtEUkIxWmE3YlE0Nm1VLVZTYXY4ZEpmaU5GZFdSWlVxLVZnS000RjJHVGhYTDVMNE5pTWhPWnlSTVFaLWxrOFplQ01fUTlweU5BY3BuRm92bHJVMHNxOEhUU1VIaWFQSktWODJmRVRwOXhINGpDeFpvT3lJRXdpZUR5LUtyQU5uMDFFRnozajlfV2JxY3ZOM3B0SFlZdFVIdkpETzlyWTdqWG1meHlIUF83Vzln?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 14:11:08 GMT",
-        "summary": "Bridgewater Pitched Policymakers on an AI “Token Tax” to Fund Citizen Equity Stakes: HedgeCo.Net",
-        "source": "HedgeCo.Net"
       }
     ],
     "blackrock": [
@@ -271,9 +271,16 @@
       {
         "title": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council - Kitco",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEJFR3YwV0p1YTlSd0VUUTRLNzBGUlBQeXNOTVBmbWNzN1ZhaXZjU2RZSmN0aUZQelNTUERyVWlQMkYxVDFNcjRXT0lvM1FmQUk2Rld6TDVQWktGdEZpN0JTQkVzekJGOTU0MFdqTUF5SUVZOGVxMDJibTY3YjJtNV95QlplaHlnTTA5cThSYkhrQU5SWWlTNXhyUkJ3cF9aM3NCS0UxRU4xQ096TVNxQUwxdTFYM3Jh?oc=5",
-        "pubDate": "Wed, 07 Oct 2026 13:08:01 GMT",
+        "pubDate": "Tue, 06 Oct 2026 14:19:00 GMT",
         "summary": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council Kitco",
         "source": "Kitco"
+      },
+      {
+        "title": "Central Bank Gold Buying Remains a Long-Term Theme: Reserve Managers from Multiple Countries Interpret the Strategic Value of Gold - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3lwcUxGQ3h4R2lSa3VaNVJBVlNMa09BdjdHUnNzVlc4dmZKVjVVa0VNRmlaVUM1MXFJbThIU3FJcXdKOE1ZdTBhQTM3dmhwd1lvTUQ5d081YXNVaTlJdEFtVy1uV3J5d2hlUkVoYktXQTczeGdoZ1RrUTNTcmxGT0lFcTVDMzN3MUxqVHhjN1E4dUFqOEpEMFB2UGtSdzgtUWJfZg?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 23:30:08 GMT",
+        "summary": "Central Bank Gold Buying Remains a Long-Term Theme: Reserve Managers from Multiple Countries Interpret the Strategic Value of Gold Moomoo",
+        "source": "Moomoo"
       },
       {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
@@ -288,13 +295,6 @@
         "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
         "source": "The Conversation"
-      },
-      {
-        "title": "China, Poland’s Central Bank Gold Buying Spree Creates a $4K Price Floor - FXLeaders",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdml4U2hteDJhTndsZ0U5NlVHVmZrZ2cxS05FRWtlSUE3ck1lVmdLalBIaXY5ZXBsMEV3Yk11UEwwZ0ZYMm1lWXE5aGtoSXlNMmVzOHl6c2R5NmRKR3U5WURYT3FraE1HYVZmRGUxNWxHTGZ5dHM4N2dlQjFYc0RYd1JOUHVYR1haaElrazQ5dlJMeTFnVXd1MlltbHl6T2VDUm9VZzBsYlNMQS1aSThPclRn?oc=5",
-        "pubDate": "Sat, 03 Oct 2026 09:11:55 GMT",
-        "summary": "China, Poland’s Central Bank Gold Buying Spree Creates a $4K Price Floor FXLeaders",
-        "source": "FXLeaders"
       }
     ]
   },
