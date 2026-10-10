@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T22:37:27+00:00",
+  "fetched_at": "2026-10-10T05:10:33+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -54,6 +54,13 @@
         "source": "CoinDesk"
       },
       {
+        "title": "Global Weekly Commentary - Insights - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UX0xsZ1E3OWQydkhOUnBNUFNMaWd4aG9walJuekZQM05FQ1JFcGo2VXJCS1FlS3JDbkNjdGdGbXJQbVJjZUFqS3JoYzhFNVh5ODRDbHVFWUdRZnc3eXBfWVJLM2Qta3o3NzRLUTUtRmlRVTdYUnNGOA?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT",
+        "summary": "Global Weekly Commentary - Insights BlackRock",
+        "source": "BlackRock"
+      },
+      {
         "title": "2026 Global Outlook - Q2 Update - Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BeGhqRzgyTWhwcjQyZmkzaEppMWlMRG1DdUM4Y3pYN0pMajNlSWtTYlJxUkhQaG84ZFRmTXhuc19XSmt5VXhLRFMtekcyN2tMaDVBRTYyZ1BNRFAwMzhWRFA3eTdkMi1yaDV3WGgzSEFkTlN4VVZUZjJ3?oc=5",
         "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
@@ -61,18 +68,11 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount - Bitbo",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FR0RjMnJfRVFIajZ3SmYtQ0J0N1V1dklMaDBGS25hcktIWXVjQTZ3Tk9IelZ2dGpBNXFFanNma3pDNldfR0pwbXB5c19xRHZwakEwZXlwc0FBRV9uUmlJWg?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount Bitbo",
-        "source": "Bitbo"
-      },
-      {
-        "title": "A 2026 global macro outlook: Patience - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
+        "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - Alternatives Watch",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
+        "source": "Alternatives Watch"
       }
     ],
     "goldman": [
@@ -98,10 +98,10 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026 - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDZ2dUk3YUJGenFKNm9feDlCc3RxZU9jaXA0WkYxM21uY2dBVmpGXzVMVkQtSXpUbjNEVEJjSGY0M1ZWcExLZ0U1dFNfaVhRc3FSV0IwOXJRMWwwLXpkQTE5RWZvYXBIV1B3NVVvUTdscUlScm5id29aRnNXVEF1OU56T25qbnAwV3dVNUJTZDdaVF8tRHE1SExhb1g5TThkQ0tHbWxBNlI?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
-        "summary": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026 Goldman Sachs",
+        "title": "Are US Stock Market Valuations Outpacing Fundamentals? - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1LUGF1eHpVcVlORmRMWHlrS0x4My1FQ2lldWdQUHlxMXFTMkRSQlJUVzA5UDROeDdfNkpIVENuUUxGeFVSdlhnMHFBOVU4T0YzUnNNeC1HQ1lWaFdGZzJsemRMREdRR1Uzc0RrUnFTbWo1SnE1RDhGdVZnX0RZdG50XzVadGhZVkhZOTBCcWtURVpmNGpWV3VrSk96NnIyYkE?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+        "summary": "Are US Stock Market Valuations Outpacing Fundamentals? Goldman Sachs",
         "source": "Goldman Sachs"
       },
       {
@@ -142,11 +142,11 @@
         "source": "Institutional Investor"
       },
       {
-        "title": "Eye on the Market Outlook 2025: The Alchemists - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVpJS3p0OGRmRWY4TnZTLUFPYjFZR3RjNVhLNXR1VC1reGNJYUNwaUZvRjNveWpxZ3pINzkyTHBiYnBWTG5NbmRtSk8yY1FqVVowOEtZTGxJaG1VeW5jTU5QLWdOQTJ6VjI2d3BiVjhxZzFHclZRZ0hGOFBjb2RIRjRkMlRTUHhmVVlHa3Fzcw?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 12:40:17 GMT",
-        "summary": "Eye on the Market Outlook 2025: The Alchemists J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
+        "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
+        "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
+        "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
+        "source": "Fortune"
       }
     ],
     "ms": [
