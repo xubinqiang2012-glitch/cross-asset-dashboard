@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T05:10:33+00:00",
+  "fetched_at": "2026-10-10T12:11:10+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -54,13 +54,6 @@
         "source": "CoinDesk"
       },
       {
-        "title": "Global Weekly Commentary - Insights - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UX0xsZ1E3OWQydkhOUnBNUFNMaWd4aG9walJuekZQM05FQ1JFcGo2VXJCS1FlS3JDbkNjdGdGbXJQbVJjZUFqS3JoYzhFNVh5ODRDbHVFWUdRZnc3eXBfWVJLM2Qta3o3NzRLUTUtRmlRVTdYUnNGOA?oc=5",
-        "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT",
-        "summary": "Global Weekly Commentary - Insights BlackRock",
-        "source": "BlackRock"
-      },
-      {
         "title": "2026 Global Outlook - Q2 Update - Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BeGhqRzgyTWhwcjQyZmkzaEppMWlMRG1DdUM4Y3pYN0pMajNlSWtTYlJxUkhQaG84ZFRmTXhuc19XSmt5VXhLRFMtekcyN2tMaDVBRTYyZ1BNRFAwMzhWRFA3eTdkMi1yaDV3WGgzSEFkTlN4VVZUZjJ3?oc=5",
         "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
@@ -68,11 +61,18 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - Alternatives Watch",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
-        "source": "Alternatives Watch"
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount - Bitbo",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FR0RjMnJfRVFIajZ3SmYtQ0J0N1V1dklMaDBGS25hcktIWXVjQTZ3Tk9IelZ2dGpBNXFFanNma3pDNldfR0pwbXB5c19xRHZwakEwZXlwc0FBRV9uUmlJWg?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "summary": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount Bitbo",
+        "source": "Bitbo"
       }
     ],
     "goldman": [
@@ -276,6 +276,13 @@
         "source": "Kitco"
       },
       {
+        "title": "XAU/USD Forecast: Central Bank Gold Buying Spree Sets Stage for $4,500 Breakout - FXLeaders",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbEdJRzBkcXAtWjJSLWs3S05MMkJ2XzJLZ1hFQV9tMGEwVFRhNHBsTVZiY2hGVnU4TDctX0N5bkZEdi1MTWtzR29idzZvSW5YT1VUQ2dxYUNvRnFUck0yWG1zR0VBR3VMVlNad1NVY3JIMjFnRUUzR3hiYnJOazhoejlMSEx5Nks5c3JaSzJkVXNxQWVJRTBlLTFleXVjdWRxczE2VXdJOTJlc2d4V2F4ZF9pYVlJVTluNGhr?oc=5",
+        "pubDate": "Sat, 10 Oct 2026 08:49:58 GMT",
+        "summary": "XAU/USD Forecast: Central Bank Gold Buying Spree Sets Stage for $4,500 Breakout FXLeaders",
+        "source": "FXLeaders"
+      },
+      {
         "title": "Central Bank Gold Buying Remains a Long-Term Theme: Reserve Managers from Multiple Countries Interpret the Strategic Value of Gold - Moomoo",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3lwcUxGQ3h4R2lSa3VaNVJBVlNMa09BdjdHUnNzVlc4dmZKVjVVa0VNRmlaVUM1MXFJbThIU3FJcXdKOE1ZdTBhQTM3dmhwd1lvTUQ5d081YXNVaTlJdEFtVy1uV3J5d2hlUkVoYktXQTczeGdoZ1RrUTNTcmxGT0lFcTVDMzN3MUxqVHhjN1E4dUFqOEpEMFB2UGtSdzgtUWJfZg?oc=5",
         "pubDate": "Tue, 06 Oct 2026 23:30:08 GMT",
@@ -288,13 +295,6 @@
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
-      },
-      {
-        "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - The Conversation",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjU4ZF9OR3BwRGZDMzBJSnphN0JlUHRZNG5VTmxyS0tRTkRNR1VMM2FCRG5RV0dJRFllekNvZVZfYnJqZG95VGEzSEV2RDF2bUtERTBIQm8yb2NWakN3dk43UXVoZXZHRXdiWWx1OFF2NFAtc2RSRmg0aFdiekd6NmJwMWYtTl9ad0FSbnBvUUZMQ24xMWFmdE5ob1R1NnRKdVk3eVZ5ZmpLZTdFVjJTYll1eDZ4Y2V1?oc=5",
-        "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
-        "source": "The Conversation"
       }
     ]
   },
