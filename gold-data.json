@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-13T15:57:25+00:00",
+  "fetched_at": "2026-10-13T21:14:57+00:00",
   "values": {
-    "real_yield": 2.87
+    "real_yield": 2.91
   },
   "source_dates": {
-    "real_yield": "2026-10-08"
+    "real_yield": "2026-10-09"
   },
   "errors": {
-    "gold": "HTTP Error 404: Not Found",
-    "dxy": "HTTP Error 404: Not Found"
+    "gold": "<urlopen error timed out>",
+    "dxy": "<urlopen error timed out>"
   }
 }
