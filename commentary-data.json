@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T23:13:10+00:00",
+  "fetched_at": "2026-10-15T04:37:04+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -61,18 +61,18 @@
         "source": "Bitbo"
       },
       {
-        "title": "A 2026 global macro outlook: Patience - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
-      },
-      {
         "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - Alternatives Watch",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
+      },
+      {
+        "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFpjX1pWc1F2UEFQOWRsWlktb3E2QTZwT1c1YkVBSERtX3FxQVRjRXlvUF96WUFSaXRZdGpGSzJqY2Zhb0ZaSkpJUVd1WERmTkVNeE1TTk9abmtkbWJ6blJkRTE4dmtFdEhUQjY4aWxQNEdnTW1uTHRBOGlESGVkSE0yWTRwX0N0Ql9OcDEwT0ZWcTI2R0Rid1Vn?oc=5",
+        "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
+        "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
@@ -225,6 +225,13 @@
     ],
     "fed": [
       {
+        "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+        "pubDate": "Thu, 15 Oct 2026 02:55:00 GMT",
+        "summary": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand",
+        "source": ""
+      },
+      {
         "title": "Waller, The Signaling Value of the Summary of Economic Projections",
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
         "pubDate": "Thu, 8 Oct 2026 08:30:00 GMT",
@@ -250,13 +257,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
         "pubDate": "Thu, 1 Oct 2026 17:30:00 GMT",
         "summary": "Speech At the Darden School of Business, University of Virginia, Charlottesville, Virginia",
-        "source": ""
-      },
-      {
-        "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
-        "link": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
-        "pubDate": "Thu, 1 Oct 2026 14:00:00 GMT",
-        "summary": "Speech At Navigating Trust, AI and Storytelling in a World of Data, FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri",
         "source": ""
       }
     ],
