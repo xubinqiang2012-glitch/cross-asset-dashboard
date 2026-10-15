@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T16:59:25+00:00",
+  "fetched_at": "2026-10-15T21:21:40+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -54,6 +54,13 @@
         "source": "CoinDesk"
       },
       {
+        "title": "2026 Global Outlook - Q2 Update - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BeGhqRzgyTWhwcjQyZmkzaEppMWlMRG1DdUM4Y3pYN0pMajNlSWtTYlJxUkhQaG84ZFRmTXhuc19XSmt5VXhLRFMtekcyN2tMaDVBRTYyZ1BNRFAwMzhWRFA3eTdkMi1yaDV3WGgzSEFkTlN4VVZUZjJ3?oc=5",
+        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+        "summary": "2026 Global Outlook - Q2 Update Seeking Alpha",
+        "source": "Seeking Alpha"
+      },
+      {
         "title": "A 2026 global macro outlook: Patience - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
@@ -66,13 +73,6 @@
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
         "summary": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount Bitbo",
         "source": "Bitbo"
-      },
-      {
-        "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - Alternatives Watch",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
-        "source": "Alternatives Watch"
       }
     ],
     "goldman": [
@@ -216,11 +216,11 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
-        "source": "Livewire Markets"
+        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
+        "source": "IFA Magazine"
       }
     ],
     "fed": [
@@ -269,10 +269,10 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central Bank Gold Buying Surge Resumes! Fund Managers Predict Gold Prices to Hit New Highs Within 24 Months - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1Z0N0ZUV2F5RWZHMTlNUkF4LU1yVS1UOVZUVzM5ZHhVSkNWWEVDUlk0eklUOWxxWWZqNldLMVZoVEY3N1RaUllKY1NXUW5UNFZNbGZDTUJOYUxCc3FXeGwzc0xUTzRqdHhlMV9HT0tIVHdTaU5CbmJOVjUwYTZZMEMxc0R1VUtmdnFjZ3NqZE16UkF1MWp0WkhYMVE1eDZyaUQxTnFUcmZtSkFLMWc?oc=5",
-        "pubDate": "Thu, 15 Oct 2026 09:08:27 GMT",
-        "summary": "Central Bank Gold Buying Surge Resumes! Fund Managers Predict Gold Prices to Hit New Highs Within 24 Months Moomoo",
+        "title": "World Gold Council's provisional data for September hit a two-year high; can the pace of official gold purchases be sustained? - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzJ3MFNkQ1dTcjRYemdyYU4wVWYxU1ZOUnc3enUydm5vRVM5ckZ6MTA4aWN0X1JXM2Q2aWVFTDdBOE05VERvSW5QVlV2SlBPTkJvRFp1RVpDT2NXSTh3b0ZDNUZEb3BmRXY0TU9rQkdFUFUzcTNoNE02TzMwZ3I1Q1VOc2E5bWtpWVVUZ3dWZlJxZjc3WkxuOHlWSVN0UFhZRGVB?oc=5",
+        "pubDate": "Thu, 15 Oct 2026 08:32:36 GMT",
+        "summary": "World Gold Council's provisional data for September hit a two-year high; can the pace of official gold purchases be sustained? Moomoo",
         "source": "Moomoo"
       },
       {
