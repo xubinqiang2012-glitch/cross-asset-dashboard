@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T11:27:07+00:00",
+  "fetched_at": "2026-10-15T16:59:25+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,8 +41,8 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 12 Oct 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
+        "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT",
         "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       },
@@ -91,10 +91,10 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
-        "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
+        "title": "Market Know-How 4Q 2026: Yield Ahead - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56QlRSLUFNR0lra0dabzgxMTJwWkZRZzh4YnpLUFVncm0xSkZWN0pkaUpjdGY1MGtrVnJpR2gxQVkzNFhCMHJTcXItZk5KQUhBRkdZS0x5VzNMTXp3OEptRWxrWjBTTUdNZk83NVh3VlZRSU0?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
+        "summary": "Market Know-How 4Q 2026: Yield Ahead Goldman Sachs Asset Management",
         "source": "Goldman Sachs Asset Management"
       },
       {
@@ -216,11 +216,11 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
-        "source": "IFA Magazine"
+        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
+        "source": "Livewire Markets"
       }
     ],
     "fed": [
@@ -262,11 +262,18 @@
     ],
     "wgc": [
       {
-        "title": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FISHMxN1ZCSUQwdE9kQVhva1hiRzludFBBOU03aHd0MjdlcldFZDhwUWNjcWl1d25wNUdBa1VpMkpKMjI3YnROUndkT1FjTUxWQnhpUFhULWZjN01IdE8zT2JFUmVTWGJfdTMyc1VaVWRiSWQ1MldyMGRVcmhQTzh5Z0pPT3FDeVMtdTJYbko3WVV0cWJKT3NSV2ZlT29BVUNhSnNvejlDSFhFSjRFeWpsN3BjVzBUeFBj?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights World Gold Council",
+        "title": "China gold market update: Q3 ends with strong official gold buying | Post by Ray Jia | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckgzTVVVNEdtcjU3d0EtWWVybTYwN0ZuUndKZXRhOUFQMDhMTGROOFVXWTBMb1FuTkVvUktrWmJKUnlfT21lbEFzdVZ2SDI3MHFGdGdOQmNMSG9CZGpzYXJyOWxaeWVmaG5IN0ZvekdDUnczMXJvSGdHWFpTQXlmZ18xZ3ZLNmxqOGNqdUVMcDBodFM3TWJfcnd3cGx3TjlsTFdQWmN3WlBqb3hH?oc=5",
+        "pubDate": "Thu, 15 Oct 2026 07:52:28 GMT",
+        "summary": "China gold market update: Q3 ends with strong official gold buying | Post by Ray Jia | Insights World Gold Council",
         "source": "World Gold Council"
+      },
+      {
+        "title": "Central Bank Gold Buying Surge Resumes! Fund Managers Predict Gold Prices to Hit New Highs Within 24 Months - Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1Z0N0ZUV2F5RWZHMTlNUkF4LU1yVS1UOVZUVzM5ZHhVSkNWWEVDUlk0eklUOWxxWWZqNldLMVZoVEY3N1RaUllKY1NXUW5UNFZNbGZDTUJOYUxCc3FXeGwzc0xUTzRqdHhlMV9HT0tIVHdTaU5CbmJOVjUwYTZZMEMxc0R1VUtmdnFjZ3NqZE16UkF1MWp0WkhYMVE1eDZyaUQxTnFUcmZtSkFLMWc?oc=5",
+        "pubDate": "Thu, 15 Oct 2026 09:08:27 GMT",
+        "summary": "Central Bank Gold Buying Surge Resumes! Fund Managers Predict Gold Prices to Hit New Highs Within 24 Months Moomoo",
+        "source": "Moomoo"
       },
       {
         "title": "Central Bank Gold Buying Hits Two-Year High, Fueling Record-Price Bets - Seoul Economic Daily",
@@ -276,10 +283,10 @@
         "source": "Seoul Economic Daily"
       },
       {
-        "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights World Gold Council",
+        "title": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FISHMxN1ZCSUQwdE9kQVhva1hiRzludFBBOU03aHd0MjdlcldFZDhwUWNjcWl1d25wNUdBa1VpMkpKMjI3YnROUndkT1FjTUxWQnhpUFhULWZjN01IdE8zT2JFUmVTWGJfdTMyc1VaVWRiSWQ1MldyMGRVcmhQTzh5Z0pPT3FDeVMtdTJYbko3WVV0cWJKT3NSV2ZlT29BVUNhSnNvejlDSFhFSjRFeWpsN3BjVzBUeFBj?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
+        "summary": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
       },
       {
@@ -288,13 +295,6 @@
         "pubDate": "Tue, 06 Oct 2026 14:19:00 GMT",
         "summary": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council Kitco",
         "source": "Kitco"
-      },
-      {
-        "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - The Conversation",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjU4ZF9OR3BwRGZDMzBJSnphN0JlUHRZNG5VTmxyS0tRTkRNR1VMM2FCRG5RV0dJRFllekNvZVZfYnJqZG95VGEzSEV2RDF2bUtERTBIQm8yb2NWakN3dk43UXVoZXZHRXdiWWx1OFF2NFAtc2RSRmg0aFdiekd6NmJwMWYtTl9ad0FSbnBvUUZMQ24xMWFmdE5ob1R1NnRKdVk3eVZ5ZmpLZTdFVjJTYll1eDZ4Y2V1?oc=5",
-        "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
-        "source": "The Conversation"
       }
     ]
   },
