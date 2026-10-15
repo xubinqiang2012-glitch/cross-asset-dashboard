@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T04:37:04+00:00",
+  "fetched_at": "2026-10-15T11:27:07+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -54,6 +54,13 @@
         "source": "CoinDesk"
       },
       {
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
+        "source": "BlackRock"
+      },
+      {
         "title": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount - Bitbo",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FR0RjMnJfRVFIajZ3SmYtQ0J0N1V1dklMaDBGS25hcktIWXVjQTZ3Tk9IelZ2dGpBNXFFanNma3pDNldfR0pwbXB5c19xRHZwakEwZXlwc0FBRV9uUmlJWg?oc=5",
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
@@ -66,21 +73,14 @@
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
         "source": "Alternatives Watch"
-      },
-      {
-        "title": "'Micro Is Now Macro,' BlackRock's Li Says - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFpjX1pWc1F2UEFQOWRsWlktb3E2QTZwT1c1YkVBSERtX3FxQVRjRXlvUF96WUFSaXRZdGpGSzJqY2Zhb0ZaSkpJUVd1WERmTkVNeE1TTk9abmtkbWJ6blJkRTE4dmtFdEhUQjY4aWxQNEdnTW1uTHRBOGlESGVkSE0yWTRwX0N0Ql9OcDEwT0ZWcTI2R0Rid1Vn?oc=5",
-        "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
-        "summary": "'Micro Is Now Macro,' BlackRock's Li Says Bloomberg.com",
-        "source": "Bloomberg.com"
       }
     ],
     "goldman": [
       {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
-        "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
+        "title": "US Market Pulse October 2026 - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
+        "summary": "US Market Pulse October 2026 Goldman Sachs Asset Management",
         "source": "Goldman Sachs Asset Management"
       },
       {
@@ -91,10 +91,10 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "US Market Pulse October 2026 - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
-        "summary": "US Market Pulse October 2026 Goldman Sachs Asset Management",
+        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
+        "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
         "source": "Goldman Sachs Asset Management"
       },
       {
@@ -269,6 +269,20 @@
         "source": "World Gold Council"
       },
       {
+        "title": "Central Bank Gold Buying Hits Two-Year High, Fueling Record-Price Bets - Seoul Economic Daily",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVkxkZXBZN2tISEZjVl9KQTBPa1RTRVd6MHhWUlVkNG5STXJYOGZHVVlXYmdzMmQyQ1J0anB1SHhiQ1dvcWtJTWtKZUU4SHpvX2hBcnlyYVBoem5odzkzOUdpME1QLUJZRy13R0ducHJKZHdfZzB3eXVvMUZBaWp6QU1mWWFObjZoeG5XdXlxUlRqa0I1UHVHTDdrUHNMU0V0QUE?oc=5",
+        "pubDate": "Thu, 15 Oct 2026 07:31:17 GMT",
+        "summary": "Central Bank Gold Buying Hits Two-Year High, Fueling Record-Price Bets Seoul Economic Daily",
+        "source": "Seoul Economic Daily"
+      },
+      {
+        "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
+        "summary": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
         "title": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council - Kitco",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEJFR3YwV0p1YTlSd0VUUTRLNzBGUlBQeXNOTVBmbWNzN1ZhaXZjU2RZSmN0aUZQelNTUERyVWlQMkYxVDFNcjRXT0lvM1FmQUk2Rld6TDVQWktGdEZpN0JTQkVzekJGOTU0MFdqTUF5SUVZOGVxMDJibTY3YjJtNV95QlplaHlnTTA5cThSYkhrQU5SWWlTNXhyUkJ3cF9aM3NCS0UxRU4xQ096TVNxQUwxdTFYM3Jh?oc=5",
         "pubDate": "Tue, 06 Oct 2026 14:19:00 GMT",
@@ -276,25 +290,11 @@
         "source": "Kitco"
       },
       {
-        "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
         "title": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? - The Conversation",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjU4ZF9OR3BwRGZDMzBJSnphN0JlUHRZNG5VTmxyS0tRTkRNR1VMM2FCRG5RV0dJRFllekNvZVZfYnJqZG95VGEzSEV2RDF2bUtERTBIQm8yb2NWakN3dk43UXVoZXZHRXdiWWx1OFF2NFAtc2RSRmg0aFdiekd6NmJwMWYtTl9ad0FSbnBvUUZMQ24xMWFmdE5ob1R1NnRKdVk3eVZ5ZmpLZTdFVjJTYll1eDZ4Y2V1?oc=5",
         "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold holdings are at a 50-year high. What’s behind the jump in reserves? The Conversation",
         "source": "The Conversation"
-      },
-      {
-        "title": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Business News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObndTM2cyVF9CZGE4bXdvRXFHVTc0aUpKVnVTazBDSFFqeWt6aHg0aFFTVURvUGFCZnIzZk1EVU1udkh6QmlObjZJdnpRazhWZHJQS01MWHpmbDkwZVVJMlVBanRzRlJNV2p2RmR3Mi1Gc1NMYi1XRkZOZ1hiWk9HMjFnRmc5MDlpSjhHb2VYTWtVZEVLaEZxem9GTXA?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey Mexico Business News",
-        "source": "Mexico Business News"
       }
     ]
   },
