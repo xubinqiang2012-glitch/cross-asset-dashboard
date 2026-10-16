@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T21:21:40+00:00",
+  "fetched_at": "2026-10-16T00:23:50+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -54,13 +54,6 @@
         "source": "CoinDesk"
       },
       {
-        "title": "2026 Global Outlook - Q2 Update - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BeGhqRzgyTWhwcjQyZmkzaEppMWlMRG1DdUM4Y3pYN0pMajNlSWtTYlJxUkhQaG84ZFRmTXhuc19XSmt5VXhLRFMtekcyN2tMaDVBRTYyZ1BNRFAwMzhWRFA3eTdkMi1yaDV3WGgzSEFkTlN4VVZUZjJ3?oc=5",
-        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-        "summary": "2026 Global Outlook - Q2 Update Seeking Alpha",
-        "source": "Seeking Alpha"
-      },
-      {
         "title": "A 2026 global macro outlook: Patience - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
@@ -73,6 +66,13 @@
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
         "summary": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount Bitbo",
         "source": "Bitbo"
+      },
+      {
+        "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - Alternatives Watch",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
+        "source": "Alternatives Watch"
       }
     ],
     "goldman": [
@@ -98,18 +98,18 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026 - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDZ2dUk3YUJGenFKNm9feDlCc3RxZU9jaXA0WkYxM21uY2dBVmpGXzVMVkQtSXpUbjNEVEJjSGY0M1ZWcExLZ0U1dFNfaVhRc3FSV0IwOXJRMWwwLXpkQTE5RWZvYXBIV1B3NVVvUTdscUlScm5id29aRnNXVEF1OU56T25qbnAwV3dVNUJTZDdaVF8tRHE1SExhb1g5TThkQ0tHbWxBNlI?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
-        "summary": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026 Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
         "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
         "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
         "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
         "source": "Sporting Goods Intelligence Europe"
+      },
+      {
+        "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
+        "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+        "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
+        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
@@ -216,11 +216,11 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO - IFA Magazine",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1pIUmF1Sk1QMVktdU9zZVVIdEJpVzVyWVpFUWNHMndlR1o0Y280UGpTMTBmbGlrQWgtLXdoUV9NbmhrbjJTaEs2Y1ZXTEw4WnZlZTFKNkFjRnlvUHI0MkdVR0FGUEo0OEgyWmo5RkprS1FXUDFDVVExREhhX2daOW16RUNoOXpheFBHNFlScldNMllUTG9MV3dGeUg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Macro signposts: U.S. inflation measures tell two different stories | PIMCO IFA Magazine",
-        "source": "IFA Magazine"
+        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
+        "source": "Livewire Markets"
       }
     ],
     "fed": [
@@ -276,18 +276,18 @@
         "source": "Moomoo"
       },
       {
-        "title": "Central Bank Gold Buying Hits Two-Year High, Fueling Record-Price Bets - Seoul Economic Daily",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVkxkZXBZN2tISEZjVl9KQTBPa1RTRVd6MHhWUlVkNG5STXJYOGZHVVlXYmdzMmQyQ1J0anB1SHhiQ1dvcWtJTWtKZUU4SHpvX2hBcnlyYVBoem5odzkzOUdpME1QLUJZRy13R0ducHJKZHdfZzB3eXVvMUZBaWp6QU1mWWFObjZoeG5XdXlxUlRqa0I1UHVHTDdrUHNMU0V0QUE?oc=5",
-        "pubDate": "Thu, 15 Oct 2026 07:31:17 GMT",
-        "summary": "Central Bank Gold Buying Hits Two-Year High, Fueling Record-Price Bets Seoul Economic Daily",
-        "source": "Seoul Economic Daily"
-      },
-      {
         "title": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FISHMxN1ZCSUQwdE9kQVhva1hiRzludFBBOU03aHd0MjdlcldFZDhwUWNjcWl1d25wNUdBa1VpMkpKMjI3YnROUndkT1FjTUxWQnhpUFhULWZjN01IdE8zT2JFUmVTWGJfdTMyc1VaVWRiSWQ1MldyMGRVcmhQTzh5Z0pPT3FDeVMtdTJYbko3WVV0cWJKT3NSV2ZlT29BVUNhSnNvejlDSFhFSjRFeWpsN3BjVzBUeFBj?oc=5",
         "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
         "summary": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
+      },
+      {
+        "title": "Central Bank Gold Buying Hits Two-Year High, Fueling Record-Price Bets - Seoul Economic Daily",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVkxkZXBZN2tISEZjVl9KQTBPa1RTRVd6MHhWUlVkNG5STXJYOGZHVVlXYmdzMmQyQ1J0anB1SHhiQ1dvcWtJTWtKZUU4SHpvX2hBcnlyYVBoem5odzkzOUdpME1QLUJZRy13R0ducHJKZHdfZzB3eXVvMUZBaWp6QU1mWWFObjZoeG5XdXlxUlRqa0I1UHVHTDdrUHNMU0V0QUE?oc=5",
+        "pubDate": "Thu, 15 Oct 2026 07:31:17 GMT",
+        "summary": "Central Bank Gold Buying Hits Two-Year High, Fueling Record-Price Bets Seoul Economic Daily",
+        "source": "Seoul Economic Daily"
       },
       {
         "title": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council - Kitco",
