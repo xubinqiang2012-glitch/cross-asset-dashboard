@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T13:14:50+00:00",
+  "fetched_at": "2026-10-16T18:03:07+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -54,13 +54,6 @@
         "source": "CoinDesk"
       },
       {
-        "title": "2026 Global Outlook - Q2 Update - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BeGhqRzgyTWhwcjQyZmkzaEppMWlMRG1DdUM4Y3pYN0pMajNlSWtTYlJxUkhQaG84ZFRmTXhuc19XSmt5VXhLRFMtekcyN2tMaDVBRTYyZ1BNRFAwMzhWRFA3eTdkMi1yaDV3WGgzSEFkTlN4VVZUZjJ3?oc=5",
-        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-        "summary": "2026 Global Outlook - Q2 Update Seeking Alpha",
-        "source": "Seeking Alpha"
-      },
-      {
         "title": "A 2026 global macro outlook: Patience - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
         "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
@@ -73,6 +66,13 @@
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
         "summary": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount Bitbo",
         "source": "Bitbo"
+      },
+      {
+        "title": "BlackRock outlines 2026’s expanding opportunity set for hedge funds - Alternatives Watch",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3M2Q3Y4U1ZQaFdjRUQ5SW13b2t4WmFIczBRQnRkckJPR2d4amVJb2xwcTQ3anJuR1dPY252aVlUTzltdDVyT2RyeWRuYVhYMklmaHFmZEI1Q0Z3YVFEV3VnWHFYcHQ3VDFwVlltdVRWV1NaZDZEaEVhdThJaFdNSEZHbV9ZQmxYVU5UenpsdTY4X2hGZXNPQ2NKREdMdWR2aFBPdQ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "summary": "BlackRock outlines 2026’s expanding opportunity set for hedge funds Alternatives Watch",
+        "source": "Alternatives Watch"
       }
     ],
     "goldman": [
