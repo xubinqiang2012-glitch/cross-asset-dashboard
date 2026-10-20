@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T11:34:29+00:00",
+  "fetched_at": "2026-10-20T17:01:53+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,9 +41,16 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Tue, 20 Oct 2026 05:03:20 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
+        "pubDate": "Sun, 18 Oct 2026 07:00:00 GMT",
         "summary": "Weekly market commentary BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
         "source": "BlackRock"
       },
       {
@@ -61,11 +68,11 @@
         "source": "Beinsure"
       },
       {
-        "title": "A 2026 global macro outlook: Patience - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
+        "title": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount - Bitbo",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FR0RjMnJfRVFIajZ3SmYtQ0J0N1V1dklMaDBGS25hcktIWXVjQTZ3Tk9IelZ2dGpBNXFFanNma3pDNldfR0pwbXB5c19xRHZwakEwZXlwc0FBRV9uUmlJWg?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "summary": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount Bitbo",
+        "source": "Bitbo"
       }
     ],
     "goldman": [
@@ -188,13 +195,6 @@
         "source": "Morningstar"
       },
       {
-        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
-        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
-        "source": "Wealth Professional"
-      },
-      {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
@@ -207,6 +207,13 @@
         "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
         "summary": "PDI: The Valuation Premium Just Became A Discount (NYSE:PDI) Seeking Alpha",
         "source": "Seeking Alpha"
+      },
+      {
+        "title": "AI debt flood is stoking bond yields, Pimco says - Taipei Times",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05UlBueTlhQUljVWJJU0ZkU1hJSFJvU1VqMkxhMHMtMTB3TkptczhYMVZ2ZHBKaWptdG92S0Npa3lWZnpBazByaDlXX3ZqVFA2ZWxMN3Z1VHBvTmNaTGR6czlpQVYxNHNqUlJLYmZ5c0RXempzMkE?oc=5",
+        "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT",
+        "summary": "AI debt flood is stoking bond yields, Pimco says Taipei Times",
+        "source": "Taipei Times"
       },
       {
         "title": "Nordics Denmark Institutional Forum 2025: Structural Shifts in a New Macro Regime - Markets Group",
@@ -255,18 +262,18 @@
     ],
     "wgc": [
       {
+        "title": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWEzUjIwdDM4SThRaE93WDdjSWdGbjVyZXVEdnIzYXNyMG9WYjJPdHZVelVzelVYQXVyaTg1NHRfRVZaMks1QkVxNWR2eGI5Wm8zTHc5OTZBZkFPV0FFaHhxYkhYRTBfWmFlVDNjX2J4eTJwczhUSi1ZSHZ2aXp5bDNvZ19VVWpwYzFqbS0wOUozWmhIU24zRFZTdnNFY19HdFhCUDl0ZmNyUWNKREE?oc=5",
+        "pubDate": "Tue, 20 Oct 2026 08:09:02 GMT",
+        "summary": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
         "title": "Central Bank Gold Buying: Why 39 Tonnes Matters - GoldSilver",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHh1Vm1rbFRVa1NFX2xqZVQ1TEs5dDVxRlVPaWFJSmR2aF9pWm1oVmZUcENCem1RQ3ZIQ05INmQ2aXp6RHJXQlZwTDFSUkVpb21aU2ZnendvU1E3LXROOEhwRW5oaTNSc045bktwMTlqTk85WDZtTXlrdGdxTFYtZlBvVGNPQ3NNSmZwRGZuZEYzcmZ2aVNPR1hBM09abk5UNXpkdG53?oc=5",
         "pubDate": "Sat, 17 Oct 2026 01:51:27 GMT",
         "summary": "Central Bank Gold Buying: Why 39 Tonnes Matters GoldSilver",
         "source": "GoldSilver"
-      },
-      {
-        "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
       },
       {
         "title": "Poland and China Lead Central Bank Gold Buying Surge in 2026 - The Fintech Times",
@@ -276,18 +283,18 @@
         "source": "The Fintech Times"
       },
       {
+        "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
+        "summary": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
         "title": "Bolivia ends central bank gold purchases, eases export controls - Mining.com.au",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVUt0OEhkMG9zWktScXZKbEo4YUVycElBdXNjYW9LeFJmR0FfMG0yOUUxQUhDQjE4Wkc1U2ROdDhySzhZTVlaaWthUko2OWtRQTR1VVBzYlVhY29ialhKZ0cxX3dtVU5mOHFqblQ0WUs2RXNkVlVEekhySWJlTHlyNnhzRnRucDJzaFl1Tjd3?oc=5",
         "pubDate": "Fri, 16 Oct 2026 20:34:45 GMT",
         "summary": "Bolivia ends central bank gold purchases, eases export controls Mining.com.au",
         "source": "Mining.com.au"
-      },
-      {
-        "title": "China gold market update: Q3 ends with strong official gold buying | Post by Ray Jia | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckgzTVVVNEdtcjU3d0EtWWVybTYwN0ZuUndKZXRhOUFQMDhMTGROOFVXWTBMb1FuTkVvUktrWmJKUnlfT21lbEFzdVZ2SDI3MHFGdGdOQmNMSG9CZGpzYXJyOWxaeWVmaG5IN0ZvekdDUnczMXJvSGdHWFpTQXlmZ18xZ3ZLNmxqOGNqdUVMcDBodFM3TWJfcnd3cGx3TjlsTFdQWmN3WlBqb3hH?oc=5",
-        "pubDate": "Thu, 15 Oct 2026 07:52:28 GMT",
-        "summary": "China gold market update: Q3 ends with strong official gold buying | Post by Ray Jia | Insights World Gold Council",
-        "source": "World Gold Council"
       }
     ]
   },
