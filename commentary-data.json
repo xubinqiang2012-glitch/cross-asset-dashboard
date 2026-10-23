@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T13:25:17+00:00",
+  "fetched_at": "2026-10-23T18:20:05+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -61,18 +61,18 @@
         "source": "CoinDesk"
       },
       {
+        "title": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook - Beinsure",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0taVc4Q1pSLU80SF9IcXItd1prVkdSMjBld1c1Z1l2bWJ3MUhKREZSVUNCSm1jdmRaZ2FXZXpkREpncGw1VHZIeWtOejRTOE9TZHdNY1U0TmZDLWNHZ25jMkxyVGh4bmJjZWZxZFRwSE55SW11TlE?oc=5",
+        "pubDate": "Sat, 21 Feb 2026 08:00:00 GMT",
+        "summary": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook Beinsure",
+        "source": "Beinsure"
+      },
+      {
         "title": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount - Bitbo",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FR0RjMnJfRVFIajZ3SmYtQ0J0N1V1dklMaDBGS25hcktIWXVjQTZ3Tk9IelZ2dGpBNXFFanNma3pDNldfR0pwbXB5c19xRHZwakEwZXlwc0FBRV9uUmlJWg?oc=5",
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
         "summary": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount Bitbo",
         "source": "Bitbo"
-      },
-      {
-        "title": "A 2026 global macro outlook: Patience - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
       }
     ],
     "goldman": [
@@ -195,13 +195,6 @@
         "source": "Morningstar"
       },
       {
-        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
-        "source": "Bloomberg.com"
-      },
-      {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
@@ -209,18 +202,25 @@
         "source": "CNBC"
       },
       {
-        "title": "PDI: The Valuation Premium Just Became A Discount (NYSE:PDI) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1RaOFdLalFUVThFdVVKRXF1aHFmejNwTDdQOGJJMDNuSFlpRWdlckI3VFowTHV0MnhxM2FwZkgyQ241Z2c4aF94WF9tTURaSDBUNVlYeXhOeHdZWE5oT3VfOG9zRkZDd3FRVlhRbHBDbzRhRVpSRHR5VkI4ZmhHaHV6NGpZRWNiRG9yRGNVN1FBLWM?oc=5",
-        "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-        "summary": "PDI: The Valuation Premium Just Became A Discount (NYSE:PDI) Seeking Alpha",
-        "source": "Seeking Alpha"
+        "title": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies - Funds Society",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmE2VVJrc3RGZ2E2TTZrbmxEWTRQczhkaFBZdXp0aUtqN0xmSjkyMzNIekdGSkR6NGw0NkZXZU9FbXNWOHBxTDlDRTAzU3hnWjl2eWdnR1V0OXZZYnJ4WmplX2N0WEVlV1k0RG9mSk9nUExFTFlKRlRMcncxQVVUQlAxTlNjaHZQZG80eFhNME9TN0QwSkxGR00wNlZmMl8tRGZvNlROQVBWVFZzaVFRNnhOaERXYU0?oc=5",
+        "pubDate": "Thu, 14 Dec 2023 08:00:00 GMT",
+        "summary": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies Funds Society",
+        "source": "Funds Society"
       },
       {
-        "title": "Nordics Denmark Institutional Forum 2025: Structural Shifts in a New Macro Regime - Markets Group",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkZ6MWI5NTgtemN4blVwWm11U25IckNRdEExczMxRWw0N2RjSTRzb2d2TmdCQUFmbUtHanVUZXdDN2tQdnZzVWxhSGg5RDU1YUctUGloY21QeXNwbng4WVVqX3o0V1hVOEd6UEliTTVxdGY1SW5FT2dxcGFiOWdKRVFvbExhdHU2V2oweGU0ckdmMWZ2aHZtQlV1d2FYTDVOQUJkZ0FSbU9lNm1oaURuZ1dR?oc=5",
-        "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT",
-        "summary": "Nordics Denmark Institutional Forum 2025: Structural Shifts in a New Macro Regime Markets Group",
-        "source": "Markets Group"
+        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "How the world's biggest bond managers are investing in a tumultuous market - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXp6bkk4UG1DMzdvTEhNb0Y2cGRGaVpZRFpIejg5TmtqVWpxRGtRTWZKY2wwWE5zVDhOMUhKVm5ZMTZDQWRVb2ZZZ3BuZzUwMlRiQWgwNEthZk0tQ2pYcFBmSlhMYzN3Mkg5VWNMaXY3X2hNc1d1MDBJVklYTURqVFdCUDJsZGFBWkdEejJMZmNaUVd5c1NxXzJ6cTlUd3FZUXZtNmFwNGwweC1jdTMwbUpGR0lxQQ?oc=5",
+        "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT",
+        "summary": "How the world's biggest bond managers are investing in a tumultuous market Reuters",
+        "source": "Reuters"
       }
     ],
     "fed": [
@@ -283,18 +283,18 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Poland and China Lead Central Bank Gold Buying Surge in 2026 - The Fintech Times",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVYyVV9zQXRITE1TQ1FGNk5nQ3VVSlJlQTVZV3pocXZDSC02M3R2TzVKNndBNUNMSVJ5Z29jVkduMHJQSDNlRFo4QWVyb2pTcUYxcWRKTXM4c2ZzTUNOY29VYzVqUE9CbWNOOVFBaUJIVW1rbllLTi1nZEwwWDdYQTd3TWpIVnNMMndiNFpsM0xzZGM?oc=5",
-        "pubDate": "Sun, 18 Oct 2026 07:00:52 GMT",
-        "summary": "Poland and China Lead Central Bank Gold Buying Surge in 2026 The Fintech Times",
-        "source": "The Fintech Times"
-      },
-      {
         "title": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council - Kitco",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEJFR3YwV0p1YTlSd0VUUTRLNzBGUlBQeXNOTVBmbWNzN1ZhaXZjU2RZSmN0aUZQelNTUERyVWlQMkYxVDFNcjRXT0lvM1FmQUk2Rld6TDVQWktGdEZpN0JTQkVzekJGOTU0MFdqTUF5SUVZOGVxMDJibTY3YjJtNV95QlplaHlnTTA5cThSYkhrQU5SWWlTNXhyUkJ3cF9aM3NCS0UxRU4xQ096TVNxQUwxdTFYM3Jh?oc=5",
         "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
         "summary": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council Kitco",
         "source": "Kitco"
+      },
+      {
+        "title": "Poland and China Lead Central Bank Gold Buying Surge in 2026 - The Fintech Times",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVYyVV9zQXRITE1TQ1FGNk5nQ3VVSlJlQTVZV3pocXZDSC02M3R2TzVKNndBNUNMSVJ5Z29jVkduMHJQSDNlRFo4QWVyb2pTcUYxcWRKTXM4c2ZzTUNOY29VYzVqUE9CbWNOOVFBaUJIVW1rbllLTi1nZEwwWDdYQTd3TWpIVnNMMndiNFpsM0xzZGM?oc=5",
+        "pubDate": "Sun, 18 Oct 2026 07:00:52 GMT",
+        "summary": "Poland and China Lead Central Bank Gold Buying Surge in 2026 The Fintech Times",
+        "source": "The Fintech Times"
       }
     ]
   },
