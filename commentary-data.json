@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T20:29:20+00:00",
+  "fetched_at": "2026-10-25T03:59:32+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,16 +41,9 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
+        "pubDate": "Sun, 18 Oct 2026 07:00:00 GMT",
         "summary": "Weekly market commentary BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "Fall Macro Outlook: Supply in Capital Markets 101 - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmxXZVMyYVN2TzhDSFJac1JDa1U1eC1HR0Y3Y3RTU0VEZ2wwNUlWOGJseGNxN3BnOUpzYk4tbUZ6N0oyd3ZOOTFDdWt1aVdlcThnV1B2YXVXdnBjQ1BRa1o5T0xXUFV4NVhzbGdzbTA4c2x0ZkxTYS1ramVqMDdtMDBvVQ?oc=5",
-        "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
-        "summary": "Fall Macro Outlook: Supply in Capital Markets 101 BlackRock",
         "source": "BlackRock"
       },
       {
@@ -61,10 +54,24 @@
         "source": "BlackRock"
       },
       {
-        "title": "Market Outlook April 2026: Get Paid to Wait - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
+        "title": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeVViQUZKNXVtcERHZ2NkcThSQmFTeXFsUXJ4aXJKMVA2ZmNJcVhQbDBqR2dQMlZZZzNjckd4dERxV1F0MV9CZkNqY0RtRzgxTzZ1R3JJOTVfTjhpNFIyRHFTa0pkSEhEYXpkSUx5cFd1WTQzb2Q2NmY4VGdveWxwbndhQzQ2NzZrM2QzTlUza1hKOUN2MURRb2NjQXhqMUE3bzlJbTktOFdrVFRqQ1VQYnNNb1pxTDZ0NGJCN2NJZlNOdHBVakVQUGlQcmx6Und3MnUwTmx5X254aTZJX0FuVHB3?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "summary": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT CoinDesk",
+        "source": "CoinDesk"
+      },
+      {
+        "title": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook - Beinsure",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0taVc4Q1pSLU80SF9IcXItd1prVkdSMjBld1c1Z1l2bWJ3MUhKREZSVUNCSm1jdmRaZ2FXZXpkREpncGw1VHZIeWtOejRTOE9TZHdNY1U0TmZDLWNHZ25jMkxyVGh4bmJjZWZxZFRwSE55SW11TlE?oc=5",
+        "pubDate": "Sat, 21 Feb 2026 08:00:00 GMT",
+        "summary": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook Beinsure",
+        "source": "Beinsure"
+      },
+      {
+        "title": "Fall Macro Outlook: Supply in Capital Markets 101 - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmxXZVMyYVN2TzhDSFJac1JDa1U1eC1HR0Y3Y3RTU0VEZ2wwNUlWOGJseGNxN3BnOUpzYk4tbUZ6N0oyd3ZOOTFDdWt1aVdlcThnV1B2YXVXdnBjQ1BRa1o5T0xXUFV4NVhzbGdzbTA4c2x0ZkxTYS1ramVqMDdtMDBvVQ?oc=5",
+        "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
+        "summary": "Fall Macro Outlook: Supply in Capital Markets 101 BlackRock",
         "source": "BlackRock"
       }
     ],
@@ -144,25 +151,18 @@
     ],
     "ms": [
       {
+        "title": "Fixed Income and Markets Dispersion - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWhTQXRSN3pXejM0Ny1uZWh3MTFscWJWcy11U0NuYklwOTU3RTF6YkVpVU9Qa1RZTWxZMjVhZGdHdWZzT1lNMU41Z2lyLU9fQmxzczkyb2c0RTZnbVhvTXQ3VW1mRkctRzFLNlhac1d6OVBUSVNRSndOdmdTUXZjbVlJTmNVQWloaWNiR0ZHdHhITGx5OE9hdEktMjVLMzdLanlJV2dCSQ?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "summary": "Fixed Income and Markets Dispersion Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
         "title": "AI Momentum Bolsters Global Markets - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUhna3M4eVBPZkRlSHNuRl9MalhjWXJXN3M5QVNmVDJ1enhaZzdYOHg3WmlFNjdsMkxwNkhMakV6N3FEcUZyYkRER1ZSR2J5QVVuTHdWZzJ3SHJVWEJuUUw3SXNOZU5pSzVWdXREYTZ2WnlKUmdlMVpGMTdaTHFvRi1EUllqZw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
         "summary": "AI Momentum Bolsters Global Markets Morgan Stanley",
         "source": "Morgan Stanley"
-      },
-      {
-        "title": "AI Booms Supports Economic Growth - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
-        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "AI Booms Supports Economic Growth Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "'Hotter but shorter' macro cycles fuel shift to large-cap quality - Mike Wilson (SPY:NYSEARCA) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFF1eHROWkNKSmkxMURHSHVvX2FPNmlVdFdrUzNHU1hXSXU0bkw0Y1VsV3lTbUM5OTc1enBNZWdaVlFlT3hocGRzVi1NMnZ5cnVGN3lkQURXTlM3S19IUWxKejRsRXJLTjVkMzhxZ0htblE1UXVFSnZRRWFZLXZWU2p2TW1aTm9VX1Zwc3lhRG1sSWVGRHFucDA0SDVvUzBVc0luZm1UNXAtM1pTdkFiNHVhTQ?oc=5",
-        "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT",
-        "summary": "'Hotter but shorter' macro cycles fuel shift to large-cap quality - Mike Wilson (SPY:NYSEARCA) Seeking Alpha",
-        "source": "Seeking Alpha"
       },
       {
         "title": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead - Barron's",
@@ -172,11 +172,18 @@
         "source": "Barron's"
       },
       {
-        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSE5QYkZlTV9xUC1oUnNVTmFsT0tXb25TZnc0enJSakJoNnFBSlVseTVKM3pNazdfcFBRa3VJMC1MZVdKRWUwSExULTVOeS1lbnozSHRjMmlxTzRaTHgwNTZVTThwOHhFTWowR2RwdzktczNVV2d1azlLZ3BaN0xWNC0zcHpzX2NEZzRqRFZIYlhFMWRtSnUyT1RHaEl3bUJVT1ZhWENIc0F6T0lyU0NURzM0X0QwcTlfVF85QXJHQ2tMMjhlSmJ2WlcwZXFtU2VNNkE?oc=5",
-        "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
+        "title": "Where Macro Meets Micro: Investing Through Structural Change - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW5SMGNkaVpvNHNmRlUzYmMwM1RJdXhOTVdLTnB2T0w1U21HRzNXMHVURmpSTmhxVTdETWVMT3Z1Nkl3bEk2Y0UxQ3BqV3JmUWpDLS14c3QtOVlPUVlhOWhlM3hqUUd4NlRfVlVlcGE5NGVXWTJTVXhYNnEwRF9OYy1td2h1UzFNdUpTaUNZbms0NURrcTZOWXhmMm9tTkk?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "summary": "Where Macro Meets Micro: Investing Through Structural Change Morgan Stanley",
         "source": "Morgan Stanley"
+      },
+      {
+        "title": "Why the US-Israel war with Iran leaves Asian economies exposed - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaUl3MGhhUEdwdVljb0l0bms1Uzh2M3Iyd2tXb0pxMVpkNzdSTk9JNEl0NTlTRF9kSEtlUHNyWGZDR1JfSGdjRkJTRElSM1l2OGZ4SWpYZlpSWjN5aGpEOWZkZlRmRGNQRzlyWnFtTDNtSjAwaDdtUGxlYm4ya0c5NnVTaXFhdmNvbkJ5YmtFcTFxRnNHdFJVcm5IVFdJUXpZRk05UTMyUXE2TUpkT2YzM2l3UmwxRklNSUJfYTM2LXhxY0JuejhOTlZEUWJEZEpHZEppUzgtSGdqQdIB2gFBVV95cUxQd0tsZTZYdVRDVzBOQmUwaTlYOFZrU3NJbWt2b01kWXQ3b1ZBeWs1SVE1XzN6VUpUOFdhS2FBWFRQWjcxc1VQNmdLWFJFVzRsUm44eE5uenBLYUpQdzNUVVNkMnNWNGhWanVsTDhCSlg4UU10Y0ZIX0UtX1JWeEYwM05VcGUtRzdJSi1CNmtSTE1jdnNGV3dnVXF1NEQzVmZyZThqekRfMkxxZmtNRTBaUHRTU0RLRmFZYTBURTF6djh0cE1yTFUxQmhBOXhYVlBRcWFNaXA2M240dw?oc=5",
+        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "summary": "Why the US-Israel war with Iran leaves Asian economies exposed South China Morning Post",
+        "source": "South China Morning Post"
       }
     ],
     "pimco": [
@@ -188,11 +195,11 @@
         "source": "Morningstar"
       },
       {
-        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
+        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5",
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
-        "source": "Bloomberg.com"
+        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg",
+        "source": "Bloomberg"
       },
       {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
