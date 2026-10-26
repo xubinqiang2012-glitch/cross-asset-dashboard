@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T13:00:23+00:00",
+  "fetched_at": "2026-10-26T19:56:26+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -42,8 +42,15 @@
       {
         "title": "Weekly market commentary - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT",
+        "pubDate": "Mon, 26 Oct 2026 16:40:11 GMT",
         "summary": "Weekly market commentary BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "Fall Macro Outlook: Supply in Capital Markets 101 - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmxXZVMyYVN2TzhDSFJac1JDa1U1eC1HR0Y3Y3RTU0VEZ2wwNUlWOGJseGNxN3BnOUpzYk4tbUZ6N0oyd3ZOOTFDdWt1aVdlcThnV1B2YXVXdnBjQ1BRa1o5T0xXUFV4NVhzbGdzbTA4c2x0ZkxTYS1ramVqMDdtMDBvVQ?oc=5",
+        "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
+        "summary": "Fall Macro Outlook: Supply in Capital Markets 101 BlackRock",
         "source": "BlackRock"
       },
       {
@@ -54,25 +61,11 @@
         "source": "CoinDesk"
       },
       {
-        "title": "A 2026 global macro outlook: Patience - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
-      },
-      {
         "title": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook - Beinsure",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0taVc4Q1pSLU80SF9IcXItd1prVkdSMjBld1c1Z1l2bWJ3MUhKREZSVUNCSm1jdmRaZ2FXZXpkREpncGw1VHZIeWtOejRTOE9TZHdNY1U0TmZDLWNHZ25jMkxyVGh4bmJjZWZxZFRwSE55SW11TlE?oc=5",
         "pubDate": "Sat, 21 Feb 2026 08:00:00 GMT",
         "summary": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook Beinsure",
         "source": "Beinsure"
-      },
-      {
-        "title": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount - Bitbo",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FR0RjMnJfRVFIajZ3SmYtQ0J0N1V1dklMaDBGS25hcktIWXVjQTZ3Tk9IelZ2dGpBNXFFanNma3pDNldfR0pwbXB5c19xRHZwakEwZXlwc0FBRV9uUmlJWg?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount Bitbo",
-        "source": "Bitbo"
       }
     ],
     "goldman": [
@@ -98,18 +91,18 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
-        "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-        "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
-        "source": "Sporting Goods Intelligence Europe"
-      },
-      {
         "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
         "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
         "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
         "source": "Goldman Sachs"
+      },
+      {
+        "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
+        "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
+        "source": "Sporting Goods Intelligence Europe"
       }
     ],
     "jpm": [
@@ -165,6 +158,13 @@
         "source": "Morgan Stanley"
       },
       {
+        "title": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead - Barron's",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1F6S2NVZm4yVTRubjk4VXdZV3JrNmFZTTg3dG8wa3g5aHRfR2pKWE16NF9qR2g3YWpwb1RfS0xFS3BqM3o5TmNGUm9TclNmY3ZVMTQyMnBmRGZOWlF2TFhMWlJiTEdyZTJoUDBfQlA4bjR3SU1oRWllNGFSd3V0Z2RMYzBvdEEwRUZBQlllcGVySXp3NWFHczJsRXZ1TjkydzNCZHpSMGNkTUdsaEVFMG1DT0M2NWIzcm02SDhCaw?oc=5",
+        "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "summary": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead Barron's",
+        "source": "Barron's"
+      },
+      {
         "title": "A Bull Case for Latin America - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1dUTnpCOFBCVGtIUmlZTDloV1g2SFU3QTJ6cFNveDV6eHQ2b29rcjZ2d180Sm9nQzJhMW9uNHBSbzZ1cFRTM29iVWVmT1BNcHRjS3lfRDFFNWFnNFhvZVBUT1d5cUl5cUVJMVZRa1dnY1JqclJIN1RwSkdoNlVPVHVDcng1SEpxZnVCVFRkUkI0Z0pq?oc=5",
         "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
@@ -176,13 +176,6 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
         "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSE5QYkZlTV9xUC1oUnNVTmFsT0tXb25TZnc0enJSakJoNnFBSlVseTVKM3pNazdfcFBRa3VJMC1MZVdKRWUwSExULTVOeS1lbnozSHRjMmlxTzRaTHgwNTZVTThwOHhFTWowR2RwdzktczNVV2d1azlLZ3BaN0xWNC0zcHpzX2NEZzRqRFZIYlhFMWRtSnUyT1RHaEl3bUJVT1ZhWENIc0F6T0lyU0NURzM0X0QwcTlfVF85QXJHQ2tMMjhlSmJ2WlcwZXFtU2VNNkE?oc=5",
-        "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
         "source": "Morgan Stanley"
       }
     ],
@@ -271,7 +264,7 @@
       {
         "title": "Central Bank Gold Buying: Why 39 Tonnes Matters - GoldSilver",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHh1Vm1rbFRVa1NFX2xqZVQ1TEs5dDVxRlVPaWFJSmR2aF9pWm1oVmZUcENCem1RQ3ZIQ05INmQ2aXp6RHJXQlZwTDFSUkVpb21aU2ZnendvU1E3LXROOEhwRW5oaTNSc045bktwMTlqTk85WDZtTXlrdGdxTFYtZlBvVGNPQ3NNSmZwRGZuZEYzcmZ2aVNPR1hBM09abk5UNXpkdG53?oc=5",
-        "pubDate": "Sat, 17 Oct 2026 01:51:27 GMT",
+        "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
         "summary": "Central Bank Gold Buying: Why 39 Tonnes Matters GoldSilver",
         "source": "GoldSilver"
       },
