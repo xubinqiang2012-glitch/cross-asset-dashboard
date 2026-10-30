@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T05:46:39+00:00",
+  "fetched_at": "2026-10-30T12:53:27+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,10 +41,17 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
+        "pubDate": "Sun, 25 Oct 2026 07:00:00 GMT",
         "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
+      },
+      {
+        "title": "BlackRock's Fall 2026 Hedge Fund Outlook: Key Themes Are Dispersion, Innovation And Differentiation - Hedge Fund Alpha",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkZFVNUDJRUTNQRFNTcC1jMFBJNnlsdUVhS0NIM3VZNVVvZVNYT1JrX0c5V0ZiVnQ2S21teDVFZWE2cFdFdHdNMHdZZWJPVmZsdXo0S0tRdU40WE91WXdoRkRoMzFGYW5rMXFKbzdOZno1TjYxNlFjeEpfZw?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 20:15:27 GMT",
+        "summary": "BlackRock's Fall 2026 Hedge Fund Outlook: Key Themes Are Dispersion, Innovation And Differentiation Hedge Fund Alpha",
+        "source": "Hedge Fund Alpha"
       },
       {
         "title": "Fall Macro Outlook: Supply in Capital Markets 101 - BlackRock",
@@ -54,21 +61,28 @@
         "source": "BlackRock"
       },
       {
-        "title": "Hedge Fund Outlook - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
-        "summary": "Hedge Fund Outlook BlackRock",
-        "source": "BlackRock"
+        "title": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeVViQUZKNXVtcERHZ2NkcThSQmFTeXFsUXJ4aXJKMVA2ZmNJcVhQbDBqR2dQMlZZZzNjckd4dERxV1F0MV9CZkNqY0RtRzgxTzZ1R3JJOTVfTjhpNFIyRHFTa0pkSEhEYXpkSUx5cFd1WTQzb2Q2NmY4VGdveWxwbndhQzQ2NzZrM2QzTlUza1hKOUN2MURRb2NjQXhqMUE3bzlJbTktOFdrVFRqQ1VQYnNNb1pxTDZ0NGJCN2NJZlNOdHBVakVQUGlQcmx6Und3MnUwTmx5X254aTZJX0FuVHB3?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "summary": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT CoinDesk",
+        "source": "CoinDesk"
       },
       {
-        "title": "Market Outlook April 2026: Get Paid to Wait - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
-        "source": "BlackRock"
+        "title": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook - Beinsure",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0taVc4Q1pSLU80SF9IcXItd1prVkdSMjBld1c1Z1l2bWJ3MUhKREZSVUNCSm1jdmRaZ2FXZXpkREpncGw1VHZIeWtOejRTOE9TZHdNY1U0TmZDLWNHZ25jMkxyVGh4bmJjZWZxZFRwSE55SW11TlE?oc=5",
+        "pubDate": "Sat, 21 Feb 2026 08:00:00 GMT",
+        "summary": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook Beinsure",
+        "source": "Beinsure"
       }
     ],
     "goldman": [
+      {
+        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
+        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
       {
         "title": "Market Know-How 4Q 2026: Yield Ahead - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56QlRSLUFNR0lra0dabzgxMTJwWkZRZzh4YnpLUFVncm0xSkZWN0pkaUpjdGY1MGtrVnJpR2gxQVkzNFhCMHJTcXItZk5KQUhBRkdZS0x5VzNMTXp3OEptRWxrWjBTTUdNZk83NVh3VlZRSU0?oc=5",
@@ -84,24 +98,17 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Are US Stock Market Valuations Outpacing Fundamentals? - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1LUGF1eHpVcVlORmRMWHlrS0x4My1FQ2lldWdQUHlxMXFTMkRSQlJUVzA5UDROeDdfNkpIVENuUUxGeFVSdlhnMHFBOVU4T0YzUnNNeC1HQ1lWaFdGZzJsemRMREdRR1Uzc0RrUnFTbWo1SnE1RDhGdVZnX0RZdG50XzVadGhZVkhZOTBCcWtURVpmNGpWV3VrSk96NnIyYkE?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-        "summary": "Are US Stock Market Valuations Outpacing Fundamentals? Goldman Sachs",
-        "source": "Goldman Sachs"
+        "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
+        "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
+        "source": "Sporting Goods Intelligence Europe"
       },
       {
-        "title": "Japan’s Strategic Awakening - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lWTFEWUxtdFVaOTgwdjRwQmR5NEIxREJLYzAtUTJXaVFnVkw2OGY5dnpSM1RLcEw5Y3lmN3VzQi1jdXltd2hjb2pBdWNrRHBqdWJSWlpNaG5scVFtV1ZZQTJhTkozOUctcDlTNjNyMWRnQS1obXRxM2JNTVRoUQ?oc=5",
-        "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-        "summary": "Japan’s Strategic Awakening Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
-        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
-        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
+        "title": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzNVFiVTdzd2dlcmpxMENhSEFIeTBFb1dxc2p4SDl3RUszVzF3bWNjRTJ6ZEppUTY5ZEt4dEstY2NFOVBWMWVUcWpqbkk3YnFBTm4xZkF5UUVoNXl5WENianRmckk0Q0hrcFZRWWsxSnJzUUdpbHlocnJFbVZGdlJwdWxRQmVrTFhBMEJQRVAtdGRWSDFsYURTX0dHQ0FQU19lcEt1NA?oc=5",
+        "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+        "summary": "The Global Economy Is Forecast to Post ‘Sturdy’ Growth of 2.8% in 2026 Goldman Sachs",
         "source": "Goldman Sachs"
       }
     ],
@@ -144,11 +151,11 @@
     ],
     "ms": [
       {
-        "title": "Visa's Fiscal 2027 Outlook Assumes Stable Macro, Heavier Client Renewal Cycle, Morgan Stanley Says - marketscreener.com",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUzhOZGcteUpwUW16NGxlNjE2SFMwcTJ1TnNDV0UwSHNkbnpteHJnclNvbG9oeG50aWxXbW5JYjc4STRvc3ZsZ2N4cHdkWjVIcnFpVlhnN2xtOWdieFhoZHpIdVZyWm1jYXYzVEN0LVdCNXIxUXE1QnV4eFVHMXozS0ppYUxHWFVJU3IyOWdjQms3WVc3NHlxTm1oUmV2WmppcEFfQjBrclplMlJaY1haTkpHVFJDNUN0THhlSHVNVUExRV9EUzdJWS05Y0ZXNnpDaTFmUWxxeWhKWl9HeGhwc1djQQ?oc=5",
-        "pubDate": "Wed, 28 Oct 2026 15:17:48 GMT",
-        "summary": "Visa's Fiscal 2027 Outlook Assumes Stable Macro, Heavier Client Renewal Cycle, Morgan Stanley Says marketscreener.com",
-        "source": "marketscreener.com"
+        "title": "China stocks could slide 15% before bottom, Morgan Stanley says - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDZTdjhVTDhkOEJ3c0RJdkVNYWprVmFqcG9FSkIzUDJNUlNjdXRZYzBzMlF0Y0lJb283VjNRNk9QcUtKX0tHQnRnODhBMnlIMWpGdlBCcnFlYlpSZ0VUZ0hPT1ZfSGVrRFVpYURxX2F3MzdDejlYbmdFTElvM1A5QkJWZFM4UnRNeE52VFVlUkNJcWpRS2dzcFRzVE9RRFV1enZVWUtVdTIwc21sTVJYMjRhMGgtY0xEa2JKclYydDZiVEt30gHEAUFVX3lxTFBoU2QyOHN0TFRMS2RsSy1OUVpqbm5qa3NCNUVUNmJ5MHl1OGhCdTdONWVjQWZsdFdvZ1hRLTBSZ3BQZkhpandOOU9wN1lEV2xhdUJmMTluRmg2by1MMk1WenI4UTVhd1hxTTRLMHpSbEVpbFF3bm1COFV2cTJZZG1lbzhhLTcxQU16WE13OE9xa0lBRFhnbTZhNkFJUXNFaU9ialpBUUhXWEwyUWFQWDkyVWpQbUVjMm05WVZaQVB6UGFtVko?oc=5",
+        "pubDate": "Tue, 27 Oct 2026 06:00:06 GMT",
+        "summary": "China stocks could slide 15% before bottom, Morgan Stanley says South China Morning Post",
+        "source": "South China Morning Post"
       },
       {
         "title": "AI Momentum Bolsters Global Markets - Morgan Stanley",
@@ -158,11 +165,11 @@
         "source": "Morgan Stanley"
       },
       {
-        "title": "China stocks could slide 15% before bottom, Morgan Stanley says - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDZTdjhVTDhkOEJ3c0RJdkVNYWprVmFqcG9FSkIzUDJNUlNjdXRZYzBzMlF0Y0lJb283VjNRNk9QcUtKX0tHQnRnODhBMnlIMWpGdlBCcnFlYlpSZ0VUZ0hPT1ZfSGVrRFVpYURxX2F3MzdDejlYbmdFTElvM1A5QkJWZFM4UnRNeE52VFVlUkNJcWpRS2dzcFRzVE9RRFV1enZVWUtVdTIwc21sTVJYMjRhMGgtY0xEa2JKclYydDZiVEt30gHEAUFVX3lxTFBoU2QyOHN0TFRMS2RsSy1OUVpqbm5qa3NCNUVUNmJ5MHl1OGhCdTdONWVjQWZsdFdvZ1hRLTBSZ3BQZkhpandOOU9wN1lEV2xhdUJmMTluRmg2by1MMk1WenI4UTVhd1hxTTRLMHpSbEVpbFF3bm1COFV2cTJZZG1lbzhhLTcxQU16WE13OE9xa0lBRFhnbTZhNkFJUXNFaU9ialpBUUhXWEwyUWFQWDkyVWpQbUVjMm05WVZaQVB6UGFtVko?oc=5",
-        "pubDate": "Tue, 27 Oct 2026 06:00:06 GMT",
-        "summary": "China stocks could slide 15% before bottom, Morgan Stanley says South China Morning Post",
-        "source": "South China Morning Post"
+        "title": "Visa's Fiscal 2027 Outlook Assumes Stable Macro, Heavier Client Renewal Cycle, Morgan Stanley Says - marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUzhOZGcteUpwUW16NGxlNjE2SFMwcTJ1TnNDV0UwSHNkbnpteHJnclNvbG9oeG50aWxXbW5JYjc4STRvc3ZsZ2N4cHdkWjVIcnFpVlhnN2xtOWdieFhoZHpIdVZyWm1jYXYzVEN0LVdCNXIxUXE1QnV4eFVHMXozS0ppYUxHWFVJU3IyOWdjQms3WVc3NHlxTm1oUmV2WmppcEFfQjBrclplMlJaY1haTkpHVFJDNUN0THhlSHVNVUExRV9EUzdJWS05Y0ZXNnpDaTFmUWxxeWhKWl9HeGhwc1djQQ?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 15:17:48 GMT",
+        "summary": "Visa's Fiscal 2027 Outlook Assumes Stable Macro, Heavier Client Renewal Cycle, Morgan Stanley Says marketscreener.com",
+        "source": "marketscreener.com"
       },
       {
         "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
@@ -188,10 +195,17 @@
         "source": "Morningstar"
       },
       {
-        "title": "Fed preview: Experts see a pause today, not the end of hikes - RankiaPro",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpaVhUU0t6SEtySkoycEg0UjFndlRlQjZidVpkQ0l6UmxMRHp0UEt2YndpY2ZMNnBlNDBFLVlBLTQxSFJ2NjdQVUlsWU9ha1ZXSlhpVnZ0alJMSFI3YUJzX1RMTTVzaUNmV0pKNTJFNldhLUJzcGc?oc=5",
-        "pubDate": "Wed, 28 Oct 2026 10:53:17 GMT",
-        "summary": "Fed preview: Experts see a pause today, not the end of hikes RankiaPro",
+        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
+        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
+        "source": "Wealth Professional"
+      },
+      {
+        "title": "PIMCO Cyclical Outlook: how to invest in the current environment - RankiaPro",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3M2bWlxcVdSUDZWWEk2VE1OY0hEd1FaclFBZWRhM0dnVkVpcHNtd19VM25wNkJhMFEtVEFMbDZPTFNyTnYyamszX1JHU3BtbHhRa0N0Vy1pd2FCaGdieTlyVnVoekRRLXRjSkViRWZpbVNLQ3hPelVCWkY2N2V1aFhyb1V6N01Wb0ZMNWxqN1BwZw?oc=5",
+        "pubDate": "Fri, 01 Dec 2023 18:48:21 GMT",
+        "summary": "PIMCO Cyclical Outlook: how to invest in the current environment RankiaPro",
         "source": "RankiaPro"
       },
       {
@@ -202,18 +216,11 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
-        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
-        "source": "Wealth Professional"
-      },
-      {
-        "title": "PDI: The Valuation Premium Just Became A Discount (NYSE:PDI) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1RaOFdLalFUVThFdVVKRXF1aHFmejNwTDdQOGJJMDNuSFlpRWdlckI3VFowTHV0MnhxM2FwZkgyQ241Z2c4aF94WF9tTURaSDBUNVlYeXhOeHdZWE5oT3VfOG9zRkZDd3FRVlhRbHBDbzRhRVpSRHR5VkI4ZmhHaHV6NGpZRWNiRG9yRGNVN1FBLWM?oc=5",
-        "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-        "summary": "PDI: The Valuation Premium Just Became A Discount (NYSE:PDI) Seeking Alpha",
-        "source": "Seeking Alpha"
+        "title": "Mohit Mittal Promoted to PIMCO’s CIO of Core Strategies - Chief Investment Officer",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQakNJckdGdVFvMVgzNlE1S3FxMXNNZlpHNWVPUzh1bmdVaUNld3ZfVnJjSzJFeEwzQW1vLTBBc2ZYVVBpWWRERHJRdTJOSk5SSFpDLWFzdUVGYkZsbzF4MmVZWlhoM0dJLWdYdUZySjllbVphb2xTd1NZV1hlLUpiWHhLSGFOQ2E5czFF?oc=5",
+        "pubDate": "Tue, 12 Dec 2023 08:00:00 GMT",
+        "summary": "Mohit Mittal Promoted to PIMCO’s CIO of Core Strategies Chief Investment Officer",
+        "source": "Chief Investment Officer"
       }
     ],
     "fed": [
@@ -283,11 +290,11 @@
         "source": "Al Jazeera"
       },
       {
-        "title": "Central bank gold purchases exceed official disclosures; institutions forecast gold prices to reach $4,900 by year-end - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSktoNEJYRWZsbnA3TWNkY19JbjZYRGVxbkRBOVNuWVJlZTQxbk9fU0RuRmVVWDBOYVFuc2hRZG1MSXVOTGxnSzFBSXY3X2V4QjZ4ZGhRUUg4UHBZeFZ1b0hsamxrdG5TVUFXc0NGMTNzNl9VNmdGLXVrdVZCcmNLOTVKOGhhWkNrNFdXbE44T2ZfUnhsaDhIVnpkUmpKZUJmNFBlMFNWaGFNVWNtZWgzRVNaLUpuam1lZllHTEw1V2lGb0Z5?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-        "summary": "Central bank gold purchases exceed official disclosures; institutions forecast gold prices to reach $4,900 by year-end Moomoo",
-        "source": "Moomoo"
+        "title": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council - Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEJFR3YwV0p1YTlSd0VUUTRLNzBGUlBQeXNOTVBmbWNzN1ZhaXZjU2RZSmN0aUZQelNTUERyVWlQMkYxVDFNcjRXT0lvM1FmQUk2Rld6TDVQWktGdEZpN0JTQkVzekJGOTU0MFdqTUF5SUVZOGVxMDJibTY3YjJtNV95QlplaHlnTTA5cThSYkhrQU5SWWlTNXhyUkJ3cF9aM3NCS0UxRU4xQ096TVNxQUwxdTFYM3Jh?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
+        "summary": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council Kitco",
+        "source": "Kitco"
       }
     ]
   },
