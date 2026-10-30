@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T23:56:25+00:00",
+  "fetched_at": "2026-10-30T05:46:39+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -41,8 +41,8 @@
     "blackrock": [
       {
         "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
-        "pubDate": "Sun, 25 Oct 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
         "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       },
@@ -54,25 +54,18 @@
         "source": "BlackRock"
       },
       {
-        "title": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT - CoinDesk",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeVViQUZKNXVtcERHZ2NkcThSQmFTeXFsUXJ4aXJKMVA2ZmNJcVhQbDBqR2dQMlZZZzNjckd4dERxV1F0MV9CZkNqY0RtRzgxTzZ1R3JJOTVfTjhpNFIyRHFTa0pkSEhEYXpkSUx5cFd1WTQzb2Q2NmY4VGdveWxwbndhQzQ2NzZrM2QzTlUza1hKOUN2MURRb2NjQXhqMUE3bzlJbTktOFdrVFRqQ1VQYnNNb1pxTDZ0NGJCN2NJZlNOdHBVakVQUGlQcmx6Und3MnUwTmx5X254aTZJX0FuVHB3?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "BlackRock says macro case for BTC is strengthening after record 'up week' volume of 439 million shares in IBIT CoinDesk",
-        "source": "CoinDesk"
-      },
-      {
-        "title": "A 2026 global macro outlook: Patience - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience BlackRock",
+        "title": "Hedge Fund Outlook - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
+        "summary": "Hedge Fund Outlook BlackRock",
         "source": "BlackRock"
       },
       {
-        "title": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook - Beinsure",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0taVc4Q1pSLU80SF9IcXItd1prVkdSMjBld1c1Z1l2bWJ3MUhKREZSVUNCSm1jdmRaZ2FXZXpkREpncGw1VHZIeWtOejRTOE9TZHdNY1U0TmZDLWNHZ25jMkxyVGh4bmJjZWZxZFRwSE55SW11TlE?oc=5",
-        "pubDate": "Sat, 21 Feb 2026 08:00:00 GMT",
-        "summary": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook Beinsure",
-        "source": "Beinsure"
+        "title": "Market Outlook April 2026: Get Paid to Wait - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
+        "source": "BlackRock"
       }
     ],
     "goldman": [
@@ -165,6 +158,13 @@
         "source": "Morgan Stanley"
       },
       {
+        "title": "China stocks could slide 15% before bottom, Morgan Stanley says - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDZTdjhVTDhkOEJ3c0RJdkVNYWprVmFqcG9FSkIzUDJNUlNjdXRZYzBzMlF0Y0lJb283VjNRNk9QcUtKX0tHQnRnODhBMnlIMWpGdlBCcnFlYlpSZ0VUZ0hPT1ZfSGVrRFVpYURxX2F3MzdDejlYbmdFTElvM1A5QkJWZFM4UnRNeE52VFVlUkNJcWpRS2dzcFRzVE9RRFV1enZVWUtVdTIwc21sTVJYMjRhMGgtY0xEa2JKclYydDZiVEt30gHEAUFVX3lxTFBoU2QyOHN0TFRMS2RsSy1OUVpqbm5qa3NCNUVUNmJ5MHl1OGhCdTdONWVjQWZsdFdvZ1hRLTBSZ3BQZkhpandOOU9wN1lEV2xhdUJmMTluRmg2by1MMk1WenI4UTVhd1hxTTRLMHpSbEVpbFF3bm1COFV2cTJZZG1lbzhhLTcxQU16WE13OE9xa0lBRFhnbTZhNkFJUXNFaU9ialpBUUhXWEwyUWFQWDkyVWpQbUVjMm05WVZaQVB6UGFtVko?oc=5",
+        "pubDate": "Tue, 27 Oct 2026 06:00:06 GMT",
+        "summary": "China stocks could slide 15% before bottom, Morgan Stanley says South China Morning Post",
+        "source": "South China Morning Post"
+      },
+      {
         "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
@@ -177,13 +177,6 @@
         "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "summary": "Sticky Inflation and the Fed: What Morgan Stanley’s Mike Wilson Sees Ahead Barron's",
         "source": "Barron's"
-      },
-      {
-        "title": "A Bull Case for Latin America - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1dUTnpCOFBCVGtIUmlZTDloV1g2SFU3QTJ6cFNveDV6eHQ2b29rcjZ2d180Sm9nQzJhMW9uNHBSbzZ1cFRTM29iVWVmT1BNcHRjS3lfRDFFNWFnNFhvZVBUT1d5cUl5cUVJMVZRa1dnY1JqclJIN1RwSkdoNlVPVHVDcng1SEpxZnVCVFRkUkI0Z0pq?oc=5",
-        "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
-        "summary": "A Bull Case for Latin America Morgan Stanley",
-        "source": "Morgan Stanley"
       }
     ],
     "pimco": [
@@ -195,18 +188,18 @@
         "source": "Morningstar"
       },
       {
+        "title": "Fed preview: Experts see a pause today, not the end of hikes - RankiaPro",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpaVhUU0t6SEtySkoycEg0UjFndlRlQjZidVpkQ0l6UmxMRHp0UEt2YndpY2ZMNnBlNDBFLVlBLTQxSFJ2NjdQVUlsWU9ha1ZXSlhpVnZ0alJMSFI3YUJzX1RMTTVzaUNmV0pKNTJFNldhLUJzcGc?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 10:53:17 GMT",
+        "summary": "Fed preview: Experts see a pause today, not the end of hikes RankiaPro",
+        "source": "RankiaPro"
+      },
+      {
         "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5",
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
         "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
         "source": "Bloomberg.com"
-      },
-      {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
-        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
-        "source": "CNBC"
       },
       {
         "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
