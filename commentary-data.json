@@ -1,14 +1,7 @@
 {
-  "fetched_at": "2026-11-03T21:48:20+00:00",
+  "fetched_at": "2026-11-04T02:19:22+00:00",
   "sources": {
     "bridgewater": [
-      {
-        "title": "Bridgewater and Global Citizen Name Five Winners of the 2026 Forecasting the Future Challenge - Global Citizen",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3RjTHppSnVlRmZrUlBOcnc2TEtQcXdCSlg1T1hlQzN3eUhfcGFsa0EwYlV3N1ZPMjJrT0o0Z1hOWGdwREdUZHBTZGY2RWd6RndmRjlaS2Q0QVRNdTRFam5kY3NGaktCZi1aNzl6TF9WemxDSnZTM1ZZTHpId1VxZy14b3V4Wk1jb1R2U2pOSndSQURoVkVJ?oc=5",
-        "pubDate": "Thu, 29 Oct 2026 16:01:52 GMT",
-        "summary": "Bridgewater and Global Citizen Name Five Winners of the 2026 Forecasting the Future Challenge Global Citizen",
-        "source": "Global Citizen"
-      },
       {
         "title": "Bridgewater's flagship macro fund posts double-digit gains this year, sources say - Reuters",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTgyQ1VKU21CSHhfcG9kb1MzYmhLUnVrMkJuQVBTb2I1Y1NMdVFzTnhGOTgwNmlpSXVLRkFnN0VCaHp4NjlzMS1iOVJmSjdaa0F4b2pnbVVPX3lBUENHWDcwVnZYcTRmSFZYcG9kbVVCcFROaDJRdzVZbHNpODdMSWxXM3JqdElkaEVrOVpCbXdBaTA1WFdzeTY0SEZJdGlIOWJCcnZUS3I4MWpzWUpGNG1WZmRXZ05jbFhMWFZFV251N1llcHc?oc=5",
@@ -36,6 +29,13 @@
         "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
         "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Yahoo Finance",
         "source": "Yahoo Finance"
+      },
+      {
+        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
+        "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
+        "source": "Global Citizen"
       }
     ],
     "blackrock": [
@@ -68,11 +68,11 @@
         "source": "CoinDesk"
       },
       {
-        "title": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount - Bitbo",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FR0RjMnJfRVFIajZ3SmYtQ0J0N1V1dklMaDBGS25hcktIWXVjQTZ3Tk9IelZ2dGpBNXFFanNma3pDNldfR0pwbXB5c19xRHZwakEwZXlwc0FBRV9uUmlJWg?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "BlackRock Says Bitcoin's Macro Case Grows as Fiscal Fears Mount Bitbo",
-        "source": "Bitbo"
+        "title": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook - Beinsure",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0taVc4Q1pSLU80SF9IcXItd1prVkdSMjBld1c1Z1l2bWJ3MUhKREZSVUNCSm1jdmRaZ2FXZXpkREpncGw1VHZIeWtOejRTOE9TZHdNY1U0TmZDLWNHZ25jMkxyVGh4bmJjZWZxZFRwSE55SW11TlE?oc=5",
+        "pubDate": "Sat, 21 Feb 2026 08:00:00 GMT",
+        "summary": "The Great Moderation. BlackRock`s Global Macroeconomic & Invest Outlook Beinsure",
+        "source": "Beinsure"
       }
     ],
     "goldman": [
@@ -91,18 +91,18 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Market Know-How 4Q 2026: Yield Ahead - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56QlRSLUFNR0lra0dabzgxMTJwWkZRZzh4YnpLUFVncm0xSkZWN0pkaUpjdGY1MGtrVnJpR2gxQVkzNFhCMHJTcXItZk5KQUhBRkdZS0x5VzNMTXp3OEptRWxrWjBTTUdNZk83NVh3VlZRSU0?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
-        "summary": "Market Know-How 4Q 2026: Yield Ahead Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
-      {
         "title": "US Market Pulse October 2026 - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
         "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
         "summary": "US Market Pulse October 2026 Goldman Sachs Asset Management",
         "source": "Goldman Sachs Asset Management"
+      },
+      {
+        "title": "World Cup 2026: big event, small economic impact? - Sporting Goods Intelligence Europe",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFkTzBnOTlJSnVobmVBb1JFeEtFa19EYzVTeTc2Q2cxamYwV1pNQkdxc0VkTjdZS2szT21YRVlIb1ZNcFFRU2tDWGpFNndMZmRyeThzVkR2bWhxQzZLaW9XZDBRemxYMHNFaVpLbE9xOVdWenU4dm0yblBwOUpKUkxodFRCd2dvYzlyd29ka0R6bFVJNkN1RHdycmszZ0VkTDdXNVJR?oc=5",
+        "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "summary": "World Cup 2026: big event, small economic impact? Sporting Goods Intelligence Europe",
+        "source": "Sporting Goods Intelligence Europe"
       },
       {
         "title": "Are US Stock Market Valuations Outpacing Fundamentals? - Goldman Sachs",
@@ -158,48 +158,48 @@
         "source": "Morgan Stanley"
       },
       {
+        "title": "China stocks could slide 15% before bottom, Morgan Stanley says - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDZTdjhVTDhkOEJ3c0RJdkVNYWprVmFqcG9FSkIzUDJNUlNjdXRZYzBzMlF0Y0lJb283VjNRNk9QcUtKX0tHQnRnODhBMnlIMWpGdlBCcnFlYlpSZ0VUZ0hPT1ZfSGVrRFVpYURxX2F3MzdDejlYbmdFTElvM1A5QkJWZFM4UnRNeE52VFVlUkNJcWpRS2dzcFRzVE9RRFV1enZVWUtVdTIwc21sTVJYMjRhMGgtY0xEa2JKclYydDZiVEt3?oc=5",
+        "pubDate": "Tue, 27 Oct 2026 06:00:06 GMT",
+        "summary": "China stocks could slide 15% before bottom, Morgan Stanley says South China Morning Post",
+        "source": "South China Morning Post"
+      },
+      {
+        "title": "Where Macro Meets Micro: Investing Through Structural Change - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW5SMGNkaVpvNHNmRlUzYmMwM1RJdXhOTVdLTnB2T0w1U21HRzNXMHVURmpSTmhxVTdETWVMT3Z1Nkl3bEk2Y0UxQ3BqV3JmUWpDLS14c3QtOVlPUVlhOWhlM3hqUUd4NlRfVlVlcGE5NGVXWTJTVXhYNnEwRF9OYy1td2h1UzFNdUpTaUNZbms0NURrcTZOWXhmMm9tTkk?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "summary": "Where Macro Meets Micro: Investing Through Structural Change Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
+        "title": "Visa's Fiscal 2027 Outlook Assumes Stable Macro, Heavier Client Renewal Cycle, Morgan Stanley Says - marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUzhOZGcteUpwUW16NGxlNjE2SFMwcTJ1TnNDV0UwSHNkbnpteHJnclNvbG9oeG50aWxXbW5JYjc4STRvc3ZsZ2N4cHdkWjVIcnFpVlhnN2xtOWdieFhoZHpIdVZyWm1jYXYzVEN0LVdCNXIxUXE1QnV4eFVHMXozS0ppYUxHWFVJU3IyOWdjQms3WVc3NHlxTm1oUmV2WmppcEFfQjBrclplMlJaY1haTkpHVFJDNUN0THhlSHVNVUExRV9EUzdJWS05Y0ZXNnpDaTFmUWxxeWhKWl9HeGhwc1djQQ?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 15:17:48 GMT",
+        "summary": "Visa's Fiscal 2027 Outlook Assumes Stable Macro, Heavier Client Renewal Cycle, Morgan Stanley Says marketscreener.com",
+        "source": "marketscreener.com"
+      },
+      {
         "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
         "summary": "Midyear Economic Outlook: AI Drives Resilient Growth Morgan Stanley",
         "source": "Morgan Stanley"
-      },
-      {
-        "title": "A Bull Case for Latin America - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1dUTnpCOFBCVGtIUmlZTDloV1g2SFU3QTJ6cFNveDV6eHQ2b29rcjZ2d180Sm9nQzJhMW9uNHBSbzZ1cFRTM29iVWVmT1BNcHRjS3lfRDFFNWFnNFhvZVBUT1d5cUl5cUVJMVZRa1dnY1JqclJIN1RwSkdoNlVPVHVDcng1SEpxZnVCVFRkUkI0Z0pq?oc=5",
-        "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
-        "summary": "A Bull Case for Latin America Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSE5QYkZlTV9xUC1oUnNVTmFsT0tXb25TZnc0enJSakJoNnFBSlVseTVKM3pNazdfcFBRa3VJMC1MZVdKRWUwSExULTVOeS1lbnozSHRjMmlxTzRaTHgwNTZVTThwOHhFTWowR2RwdzktczNVV2d1azlLZ3BaN0xWNC0zcHpzX2NEZzRqRFZIYlhFMWRtSnUyT1RHaEl3bUJVT1ZhWENIc0F6T0lyU0NURzM0X0QwcTlfVF85QXJHQ2tMMjhlSmJ2WlcwZXFtU2VNNkE?oc=5",
-        "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
-        "source": "Morgan Stanley"
       }
     ],
     "pimco": [
+      {
+        "title": "PFL: Decent Income Fund From PIMCO With 14.5% Yield, But With Better Alternatives - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkkxQVFjTjVUUG9xQjgwSlpNd1NLbjJTb2FkSm9nVGcySlRIa05ycnoxU1c0R3BoZ1JCWjdjZEI3RE5XUXZtaVItb0h2dnc2TlRHSVNfbTJDVFlmTE81VzBlMnJlRS1YTHhvTWJQY2t3UXMzRWpWczhkc2RPRFVsbmhMYVp0cmNvNmZEZV9KT3BsRzd4M0k4akJ5ZVlfSmQwclY2SllKal8weVg4akZUSVplUjdQTmpabUkzMl9waFdQM2tKR0E?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 13:00:00 GMT",
+        "summary": "PFL: Decent Income Fund From PIMCO With 14.5% Yield, But With Better Alternatives Seeking Alpha",
+        "source": "Seeking Alpha"
+      },
       {
         "title": "Pimco’s Clarida: Key Bond Market Risks and Opportunities in a Fragmenting World - Morningstar",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3A0d1BSOE13dnp1MTNTZ08yMnZlZ20zNDF0OXBMcDBKZXVwSUh2SU00VU1Ybm9xSTJyM1llbk10dHVOSEJDYURZc0pwbDdONG5fNHE2Ukh3eFRkNU5UeTJkaWN3ZjZVeFVFRG1nejZqT1IwT0pCaHA0c1VMY1hxOUp4NGlNcTItVVRJY1JVLUVUSjNRUEx5NFd0S0NkV0hTUXBhZWpiaw?oc=5",
         "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
         "summary": "Pimco’s Clarida: Key Bond Market Risks and Opportunities in a Fragmenting World Morningstar",
         "source": "Morningstar"
-      },
-      {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
-        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
-        "source": "CNBC"
       },
       {
         "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg",
@@ -209,18 +209,18 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Mohit Mittal Promoted to PIMCO’s CIO of Core Strategies - Chief Investment Officer",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQakNJckdGdVFvMVgzNlE1S3FxMXNNZlpHNWVPUzh1bmdVaUNld3ZfVnJjSzJFeEwzQW1vLTBBc2ZYVVBpWWRERHJRdTJOSk5SSFpDLWFzdUVGYkZsbzF4MmVZWlhoM0dJLWdYdUZySjllbVphb2xTd1NZV1hlLUpiWHhLSGFOQ2E5czFF?oc=5",
-        "pubDate": "Tue, 12 Dec 2023 08:00:00 GMT",
-        "summary": "Mohit Mittal Promoted to PIMCO’s CIO of Core Strategies Chief Investment Officer",
-        "source": "Chief Investment Officer"
+        "title": "Fed preview: Experts see a pause today, not the end of hikes - RankiaPro",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpaVhUU0t6SEtySkoycEg0UjFndlRlQjZidVpkQ0l6UmxMRHp0UEt2YndpY2ZMNnBlNDBFLVlBLTQxSFJ2NjdQVUlsWU9ha1ZXSlhpVnZ0alJMSFI3YUJzX1RMTTVzaUNmV0pKNTJFNldhLUJzcGc?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 10:53:17 GMT",
+        "summary": "Fed preview: Experts see a pause today, not the end of hikes RankiaPro",
+        "source": "RankiaPro"
       },
       {
-        "title": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies - Funds Society",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmE2VVJrc3RGZ2E2TTZrbmxEWTRQczhkaFBZdXp0aUtqN0xmSjkyMzNIekdGSkR6NGw0NkZXZU9FbXNWOHBxTDlDRTAzU3hnWjl2eWdnR1V0OXZZYnJ4WmplX2N0WEVlV1k0RG9mSk9nUExFTFlKRlRMcncxQVVUQlAxTlNjaHZQZG80eFhNME9TN0QwSkxGR00wNlZmMl8tRGZvNlROQVBWVFZzaVFRNnhOaERXYU0?oc=5",
-        "pubDate": "Thu, 14 Dec 2023 08:00:00 GMT",
-        "summary": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies Funds Society",
-        "source": "Funds Society"
+        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
+        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
+        "source": "CNBC"
       }
     ],
     "fed": [
@@ -276,6 +276,13 @@
         "source": "WSJ"
       },
       {
+        "title": "Gold Buyers Split in Q3. Central Banks Bought 42% More - GoldSilver",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3hXc0RwOVAwMTFtRFVPcFhreWVKSDJNQlJER1duX3hIRTB1bGFkV3lrbkVRTHBwbzBnLXlsSzY4Q3Y0YUVYWHI4bVZQR09iZC1ucC1KWXhPcUlYWWZ6SlQ0Ni1uMm5sTGdmWTFNZW85XzBmRkJCQ2lheVdaX2dDTGk0YnBkcGJtakZuTERsN0pNQXlmUFcwbVBMMjlzdw?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 14:46:30 GMT",
+        "summary": "Gold Buyers Split in Q3. Central Banks Bought 42% More GoldSilver",
+        "source": "GoldSilver"
+      },
+      {
         "title": "Gold demand remains near record highs as central bank buying surges 42% – WGC - Kitco",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXMzWmhCTThSSlhBcHFsbjY2VEdWdUN3WjRxQmE3YnpENklGckNZeXhUakpielZ0MUVnOV9CZlM3dHdTdXZ4OWMwdkVXTkY0Vk9PbDhKNnBybTJuMFlxQTk1dGE1MDZTUTFYX2x1NXZlYzkyUFYxV0NHNW5oNFJHWGhyTW1mdTFfTEtqdDNPMzQ5RmNpSWJ1eTJnZGNvWFRmNDk2YU41OG5VYmhSTUpUVHlRNVFKQ1NS?oc=5",
         "pubDate": "Tue, 03 Nov 2026 18:03:17 GMT",
@@ -283,18 +290,11 @@
         "source": "Kitco"
       },
       {
-        "title": "Global Central Bank Gold Purchases Surges 42% As Global Reserve Demand Strengthens - BusinessToday Malaysia",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRktmWkVtMUpNMFdwNG5SdmFaSHZfaTA0WEtBcEFRTmZNYUpjUEJGYWNkZ2VXTFI4R1FVY0I5ZEZ0ZWh4RzJLVnN6czZTTDZZVHpCVVlrU2xxVjk2WVpOYTFjX1JEUGN4Y0IwcnZoUzFydjU0bXlVVF9qakFLbXlHRzRnVFIwT2dsRjhSR2d6M01sZXYxVUYyS093Vl9pemVDVGhvY0pXTW14dk5zaXdUNUpJZmxsRlZGSHdWbXVoSWpsT05j?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 07:56:51 GMT",
-        "summary": "Global Central Bank Gold Purchases Surges 42% As Global Reserve Demand Strengthens BusinessToday Malaysia",
-        "source": "BusinessToday Malaysia"
-      },
-      {
-        "title": "Central bank gold buying rises 42% as ETF inflows rebound in Q3 - Gulf Business",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnVfaEI5OHloUUd4eWlZaEZnNkFFVlgwLWxMQk9paDJWOWdMdUhaSXd0RVhJQ1Z3YzJ4amc2VlVzN2JZYXJBRk9pYUQtWFdtSHRoLVB2cW5HZDBabVJaVjJXblhyRkNBTDVrV0tJNTkxVTZIb3E0a2NSaE5NVkNIVENrRHgzVHMwUXZtaC04Z2JuZWpJbWRtN2Z5WkJCY19NcjZJ?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 07:44:59 GMT",
-        "summary": "Central bank gold buying rises 42% as ETF inflows rebound in Q3 Gulf Business",
-        "source": "Gulf Business"
+        "title": "Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says - investingLive",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWp6ejRHRGZEM2dHdG1ZUkxuLTl6V1h3ZXYtTFB5ZUptbkpFUmd4bW14c1FkM1pzZEI2UnAtTU9CZHpGUDhNLXZmTkJ6YUhZV0NOLTVBSGV6OUhzbDFNd0YydXZvdkU0clNPNlZPTnpKNVNfRUJQUW5KSzF0MFh3ZUxTVlJJMzJpblRySHJSLU1ZZGNZOEtDS2xpZUlGQW9FRG5kcjFZcFlJcmtFeXVSRkRZQ0U3NVVWeWx2YXdfcFE?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 23:06:01 GMT",
+        "summary": "Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says investingLive",
+        "source": "investingLive"
       }
     ]
   },
