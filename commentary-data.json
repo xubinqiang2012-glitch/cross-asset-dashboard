@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T09:28:51+00:00",
+  "fetched_at": "2026-11-05T18:00:13+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -77,13 +77,6 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
-        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
-        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
         "title": "US Market Pulse October 2026 - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
         "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
@@ -102,6 +95,13 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1LUGF1eHpVcVlORmRMWHlrS0x4My1FQ2lldWdQUHlxMXFTMkRSQlJUVzA5UDROeDdfNkpIVENuUUxGeFVSdlhnMHFBOVU4T0YzUnNNeC1HQ1lWaFdGZzJsemRMREdRR1Uzc0RrUnFTbWo1SnE1RDhGdVZnX0RZdG50XzVadGhZVkhZOTBCcWtURVpmNGpWV3VrSk96NnIyYkE?oc=5",
         "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
         "summary": "Are US Stock Market Valuations Outpacing Fundamentals? Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
+        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
+        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
         "source": "Goldman Sachs"
       }
     ],
@@ -195,18 +195,18 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
-        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
-        "source": "Wealth Professional"
-      },
-      {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
         "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
         "source": "CNBC"
+      },
+      {
+        "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
+        "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+        "summary": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 Wealth Professional",
+        "source": "Wealth Professional"
       },
       {
         "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
@@ -262,18 +262,18 @@
         "source": "World Gold Council"
       },
       {
+        "title": "Central bank buying and ETF inflows support gold demand in Q3 - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblIwcVI4MUo2VFVvTTZxWmZBT1JrRmIxVHhHQTk4WXQwQmNhU1RUNnJ6QURFZ3BqNkUwTVh2U1JEY1pKN2xEZmdiNkhIM2p1bzJJTDU5REFwUEZHSExqUTduazdBUnhaZ1FmcEwxT0I2UjJtRDRqQ3d2VjFFS3BjVTJfUF9wWVBPd0NkUkhPWWFBRzNqQ0VqWDlrUFJIYjgxQUhzUXhTMjZUbU5KUDQ0?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 12:00:00 GMT",
+        "summary": "Central bank buying and ETF inflows support gold demand in Q3 World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
         "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
         "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
         "summary": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
-      },
-      {
-        "title": "Central Banks Accelerated Gold Buying in Third Quarter - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 11:57:00 GMT",
-        "summary": "Central Banks Accelerated Gold Buying in Third Quarter WSJ",
-        "source": "WSJ"
       },
       {
         "title": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights - World Gold Council",
@@ -283,11 +283,11 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
+        "title": "Central Banks Accelerated Gold Buying in Third Quarter - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 11:57:00 GMT",
+        "summary": "Central Banks Accelerated Gold Buying in Third Quarter WSJ",
+        "source": "WSJ"
       }
     ]
   },
