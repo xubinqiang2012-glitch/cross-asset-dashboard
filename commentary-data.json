@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T13:00:16+00:00",
+  "fetched_at": "2026-11-08T21:51:45+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -98,10 +98,10 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
-        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
-        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
+        "title": "Are US Stock Market Valuations Outpacing Fundamentals? - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1LUGF1eHpVcVlORmRMWHlrS0x4My1FQ2lldWdQUHlxMXFTMkRSQlJUVzA5UDROeDdfNkpIVENuUUxGeFVSdlhnMHFBOVU4T0YzUnNNeC1HQ1lWaFdGZzJsemRMREdRR1Uzc0RrUnFTbWo1SnE1RDhGdVZnX0RZdG50XzVadGhZVkhZOTBCcWtURVpmNGpWV3VrSk96NnIyYkE?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+        "summary": "Are US Stock Market Valuations Outpacing Fundamentals? Goldman Sachs",
         "source": "Goldman Sachs"
       }
     ],
@@ -195,13 +195,6 @@
         "source": "Seeking Alpha"
       },
       {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
-        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
-        "source": "CNBC"
-      },
-      {
         "title": "PIMCO Sees AI-fueled resilience and a rare fixed income window for 2026 - Wealth Professional",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWhOTElxWkt1SGJUME83QjFGeWN1c1BQNVlYRUZXeFlfMk9zOXdLYjhjdXBuNXpNN1A4MUp2OVFoRjJ3eVBKUHlodkN5UHFYM2hlS3hHNkdRWFVwYVJGR1BmMk1PNmxSY0tjVjJMaHhEX2diNi1zVFRuZk5uVmRubGg5cnZzOFRXaVpQZzN1aFp6ZFM2N0hBYmlOdUNPbDFNN3Q2QURQYnFpaE1zTHVtWWt0eFFKUDl0QzBFMUtkaEFReWQ1RW9VWnB6Yw?oc=5",
         "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
@@ -209,11 +202,18 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
+        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
+        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5",
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
-        "source": "Bloomberg.com"
+        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg",
+        "source": "Bloomberg"
       }
     ],
     "fed": [
@@ -262,6 +262,13 @@
         "source": "LinkedIn"
       },
       {
+        "title": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTAzMER5NjBXcnVJSzN5SnlMT2R3WDc5TmI1bHk0clB1QXc2bVluV2xmUzB1SmZ0bGM0bm0xQlNUQnE4eGxGdHZYZDJudy10bjVaNjFTeXphNjVCVHFuY2NPRGtDeXBSV0d6czdjcEFzYlp2SjJpUUZXZkp4VDJtNE9tYkZSQ3lnNUpGZVhzbjJiZEZ0bHRNSHU2VFJERm9mbWtmTk1VRXFtcDNlVFhZdlExR0hmd0xpVDZIb0ZnTnBKdw?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 06:00:00 GMT",
+        "summary": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says Bloomberg",
+        "source": "Bloomberg"
+      },
+      {
         "title": "WGC lowers outlook for gold investment demand growth as bar buying slows - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXNhd2d5cnZVajh5dGZkbnVvc3daNEtvT3NWekFmajVxZ0FfWFRlUGVFb0Z3UWsyWFpVYmN4YmNNdXFkM3gtV0FxcFNjUGtHYVFrNFBoUV9JZl83REU3SmlRTU54bXVSS2NubW1nOEJCVXpyVjdCcnNTUmRmNV9YX05UMDVSTG5zaFA2XzRIMDFZU1kyUVlxVzBfeG9MQjhWdUU5ZEI4bkRUbjEwS3QwTXVGNA?oc=5",
         "pubDate": "Tue, 03 Nov 2026 06:06:00 GMT",
@@ -274,13 +281,6 @@
         "pubDate": "Tue, 03 Nov 2026 18:03:17 GMT",
         "summary": "Gold demand remains near record highs as central bank buying surges 42% – WGC Kitco",
         "source": "Kitco"
-      },
-      {
-        "title": "World Gold Council: Gold demand near record levels, central banks buy 321 tonnes, ETFs boom - Shanghai Metals Market",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUFRRGJ1d1RFdnJyUktEcVhsdzFoUzJIQ2FDOW4ybEkwbFVmcjhGODJ5U3NVVlRSMlVOenQwaERmRTFoSlgxNEp5cl9ZMTJGWDBtTDhyS0JIWk83YXVJRFJLUHgyclc5SzJDZDlTQ01xQ25nMUNUOFIwT0lUdF9DcGtTdGpPcGZqbTJMUGVkZ0hnTU9BUE1iYmN6Q0pUdDJwejdxc01EQnhTcUJNLTkxZGpJTVN1YnJIaVlDbzdXenZ5R1RyRFBVS0J4RFp3dw?oc=5",
-        "pubDate": "Thu, 05 Nov 2026 02:03:00 GMT",
-        "summary": "World Gold Council: Gold demand near record levels, central banks buy 321 tonnes, ETFs boom Shanghai Metals Market",
-        "source": "Shanghai Metals Market"
       },
       {
         "title": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights - World Gold Council",
