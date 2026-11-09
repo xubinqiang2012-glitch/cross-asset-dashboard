@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T06:24:18+00:00",
+  "fetched_at": "2026-11-09T18:47:02+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -42,7 +42,7 @@
       {
         "title": "Weekly market commentary - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT",
+        "pubDate": "Mon, 09 Nov 2026 15:02:26 GMT",
         "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       },
@@ -151,10 +151,10 @@
         "source": "Morgan Stanley"
       },
       {
-        "title": "AI Booms Supports Economic Growth - Morgan Stanley",
+        "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "AI Booms Supports Economic Growth Morgan Stanley",
+        "summary": "Midyear Economic Outlook: AI Drives Resilient Growth Morgan Stanley",
         "source": "Morgan Stanley"
       },
       {
@@ -255,18 +255,18 @@
     ],
     "wgc": [
       {
+        "title": "Gold SWOT: Central bank gold buying remains strong in 2026 - Kitco",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUsxVTBXQzNxLTE5V05PMGpBdTU0VmhHQjhXUTdUWjlBcDlwQUxrTWJFVVZNN0F4NTNWOVlvWVJZZXcyeUxFb2xmYml6eHRfaTlGb0dJcFYySUR4QmxRTGM2Y2xFU1lRaENONHNPejUycHVYUEF3YU11LW4taU1QNkwzR3lNNHZjZVM1Y0gxdHdSZl9LeUo2eEJpdw?oc=5",
+        "pubDate": "Mon, 09 Nov 2026 14:12:27 GMT",
+        "summary": "Gold SWOT: Central bank gold buying remains strong in 2026 Kitco",
+        "source": "Kitco"
+      },
+      {
         "title": "China's central bank adds 830,000 ounces of gold in October, biggest monthly increase since resuming purchases - BigGo Finance",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uMW9SeUR3cUMza3dIY1RqZTVDakhoYTZteHFCU3hGMVIxUXZleERCUDcyWnNIR2VCaTdlSi1OVV9QLXlrM245NUo1TkRNM0dtZW1iZjRyVElTSXBkOG95a1dwLW12Y2NwaVBId09NME04aUx4amc?oc=5",
         "pubDate": "Sat, 07 Nov 2026 07:25:00 GMT",
         "summary": "China's central bank adds 830,000 ounces of gold in October, biggest monthly increase since resuming purchases BigGo Finance",
         "source": "BigGo Finance"
-      },
-      {
-        "title": "September central bank Gold buying hit highest monthly total of the year - FXStreet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmpUTUNwRVBxS2xzaW5MUWd6X04wNVp6Z1VoMFNVUDE0MWoyeldvOHF4YXE2NV96UXQ4aVJleUtZekhkSVV3eGFlNXpkR3VhR1RvNU03Y3hXOGZaN1VQeHQ3ZGh0SENvUkMxcU83UTBfcEhCbUlIOU53eWZRTGhjSTZwY29yTXl2ZDFucHh2QkJXQm4tYTZPQ0ZuOGJPb0M4b0YxY1FlR0I5blU4cEtmTzVTZmhSSlJLeHM4?oc=5",
-        "pubDate": "Thu, 05 Nov 2026 21:03:09 GMT",
-        "summary": "September central bank Gold buying hit highest monthly total of the year FXStreet",
-        "source": "FXStreet"
       },
       {
         "title": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says - Bloomberg",
@@ -283,11 +283,11 @@
         "source": "Reuters"
       },
       {
-        "title": "Gold demand remains near record highs as central bank buying surges 42% – WGC - Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXMzWmhCTThSSlhBcHFsbjY2VEdWdUN3WjRxQmE3YnpENklGckNZeXhUakpielZ0MUVnOV9CZlM3dHdTdXZ4OWMwdkVXTkY0Vk9PbDhKNnBybTJuMFlxQTk1dGE1MDZTUTFYX2x1NXZlYzkyUFYxV0NHNW5oNFJHWGhyTW1mdTFfTEtqdDNPMzQ5RmNpSWJ1eTJnZGNvWFRmNDk2YU41OG5VYmhSTUpUVHlRNVFKQ1NS?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 18:03:17 GMT",
-        "summary": "Gold demand remains near record highs as central bank buying surges 42% – WGC Kitco",
-        "source": "Kitco"
+        "title": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjRORzU4eXMyNjBhcy1tNHU3NXRhRjFPQnFIem5Ba1psakVwWlZUTWZFWkNnZmpvNm4tYXRyOWRrc3p0Yi13X09NVkg5NDBOSS12N05ienp2RmRhNWoxb0Q1eElXWU1EZl9QeGdYXzh2a0lGRWg1SmVlSmpBekt2dmZTOEdicDZzQ2NGdVZaTzRkWFI5Y2c?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 08:53:03 GMT",
+        "summary": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights World Gold Council",
+        "source": "World Gold Council"
       }
     ]
   },
