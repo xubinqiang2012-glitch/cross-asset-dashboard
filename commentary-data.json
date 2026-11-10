@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T18:47:02+00:00",
+  "fetched_at": "2026-11-10T02:43:49+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -42,7 +42,7 @@
       {
         "title": "Weekly market commentary - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 09 Nov 2026 15:02:26 GMT",
+        "pubDate": "Mon, 09 Nov 2026 19:29:30 GMT",
         "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       },
@@ -84,13 +84,6 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
-        "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
-      {
         "title": "Market Know-How 4Q 2026: Yield Ahead - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56QlRSLUFNR0lra0dabzgxMTJwWkZRZzh4YnpLUFVncm0xSkZWN0pkaUpjdGY1MGtrVnJpR2gxQVkzNFhCMHJTcXItZk5KQUhBRkdZS0x5VzNMTXp3OEptRWxrWjBTTUdNZk83NVh3VlZRSU0?oc=5",
         "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
@@ -102,6 +95,13 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1LUGF1eHpVcVlORmRMWHlrS0x4My1FQ2lldWdQUHlxMXFTMkRSQlJUVzA5UDROeDdfNkpIVENuUUxGeFVSdlhnMHFBOVU4T0YzUnNNeC1HQ1lWaFdGZzJsemRMREdRR1Uzc0RrUnFTbWo1SnE1RDhGdVZnX0RZdG50XzVadGhZVkhZOTBCcWtURVpmNGpWV3VrSk96NnIyYkE?oc=5",
         "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
         "summary": "Are US Stock Market Valuations Outpacing Fundamentals? Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
+        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
+        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
         "source": "Goldman Sachs"
       }
     ],
@@ -255,25 +255,18 @@
     ],
     "wgc": [
       {
+        "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdJdkgwZnBIUEhYS0ZGcUpvYVFmWW5tVlZqVFlRSkJuOWUyU3Z2Zi1sZ3F1S3BuMmFrSUtuSDhDbWkzWS1lM2Q0OE14WTVkaEk0SnZMOExTRDFUV3h1dUNvejhVTkRmdjVLb1VKUU40ZlliTTVXenVaN3M5ZEpoZVFqMW9WemRDWGV2YmNCeGpVci0zU2p4a0xhRUhYaDB4ZC13bHNISUdOc3J2RUNKUg?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 03:32:00 GMT",
+        "summary": "China Extends Gold-Buying Streak to Two Years as Prices Drop Bloomberg.com",
+        "source": "Bloomberg.com"
+      },
+      {
         "title": "Gold SWOT: Central bank gold buying remains strong in 2026 - Kitco",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUsxVTBXQzNxLTE5V05PMGpBdTU0VmhHQjhXUTdUWjlBcDlwQUxrTWJFVVZNN0F4NTNWOVlvWVJZZXcyeUxFb2xmYml6eHRfaTlGb0dJcFYySUR4QmxRTGM2Y2xFU1lRaENONHNPejUycHVYUEF3YU11LW4taU1QNkwzR3lNNHZjZVM1Y0gxdHdSZl9LeUo2eEJpdw?oc=5",
         "pubDate": "Mon, 09 Nov 2026 14:12:27 GMT",
         "summary": "Gold SWOT: Central bank gold buying remains strong in 2026 Kitco",
         "source": "Kitco"
-      },
-      {
-        "title": "China's central bank adds 830,000 ounces of gold in October, biggest monthly increase since resuming purchases - BigGo Finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uMW9SeUR3cUMza3dIY1RqZTVDakhoYTZteHFCU3hGMVIxUXZleERCUDcyWnNIR2VCaTdlSi1OVV9QLXlrM245NUo1TkRNM0dtZW1iZjRyVElTSXBkOG95a1dwLW12Y2NwaVBId09NME04aUx4amc?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 07:25:00 GMT",
-        "summary": "China's central bank adds 830,000 ounces of gold in October, biggest monthly increase since resuming purchases BigGo Finance",
-        "source": "BigGo Finance"
-      },
-      {
-        "title": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTAzMER5NjBXcnVJSzN5SnlMT2R3WDc5TmI1bHk0clB1QXc2bVluV2xmUzB1SmZ0bGM0bm0xQlNUQnE4eGxGdHZYZDJudy10bjVaNjFTeXphNjVCVHFuY2NPRGtDeXBSV0d6czdjcEFzYlp2SjJpUUZXZkp4VDJtNE9tYkZSQ3lnNUpGZVhzbjJiZEZ0bHRNSHU2VFJERm9mbWtmTk1VRXFtcDNlVFhZdlExR0hmd0xpVDZIb0ZnTnBKdw?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 06:00:00 GMT",
-        "summary": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says Bloomberg",
-        "source": "Bloomberg"
       },
       {
         "title": "WGC lowers outlook for gold investment demand growth as bar buying slows - Reuters",
@@ -288,6 +281,13 @@
         "pubDate": "Wed, 04 Nov 2026 08:53:03 GMT",
         "summary": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
+      },
+      {
+        "title": "Central Banks Accelerated Gold Buying in Third Quarter - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 11:57:00 GMT",
+        "summary": "Central Banks Accelerated Gold Buying in Third Quarter WSJ",
+        "source": "WSJ"
       }
     ]
   },
