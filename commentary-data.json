@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T02:43:49+00:00",
+  "fetched_at": "2026-11-10T12:37:51+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -188,13 +188,6 @@
         "source": "Morningstar"
       },
       {
-        "title": "Pimco CIO warns 10-year Treasury yield could reach 6% - report - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuMEpra3g3SUpIeTBWSzhLRWhXUDFZYXhCSUg0YW9zXzdZNzgxeGhMY2lORHVtbGloWnNGeGt1QTgzUEpmZDFFSk45ZV9pQjNrOTdNb05EUHR1U09wR3JtQjF2NXR1OFdOS3lmSXZMNUZySzRKZVdFdGFn?oc=5",
-        "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-        "summary": "Pimco CIO warns 10-year Treasury yield could reach 6% - report Seeking Alpha",
-        "source": "Seeking Alpha"
-      },
-      {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
@@ -209,14 +202,28 @@
         "source": "Wealth Professional"
       },
       {
-        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg",
+        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5",
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg",
-        "source": "Bloomberg"
+        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "Mohit Mittal Promoted to PIMCO’s CIO of Core Strategies - Chief Investment Officer",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQakNJckdGdVFvMVgzNlE1S3FxMXNNZlpHNWVPUzh1bmdVaUNld3ZfVnJjSzJFeEwzQW1vLTBBc2ZYVVBpWWRERHJRdTJOSk5SSFpDLWFzdUVGYkZsbzF4MmVZWlhoM0dJLWdYdUZySjllbVphb2xTd1NZV1hlLUpiWHhLSGFOQ2E5czFF?oc=5",
+        "pubDate": "Tue, 12 Dec 2023 08:00:00 GMT",
+        "summary": "Mohit Mittal Promoted to PIMCO’s CIO of Core Strategies Chief Investment Officer",
+        "source": "Chief Investment Officer"
       }
     ],
     "fed": [
+      {
+        "title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+        "pubDate": "Tue, 10 Nov 2026 09:00:00 GMT",
+        "summary": "Speech At the Bank of England Watchers Conference King’s Business School and Money, Macro and Finance Society, London, United Kingdom",
+        "source": ""
+      },
       {
         "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
         "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
@@ -244,13 +251,6 @@
         "pubDate": "Thu, 1 Oct 2026 19:00:00 GMT",
         "summary": "Speech At the Atlantic Council 2026 CEO Senior Management Summit, Washington, D.C.",
         "source": ""
-      },
-      {
-        "title": "Jefferson, The U.S. Economy and Monetary Policy",
-        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
-        "pubDate": "Thu, 1 Oct 2026 17:30:00 GMT",
-        "summary": "Speech At the Darden School of Business, University of Virginia, Charlottesville, Virginia",
-        "source": ""
       }
     ],
     "wgc": [
@@ -271,7 +271,7 @@
       {
         "title": "WGC lowers outlook for gold investment demand growth as bar buying slows - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXNhd2d5cnZVajh5dGZkbnVvc3daNEtvT3NWekFmajVxZ0FfWFRlUGVFb0Z3UWsyWFpVYmN4YmNNdXFkM3gtV0FxcFNjUGtHYVFrNFBoUV9JZl83REU3SmlRTU54bXVSS2NubW1nOEJCVXpyVjdCcnNTUmRmNV9YX05UMDVSTG5zaFA2XzRIMDFZU1kyUVlxVzBfeG9MQjhWdUU5ZEI4bkRUbjEwS3QwTXVGNA?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 06:06:00 GMT",
+        "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT",
         "summary": "WGC lowers outlook for gold investment demand growth as bar buying slows Reuters",
         "source": "Reuters"
       },
