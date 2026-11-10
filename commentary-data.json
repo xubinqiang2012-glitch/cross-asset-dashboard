@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T12:37:51+00:00",
+  "fetched_at": "2026-11-10T20:48:39+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -218,6 +218,13 @@
     ],
     "fed": [
       {
+        "title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+        "pubDate": "Tue, 10 Nov 2026 20:30:00 GMT",
+        "summary": "Speech At the C. Peter McColough Series on International Economics Council on Foreign Relations, Washington, D.C.",
+        "source": ""
+      },
+      {
         "title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
         "pubDate": "Tue, 10 Nov 2026 09:00:00 GMT",
@@ -244,22 +251,15 @@
         "pubDate": "Tue, 6 Oct 2026 14:45:00 GMT",
         "summary": "Speech At the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St. Louis, Missouri",
         "source": ""
-      },
-      {
-        "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
-        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
-        "pubDate": "Thu, 1 Oct 2026 19:00:00 GMT",
-        "summary": "Speech At the Atlantic Council 2026 CEO Senior Management Summit, Washington, D.C.",
-        "source": ""
       }
     ],
     "wgc": [
       {
-        "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdJdkgwZnBIUEhYS0ZGcUpvYVFmWW5tVlZqVFlRSkJuOWUyU3Z2Zi1sZ3F1S3BuMmFrSUtuSDhDbWkzWS1lM2Q0OE14WTVkaEk0SnZMOExTRDFUV3h1dUNvejhVTkRmdjVLb1VKUU40ZlliTTVXenVaN3M5ZEpoZVFqMW9WemRDWGV2YmNCeGpVci0zU2p4a0xhRUhYaDB4ZC13bHNISUdOc3J2RUNKUg?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 03:32:00 GMT",
-        "summary": "China Extends Gold-Buying Streak to Two Years as Prices Drop Bloomberg.com",
-        "source": "Bloomberg.com"
+        "title": "China buys gold for two straight years as central bank demand remains a key pillar of support - Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcnMwUHdaakNobncwZG8wWE41M290UThlMmQxQV84UkRuNThLMDdwcU9JWWVKTVUtN0hiWS1nNDNqYUVocXdYZVdjSlpUN0FjamdpRGtFSmNIbk9ITGl3Q0Q4LTJ0WC1BTW03cDBIaTY5MldITlJDVVlsdVZQZkpqelJfSnpSeF9MWGRnOTZXWndsdmFIVjc5bEVNZ28zWThaaXI4VVVuVWxGbmtVOUZfZ24tdmlZX1RUbTA0?oc=5",
+        "pubDate": "Tue, 10 Nov 2026 16:50:34 GMT",
+        "summary": "China buys gold for two straight years as central bank demand remains a key pillar of support Kitco",
+        "source": "Kitco"
       },
       {
         "title": "Gold SWOT: Central bank gold buying remains strong in 2026 - Kitco",
@@ -267,6 +267,13 @@
         "pubDate": "Mon, 09 Nov 2026 14:12:27 GMT",
         "summary": "Gold SWOT: Central bank gold buying remains strong in 2026 Kitco",
         "source": "Kitco"
+      },
+      {
+        "title": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTAzMER5NjBXcnVJSzN5SnlMT2R3WDc5TmI1bHk0clB1QXc2bVluV2xmUzB1SmZ0bGM0bm0xQlNUQnE4eGxGdHZYZDJudy10bjVaNjFTeXphNjVCVHFuY2NPRGtDeXBSV0d6czdjcEFzYlp2SjJpUUZXZkp4VDJtNE9tYkZSQ3lnNUpGZVhzbjJiZEZ0bHRNSHU2VFJERm9mbWtmTk1VRXFtcDNlVFhZdlExR0hmd0xpVDZIb0ZnTnBKdw?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 06:00:00 GMT",
+        "summary": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says Bloomberg",
+        "source": "Bloomberg"
       },
       {
         "title": "WGC lowers outlook for gold investment demand growth as bar buying slows - Reuters",
@@ -281,13 +288,6 @@
         "pubDate": "Wed, 04 Nov 2026 08:53:03 GMT",
         "summary": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
-      },
-      {
-        "title": "Central Banks Accelerated Gold Buying in Third Quarter - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 11:57:00 GMT",
-        "summary": "Central Banks Accelerated Gold Buying in Third Quarter WSJ",
-        "source": "WSJ"
       }
     ]
   },
