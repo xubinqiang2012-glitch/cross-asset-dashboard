@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T00:41:33+00:00",
+  "fetched_at": "2026-11-12T09:49:15+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -66,13 +66,6 @@
         "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
         "summary": "Hedge Fund Outlook BlackRock",
         "source": "BlackRock"
-      },
-      {
-        "title": "A 2026 global macro outlook: Patience - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
-        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "summary": "A 2026 global macro outlook: Patience BlackRock",
-        "source": "BlackRock"
       }
     ],
     "goldman": [
@@ -135,18 +128,18 @@
         "source": "The Motley Fool"
       },
       {
-        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
-        "source": "Chase Bank"
-      },
-      {
         "title": "Eye on the Market Outlook 2025: The Alchemists - J.P. Morgan Private Bank",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVVqel9KbTFkdFJlMHlKLVlTV0s1LXdROF9OTEdHNHNabnczYXZOdjFsVEtZSUpUeDlBRy1QdHZBQlNXdFRrX0FvX0tYTnlSSjM0SHBOSUVvQkhoWkZtZTVCOVF6cDBGOXVyQlVaX05BYnNsY2oyQk9DSm9UTThHWWlrY0FSelhUQkpQX2J0QQ?oc=5",
         "pubDate": "Thu, 01 Jan 2026 13:02:36 GMT",
         "summary": "Eye on the Market Outlook 2025: The Alchemists J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
+      },
+      {
+        "title": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2NRMUM4SzZ6SXB5MzJMeWdBTE9zdndYdXMxaEhOb1hlSURVdXFIZUxfWGp6SFJqbDA1TTRCek9LTFB5aGlVNW9oa0VwcG5UWVIzbzl3bmNRN0RKWUUzQ0RDamhtcnA0N0JpZWVac25IVnVacTN2Z3pmUkF1MmdISEdqbVRJZEFTYnlBNC10ZXJ6YTVWSDlkRm9QTmpkQUdTNF9DN0hyZTd1QQ?oc=5",
+        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+        "summary": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds Institutional Investor",
+        "source": "Institutional Investor"
       }
     ],
     "ms": [
@@ -195,13 +188,6 @@
         "source": "Morningstar"
       },
       {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
-        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
-        "source": "CNBC"
-      },
-      {
         "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
@@ -221,6 +207,13 @@
         "pubDate": "Tue, 12 Dec 2023 08:00:00 GMT",
         "summary": "Mohit Mittal Promoted to PIMCO’s CIO of Core Strategies Chief Investment Officer",
         "source": "Chief Investment Officer"
+      },
+      {
+        "title": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies - Funds Society",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmE2VVJrc3RGZ2E2TTZrbmxEWTRQczhkaFBZdXp0aUtqN0xmSjkyMzNIekdGSkR6NGw0NkZXZU9FbXNWOHBxTDlDRTAzU3hnWjl2eWdnR1V0OXZZYnJ4WmplX2N0WEVlV1k0RG9mSk9nUExFTFlKRlRMcncxQVVUQlAxTlNjaHZQZG80eFhNME9TN0QwSkxGR00wNlZmMl8tRGZvNlROQVBWVFZzaVFRNnhOaERXYU0?oc=5",
+        "pubDate": "Thu, 14 Dec 2023 08:00:00 GMT",
+        "summary": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies Funds Society",
+        "source": "Funds Society"
       }
     ],
     "fed": [
@@ -276,11 +269,18 @@
         "source": "Kitco"
       },
       {
-        "title": "Central Banks Accelerated Gold Buying in Third Quarter - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-        "summary": "Central Banks Accelerated Gold Buying in Third Quarter WSJ",
-        "source": "WSJ"
+        "title": "WGC lowers outlook for gold investment demand growth as bar buying slows - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXNhd2d5cnZVajh5dGZkbnVvc3daNEtvT3NWekFmajVxZ0FfWFRlUGVFb0Z3UWsyWFpVYmN4YmNNdXFkM3gtV0FxcFNjUGtHYVFrNFBoUV9JZl83REU3SmlRTU54bXVSS2NubW1nOEJCVXpyVjdCcnNTUmRmNV9YX05UMDVSTG5zaFA2XzRIMDFZU1kyUVlxVzBfeG9MQjhWdUU5ZEI4bkRUbjEwS3QwTXVGNA?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT",
+        "summary": "WGC lowers outlook for gold investment demand growth as bar buying slows Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdJdkgwZnBIUEhYS0ZGcUpvYVFmWW5tVlZqVFlRSkJuOWUyU3Z2Zi1sZ3F1S3BuMmFrSUtuSDhDbWkzWS1lM2Q0OE14WTVkaEk0SnZMOExTRDFUV3h1dUNvejhVTkRmdjVLb1VKUU40ZlliTTVXenVaN3M5ZEpoZVFqMW9WemRDWGV2YmNCeGpVci0zU2p4a0xhRUhYaDB4ZC13bHNISUdOc3J2RUNKUg?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 03:32:00 GMT",
+        "summary": "China Extends Gold-Buying Streak to Two Years as Prices Drop Bloomberg.com",
+        "source": "Bloomberg.com"
       },
       {
         "title": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights - World Gold Council",
@@ -288,13 +288,6 @@
         "pubDate": "Wed, 04 Nov 2026 08:53:03 GMT",
         "summary": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
-      },
-      {
-        "title": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTAzMER5NjBXcnVJSzN5SnlMT2R3WDc5TmI1bHk0clB1QXc2bVluV2xmUzB1SmZ0bGM0bm0xQlNUQnE4eGxGdHZYZDJudy10bjVaNjFTeXphNjVCVHFuY2NPRGtDeXBSV0d6czdjcEFzYlp2SjJpUUZXZkp4VDJtNE9tYkZSQ3lnNUpGZVhzbjJiZEZ0bHRNSHU2VFJERm9mbWtmTk1VRXFtcDNlVFhZdlExR0hmd0xpVDZIb0ZnTnBKdw?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT",
-        "summary": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says Bloomberg.com",
-        "source": "Bloomberg.com"
       }
     ]
   },
