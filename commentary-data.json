@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T17:53:25+00:00",
+  "fetched_at": "2026-11-12T00:41:33+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -66,6 +66,13 @@
         "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
         "summary": "Hedge Fund Outlook BlackRock",
         "source": "BlackRock"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
+        "source": "BlackRock"
       }
     ],
     "goldman": [
@@ -75,6 +82,13 @@
         "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
         "summary": "US Market Pulse November 2026 Goldman Sachs Asset Management",
         "source": "Goldman Sachs Asset Management"
+      },
+      {
+        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
+        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
+        "source": "Goldman Sachs"
       },
       {
         "title": "Market Know-How 4Q 2026: Yield Ahead - Goldman Sachs Asset Management",
@@ -91,17 +105,10 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "Japan’s Strategic Awakening - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lWTFEWUxtdFVaOTgwdjRwQmR5NEIxREJLYzAtUTJXaVFnVkw2OGY5dnpSM1RLcEw5Y3lmN3VzQi1jdXltd2hjb2pBdWNrRHBqdWJSWlpNaG5scVFtV1ZZQTJhTkozOUctcDlTNjNyMWRnQS1obXRxM2JNTVRoUQ?oc=5",
-        "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-        "summary": "Japan’s Strategic Awakening Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
-        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
-        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
+        "title": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVpGMEdIRHppS1lQRXRSREdCc01lZWhwVkoxMlgyaEdUVHZIU3lhX0ZMUFFmcE5sVkVweHpQOUJfYm1WQVFLRkx5c2J2eGdsRWNhajVKQ3ZvQ24zLUlENFhKZUJSV21MakZvZDRwVnQ5RlhPVlpGQnFDTUQ2c0JEc0xWMU5qczREM1hVcm1uYXAtYlRXMTJfRGRTNFBKdnd2Z1k0NTBCbWFNbkc3VkxXak4zc2pmY0lTdHpj?oc=5",
+        "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "summary": "Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela Goldman Sachs",
         "source": "Goldman Sachs"
       }
     ],
@@ -269,11 +276,11 @@
         "source": "Kitco"
       },
       {
-        "title": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTAzMER5NjBXcnVJSzN5SnlMT2R3WDc5TmI1bHk0clB1QXc2bVluV2xmUzB1SmZ0bGM0bm0xQlNUQnE4eGxGdHZYZDJudy10bjVaNjFTeXphNjVCVHFuY2NPRGtDeXBSV0d6czdjcEFzYlp2SjJpUUZXZkp4VDJtNE9tYkZSQ3lnNUpGZVhzbjJiZEZ0bHRNSHU2VFJERm9mbWtmTk1VRXFtcDNlVFhZdlExR0hmd0xpVDZIb0ZnTnBKdw?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT",
-        "summary": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says Bloomberg.com",
-        "source": "Bloomberg.com"
+        "title": "Central Banks Accelerated Gold Buying in Third Quarter - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+        "summary": "Central Banks Accelerated Gold Buying in Third Quarter WSJ",
+        "source": "WSJ"
       },
       {
         "title": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights - World Gold Council",
@@ -283,11 +290,11 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central Banks Accelerated Gold Buying in Third Quarter - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-        "summary": "Central Banks Accelerated Gold Buying in Third Quarter WSJ",
-        "source": "WSJ"
+        "title": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTAzMER5NjBXcnVJSzN5SnlMT2R3WDc5TmI1bHk0clB1QXc2bVluV2xmUzB1SmZ0bGM0bm0xQlNUQnE4eGxGdHZYZDJudy10bjVaNjFTeXphNjVCVHFuY2NPRGtDeXBSV0d6czdjcEFzYlp2SjJpUUZXZkp4VDJtNE9tYkZSQ3lnNUpGZVhzbjJiZEZ0bHRNSHU2VFJERm9mbWtmTk1VRXFtcDNlVFhZdlExR0hmd0xpVDZIb0ZnTnBKdw?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT",
+        "summary": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ]
   },
