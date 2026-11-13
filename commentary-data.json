@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T17:43:33+00:00",
+  "fetched_at": "2026-11-13T23:31:27+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -114,18 +114,18 @@
         "source": "J.P. Morgan Private Bank"
       },
       {
-        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tnUzRabGFZNVJYWkNKZ0ljblY1Yzk2d2FvOFl3NVBUYVhtLVBsMFlleVltQ3h1dVZyTEhTR2ZiSzBOTUNGcndhNmUtbnBoUVlDZ1ppekp5N3lqYUVSSGt4MTV5RUVibk5idUdHaGtUVDgweTFrSjRXUUJzbWVhU0tLbnJaZl9BdEFpbmZBbmpHcUJ5T1FMZkc2ZlRkUjQyN0pGYUdBWWxzdw?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? Yahoo Finance",
-        "source": "Yahoo Finance"
-      },
-      {
         "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUC1uRlFQWnRDcF9BMnlTZDQ0T0hBTEJkcjdCZVJXaEp3aEtlQzFzc2JaVGFZRXBhZGRpcURrTXYtUmFMMXg2SEtKOW9tQmNsYXR1N0ttNkNxZVZ2eEJkVWpIdzB2UVp2R25BUnN0a29lM0JfZjU0eVJ4aU1yeVl5LXRuX1V0THdqMXVneTd3WlpxZFNfMTNBVA?oc=5",
         "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
         "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? The Motley Fool",
         "source": "The Motley Fool"
+      },
+      {
+        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tnUzRabGFZNVJYWkNKZ0ljblY1Yzk2d2FvOFl3NVBUYVhtLVBsMFlleVltQ3h1dVZyTEhTR2ZiSzBOTUNGcndhNmUtbnBoUVlDZ1ppekp5N3lqYUVSSGt4MTV5RUVibk5idUdHaGtUVDgweTFrSjRXUUJzbWVhU0tLbnJaZl9BdEFpbmZBbmpHcUJ5T1FMZkc2ZlRkUjQyN0pGYUdBWWxzdw?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? Yahoo Finance",
+        "source": "Yahoo Finance"
       },
       {
         "title": "Eye on the Market Outlook 2025: The Alchemists - J.P. Morgan Private Bank",
@@ -144,17 +144,10 @@
     ],
     "ms": [
       {
-        "title": "AI Momentum Bolsters Global Markets - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUhna3M4eVBPZkRlSHNuRl9MalhjWXJXN3M5QVNmVDJ1enhaZzdYOHg3WmlFNjdsMkxwNkhMakV6N3FEcUZyYkRER1ZSR2J5QVVuTHdWZzJ3SHJVWEJuUUw3SXNOZU5pSzVWdXREYTZ2WnlKUmdlMVpGMTdaTHFvRi1EUllqZw?oc=5",
-        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "AI Momentum Bolsters Global Markets Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
-        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "Midyear Economic Outlook: AI Drives Resilient Growth Morgan Stanley",
+        "title": "A New Investment Case for Europe - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXB4U0gyUHlEVU1CQWM0VFNOMTZxWVZmTTFiUEtJVE1FRGpTZnJDWGwtWk1MNFNfcTd6c0FfNnUxSTFVMERKaDc2YjM0TGNkX0NzNWtVYk45TmpkUVM2eU9JblQ2akh6Y3gtb2RhNkFoeE1MXzVmTWZ6UzFWbUtIc2IyQ2FuVkMzOWxQYUZGMVJfWmQ2bENNWTdNblpjVmRreXpDOQ?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
+        "summary": "A New Investment Case for Europe Morgan Stanley",
         "source": "Morgan Stanley"
       },
       {
@@ -165,17 +158,24 @@
         "source": "Morgan Stanley"
       },
       {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "title": "Where Macro Meets Micro: Investing Through Structural Change - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW5SMGNkaVpvNHNmRlUzYmMwM1RJdXhOTVdLTnB2T0w1U21HRzNXMHVURmpSTmhxVTdETWVMT3Z1Nkl3bEk2Y0UxQ3BqV3JmUWpDLS14c3QtOVlPUVlhOWhlM3hqUUd4NlRfVlVlcGE5NGVXWTJTVXhYNnEwRF9OYy1td2h1UzFNdUpTaUNZbms0NURrcTZOWXhmMm9tTkk?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "summary": "Where Macro Meets Micro: Investing Through Structural Change Morgan Stanley",
         "source": "Morgan Stanley"
       },
       {
-        "title": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3ZJejZLSG5kcU1ybklxUk9KYXJ1LWhtd19WSEdtQjNiNElLOUFXbkpSR3E5MHV4SVJqVnZEU1RRdXJINjRUUjNsbWVfUmN1aWc2ekZ5Tkh2dzVHaVZKdUZwM0NWbTVjWklFOWdudWp6ekg4QjQ3cTFqRHBnU0p2YkxTWk92ZVJFNjFTdS12ZXdrTEtZSnNhdkVyd0JZbFhuUWRqNW9MZHh5M1RDSjI1TzlIcW5VRVB5ODh0azlFZVI1VHhCQzVoLWN6ZkpjXzRqakE?oc=5",
-        "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "summary": "Macro Outlook: Finding Investment Opportunities Across Shifting Global Macro Climates Morgan Stanley",
+        "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
+        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
+        "summary": "Midyear Economic Outlook: AI Drives Resilient Growth Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
+        "title": "AI Momentum Bolsters Global Markets - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUhna3M4eVBPZkRlSHNuRl9MalhjWXJXN3M5QVNmVDJ1enhaZzdYOHg3WmlFNjdsMkxwNkhMakV6N3FEcUZyYkRER1ZSR2J5QVVuTHdWZzJ3SHJVWEJuUUw3SXNOZU5pSzVWdXREYTZ2WnlKUmdlMVpGMTdaTHFvRi1EUllqZw?oc=5",
+        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
+        "summary": "AI Momentum Bolsters Global Markets Morgan Stanley",
         "source": "Morgan Stanley"
       }
     ],
@@ -255,6 +255,13 @@
     ],
     "wgc": [
       {
+        "title": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000 - Streetwise Reports",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORklGZ0xpd2dxTXk1bW5aRnNpOEVmeU5pZ3lYZ0JJUWdTQkwwMWl2eVJtWEdFcGZHcWx6VG9BcnE0QlJuem1pWXhLenNNZURERDFzdWZtY1FqMEw5THo4S1oxZHBrSGxkWmNQeFNheWtjUGdWUm1PakQ4NjBaQWpNM0E0dVVTZE5jRkxaV2V5RVZfN09lZUYxblFrSzB6c2l2bUJzUUhDY1ZaOWR4NnJhS0dfdW94c21PT2N2UXlR?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 18:17:35 GMT",
+        "summary": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000 Streetwise Reports",
+        "source": "Streetwise Reports"
+      },
+      {
         "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
         "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
@@ -274,13 +281,6 @@
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
-      },
-      {
-        "title": "Gold SWOT: Central bank gold buying remains strong in 2026 - Kitco",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUsxVTBXQzNxLTE5V05PMGpBdTU0VmhHQjhXUTdUWjlBcDlwQUxrTWJFVVZNN0F4NTNWOVlvWVJZZXcyeUxFb2xmYml6eHRfaTlGb0dJcFYySUR4QmxRTGM2Y2xFU1lRaENONHNPejUycHVYUEF3YU11LW4taU1QNkwzR3lNNHZjZVM1Y0gxdHdSZl9LeUo2eEJpdw?oc=5",
-        "pubDate": "Mon, 09 Nov 2026 14:12:27 GMT",
-        "summary": "Gold SWOT: Central bank gold buying remains strong in 2026 Kitco",
-        "source": "Kitco"
       },
       {
         "title": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights - World Gold Council",
