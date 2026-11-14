@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T23:31:27+00:00",
+  "fetched_at": "2026-11-14T05:42:41+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -144,24 +144,10 @@
     ],
     "ms": [
       {
-        "title": "A New Investment Case for Europe - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXB4U0gyUHlEVU1CQWM0VFNOMTZxWVZmTTFiUEtJVE1FRGpTZnJDWGwtWk1MNFNfcTd6c0FfNnUxSTFVMERKaDc2YjM0TGNkX0NzNWtVYk45TmpkUVM2eU9JblQ2akh6Y3gtb2RhNkFoeE1MXzVmTWZ6UzFWbUtIc2IyQ2FuVkMzOWxQYUZGMVJfWmQ2bENNWTdNblpjVmRreXpDOQ?oc=5",
-        "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
-        "summary": "A New Investment Case for Europe Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "A Bull Case for Latin America - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1dUTnpCOFBCVGtIUmlZTDloV1g2SFU3QTJ6cFNveDV6eHQ2b29rcjZ2d180Sm9nQzJhMW9uNHBSbzZ1cFRTM29iVWVmT1BNcHRjS3lfRDFFNWFnNFhvZVBUT1d5cUl5cUVJMVZRa1dnY1JqclJIN1RwSkdoNlVPVHVDcng1SEpxZnVCVFRkUkI0Z0pq?oc=5",
-        "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
-        "summary": "A Bull Case for Latin America Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "Where Macro Meets Micro: Investing Through Structural Change - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW5SMGNkaVpvNHNmRlUzYmMwM1RJdXhOTVdLTnB2T0w1U21HRzNXMHVURmpSTmhxVTdETWVMT3Z1Nkl3bEk2Y0UxQ3BqV3JmUWpDLS14c3QtOVlPUVlhOWhlM3hqUUd4NlRfVlVlcGE5NGVXWTJTVXhYNnEwRF9OYy1td2h1UzFNdUpTaUNZbms0NURrcTZOWXhmMm9tTkk?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "summary": "Where Macro Meets Micro: Investing Through Structural Change Morgan Stanley",
+        "title": "AI Momentum Bolsters Global Markets - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUhna3M4eVBPZkRlSHNuRl9MalhjWXJXN3M5QVNmVDJ1enhaZzdYOHg3WmlFNjdsMkxwNkhMakV6N3FEcUZyYkRER1ZSR2J5QVVuTHdWZzJ3SHJVWEJuUUw3SXNOZU5pSzVWdXREYTZ2WnlKUmdlMVpGMTdaTHFvRi1EUllqZw?oc=5",
+        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
+        "summary": "AI Momentum Bolsters Global Markets Morgan Stanley",
         "source": "Morgan Stanley"
       },
       {
@@ -172,10 +158,24 @@
         "source": "Morgan Stanley"
       },
       {
-        "title": "AI Momentum Bolsters Global Markets - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUhna3M4eVBPZkRlSHNuRl9MalhjWXJXN3M5QVNmVDJ1enhaZzdYOHg3WmlFNjdsMkxwNkhMakV6N3FEcUZyYkRER1ZSR2J5QVVuTHdWZzJ3SHJVWEJuUUw3SXNOZU5pSzVWdXREYTZ2WnlKUmdlMVpGMTdaTHFvRi1EUllqZw?oc=5",
-        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "AI Momentum Bolsters Global Markets Morgan Stanley",
+        "title": "A Bull Case for Latin America - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1dUTnpCOFBCVGtIUmlZTDloV1g2SFU3QTJ6cFNveDV6eHQ2b29rcjZ2d180Sm9nQzJhMW9uNHBSbzZ1cFRTM29iVWVmT1BNcHRjS3lfRDFFNWFnNFhvZVBUT1d5cUl5cUVJMVZRa1dnY1JqclJIN1RwSkdoNlVPVHVDcng1SEpxZnVCVFRkUkI0Z0pq?oc=5",
+        "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
+        "summary": "A Bull Case for Latin America Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
+        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
+        "title": "A Turning Point for Real Estate: Recovery Takes Shape - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPazFqN1dDRHRLSTc4U1FYLTZXc0NrSVlpUXhnZWl2TVIwVnc5XzdvbjE4RHF5M01HQ3pyMEQ3bXJxSFI0TWpqbm9uemF1WmRrME9sNHptOVRyU080TDJESzlDLWdjLUxNYkpKbE14VnpScjh6eDNidEpZTW9tdGZaZTkxRDVRZEdyZjd6SVdfdjB6dw?oc=5",
+        "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
+        "summary": "A Turning Point for Real Estate: Recovery Takes Shape Morgan Stanley",
         "source": "Morgan Stanley"
       }
     ],
@@ -202,21 +202,28 @@
         "source": "Bloomberg.com"
       },
       {
-        "title": "PIMCO launches Global Bond Opportunities Fund - RankiaPro",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWVCSXNIcUdNNEd3TmZaOG1OdVBaYXJhNlZpQVRiV2czWF8xZThTMUF6MHI3ZTJJYl9sNFFKVU5WaUxvUl9fdXVrUldNM0F4M0tuTlBiOC1EVnZ6NkdIUEc4T3paMVF1R1cwNkF5U3NsMmZNNVVzckZEX2pXNUxhZXlTSDEwOVkydC1OcVNxVWZWTG0zVlVWNWRYRnllMHRvQmctdjA3M1Frc0RTRE9NXw?oc=5",
-        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-        "summary": "PIMCO launches Global Bond Opportunities Fund RankiaPro",
-        "source": "RankiaPro"
-      },
-      {
         "title": "Mohit Mittal Promoted to PIMCO’s CIO of Core Strategies - Chief Investment Officer",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQakNJckdGdVFvMVgzNlE1S3FxMXNNZlpHNWVPUzh1bmdVaUNld3ZfVnJjSzJFeEwzQW1vLTBBc2ZYVVBpWWRERHJRdTJOSk5SSFpDLWFzdUVGYkZsbzF4MmVZWlhoM0dJLWdYdUZySjllbVphb2xTd1NZV1hlLUpiWHhLSGFOQ2E5czFF?oc=5",
         "pubDate": "Tue, 12 Dec 2023 08:00:00 GMT",
         "summary": "Mohit Mittal Promoted to PIMCO’s CIO of Core Strategies Chief Investment Officer",
         "source": "Chief Investment Officer"
+      },
+      {
+        "title": "PIMCO launches Global Bond Opportunities Fund - RankiaPro",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWVCSXNIcUdNNEd3TmZaOG1OdVBaYXJhNlZpQVRiV2czWF8xZThTMUF6MHI3ZTJJYl9sNFFKVU5WaUxvUl9fdXVrUldNM0F4M0tuTlBiOC1EVnZ6NkdIUEc4T3paMVF1R1cwNkF5U3NsMmZNNVVzckZEX2pXNUxhZXlTSDEwOVkydC1OcVNxVWZWTG0zVlVWNWRYRnllMHRvQmctdjA3M1Frc0RTRE9NXw?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "summary": "PIMCO launches Global Bond Opportunities Fund RankiaPro",
+        "source": "RankiaPro"
       }
     ],
     "fed": [
+      {
+        "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
+        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+        "pubDate": "Sat, 14 Nov 2026 00:00:00 GMT",
+        "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California",
+        "source": ""
+      },
       {
         "title": "Barr, American Inequality and the Future of AI",
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
@@ -243,13 +250,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
         "pubDate": "Thu, 15 Oct 2026 02:55:00 GMT",
         "summary": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand",
-        "source": ""
-      },
-      {
-        "title": "Waller, The Signaling Value of the Summary of Economic Projections",
-        "link": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
-        "pubDate": "Thu, 8 Oct 2026 08:30:00 GMT",
-        "summary": "Speech At the Istanbul Economic Forum, Central Bank of the Republic of T rkiye, Istanbul, T rkiye",
         "source": ""
       }
     ],
