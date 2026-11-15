@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T13:42:50+00:00",
+  "fetched_at": "2026-11-15T22:38:51+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -17,18 +17,18 @@
         "source": "Bridgewater Associates"
       },
       {
-        "title": "Bridgewater China Withstands Rout That Left Quants Reeling - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3hFbzVQRWF6WWRsdWZReW0tV3B2ckwyRVUwQm9jWVdvRDhFZkY4TF9IZW9xRktKd0FEUzNESExIMTkxTzdoRTB3TDhYcG1GU01HSnFxMnltSVdQZ1hjMEh6amcyOE9IaTJvU0JWbnR2ZmRFaDhGdVpXOUtSeWVUalBFa1hORkFaVWtTVVJULUxhMUlpSl9aVFg0dGdzelpxYm50cTBubE9mQWNIRUUyeXpzR18?oc=5",
-        "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
-        "summary": "Bridgewater China Withstands Rout That Left Quants Reeling Bloomberg.com",
-        "source": "Bloomberg.com"
-      },
-      {
         "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0xMZkgxVDVNNXdrZEZGNnJHNG5tNDI3NGEteUJhN0tjWTJKM2VJT3dFQTN0QkRTejhQR1dNMGNMOC1LNlpjMDUxWnJJa2VrdlE0RlAwZlpERGdDV2ZibmJpMGtVM2xWdURKcU82QTVuMHBWcW43S0dsMFQ4Y0J6ZzA4NEdiR0Mta09FaWozYlhyTXhIYlhxQk5Nckg4eE1Lc2tqdURB?oc=5",
         "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
         "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Yahoo Finance",
         "source": "Yahoo Finance"
+      },
+      {
+        "title": "Bridgewater China Withstands Rout That Left Quants Reeling - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3hFbzVQRWF6WWRsdWZReW0tV3B2ckwyRVUwQm9jWVdvRDhFZkY4TF9IZW9xRktKd0FEUzNESExIMTkxTzdoRTB3TDhYcG1GU01HSnFxMnltSVdQZ1hjMEh6amcyOE9IaTJvU0JWbnR2ZmRFaDhGdVpXOUtSeWVUalBFa1hORkFaVWtTVVJULUxhMUlpSl9aVFg0dGdzelpxYm50cTBubE9mQWNIRUUyeXpzR18?oc=5",
+        "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+        "summary": "Bridgewater China Withstands Rout That Left Quants Reeling Bloomberg.com",
+        "source": "Bloomberg.com"
       },
       {
         "title": "March has been a brutal month for macro hedge funds — with one notable exception - Business Insider",
@@ -70,6 +70,13 @@
     ],
     "goldman": [
       {
+        "title": "The Global Economy Is Forecast to Grow 2.8% in 2027 as Oil Prices Decline - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaVN6c05ZMXB0aDFpXzBnazNkc29iejZSdmY4ZGxDYUx1bUFjUlNPVm1sRkljdUlDZnBkUnJVbFVPZU1JMkhid2xRWk1HWXlyV3ZVejBnSm1KeUJyNUgtemRvRnJuUlpDdTlxWXdXNm1QZXFKMExlNVZDOXA1VlotTGNROV82OFE4ODU5aDlZNDhSSmc4YkxGRDhZRXZlWVNGWllDQU1DMUxlc1kwR0xtQzAzMS1OLUZvRm45SHZoQ0FMbmxTVFZ0R3JKVTVQQQ?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 17:23:30 GMT",
+        "summary": "The Global Economy Is Forecast to Grow 2.8% in 2027 as Oil Prices Decline Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
         "title": "US Market Pulse November 2026 - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
         "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
@@ -95,13 +102,6 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1LUGF1eHpVcVlORmRMWHlrS0x4My1FQ2lldWdQUHlxMXFTMkRSQlJUVzA5UDROeDdfNkpIVENuUUxGeFVSdlhnMHFBOVU4T0YzUnNNeC1HQ1lWaFdGZzJsemRMREdRR1Uzc0RrUnFTbWo1SnE1RDhGdVZnX0RZdG50XzVadGhZVkhZOTBCcWtURVpmNGpWV3VrSk96NnIyYkE?oc=5",
         "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
         "summary": "Are US Stock Market Valuations Outpacing Fundamentals? Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "Why Spain’s Economy Is Growing Three Times Faster Than the Euro Area - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdU42ZGRRWUZxeUYwWWZ2bGJwaUFEeXkzNXl6R1NHZ2h4MEVWUF9LX0g2VlM2ckQtSDFJaXdjSUZ0TFJfNXJTcXhObDlWVUlYLWh1ODFfYVhEMzlucUZ0cnRPdEh2cU53TmZWTVRoeWVJZUFIRVRVVmxNQUh2ejVBLW03TDh2ZGVTSVVWMU1rdm5qQ2I3OTE5Qkt1VnVmMVh2SFBxY3NCMnJQRHJYVGxtcS1ncVg?oc=5",
-        "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "summary": "Why Spain’s Economy Is Growing Three Times Faster Than the Euro Area Goldman Sachs",
         "source": "Goldman Sachs"
       }
     ],
@@ -188,18 +188,11 @@
         "source": "Morningstar"
       },
       {
-        "title": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan - Livewire Markets",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU5CN1ZpZDh0ZjJXZW83dWVYTFg2RFk0TUJSZzFGdm14OVRhSTdIUnE4bFduVV9VeHJVMnBFVkU4M252bW12TlNhb0E3RWJpenY3dU14Q2g1S3lQVkV4dS01TWF0NFBtQk91QTZnaHBGQ1F3VDNmME5idXk1X0lSWDNYTHh6ZDFrUHFrVjFnNDZQZEJuTEZua1B3U0JSZVozUTJ0N0VoRC1fbFU?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "Discipline required: PIMCO's 2026 outlook on Australia, China and Japan Livewire Markets",
-        "source": "Livewire Markets"
-      },
-      {
-        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
-        "source": "Bloomberg.com"
+        "title": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies - Funds Society",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmE2VVJrc3RGZ2E2TTZrbmxEWTRQczhkaFBZdXp0aUtqN0xmSjkyMzNIekdGSkR6NGw0NkZXZU9FbXNWOHBxTDlDRTAzU3hnWjl2eWdnR1V0OXZZYnJ4WmplX2N0WEVlV1k0RG9mSk9nUExFTFlKRlRMcncxQVVUQlAxTlNjaHZQZG80eFhNME9TN0QwSkxGR00wNlZmMl8tRGZvNlROQVBWVFZzaVFRNnhOaERXYU0?oc=5",
+        "pubDate": "Thu, 14 Dec 2023 08:00:00 GMT",
+        "summary": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies Funds Society",
+        "source": "Funds Society"
       },
       {
         "title": "Mohit Mittal Promoted to PIMCO’s CIO of Core Strategies - Chief Investment Officer",
@@ -209,11 +202,18 @@
         "source": "Chief Investment Officer"
       },
       {
-        "title": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies - Funds Society",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmE2VVJrc3RGZ2E2TTZrbmxEWTRQczhkaFBZdXp0aUtqN0xmSjkyMzNIekdGSkR6NGw0NkZXZU9FbXNWOHBxTDlDRTAzU3hnWjl2eWdnR1V0OXZZYnJ4WmplX2N0WEVlV1k0RG9mSk9nUExFTFlKRlRMcncxQVVUQlAxTlNjaHZQZG80eFhNME9TN0QwSkxGR00wNlZmMl8tRGZvNlROQVBWVFZzaVFRNnhOaERXYU0?oc=5",
-        "pubDate": "Thu, 14 Dec 2023 08:00:00 GMT",
-        "summary": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies Funds Society",
-        "source": "Funds Society"
+        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "Former Pimco CEO Mohamed El-Erian on where the economy could be headed - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXZyX0dMOE1YUG9uRF9uZ2dLa1ZOZC1mYTNOdklrYlJXNXo0WEZ6Z25UZDFHQ0FZZ0lvdzBJVUNfd3FpaXByYnhkTFpfNFI5ZTNiWXR2eW1KSlkzaUEtTGlIUGZEZzJscmdNNXRvLTkyd09keDA1NGk1YkhZU0JpODVxRUJkek9SaGwxOXE0MEdONzJGWkNnYnc2TVZrYlZCV05BZEdWdHo3MEhlLXg1cmU3WQ?oc=5",
+        "pubDate": "Fri, 12 Feb 2021 08:00:00 GMT",
+        "summary": "Former Pimco CEO Mohamed El-Erian on where the economy could be headed CNBC",
+        "source": "CNBC"
       }
     ],
     "fed": [
