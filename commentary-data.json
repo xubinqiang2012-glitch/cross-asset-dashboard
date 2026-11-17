@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T13:23:44+00:00",
+  "fetched_at": "2026-11-17T22:21:42+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -42,7 +42,7 @@
       {
         "title": "Weekly market commentary - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:52:25 GMT",
+        "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
         "summary": "Weekly market commentary BlackRock",
         "source": "BlackRock"
       },
@@ -66,6 +66,13 @@
         "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
         "summary": "Hedge Fund Outlook BlackRock",
         "source": "BlackRock"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
+        "source": "BlackRock"
       }
     ],
     "goldman": [
@@ -84,6 +91,13 @@
         "source": "Goldman Sachs"
       },
       {
+        "title": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVncwVWdFNkk4NnRjbENhTDQwWDlIMklGS19CWVNmM3RwbC11M2l4amROS3IyVG1SbXJUQWZwbWp4OWZjVjh5TWlaaWFaUG9tQWRuZVZPUHZDcU5CaVRHMzhLUS1RYjdkNTdkVml2a2xOandyT25fTTVUZHJhWjVGWkw0djNPMlpicE4xaUp6N3dsN3ZJVHNZNHl0bFZSR1NLU1N2WlU4WlZFWExhZ3JxWg?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 20:26:06 GMT",
+        "summary": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows Goldman Sachs",
+        "source": "Goldman Sachs"
+      },
+      {
         "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
         "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
@@ -96,13 +110,6 @@
         "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
         "summary": "US Market Pulse November 2026 Goldman Sachs Asset Management",
         "source": "Goldman Sachs Asset Management"
-      },
-      {
-        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
-        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
-        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
-        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
@@ -144,6 +151,13 @@
     ],
     "ms": [
       {
+        "title": "Morgan Stanley's 2027 Outlook: Embracing Risk, but Don't Confuse a Bull Market With Easy Money - The Dark Side Of The Boom",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMkd3R0w3V0d6WFVtckh0VUcxSFVGcGNXLU1TQkxZUktHeHdxNjZzZFJKVFFDdWljUVMteGVwVEJ0S1lpbUFoLVJibm5SMmEwS21ZRzE2MktlS1RBVkN5cnM3RTd2U284ZUdWLUdtMHNoY2xMQnFDU1FaRHVlQjV6aHVSWWcxTjRtY1E?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 18:30:55 GMT",
+        "summary": "Morgan Stanley's 2027 Outlook: Embracing Risk, but Don't Confuse a Bull Market With Easy Money The Dark Side Of The Boom",
+        "source": "The Dark Side Of The Boom"
+      },
+      {
         "title": "AI Momentum Bolsters Global Markets - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUhna3M4eVBPZkRlSHNuRl9MalhjWXJXN3M5QVNmVDJ1enhaZzdYOHg3WmlFNjdsMkxwNkhMakV6N3FEcUZyYkRER1ZSR2J5QVVuTHdWZzJ3SHJVWEJuUUw3SXNOZU5pSzVWdXREYTZ2WnlKUmdlMVpGMTdaTHFvRi1EUllqZw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
@@ -169,13 +183,6 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
         "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
         "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "A Turning Point for Real Estate: Recovery Takes Shape - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPazFqN1dDRHRLSTc4U1FYLTZXc0NrSVlpUXhnZWl2TVIwVnc5XzdvbjE4RHF5M01HQ3pyMEQ3bXJxSFI0TWpqbm9uemF1WmRrME9sNHptOVRyU080TDJESzlDLWdjLUxNYkpKbE14VnpScjh6eDNidEpZTW9tdGZaZTkxRDVRZEdyZjd6SVdfdjB6dw?oc=5",
-        "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
-        "summary": "A Turning Point for Real Estate: Recovery Takes Shape Morgan Stanley",
         "source": "Morgan Stanley"
       }
     ],
@@ -218,6 +225,13 @@
     ],
     "fed": [
       {
+        "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+        "pubDate": "Tue, 17 Nov 2026 14:10:00 GMT",
+        "summary": "Speech At “Navigating the Future of Banking and Payments,” The Clearing House Annual Conference 2026, New York, New York",
+        "source": ""
+      },
+      {
         "title": "Warsh, Opening Remarks",
         "link": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
         "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
@@ -243,13 +257,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
         "pubDate": "Thu, 12 Nov 2026 15:00:00 GMT",
         "summary": "Speech At Yale University, New Haven, Connecticut",
-        "source": ""
-      },
-      {
-        "title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
-        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-        "pubDate": "Tue, 10 Nov 2026 20:30:00 GMT",
-        "summary": "Speech At the C. Peter McColough Series on International Economics Council on Foreign Relations, Washington, D.C.",
         "source": ""
       }
     ],
