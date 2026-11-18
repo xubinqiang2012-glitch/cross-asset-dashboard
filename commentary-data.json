@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T07:26:05+00:00",
+  "fetched_at": "2026-11-18T17:14:43+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -38,7 +38,36 @@
         "source": "Global Citizen"
       }
     ],
-    "blackrock": [],
+    "blackrock": [
+      {
+        "title": "Weekly market commentary - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
+        "summary": "Weekly market commentary BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "Fall Macro Outlook: Supply in Capital Markets 101 - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmxXZVMyYVN2TzhDSFJac1JDa1U1eC1HR0Y3Y3RTU0VEZ2wwNUlWOGJseGNxN3BnOUpzYk4tbUZ6N0oyd3ZOOTFDdWt1aVdlcThnV1B2YXVXdnBjQ1BRa1o5T0xXUFV4NVhzbGdzbTA4c2x0ZkxTYS1ramVqMDdtMDBvVQ?oc=5",
+        "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
+        "summary": "Fall Macro Outlook: Supply in Capital Markets 101 BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "Market Outlook April 2026: Get Paid to Wait - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "Hedge Fund Outlook - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
+        "summary": "Hedge Fund Outlook BlackRock",
+        "source": "BlackRock"
+      }
+    ],
     "goldman": [
       {
         "title": "Global Macro Outlook: Steady Baseline, Downside Risks - Goldman Sachs",
@@ -92,6 +121,13 @@
         "source": "Yahoo Finance"
       },
       {
+        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUC1uRlFQWnRDcF9BMnlTZDQ0T0hBTEJkcjdCZVJXaEp3aEtlQzFzc2JaVGFZRXBhZGRpcURrTXYtUmFMMXg2SEtKOW9tQmNsYXR1N0ttNkNxZVZ2eEJkVWpIdzB2UVp2R25BUnN0a29lM0JfZjU0eVJ4aU1yeVl5LXRuX1V0THdqMXVneTd3WlpxZFNfMTNBVA?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? The Motley Fool",
+        "source": "The Motley Fool"
+      },
+      {
         "title": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2NRMUM4SzZ6SXB5MzJMeWdBTE9zdndYdXMxaEhOb1hlSURVdXFIZUxfWGp6SFJqbDA1TTRCek9LTFB5aGlVNW9oa0VwcG5UWVIzbzl3bmNRN0RKWUUzQ0RDamhtcnA0N0JpZWVac25IVnVacTN2Z3pmUkF1MmdISEdqbVRJZEFTYnlBNC10ZXJ6YTVWSDlkRm9QTmpkQUdTNF9DN0hyZTd1QQ?oc=5",
         "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
@@ -104,13 +140,6 @@
         "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
         "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
         "source": "Fortune"
-      },
-      {
-        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
-        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
       }
     ],
     "ms": [
@@ -226,6 +255,13 @@
     ],
     "wgc": [
       {
+        "title": "China gold market update: Robust demand in October | Post by Ray Jia | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX01TX2R4cG4wLTNVNTBJcWI5UWdhTDdXRi12cVA5N2NoZHJFbkpmZ3d0Smx2WHdMVHozR2NTQUwwYkRLVjVpdVZrZ1NQQ0VlRzNTSm5GX2hCeGhBRlE5eVJCS2xEcTl2dC1GQXZJZlNUbHJxZ09BVkh1bWlUZ05PNndSN2dWLXZUQjNFLUZTRXFtYmktWnpnWl9n?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 13:34:10 GMT",
+        "summary": "China gold market update: Robust demand in October | Post by Ray Jia | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
         "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
         "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
@@ -237,13 +273,6 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FISHMxN1ZCSUQwdE9kQVhva1hiRzludFBBOU03aHd0MjdlcldFZDhwUWNjcWl1d25wNUdBa1VpMkpKMjI3YnROUndkT1FjTUxWQnhpUFhULWZjN01IdE8zT2JFUmVTWGJfdTMyc1VaVWRiSWQ1MldyMGRVcmhQTzh5Z0pPT3FDeVMtdTJYbko3WVV0cWJKT3NSV2ZlT29BVUNhSnNvejlDSFhFSjRFeWpsN3BjVzBUeFBj?oc=5",
         "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
         "summary": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
-        "title": "India gold market update: Gold demand gets festive boost | Post by Kavita Chacko | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmJiWm5XZk40M0RveHhSX0hqOW0tclZuTXNjNHZwZExaMmRnYTB0TFFxaWNLY1NQVlRMUGk1OEFFbjFrOUpUS2d0aUtJUWl4SlFuM0ZET01nZDNGX3BYXzA1dkFOaVcwZHJ2SjNLcnlpRU1aakE2QnJpU3ZrWWpxa2NtbWNiTjkyc3h1SDRFMVJ4cDZVUXExeHVidDVLN21VMnRhbU9n?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:54:09 GMT",
-        "summary": "India gold market update: Gold demand gets festive boost | Post by Kavita Chacko | Insights World Gold Council",
         "source": "World Gold Council"
       },
       {
@@ -262,9 +291,5 @@
       }
     ]
   },
-  "errors": {
-    "blackrock": [
-      "HTTP Error 429: Too Many Requests"
-    ]
-  }
+  "errors": {}
 }
