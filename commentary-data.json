@@ -1,222 +1,20 @@
 {
-  "fetched_at": "2026-11-19T10:18:44+00:00",
+  "fetched_at": "2026-11-19T20:35:45+00:00",
   "sources": {
-    "bridgewater": [
-      {
-        "title": "Bridgewater's flagship macro fund posts double-digit gains this year, sources say - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTgyQ1VKU21CSHhfcG9kb1MzYmhLUnVrMkJuQVBTb2I1Y1NMdVFzTnhGOTgwNmlpSXVLRkFnN0VCaHp4NjlzMS1iOVJmSjdaa0F4b2pnbVVPX3lBUENHWDcwVnZYcTRmSFZYcG9kbVVCcFROaDJRdzVZbHNpODdMSWxXM3JqdElkaEVrOVpCbXdBaTA1WFdzeTY0SEZJdGlIOWJCcnZUS3I4MWpzWUpGNG1WZmRXZ05jbFhMWFZFV251N1llcHc?oc=5",
-        "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
-        "summary": "Bridgewater's flagship macro fund posts double-digit gains this year, sources say Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Atlantic Council Names Eka Zhao and Yusuf Jailani 2026-27 Millennium Fellows - Bridgewater Associates",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmNnbVRORjh4R2NQVHJ3NDMwcS1PdHZJMkp0ZlV5X0xDc01MY29ZOHNZX3o0d1l5RDlMNjlwbFVUb2Zoc0x1dHdjaFpiRUk5N1FGczBjMENMOXc4amlGbjdlUnNGVHVSZ2pRZ2lZXzVBMVlnM0FLcmxIT0ZEZE81Mjg2T0VVR0poYXY2ME9fRTl1UzQ4QkxDSHFXcTU4TVY5MkZIaUpfWTMwWWJiSVJ0Mg?oc=5",
-        "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-        "summary": "Atlantic Council Names Eka Zhao and Yusuf Jailani 2026-27 Millennium Fellows Bridgewater Associates",
-        "source": "Bridgewater Associates"
-      },
-      {
-        "title": "Bridgewater China Withstands Rout That Left Quants Reeling - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3hFbzVQRWF6WWRsdWZReW0tV3B2ckwyRVUwQm9jWVdvRDhFZkY4TF9IZW9xRktKd0FEUzNESExIMTkxTzdoRTB3TDhYcG1GU01HSnFxMnltSVdQZ1hjMEh6amcyOE9IaTJvU0JWbnR2ZmRFaDhGdVpXOUtSeWVUalBFa1hORkFaVWtTVVJULUxhMUlpSl9aVFg0dGdzelpxYm50cTBubE9mQWNIRUUyeXpzR18?oc=5",
-        "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
-        "summary": "Bridgewater China Withstands Rout That Left Quants Reeling Bloomberg.com",
-        "source": "Bloomberg.com"
-      },
-      {
-        "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0xMZkgxVDVNNXdrZEZGNnJHNG5tNDI3NGEteUJhN0tjWTJKM2VJT3dFQTN0QkRTejhQR1dNMGNMOC1LNlpjMDUxWnJJa2VrdlE0RlAwZlpERGdDV2ZibmJpMGtVM2xWdURKcU82QTVuMHBWcW43S0dsMFQ4Y0J6ZzA4NEdiR0Mta09FaWozYlhyTXhIYlhxQk5Nckg4eE1Lc2tqdURB?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Yahoo Finance",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
-        "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
-        "source": "Global Citizen"
-      }
-    ],
-    "blackrock": [
-      {
-        "title": "Weekly market commentary - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
-        "summary": "Weekly market commentary BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "Fall Macro Outlook: Supply in Capital Markets 101 - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmxXZVMyYVN2TzhDSFJac1JDa1U1eC1HR0Y3Y3RTU0VEZ2wwNUlWOGJseGNxN3BnOUpzYk4tbUZ6N0oyd3ZOOTFDdWt1aVdlcThnV1B2YXVXdnBjQ1BRa1o5T0xXUFV4NVhzbGdzbTA4c2x0ZkxTYS1ramVqMDdtMDBvVQ?oc=5",
-        "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
-        "summary": "Fall Macro Outlook: Supply in Capital Markets 101 BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "Mega forces: An investment opportunity - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDdiQ09tMVNsMjFHck1LQUFZQjBIajVVMUlVdDMxd1d2M285T3h3VkgyS3ZiNWd3dmlvVXVubEFPTnNnRm5ib3ZvV3B4S0tWa3VtRUp4X016a1lGOUdqc2tXbDVGMWdLN0ZGOXlSSUlYUEFMVF9jVS1BRXdkZTNFaFNLVjhpYnFQWHZzcUxXYzE?oc=5",
-        "pubDate": "Fri, 31 Jul 2026 11:14:33 GMT",
-        "summary": "Mega forces: An investment opportunity BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "Market Outlook April 2026: Get Paid to Wait - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
-        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-        "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
-        "source": "BlackRock"
-      }
-    ],
-    "goldman": [
-      {
-        "title": "Global Macro Outlook: Steady Baseline, Downside Risks - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUllN1FSYlhIRnY2ZmhhNzBBdEF5TWUyaXRWZ0stcTdwSFk3RWktSjhxZ0FVY1lhMDhYZFpHNXM2MVkzYWN5MXZNWk90TWdUUmRnZFVrdm9FekR0SkpPOWYxTFlmR1pxcjBwUEI2MFBkWGpGZHp1UkF6MVVoWnoyblhzRWY1NFdHX3hrS09iMm0xN2RpemdfaG9zOUlkS0pnUXpNZE9LeTZCeGtCdktmcQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 00:44:46 GMT",
-        "summary": "Global Macro Outlook: Steady Baseline, Downside Risks Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "The Global Economy Is Forecast to Grow 2.8% in 2027 as Oil Prices Decline - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaVN6c05ZMXB0aDFpXzBnazNkc29iejZSdmY4ZGxDYUx1bUFjUlNPVm1sRkljdUlDZnBkUnJVbFVPZU1JMkhid2xRWk1HWXlyV3ZVejBnSm1KeUJyNUgtemRvRnJuUlpDdTlxWXdXNm1QZXFKMExlNVZDOXA1VlotTGNROV82OFE4ODU5aDlZNDhSSmc4YkxGRDhZRXZlWVNGWllDQU1DMUxlc1kwR0xtQzAzMS1OLUZvRm45SHZoQ0FMbmxTVFZ0R3JKVTVQQQ?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 17:23:30 GMT",
-        "summary": "The Global Economy Is Forecast to Grow 2.8% in 2027 as Oil Prices Decline Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVncwVWdFNkk4NnRjbENhTDQwWDlIMklGS19CWVNmM3RwbC11M2l4amROS3IyVG1SbXJUQWZwbWp4OWZjVjh5TWlaaWFaUG9tQWRuZVZPUHZDcU5CaVRHMzhLUS1RYjdkNTdkVml2a2xOandyT25fTTVUZHJhWjVGWkw0djNPMlpicE4xaUp6N3dsN3ZJVHNZNHl0bFZSR1NLU1N2WlU4WlZFWExhZ3JxWg?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 20:26:06 GMT",
-        "summary": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
-        "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      },
-      {
-        "title": "US Market Pulse November 2026 - Goldman Sachs Asset Management",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
-        "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
-        "summary": "US Market Pulse November 2026 Goldman Sachs Asset Management",
-        "source": "Goldman Sachs Asset Management"
-      }
-    ],
-    "jpm": [
-      {
-        "title": "Patchmageddon - J.P. Morgan Private Bank",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc1ZYRTF3RkkzakRMMlFpNHBoY1dxNTNFRHBhakdXcWpsaDZIUWFVaXA1dS10WG9iN3NMa0lHdVdkSlhZeWNjcUN5c2U1ZENJTl90N01yZENtQnZUcUxaY2FhOTJQM1hYeXVuMUphcDktRVVIVTZzUXBCRlFhRUFBMXdqTEd0V1dFaUZSMC1tdkc?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "summary": "Patchmageddon J.P. Morgan Private Bank",
-        "source": "J.P. Morgan Private Bank"
-      },
-      {
-        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tnUzRabGFZNVJYWkNKZ0ljblY1Yzk2d2FvOFl3NVBUYVhtLVBsMFlleVltQ3h1dVZyTEhTR2ZiSzBOTUNGcndhNmUtbnBoUVlDZ1ppekp5N3lqYUVSSGt4MTV5RUVibk5idUdHaGtUVDgweTFrSjRXUUJzbWVhU0tLbnJaZl9BdEFpbmZBbmpHcUJ5T1FMZkc2ZlRkUjQyN0pGYUdBWWxzdw?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? Yahoo Finance",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUC1uRlFQWnRDcF9BMnlTZDQ0T0hBTEJkcjdCZVJXaEp3aEtlQzFzc2JaVGFZRXBhZGRpcURrTXYtUmFMMXg2SEtKOW9tQmNsYXR1N0ttNkNxZVZ2eEJkVWpIdzB2UVp2R25BUnN0a29lM0JfZjU0eVJ4aU1yeVl5LXRuX1V0THdqMXVneTd3WlpxZFNfMTNBVA?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? The Motley Fool",
-        "source": "The Motley Fool"
-      },
-      {
-        "title": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds - Institutional Investor",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2NRMUM4SzZ6SXB5MzJMeWdBTE9zdndYdXMxaEhOb1hlSURVdXFIZUxfWGp6SFJqbDA1TTRCek9LTFB5aGlVNW9oa0VwcG5UWVIzbzl3bmNRN0RKWUUzQ0RDamhtcnA0N0JpZWVac25IVnVacTN2Z3pmUkF1MmdISEdqbVRJZEFTYnlBNC10ZXJ6YTVWSDlkRm9QTmpkQUdTNF9DN0hyZTd1QQ?oc=5",
-        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-        "summary": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds Institutional Investor",
-        "source": "Institutional Investor"
-      },
-      {
-        "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
-        "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
-        "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
-        "source": "Fortune"
-      }
-    ],
-    "ms": [
-      {
-        "title": "Morgan Stanley's 2027 Outlook: Embracing Risk, but Don't Confuse a Bull Market With Easy Money - The Dark Side Of The Boom",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMkd3R0w3V0d6WFVtckh0VUcxSFVGcGNXLU1TQkxZUktHeHdxNjZzZFJKVFFDdWljUVMteGVwVEJ0S1lpbUFoLVJibm5SMmEwS21ZRzE2MktlS1RBVkN5cnM3RTd2U284ZUdWLUdtMHNoY2xMQnFDU1FaRHVlQjV6aHVSWWcxTjRtY1E?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 18:30:55 GMT",
-        "summary": "Morgan Stanley's 2027 Outlook: Embracing Risk, but Don't Confuse a Bull Market With Easy Money The Dark Side Of The Boom",
-        "source": "The Dark Side Of The Boom"
-      },
-      {
-        "title": "AI Momentum Bolsters Global Markets - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUhna3M4eVBPZkRlSHNuRl9MalhjWXJXN3M5QVNmVDJ1enhaZzdYOHg3WmlFNjdsMkxwNkhMakV6N3FEcUZyYkRER1ZSR2J5QVVuTHdWZzJ3SHJVWEJuUUw3SXNOZU5pSzVWdXREYTZ2WnlKUmdlMVpGMTdaTHFvRi1EUllqZw?oc=5",
-        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "AI Momentum Bolsters Global Markets Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
-        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "summary": "Midyear Economic Outlook: AI Drives Resilient Growth Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "A Bull Case for Latin America - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1dUTnpCOFBCVGtIUmlZTDloV1g2SFU3QTJ6cFNveDV6eHQ2b29rcjZ2d180Sm9nQzJhMW9uNHBSbzZ1cFRTM29iVWVmT1BNcHRjS3lfRDFFNWFnNFhvZVBUT1d5cUl5cUVJMVZRa1dnY1JqclJIN1RwSkdoNlVPVHVDcng1SEpxZnVCVFRkUkI0Z0pq?oc=5",
-        "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
-        "summary": "A Bull Case for Latin America Morgan Stanley",
-        "source": "Morgan Stanley"
-      },
-      {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
-        "source": "Morgan Stanley"
-      }
-    ],
-    "pimco": [
-      {
-        "title": "Pimco’s Clarida: Key Bond Market Risks and Opportunities in a Fragmenting World - Morningstar",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3A0d1BSOE13dnp1MTNTZ08yMnZlZ20zNDF0OXBMcDBKZXVwSUh2SU00VU1Ybm9xSTJyM1llbk10dHVOSEJDYURZc0pwbDdONG5fNHE2Ukh3eFRkNU5UeTJkaWN3ZjZVeFVFRG1nejZqT1IwT0pCaHA0c1VMY1hxOUp4NGlNcTItVVRJY1JVLUVUSjNRUEx5NFd0S0NkV0hTUXBhZWpiaw?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
-        "summary": "Pimco’s Clarida: Key Bond Market Risks and Opportunities in a Fragmenting World Morningstar",
-        "source": "Morningstar"
-      },
-      {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
-        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
-        "source": "CNBC"
-      },
-      {
-        "title": "PIMCO Cyclical Outlook: how to invest in the current environment - RankiaPro",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3M2bWlxcVdSUDZWWEk2VE1OY0hEd1FaclFBZWRhM0dnVkVpcHNtd19VM25wNkJhMFEtVEFMbDZPTFNyTnYyamszX1JHU3BtbHhRa0N0Vy1pd2FCaGdieTlyVnVoekRRLXRjSkViRWZpbVNLQ3hPelVCWkY2N2V1aFhyb1V6N01Wb0ZMNWxqN1BwZw?oc=5",
-        "pubDate": "Fri, 01 Dec 2023 18:48:21 GMT",
-        "summary": "PIMCO Cyclical Outlook: how to invest in the current environment RankiaPro",
-        "source": "RankiaPro"
-      },
-      {
-        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
-        "source": "Bloomberg.com"
-      },
-      {
-        "title": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies - Funds Society",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmE2VVJrc3RGZ2E2TTZrbmxEWTRQczhkaFBZdXp0aUtqN0xmSjkyMzNIekdGSkR6NGw0NkZXZU9FbXNWOHBxTDlDRTAzU3hnWjl2eWdnR1V0OXZZYnJ4WmplX2N0WEVlV1k0RG9mSk9nUExFTFlKRlRMcncxQVVUQlAxTlNjaHZQZG80eFhNME9TN0QwSkxGR00wNlZmMl8tRGZvNlROQVBWVFZzaVFRNnhOaERXYU0?oc=5",
-        "pubDate": "Thu, 14 Dec 2023 08:00:00 GMT",
-        "summary": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies Funds Society",
-        "source": "Funds Society"
-      }
-    ],
+    "bridgewater": [],
+    "blackrock": [],
+    "goldman": [],
+    "jpm": [],
+    "ms": [],
+    "pimco": [],
     "fed": [
+      {
+        "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
+        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
+        "pubDate": "Thu, 19 Nov 2026 14:25:00 GMT",
+        "summary": "Speech At the International Monetary Fund and Central Bank of Brazil Conference “A Quarter Century of Inflation Targeting in Latin America: Progress, Challenges, and the Road Ahead,” Bras lia, Brazil",
+        "source": ""
+      },
       {
         "title": "Barr, Investing in America’s Underserved Communities",
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
@@ -244,52 +42,31 @@
         "pubDate": "Mon, 16 Nov 2026 10:00:00 GMT",
         "summary": "Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy",
         "source": ""
-      },
-      {
-        "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-        "pubDate": "Sat, 14 Nov 2026 00:00:00 GMT",
-        "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California",
-        "source": ""
       }
     ],
-    "wgc": [
-      {
-        "title": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjRORzU4eXMyNjBhcy1tNHU3NXRhRjFPQnFIem5Ba1psakVwWlZUTWZFWkNnZmpvNm4tYXRyOWRrc3p0Yi13X09NVkg5NDBOSS12N05ienp2RmRhNWoxb0Q1eElXWU1EZl9QeGdYXzh2a0lGRWg1SmVlSmpBekt2dmZTOEdicDZzQ2NGdVZaTzRkWFI5Y2c?oc=5",
-        "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
-        "summary": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
-        "title": "Central bank buying and ETF inflows support gold demand in Q3 - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblIwcVI4MUo2VFVvTTZxWmZBT1JrRmIxVHhHQTk4WXQwQmNhU1RUNnJ6QURFZ3BqNkUwTVh2U1JEY1pKN2xEZmdiNkhIM2p1bzJJTDU5REFwUEZHSExqUTduazdBUnhaZ1FmcEwxT0I2UjJtRDRqQ3d2VjFFS3BjVTJfUF9wWVBPd0NkUkhPWWFBRzNqQ0VqWDlrUFJIYjgxQUhzUXhTMjZUbU5KUDQ0?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-        "summary": "Central bank buying and ETF inflows support gold demand in Q3 World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
-        "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
-        "title": "China gold market update: Robust demand in October | Post by Ray Jia | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX01TX2R4cG4wLTNVNTBJcWI5UWdhTDdXRi12cVA5N2NoZHJFbkpmZ3d0Smx2WHdMVHozR2NTQUwwYkRLVjVpdVZrZ1NQQ0VlRzNTSm5GX2hCeGhBRlE5eVJCS2xEcTl2dC1GQXZJZlNUbHJxZ09BVkh1bWlUZ05PNndSN2dWLXZUQjNFLUZTRXFtYmktWnpnWl9n?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 13:34:10 GMT",
-        "summary": "China gold market update: Robust demand in October | Post by Ray Jia | Insights World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
-        "title": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FISHMxN1ZCSUQwdE9kQVhva1hiRzludFBBOU03aHd0MjdlcldFZDhwUWNjcWl1d25wNUdBa1VpMkpKMjI3YnROUndkT1FjTUxWQnhpUFhULWZjN01IdE8zT2JFUmVTWGJfdTMyc1VaVWRiSWQ1MldyMGRVcmhQTzh5Z0pPT3FDeVMtdTJYbko3WVV0cWJKT3NSV2ZlT29BVUNhSnNvejlDSFhFSjRFeWpsN3BjVzBUeFBj?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
-      }
-    ]
+    "wgc": []
   },
-  "errors": {}
+  "errors": {
+    "bridgewater": [
+      "HTTP Error 503: Service Unavailable"
+    ],
+    "blackrock": [
+      "HTTP Error 503: Service Unavailable"
+    ],
+    "goldman": [
+      "HTTP Error 503: Service Unavailable"
+    ],
+    "jpm": [
+      "HTTP Error 503: Service Unavailable"
+    ],
+    "ms": [
+      "HTTP Error 503: Service Unavailable"
+    ],
+    "pimco": [
+      "HTTP Error 503: Service Unavailable"
+    ],
+    "wgc": [
+      "HTTP Error 503: Service Unavailable"
+    ]
+  }
 }
