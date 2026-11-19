@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T17:14:43+00:00",
+  "fetched_at": "2026-11-19T00:21:18+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -65,6 +65,13 @@
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
         "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
         "summary": "Hedge Fund Outlook BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "A 2026 global macro outlook: Patience - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pfN3BLdUdCcFA4Zzl3TXRFVkdWYVJKUUcwY0hBR1RiS3NKLVhLaTBCUGtMcHhRUlpYZ2huSW1Feld1VF9aTjBvelZjeGY3Y2xrVFpGcjNmMUo2UEdicHBiR0dkZ2JrczZEbVBiU2xUSG5NT0pFdTBPOHd2S0Vibi1QUFJzcFE?oc=5",
+        "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "summary": "A 2026 global macro outlook: Patience BlackRock",
         "source": "BlackRock"
       }
     ],
@@ -218,6 +225,13 @@
     ],
     "fed": [
       {
+        "title": "Barr, Investing in America’s Underserved Communities",
+        "link": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
+        "pubDate": "Wed, 18 Nov 2026 18:35:00 GMT",
+        "summary": "Speech At Making Missing Markets: Catalyzing Capital and Igniting Innovation, Federal Reserve Bank of New York, New York, New York",
+        "source": ""
+      },
+      {
         "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
         "pubDate": "Tue, 17 Nov 2026 14:10:00 GMT",
@@ -244,13 +258,6 @@
         "pubDate": "Sat, 14 Nov 2026 00:00:00 GMT",
         "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California",
         "source": ""
-      },
-      {
-        "title": "Barr, American Inequality and the Future of AI",
-        "link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
-        "pubDate": "Thu, 12 Nov 2026 15:00:00 GMT",
-        "summary": "Speech At Yale University, New Haven, Connecticut",
-        "source": ""
       }
     ],
     "wgc": [
@@ -276,18 +283,18 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000 - Streetwise Reports",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORklGZ0xpd2dxTXk1bW5aRnNpOEVmeU5pZ3lYZ0JJUWdTQkwwMWl2eVJtWEdFcGZHcWx6VG9BcnE0QlJuem1pWXhLenNNZURERDFzdWZtY1FqMEw5THo4S1oxZHBrSGxkWmNQeFNheWtjUGdWUm1PakQ4NjBaQWpNM0E0dVVTZE5jRkxaV2V5RVZfN09lZUYxblFrSzB6c2l2bUJzUUhDY1ZaOWR4NnJhS0dfdW94c21PT2N2UXlR?oc=5",
-        "pubDate": "Sat, 14 Nov 2026 10:30:36 GMT",
-        "summary": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000 Streetwise Reports",
-        "source": "Streetwise Reports"
-      },
-      {
         "title": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZxaERkYUdYY1RERzFpa3d6Qlo2cG1kU3lvWENnd1pOVzJPVTdBSzYyQldsQ3NDeFNlUUJjNmFNWkdPQVZFNGFWSjFZZHNpOFdaNXM0MTlsM0RxWnBsdE1FcDZkMlpTMXJkQ1BkdkZZa2d3bkVhWmJDQXFZN3VZX2lieDloQ1lFck43TWJnZHN4SEZfZWRTQUVTR0pFRHZDTmNxaFVkSGhQX1l5S1pkbHdvay0?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "summary": "Central bank gold statistics: Central banks resume net buying in April | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
+      },
+      {
+        "title": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000 - Streetwise Reports",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORklGZ0xpd2dxTXk1bW5aRnNpOEVmeU5pZ3lYZ0JJUWdTQkwwMWl2eVJtWEdFcGZHcWx6VG9BcnE0QlJuem1pWXhLenNNZURERDFzdWZtY1FqMEw5THo4S1oxZHBrSGxkWmNQeFNheWtjUGdWUm1PakQ4NjBaQWpNM0E0dVVTZE5jRkxaV2V5RVZfN09lZUYxblFrSzB6c2l2bUJzUUhDY1ZaOWR4NnJhS0dfdW94c21PT2N2UXlR?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 10:30:36 GMT",
+        "summary": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000 Streetwise Reports",
+        "source": "Streetwise Reports"
       }
     ]
   },
