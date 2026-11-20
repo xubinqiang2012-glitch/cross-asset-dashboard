@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-11-20T03:13:09+00:00",
+  "fetched_at": "2026-11-20T12:52:16+00:00",
   "sources": {
     "bridgewater": [
+      {
+        "title": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap - shattered.io",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3ZxOWtjVHM5QjhEVkhnYzB1a1BBZlFmdFVtLTljQUE2Z3lhS2dRaGFIQk5XLWJlUXg3cE9qWjdINlR4ZjNvb2ppMm9vd0NoUG9saVlsQmlHZnJJcFF2dDktQWc5a0R4b3dFaThfQ21rZ24wWmc5WS1JMUdTbkpFdFVkbG5mMGhtSHVIbWxleExIb2dRSU1VcU9SaFE?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 00:26:41 GMT",
+        "summary": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap shattered.io",
+        "source": "shattered.io"
+      },
       {
         "title": "Bridgewater's flagship macro fund posts double-digit gains this year, sources say - Reuters",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTgyQ1VKU21CSHhfcG9kb1MzYmhLUnVrMkJuQVBTb2I1Y1NMdVFzTnhGOTgwNmlpSXVLRkFnN0VCaHp4NjlzMS1iOVJmSjdaa0F4b2pnbVVPX3lBUENHWDcwVnZYcTRmSFZYcG9kbVVCcFROaDJRdzVZbHNpODdMSWxXM3JqdElkaEVrOVpCbXdBaTA1WFdzeTY0SEZJdGlIOWJCcnZUS3I4MWpzWUpGNG1WZmRXZ05jbFhMWFZFV251N1llcHc?oc=5",
@@ -29,13 +36,6 @@
         "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
         "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Yahoo Finance",
         "source": "Yahoo Finance"
-      },
-      {
-        "title": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge - Global Citizen",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGR4eUVjQmFBWVhCZUhTcWhVTEU5VVY4WlRDMjNuSVAtbDdfemFPNmNiNU5zdnRIN2xleFlfREZTM1RKdVBQRWhpY0FjMXlYQ1FlbGNtTkdxVk9KMjduc0E0RE9XaFFCdUdyRTdndmFvSnpyWTlxMVZlZnJNMEVXRWVxdWJ3MVBVQmlDaDZBeFZlY0s4V0E?oc=5",
-        "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "summary": "Bridgewater and Global Citizen Launch 2026 Forecasting the Future Challenge Global Citizen",
-        "source": "Global Citizen"
       }
     ],
     "blackrock": [
@@ -91,25 +91,25 @@
         "source": "Goldman Sachs"
       },
       {
-        "title": "The Global Economy Is Forecast to Grow 2.8% in 2027 as Oil Prices Decline - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaVN6c05ZMXB0aDFpXzBnazNkc29iejZSdmY4ZGxDYUx1bUFjUlNPVm1sRkljdUlDZnBkUnJVbFVPZU1JMkhid2xRWk1HWXlyV3ZVejBnSm1KeUJyNUgtemRvRnJuUlpDdTlxWXdXNm1QZXFKMExlNVZDOXA1VlotTGNROV82OFE4ODU5aDlZNDhSSmc4YkxGRDhZRXZlWVNGWllDQU1DMUxlc1kwR0xtQzAzMS1OLUZvRm45SHZoQ0FMbmxTVFZ0R3JKVTVQQQ?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 17:23:30 GMT",
-        "summary": "The Global Economy Is Forecast to Grow 2.8% in 2027 as Oil Prices Decline Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
-        "title": "Global Sovereign Bond Issuance in 2027—Leveling Out - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS2h0U2ZHRFkyVi1CLUlnRTVXVnNMcU9YSEJQOFQxQlZwRldxR0JNbUlsTlJVSmVaUzNrMENZRkRBYUQ2R3VSeVN0RU5fREhuMmFkaWdhWVkxSWppUThHMnRWdjNUVVY5bzBISXIyRUsxWHVPM2t3VmtjdmNUeU9PVl90TThJbm5taWJmbXZiblNnV0JFQTFuLXc5em5RWEhLUU9oSjN5bEtseXZtazQwc0hlMA?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 08:00:00 GMT",
-        "summary": "Global Sovereign Bond Issuance in 2027—Leveling Out Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
         "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
         "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
         "summary": "Weekly Market Monitor Goldman Sachs Asset Management",
         "source": "Goldman Sachs Asset Management"
+      },
+      {
+        "title": "US Market Pulse November 2026 - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
+        "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+        "summary": "US Market Pulse November 2026 Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
+      },
+      {
+        "title": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk9XMVNsVGFuUWYwcDduTnlUaktiRkRBbW5kekRwRFNjdEptVElSbUpwUFJSX3QwLThmVWk3ZDVkVld1dmtxN2tINGZndmpOTW5UV2NpWXVyNWxPdkJ3R1NUQVNuS0J6LWF1RThBWXJtNktRMHA2bkF0OUc1RmFydXBseFBPRW4wSzlNUkZpOUdxcDZvSTBNSnRqMlVURWRuVW9ma3V2VGgwdW1RY2VYSDdyRlZDRDZOZEdJcGln?oc=5",
+        "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
+        "source": "Goldman Sachs"
       }
     ],
     "jpm": [
@@ -195,6 +195,13 @@
         "source": "Morningstar"
       },
       {
+        "title": "China’s Next Phase: What Persistent Supply-Side Growth Means For Global Markets - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTy1SZUdNOWpBSm5BbFdQd2xVYWF6MnhsMFlYdWgwWTdCejVfUkgwR0kxWXhkNEktTEoteW1LS2Fvc2Rvd1ZacnJOZWlIdWhVaHlnSmNmbE5nZmYxZGw5MHJmdnA4LU9VQ0JCTlgyNFdURThfbmE1UnZuNjRER3dDNU01N0Q4QWdiQnliVGp3dmFWNjh2bTFYdGlvbE9NMXp2WVExN0RKaGJ6RC1GYl9na2JlRlcybzc1?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "summary": "China’s Next Phase: What Persistent Supply-Side Growth Means For Global Markets Seeking Alpha",
+        "source": "Seeking Alpha"
+      },
+      {
         "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
         "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
@@ -214,13 +221,6 @@
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
         "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
         "source": "Bloomberg.com"
-      },
-      {
-        "title": "PAXS: A Decent Income Fund From PIMCO For The Long Term, 13.9% Yield (NYSE:PAXS) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFlNY0tUTF8zbklBdk1OMkVNWUhvSWxWZzFzTDYzdkstQm9OWXZxYUktVUEySWdWdElOd1dMeVlJdWxDbXFxYmhhcFVHQjlhOEJkZ3hfRG1Fc2FzMEN3dUNoWlRaSjhyUGtiLW15SGhSU0ZVajVyekVyTlIwN0QyUkZZdVJvbUVtbER1amg5TUUzUjZuNXNUNFBMTmI2WXlTMXdSTnRQZWZtZw?oc=5",
-        "pubDate": "Sun, 25 Oct 2026 07:00:00 GMT",
-        "summary": "PAXS: A Decent Income Fund From PIMCO For The Long Term, 13.9% Yield (NYSE:PAXS) Seeking Alpha",
-        "source": "Seeking Alpha"
       }
     ],
     "fed": [
@@ -276,6 +276,13 @@
         "source": "Kitco"
       },
       {
+        "title": "China gold market update: Robust demand in October | Post by Ray Jia | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX01TX2R4cG4wLTNVNTBJcWI5UWdhTDdXRi12cVA5N2NoZHJFbkpmZ3d0Smx2WHdMVHozR2NTQUwwYkRLVjVpdVZrZ1NQQ0VlRzNTSm5GX2hCeGhBRlE5eVJCS2xEcTl2dC1GQXZJZlNUbHJxZ09BVkh1bWlUZ05PNndSN2dWLXZUQjNFLUZTRXFtYmktWnpnWl9n?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 13:34:10 GMT",
+        "summary": "China gold market update: Robust demand in October | Post by Ray Jia | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
         "title": "Central bank buying and ETF inflows support gold demand in Q3 - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblIwcVI4MUo2VFVvTTZxWmZBT1JrRmIxVHhHQTk4WXQwQmNhU1RUNnJ6QURFZ3BqNkUwTVh2U1JEY1pKN2xEZmdiNkhIM2p1bzJJTDU5REFwUEZHSExqUTduazdBUnhaZ1FmcEwxT0I2UjJtRDRqQ3d2VjFFS3BjVTJfUF9wWVBPd0NkUkhPWWFBRzNqQ0VqWDlrUFJIYjgxQUhzUXhTMjZUbU5KUDQ0?oc=5",
         "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
@@ -287,13 +294,6 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjRORzU4eXMyNjBhcy1tNHU3NXRhRjFPQnFIem5Ba1psakVwWlZUTWZFWkNnZmpvNm4tYXRyOWRrc3p0Yi13X09NVkg5NDBOSS12N05ienp2RmRhNWoxb0Q1eElXWU1EZl9QeGdYXzh2a0lGRWg1SmVlSmpBekt2dmZTOEdicDZzQ2NGdVZaTzRkWFI5Y2c?oc=5",
         "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
         "summary": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
-        "title": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FISHMxN1ZCSUQwdE9kQVhva1hiRzludFBBOU03aHd0MjdlcldFZDhwUWNjcWl1d25wNUdBa1VpMkpKMjI3YnROUndkT1FjTUxWQnhpUFhULWZjN01IdE8zT2JFUmVTWGJfdTMyc1VaVWRiSWQ1MldyMGRVcmhQTzh5Z0pPT3FDeVMtdTJYbko3WVV0cWJKT3NSV2ZlT29BVUNhSnNvejlDSFhFSjRFeWpsN3BjVzBUeFBj?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
       }
     ]
