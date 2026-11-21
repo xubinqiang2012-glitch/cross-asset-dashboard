@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T21:48:25+00:00",
+  "fetched_at": "2026-11-21T03:11:47+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -31,11 +31,11 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg",
+        "title": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDNzWTN6N1ZBUHY4N1RJZE9BYUMtakdLeFg4MzdKa29KbVdnY2xNM1BaX3hHMGh0aVBFVWRwTmg3VDFQeHJSb0xpQlFTNkxDZ2RSMks5Y25WTHBReXlnUXc4RUhxaW93SF9jY1A4Z3hhWnktVmk4RG10Y3dvSlBLbGZ3THM5UFhVeVBDdUh6YU9ZalZKa3BhTFFXR05vVlRsOGV4UnEycWU4UlN5aGJfSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg",
-        "source": "Bloomberg"
+        "summary": "Macro Hedge Funds Slammed in China as Bridgewater Loses 5.6% Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "blackrock": [
@@ -172,10 +172,10 @@
         "source": "Morgan Stanley"
       },
       {
-        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
-        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
+        "title": "AI Market Trends 2026: Global Investment, Risks, and Buildout - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYVVkMUg5TTVySTJlUFJmX041MlVhYmpweFZJWkZBcGh2VGxSc09WYmtiN0Fvcy1kbkZveGlYeGVQd1phVko0eHFNdnFCR09PZThsSmhOU1pmQTlPd3g1MmkxaTIzMzFhTmh4aFFXM1pIOTNGellydnpkc3RKWnViM2Z6dkxUUQ?oc=5",
+        "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
+        "summary": "AI Market Trends 2026: Global Investment, Risks, and Buildout Morgan Stanley",
         "source": "Morgan Stanley"
       }
     ],
@@ -195,6 +195,13 @@
         "source": "CNBC"
       },
       {
+        "title": "China’s Next Phase: What Persistent Supply-Side Growth Means For Global Markets - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTy1SZUdNOWpBSm5BbFdQd2xVYWF6MnhsMFlYdWgwWTdCejVfUkgwR0kxWXhkNEktTEoteW1LS2Fvc2Rvd1ZacnJOZWlIdWhVaHlnSmNmbE5nZmYxZGw5MHJmdnA4LU9VQ0JCTlgyNFdURThfbmE1UnZuNjRER3dDNU01N0Q4QWdiQnliVGp3dmFWNjh2bTFYdGlvbE9NMXp2WVExN0RKaGJ6RC1GYl9na2JlRlcybzc1?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "summary": "China’s Next Phase: What Persistent Supply-Side Growth Means For Global Markets Seeking Alpha",
+        "source": "Seeking Alpha"
+      },
+      {
         "title": "PIMCO Cyclical Outlook: how to invest in the current environment - RankiaPro",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3M2bWlxcVdSUDZWWEk2VE1OY0hEd1FaclFBZWRhM0dnVkVpcHNtd19VM25wNkJhMFEtVEFMbDZPTFNyTnYyamszX1JHU3BtbHhRa0N0Vy1pd2FCaGdieTlyVnVoekRRLXRjSkViRWZpbVNLQ3hPelVCWkY2N2V1aFhyb1V6N01Wb0ZMNWxqN1BwZw?oc=5",
         "pubDate": "Fri, 01 Dec 2023 18:48:21 GMT",
@@ -202,18 +209,11 @@
         "source": "RankiaPro"
       },
       {
-        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
+        "title": "Watch PIMCO President Stracke on Business Strategy - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnpDLWJRS1ZTZy1odkFaM1hCVER0N1BhZzNydDFva2RKNk1rSldNS3BhNDNHMS1uVTJMT0lCN1ZpeFg5QW8zMmV4RmRhaFRpT1RwMk1iX3h1QW4taDl2T056Sld4VmtaUURPdGRwMElQbVhyVnBPSEFOc29Pc1NOTzV3T24tYmZOamRTUWpLa3pLdWFnNHhfRVJSTFVWenpU?oc=5",
+        "pubDate": "Mon, 24 Mar 2025 07:00:00 GMT",
+        "summary": "Watch PIMCO President Stracke on Business Strategy Bloomberg.com",
         "source": "Bloomberg.com"
-      },
-      {
-        "title": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies - Funds Society",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmE2VVJrc3RGZ2E2TTZrbmxEWTRQczhkaFBZdXp0aUtqN0xmSjkyMzNIekdGSkR6NGw0NkZXZU9FbXNWOHBxTDlDRTAzU3hnWjl2eWdnR1V0OXZZYnJ4WmplX2N0WEVlV1k0RG9mSk9nUExFTFlKRlRMcncxQVVUQlAxTlNjaHZQZG80eFhNME9TN0QwSkxGR00wNlZmMl8tRGZvNlROQVBWVFZzaVFRNnhOaERXYU0?oc=5",
-        "pubDate": "Thu, 14 Dec 2023 08:00:00 GMT",
-        "summary": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies Funds Society",
-        "source": "Funds Society"
       }
     ],
     "fed": [
@@ -255,17 +255,17 @@
     ],
     "wgc": [
       {
-        "title": "China’s central bank buys 21 tonnes of gold in September, largest monthly purchase in 3 years - Kitco",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVBNT0VBTXh2QTBwcVMxX3RMMTdjY0hJX1h2R1EtU3BIZHN4WV9GUldTRktqZlpWQTc0RUlQV1JETnVkWW1KUFpSaERvb0VvV212Q2xuYzhJeC1VSWJ2RWJsOHpkWGJnbUxxRFdmUWpIVENrLTBiTXBBOUtmZGVzREFENHFrVEZ0NUpGWkFaLWRtVThvdVd6R0thLUhKV3YyOTlFV2JJR0N5SUZaUW1nWDFjb1JDVk91QVZybg?oc=5",
-        "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
-        "summary": "China’s central bank buys 21 tonnes of gold in September, largest monthly purchase in 3 years Kitco",
-        "source": "Kitco"
-      },
-      {
         "title": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council - Kitco",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEJFR3YwV0p1YTlSd0VUUTRLNzBGUlBQeXNOTVBmbWNzN1ZhaXZjU2RZSmN0aUZQelNTUERyVWlQMkYxVDFNcjRXT0lvM1FmQUk2Rld6TDVQWktGdEZpN0JTQkVzekJGOTU0MFdqTUF5SUVZOGVxMDJibTY3YjJtNV95QlplaHlnTTA5cThSYkhrQU5SWWlTNXhyUkJ3cF9aM3NCS0UxRU4xQ096TVNxQUwxdTFYM3Jh?oc=5",
         "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
         "summary": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council Kitco",
+        "source": "Kitco"
+      },
+      {
+        "title": "China’s central bank buys 21 tonnes of gold in September, largest monthly purchase in 3 years - Kitco",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVBNT0VBTXh2QTBwcVMxX3RMMTdjY0hJX1h2R1EtU3BIZHN4WV9GUldTRktqZlpWQTc0RUlQV1JETnVkWW1KUFpSaERvb0VvV212Q2xuYzhJeC1VSWJ2RWJsOHpkWGJnbUxxRFdmUWpIVENrLTBiTXBBOUtmZGVzREFENHFrVEZ0NUpGWkFaLWRtVThvdVd6R0thLUhKV3YyOTlFV2JJR0N5SUZaUW1nWDFjb1JDVk91QVZybg?oc=5",
+        "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+        "summary": "China’s central bank buys 21 tonnes of gold in September, largest monthly purchase in 3 years Kitco",
         "source": "Kitco"
       },
       {
@@ -276,17 +276,17 @@
         "source": "World Gold Council"
       },
       {
-        "title": "Central bank buying and ETF inflows support gold demand in Q3 - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblIwcVI4MUo2VFVvTTZxWmZBT1JrRmIxVHhHQTk4WXQwQmNhU1RUNnJ6QURFZ3BqNkUwTVh2U1JEY1pKN2xEZmdiNkhIM2p1bzJJTDU5REFwUEZHSExqUTduazdBUnhaZ1FmcEwxT0I2UjJtRDRqQ3d2VjFFS3BjVTJfUF9wWVBPd0NkUkhPWWFBRzNqQ0VqWDlrUFJIYjgxQUhzUXhTMjZUbU5KUDQ0?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-        "summary": "Central bank buying and ETF inflows support gold demand in Q3 World Gold Council",
-        "source": "World Gold Council"
-      },
-      {
         "title": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights - World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjRORzU4eXMyNjBhcy1tNHU3NXRhRjFPQnFIem5Ba1psakVwWlZUTWZFWkNnZmpvNm4tYXRyOWRrc3p0Yi13X09NVkg5NDBOSS12N05ienp2RmRhNWoxb0Q1eElXWU1EZl9QeGdYXzh2a0lGRWg1SmVlSmpBekt2dmZTOEdicDZzQ2NGdVZaTzRkWFI5Y2c?oc=5",
         "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
         "summary": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
+        "title": "Central bank buying and ETF inflows support gold demand in Q3 - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblIwcVI4MUo2VFVvTTZxWmZBT1JrRmIxVHhHQTk4WXQwQmNhU1RUNnJ6QURFZ3BqNkUwTVh2U1JEY1pKN2xEZmdiNkhIM2p1bzJJTDU5REFwUEZHSExqUTduazdBUnhaZ1FmcEwxT0I2UjJtRDRqQ3d2VjFFS3BjVTJfUF9wWVBPd0NkUkhPWWFBRzNqQ0VqWDlrUFJIYjgxQUhzUXhTMjZUbU5KUDQ0?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+        "summary": "Central bank buying and ETF inflows support gold demand in Q3 World Gold Council",
         "source": "World Gold Council"
       }
     ]
