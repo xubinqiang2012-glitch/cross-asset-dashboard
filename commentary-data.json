@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T06:24:43+00:00",
+  "fetched_at": "2026-11-21T18:54:38+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -66,13 +66,6 @@
         "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
         "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
         "source": "BlackRock"
-      },
-      {
-        "title": "Hedge Fund Outlook - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
-        "summary": "Hedge Fund Outlook BlackRock",
-        "source": "BlackRock"
       }
     ],
     "goldman": [
@@ -128,13 +121,6 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUC1uRlFQWnRDcF9BMnlTZDQ0T0hBTEJkcjdCZVJXaEp3aEtlQzFzc2JaVGFZRXBhZGRpcURrTXYtUmFMMXg2SEtKOW9tQmNsYXR1N0ttNkNxZVZ2eEJkVWpIdzB2UVp2R25BUnN0a29lM0JfZjU0eVJ4aU1yeVl5LXRuX1V0THdqMXVneTd3WlpxZFNfMTNBVA?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? The Motley Fool",
-        "source": "The Motley Fool"
-      },
-      {
         "title": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds - Institutional Investor",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2NRMUM4SzZ6SXB5MzJMeWdBTE9zdndYdXMxaEhOb1hlSURVdXFIZUxfWGp6SFJqbDA1TTRCek9LTFB5aGlVNW9oa0VwcG5UWVIzbzl3bmNRN0RKWUUzQ0RDamhtcnA0N0JpZWVac25IVnVacTN2Z3pmUkF1MmdISEdqbVRJZEFTYnlBNC10ZXJ6YTVWSDlkRm9QTmpkQUdTNF9DN0hyZTd1QQ?oc=5",
         "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
@@ -147,6 +133,13 @@
         "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
         "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
         "source": "J.P. Morgan Private Bank"
+      },
+      {
+        "title": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2xIZklhMlAyREVaMFltZUU2cWcxOEtLam9ESklFN2p3WXZYNmswcVpQdWtoSWJ4NG00WXVCOVdodjVNS0lmd0U3S0lfdXFhV3R4U2lwTkpnSUgtYno1YS1IZXgzMFhIS1dlLUhybk8wQ0N1eTJ3NFVEM3RWcHc4LUd6LWtsYVEzZmdjZzAyRXFsdzJmS2dFUGtPa3ZPdXJwZmUzejR4ZGo?oc=5",
+        "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
+        "summary": "Why your 401(k) is safe from a 40% crash in stocks—but not a 10% to 15% correction, top analyst says Fortune",
+        "source": "Fortune"
       }
     ],
     "ms": [
@@ -216,11 +209,11 @@
         "source": "RankiaPro"
       },
       {
-        "title": "Watch PIMCO President Stracke on Business Strategy - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnpDLWJRS1ZTZy1odkFaM1hCVER0N1BhZzNydDFva2RKNk1rSldNS3BhNDNHMS1uVTJMT0lCN1ZpeFg5QW8zMmV4RmRhaFRpT1RwMk1iX3h1QW4taDl2T056Sld4VmtaUURPdGRwMElQbVhyVnBPSEFOc29Pc1NOTzV3T24tYmZOamRTUWpLa3pLdWFnNHhfRVJSTFVWenpU?oc=5",
-        "pubDate": "Mon, 24 Mar 2025 07:00:00 GMT",
-        "summary": "Watch PIMCO President Stracke on Business Strategy Bloomberg.com",
-        "source": "Bloomberg.com"
+        "title": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies - Funds Society",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmE2VVJrc3RGZ2E2TTZrbmxEWTRQczhkaFBZdXp0aUtqN0xmSjkyMzNIekdGSkR6NGw0NkZXZU9FbXNWOHBxTDlDRTAzU3hnWjl2eWdnR1V0OXZZYnJ4WmplX2N0WEVlV1k0RG9mSk9nUExFTFlKRlRMcncxQVVUQlAxTlNjaHZQZG80eFhNME9TN0QwSkxGR00wNlZmMl8tRGZvNlROQVBWVFZzaVFRNnhOaERXYU0?oc=5",
+        "pubDate": "Thu, 14 Dec 2023 08:00:00 GMT",
+        "summary": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies Funds Society",
+        "source": "Funds Society"
       }
     ],
     "fed": [
