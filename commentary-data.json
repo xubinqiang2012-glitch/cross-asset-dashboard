@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T18:54:38+00:00",
+  "fetched_at": "2026-11-22T05:55:33+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -10,18 +10,18 @@
         "source": "Reuters"
       },
       {
-        "title": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap - shattered.io",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3ZxOWtjVHM5QjhEVkhnYzB1a1BBZlFmdFVtLTljQUE2Z3lhS2dRaGFIQk5XLWJlUXg3cE9qWjdINlR4ZjNvb2ppMm9vd0NoUG9saVlsQmlHZnJJcFF2dDktQWc5a0R4b3dFaThfQ21rZ24wWmc5WS1JMUdTbkpFdFVkbG5mMGhtSHVIbWxleExIb2dRSU1VcU9SaFE?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:26:41 GMT",
-        "summary": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap shattered.io",
-        "source": "shattered.io"
-      },
-      {
         "title": "Atlantic Council Names Eka Zhao and Yusuf Jailani 2026-27 Millennium Fellows - Bridgewater Associates",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmNnbVRORjh4R2NQVHJ3NDMwcS1PdHZJMkp0ZlV5X0xDc01MY29ZOHNZX3o0d1l5RDlMNjlwbFVUb2Zoc0x1dHdjaFpiRUk5N1FGczBjMENMOXc4amlGbjdlUnNGVHVSZ2pRZ2lZXzVBMVlnM0FLcmxIT0ZEZE81Mjg2T0VVR0poYXY2ME9fRTl1UzQ4QkxDSHFXcTU4TVY5MkZIaUpfWTMwWWJiSVJ0Mg?oc=5",
         "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
         "summary": "Atlantic Council Names Eka Zhao and Yusuf Jailani 2026-27 Millennium Fellows Bridgewater Associates",
         "source": "Bridgewater Associates"
+      },
+      {
+        "title": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap - shattered.io",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3ZxOWtjVHM5QjhEVkhnYzB1a1BBZlFmdFVtLTljQUE2Z3lhS2dRaGFIQk5XLWJlUXg3cE9qWjdINlR4ZjNvb2ppMm9vd0NoUG9saVlsQmlHZnJJcFF2dDktQWc5a0R4b3dFaThfQ21rZ24wWmc5WS1JMUdTbkpFdFVkbG5mMGhtSHVIbWxleExIb2dRSU1VcU9SaFE?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 00:26:41 GMT",
+        "summary": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap shattered.io",
+        "source": "shattered.io"
       },
       {
         "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Yahoo Finance",
@@ -65,6 +65,13 @@
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
         "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
         "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "Hedge Fund Outlook - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
+        "summary": "Hedge Fund Outlook BlackRock",
         "source": "BlackRock"
       }
     ],
