@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-11-22T14:22:24+00:00",
+  "fetched_at": "2026-11-22T23:26:08+00:00",
   "sources": {
     "bridgewater": [
+      {
+        "title": "Billionaire Ray Dalio's Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them - 24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNU0xCMTNkV0ZhT1VxSVlEaWlWNzdfMjdTQUpHclczNm1wdWNyc1Z1ZWNGSVcwYWQ2ZThVU1pWaktEU21iNHhzeHZtcm42OW9VTHRFczZMTjhxYnJoT05XN2N3MEdDcHlUZktyRFQxa3Y3Y3JPbUtHYVd0di1kRnJOb0V2Z044bzYyOFNWLTR2dWoyeFF0bC1wbTNEbmVUYzFsaUNNaHZJMHUxWHlYX09WNTJsTnFsMmNack9FaUx6M2lfZXpYRmxkbG1sRXRvNkdySlRWa0NORi1sSXQ1Y0FRNDhZZHNsMVJwNGk5dFU2a21NVm1IUmJiSWRSNA?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 18:43:00 GMT",
+        "summary": "Billionaire Ray Dalio's Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them 24/7 Wall St.",
+        "source": "24/7 Wall St."
+      },
       {
         "title": "Bridgewater's flagship macro fund posts double-digit gains this year, sources say - Reuters",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTgyQ1VKU21CSHhfcG9kb1MzYmhLUnVrMkJuQVBTb2I1Y1NMdVFzTnhGOTgwNmlpSXVLRkFnN0VCaHp4NjlzMS1iOVJmSjdaa0F4b2pnbVVPX3lBUENHWDcwVnZYcTRmSFZYcG9kbVVCcFROaDJRdzVZbHNpODdMSWxXM3JqdElkaEVrOVpCbXdBaTA1WFdzeTY0SEZJdGlIOWJCcnZUS3I4MWpzWUpGNG1WZmRXZ05jbFhMWFZFV251N1llcHc?oc=5",
@@ -29,13 +36,6 @@
         "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
         "summary": "Bridgewater China Withstands Rout That Left Quants Reeling Bloomberg",
         "source": "Bloomberg"
-      },
-      {
-        "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0xMZkgxVDVNNXdrZEZGNnJHNG5tNDI3NGEteUJhN0tjWTJKM2VJT3dFQTN0QkRTejhQR1dNMGNMOC1LNlpjMDUxWnJJa2VrdlE0RlAwZlpERGdDV2ZibmJpMGtVM2xWdURKcU82QTVuMHBWcW43S0dsMFQ4Y0J6ZzA4NEdiR0Mta09FaWozYlhyTXhIYlhxQk5Nckg4eE1Lc2tqdURB?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Yahoo Finance",
-        "source": "Yahoo Finance"
       }
     ],
     "blackrock": [
@@ -158,18 +158,18 @@
         "source": "Morgan Stanley"
       },
       {
-        "title": "Morgan Stanley's 2027 Outlook: Embracing Risk, but Don't Confuse a Bull Market With Easy Money - The Dark Side Of The Boom",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMkd3R0w3V0d6WFVtckh0VUcxSFVGcGNXLU1TQkxZUktHeHdxNjZzZFJKVFFDdWljUVMteGVwVEJ0S1lpbUFoLVJibm5SMmEwS21ZRzE2MktlS1RBVkN5cnM3RTd2U284ZUdWLUdtMHNoY2xMQnFDU1FaRHVlQjV6aHVSWWcxTjRtY1E?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 18:30:55 GMT",
-        "summary": "Morgan Stanley's 2027 Outlook: Embracing Risk, but Don't Confuse a Bull Market With Easy Money The Dark Side Of The Boom",
-        "source": "The Dark Side Of The Boom"
-      },
-      {
         "title": "AI Momentum Bolsters Global Markets - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUhna3M4eVBPZkRlSHNuRl9MalhjWXJXN3M5QVNmVDJ1enhaZzdYOHg3WmlFNjdsMkxwNkhMakV6N3FEcUZyYkRER1ZSR2J5QVVuTHdWZzJ3SHJVWEJuUUw3SXNOZU5pSzVWdXREYTZ2WnlKUmdlMVpGMTdaTHFvRi1EUllqZw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
         "summary": "AI Momentum Bolsters Global Markets Morgan Stanley",
         "source": "Morgan Stanley"
+      },
+      {
+        "title": "Morgan Stanley's 2027 Outlook: Embracing Risk, but Don't Confuse a Bull Market With Easy Money - The Dark Side Of The Boom",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMkd3R0w3V0d6WFVtckh0VUcxSFVGcGNXLU1TQkxZUktHeHdxNjZzZFJKVFFDdWljUVMteGVwVEJ0S1lpbUFoLVJibm5SMmEwS21ZRzE2MktlS1RBVkN5cnM3RTd2U284ZUdWLUdtMHNoY2xMQnFDU1FaRHVlQjV6aHVSWWcxTjRtY1E?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 18:30:55 GMT",
+        "summary": "Morgan Stanley's 2027 Outlook: Embracing Risk, but Don't Confuse a Bull Market With Easy Money The Dark Side Of The Boom",
+        "source": "The Dark Side Of The Boom"
       },
       {
         "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
@@ -216,11 +216,11 @@
         "source": "RankiaPro"
       },
       {
-        "title": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies - Funds Society",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmE2VVJrc3RGZ2E2TTZrbmxEWTRQczhkaFBZdXp0aUtqN0xmSjkyMzNIekdGSkR6NGw0NkZXZU9FbXNWOHBxTDlDRTAzU3hnWjl2eWdnR1V0OXZZYnJ4WmplX2N0WEVlV1k0RG9mSk9nUExFTFlKRlRMcncxQVVUQlAxTlNjaHZQZG80eFhNME9TN0QwSkxGR00wNlZmMl8tRGZvNlROQVBWVFZzaVFRNnhOaERXYU0?oc=5",
-        "pubDate": "Thu, 14 Dec 2023 08:00:00 GMT",
-        "summary": "PIMCO Names Mohit Mittal Chief Investment Officer – Core Strategies Funds Society",
-        "source": "Funds Society"
+        "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "fed": [
