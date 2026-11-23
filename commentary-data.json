@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T23:26:08+00:00",
+  "fetched_at": "2026-11-23T07:35:25+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -17,18 +17,18 @@
         "source": "Reuters"
       },
       {
-        "title": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap - shattered.io",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3ZxOWtjVHM5QjhEVkhnYzB1a1BBZlFmdFVtLTljQUE2Z3lhS2dRaGFIQk5XLWJlUXg3cE9qWjdINlR4ZjNvb2ppMm9vd0NoUG9saVlsQmlHZnJJcFF2dDktQWc5a0R4b3dFaThfQ21rZ24wWmc5WS1JMUdTbkpFdFVkbG5mMGhtSHVIbWxleExIb2dRSU1VcU9SaFE?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:26:41 GMT",
-        "summary": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap shattered.io",
-        "source": "shattered.io"
-      },
-      {
         "title": "Atlantic Council Names Eka Zhao and Yusuf Jailani 2026-27 Millennium Fellows - Bridgewater Associates",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmNnbVRORjh4R2NQVHJ3NDMwcS1PdHZJMkp0ZlV5X0xDc01MY29ZOHNZX3o0d1l5RDlMNjlwbFVUb2Zoc0x1dHdjaFpiRUk5N1FGczBjMENMOXc4amlGbjdlUnNGVHVSZ2pRZ2lZXzVBMVlnM0FLcmxIT0ZEZE81Mjg2T0VVR0poYXY2ME9fRTl1UzQ4QkxDSHFXcTU4TVY5MkZIaUpfWTMwWWJiSVJ0Mg?oc=5",
         "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
         "summary": "Atlantic Council Names Eka Zhao and Yusuf Jailani 2026-27 Millennium Fellows Bridgewater Associates",
         "source": "Bridgewater Associates"
+      },
+      {
+        "title": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap - shattered.io",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3ZxOWtjVHM5QjhEVkhnYzB1a1BBZlFmdFVtLTljQUE2Z3lhS2dRaGFIQk5XLWJlUXg3cE9qWjdINlR4ZjNvb2ppMm9vd0NoUG9saVlsQmlHZnJJcFF2dDktQWc5a0R4b3dFaThfQ21rZ24wWmc5WS1JMUdTbkpFdFVkbG5mMGhtSHVIbWxleExIb2dRSU1VcU9SaFE?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 00:26:41 GMT",
+        "summary": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap shattered.io",
+        "source": "shattered.io"
       },
       {
         "title": "Bridgewater China Withstands Rout That Left Quants Reeling - Bloomberg",
@@ -165,13 +165,6 @@
         "source": "Morgan Stanley"
       },
       {
-        "title": "Morgan Stanley's 2027 Outlook: Embracing Risk, but Don't Confuse a Bull Market With Easy Money - The Dark Side Of The Boom",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMkd3R0w3V0d6WFVtckh0VUcxSFVGcGNXLU1TQkxZUktHeHdxNjZzZFJKVFFDdWljUVMteGVwVEJ0S1lpbUFoLVJibm5SMmEwS21ZRzE2MktlS1RBVkN5cnM3RTd2U284ZUdWLUdtMHNoY2xMQnFDU1FaRHVlQjV6aHVSWWcxTjRtY1E?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 18:30:55 GMT",
-        "summary": "Morgan Stanley's 2027 Outlook: Embracing Risk, but Don't Confuse a Bull Market With Easy Money The Dark Side Of The Boom",
-        "source": "The Dark Side Of The Boom"
-      },
-      {
         "title": "Midyear Economic Outlook: AI Drives Resilient Growth - Morgan Stanley",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUVxdWIzZnIzVHI1MXQyQWs4T1ItVkhqTU5aNVJmaFdiX1dzRF94Y2tORG8xcWt6S3FITVRzMDhRcDRPQVh6YnZXd2thdjZ3S3RCTlpWYXpvZXZJaDc4XzlQTll4T2QyNmlWc0U3NzBLUFMwbWp6SER4SDVGZU1BQ1Nicw?oc=5",
         "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
@@ -183,6 +176,13 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1dUTnpCOFBCVGtIUmlZTDloV1g2SFU3QTJ6cFNveDV6eHQ2b29rcjZ2d180Sm9nQzJhMW9uNHBSbzZ1cFRTM29iVWVmT1BNcHRjS3lfRDFFNWFnNFhvZVBUT1d5cUl5cUVJMVZRa1dnY1JqclJIN1RwSkdoNlVPVHVDcng1SEpxZnVCVFRkUkI0Z0pq?oc=5",
         "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
         "summary": "A Bull Case for Latin America Morgan Stanley",
+        "source": "Morgan Stanley"
+      },
+      {
+        "title": "The Big Forces Driving Markets in 2026 - Morgan Stanley",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGdQYmdCckY1UWpBS3I4NDhiS3AxSjJ0NTVtLXZWTThyc0xETFdyNGZJQ0g4M29pU1Q3akp3UkdOdVlCdmVSaE4yUlZ3cEZnOEpHMDFrMjZfcDBZckJPQXI4N295Wnd4WF9nMGNKUFItS29hRDNJckxXT2tDcVpoUC1YSU9JR3lYV01GeGNXcWg?oc=5",
+        "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+        "summary": "The Big Forces Driving Markets in 2026 Morgan Stanley",
         "source": "Morgan Stanley"
       }
     ],
