@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T04:47:51+00:00",
+  "fetched_at": "2026-11-24T17:42:11+00:00",
   "sources": {
     "bridgewater": [
       {
@@ -24,33 +24,26 @@
         "source": "Bridgewater Associates"
       },
       {
-        "title": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap - shattered.io",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3ZxOWtjVHM5QjhEVkhnYzB1a1BBZlFmdFVtLTljQUE2Z3lhS2dRaGFIQk5XLWJlUXg3cE9qWjdINlR4ZjNvb2ppMm9vd0NoUG9saVlsQmlHZnJJcFF2dDktQWc5a0R4b3dFaThfQ21rZ24wWmc5WS1JMUdTbkpFdFVkbG5mMGhtSHVIbWxleExIb2dRSU1VcU9SaFE?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:26:41 GMT",
-        "summary": "Bridgewater: GLM 5.3 Cyberattacks, 11-Day Exploit Gap shattered.io",
-        "source": "shattered.io"
-      },
-      {
         "title": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0xMZkgxVDVNNXdrZEZGNnJHNG5tNDI3NGEteUJhN0tjWTJKM2VJT3dFQTN0QkRTejhQR1dNMGNMOC1LNlpjMDUxWnJJa2VrdlE0RlAwZlpERGdDV2ZibmJpMGtVM2xWdURKcU82QTVuMHBWcW43S0dsMFQ4Y0J6ZzA4NEdiR0Mta09FaWozYlhyTXhIYlhxQk5Nckg4eE1Lc2tqdURB?oc=5",
         "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
         "summary": "Bridgewater's flagship macro fund gains 8.1% in first half amid market volatility, sources say Yahoo Finance",
         "source": "Yahoo Finance"
+      },
+      {
+        "title": "Bridgewater China Withstands Rout That Left Quants Reeling - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3hFbzVQRWF6WWRsdWZReW0tV3B2ckwyRVUwQm9jWVdvRDhFZkY4TF9IZW9xRktKd0FEUzNESExIMTkxTzdoRTB3TDhYcG1GU01HSnFxMnltSVdQZ1hjMEh6amcyOE9IaTJvU0JWbnR2ZmRFaDhGdVpXOUtSeWVUalBFa1hORkFaVWtTVVJULUxhMUlpSl9aVFg0dGdzelpxYm50cTBubE9mQWNIRUUyeXpzR18?oc=5",
+        "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+        "summary": "Bridgewater China Withstands Rout That Left Quants Reeling Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "blackrock": [
       {
         "title": "Weekly market commentary - BlackRock",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 16:26:20 GMT",
+        "pubDate": "Tue, 24 Nov 2026 00:29:20 GMT",
         "summary": "Weekly market commentary BlackRock",
-        "source": "BlackRock"
-      },
-      {
-        "title": "Capital market assumptions - BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaWM3OXRLNW9ub0pENEc3dkwwOXBSUVhsd1RCa3ZWN1BKbTBBRlN3Y3VtdzFnYUhFLVJIVzhVWGFhcGJOY0E4QURZVzU2cmdWTFBXVlJ2X1lmX1o5UGtLeEFMREN0SXprRjhXYnVRcmxOZGJORVVhMWpTUnpSdHlGX1dfWEh5RGpFNmdzUTlCZDd0M0E0U3gwMnE5WXNHNFRyaVBBMEhsWFg4UkRSSjdrcWZ0d3hSOHR4?oc=5",
-        "pubDate": "Sun, 15 Nov 2026 08:00:00 GMT",
-        "summary": "Capital market assumptions BlackRock",
         "source": "BlackRock"
       },
       {
@@ -65,6 +58,20 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDdiQ09tMVNsMjFHck1LQUFZQjBIajVVMUlVdDMxd1d2M285T3h3VkgyS3ZiNWd3dmlvVXVubEFPTnNnRm5ib3ZvV3B4S0tWa3VtRUp4X016a1lGOUdqc2tXbDVGMWdLN0ZGOXlSSUlYUEFMVF9jVS1BRXdkZTNFaFNLVjhpYnFQWHZzcUxXYzE?oc=5",
         "pubDate": "Fri, 31 Jul 2026 11:14:33 GMT",
         "summary": "Mega forces: An investment opportunity BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "Market Outlook April 2026: Get Paid to Wait - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVPeEtfcW94Z0VkU3BfWUt3MWY0WGI4M1Q1NVJQc0NKSTA3U0RqLXA0bUF5UnQzTlBxNi02SDgyRTlzVDAybE5Pdjl6MTZ3SHdHN3B5UHBpOTF2T01STVQwYmhXLTJ6SFBlOXB3bFAzM0ZoTEZYQnpiNl9xckduSVBlelg?oc=5",
+        "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+        "summary": "Market Outlook April 2026: Get Paid to Wait BlackRock",
+        "source": "BlackRock"
+      },
+      {
+        "title": "Hedge Fund Outlook - BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xQa1Nvd2xpUXR1Z3RpSzJKbjlpOEZheEtFenBENlY2UHVYWVRmNGlWc1ExdFlsZXhxZkdwZ0FkYUtKbnVPMk9zRzA3ZmRWZ0NmQ3NNVHNaTG1ydGpKVlB1OXB2MWt2Qm1OTmtMNUJCZ0tQdTFnLU00MTNjSkdJWDBOWklETnJC?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 18:16:28 GMT",
+        "summary": "Hedge Fund Outlook BlackRock",
         "source": "BlackRock"
       }
     ],
@@ -84,13 +91,6 @@
         "source": "Goldman Sachs Asset Management"
       },
       {
-        "title": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows - Goldman Sachs",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVncwVWdFNkk4NnRjbENhTDQwWDlIMklGS19CWVNmM3RwbC11M2l4amROS3IyVG1SbXJUQWZwbWp4OWZjVjh5TWlaaWFaUG9tQWRuZVZPUHZDcU5CaVRHMzhLUS1RYjdkNTdkVml2a2xOandyT25fTTVUZHJhWjVGWkw0djNPMlpicE4xaUp6N3dsN3ZJVHNZNHl0bFZSR1NLU1N2WlU4WlZFWExhZ3JxWg?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 20:26:06 GMT",
-        "summary": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows Goldman Sachs",
-        "source": "Goldman Sachs"
-      },
-      {
         "title": "US Market Pulse November 2026 - Goldman Sachs Asset Management",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
         "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
@@ -103,6 +103,13 @@
         "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
         "summary": "Macro Outlook 2026: Sturdy Growth, Stagnant Jobs, Stable Prices Goldman Sachs",
         "source": "Goldman Sachs"
+      },
+      {
+        "title": "Market Know-How 4Q 2026: Yield Ahead - Goldman Sachs Asset Management",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56QlRSLUFNR0lra0dabzgxMTJwWkZRZzh4YnpLUFVncm0xSkZWN0pkaUpjdGY1MGtrVnJpR2gxQVkzNFhCMHJTcXItZk5KQUhBRkdZS0x5VzNMTXp3OEptRWxrWjBTTUdNZk83NVh3VlZRSU0?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
+        "summary": "Market Know-How 4Q 2026: Yield Ahead Goldman Sachs Asset Management",
+        "source": "Goldman Sachs Asset Management"
       }
     ],
     "jpm": [
@@ -121,25 +128,25 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? - The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUC1uRlFQWnRDcF9BMnlTZDQ0T0hBTEJkcjdCZVJXaEp3aEtlQzFzc2JaVGFZRXBhZGRpcURrTXYtUmFMMXg2SEtKOW9tQmNsYXR1N0ttNkNxZVZ2eEJkVWpIdzB2UVp2R25BUnN0a29lM0JfZjU0eVJ4aU1yeVl5LXRuX1V0THdqMXVneTd3WlpxZFNfMTNBVA?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "summary": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments? The Motley Fool",
-        "source": "The Motley Fool"
+        "title": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds - Institutional Investor",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2NRMUM4SzZ6SXB5MzJMeWdBTE9zdndYdXMxaEhOb1hlSURVdXFIZUxfWGp6SFJqbDA1TTRCek9LTFB5aGlVNW9oa0VwcG5UWVIzbzl3bmNRN0RKWUUzQ0RDamhtcnA0N0JpZWVac25IVnVacTN2Z3pmUkF1MmdISEdqbVRJZEFTYnlBNC10ZXJ6YTVWSDlkRm9QTmpkQUdTNF9DN0hyZTd1QQ?oc=5",
+        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+        "summary": "J.P. Morgan’s Michael Cembalest Finds ‘Warning Signs’ in Hedge Funds Institutional Investor",
+        "source": "Institutional Investor"
       },
       {
-        "title": "Eye on the Market Outlook 2026: Smothering heights - Chase Bank",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04yU1lBSXl0dHNodGpyMHVJN19wSzd3WDc1c2lUZHBkTEtJOGIzUzBXTWw0eW9tZk52aW1OZVJ2aVRhcnlEQVYyNjVuNFc0cUJFNU13Rk9OSVBLQWpGR2lCVmVnRjZqOExLZzh2aDRmLUJEU1hlZklfTDhoYVhIUjBlQThsNy1xQlRERWRUZ18yZTNsZFdtbnY1cE1sZ0h6aEZNM3gyTzRMeVpaN2NRRkNwaUozbjhwYUpWQkRBSQ?oc=5",
-        "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
-        "summary": "Eye on the Market Outlook 2026: Smothering heights Chase Bank",
-        "source": "Chase Bank"
+        "title": "3 lessons from Eye on the Market 20th Anniversary Edition - J.P. Morgan Private Bank",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODFwRmhXd2p2NjRMaE5JVXFfbVBJTzhyazFtVjJpTUlnRVFTWTFxbG9IMzZJanZHakp1bnd6V0lhTV9neUs5ZmV1d00ySDFpY01RTE12ZUFXbnBVbmtQY1d4SEhVbFFfOTlvcDJEWnplUXFOYzM1bXVnd1g2NXNtS1MxMG5TT2wyLUJHZGlkSWJEbS1WcFJtaGQ2R0t0N1ZSU2dWZEYyTDItUzFBU0NHNVZaRUkwMmNNRUw4U3kza3Voajg2S1B2cXBEeEk?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 07:00:00 GMT",
+        "summary": "3 lessons from Eye on the Market 20th Anniversary Edition J.P. Morgan Private Bank",
+        "source": "J.P. Morgan Private Bank"
       },
       {
-        "title": "As ‘Sell America’ Runs Out of Road, JPMorgan’s Cembalest Maps Washington’s Grip on Markets at 250 - The Dark Side Of The Boom",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNVlxalh3MzdsNTBDb3VVaE9PVlRySXhsbnNEOExtUWY5Yms1ZE5wemNBbEdoUlM5ak85SXl3NDJqWUlLYkNnZUJnYWxyLW84dy1wWXdzZnBwVXh0RlZBZXFxWk0tbnU4WUpzRWllUEZkZ2FPWTlmRmp3MGtha3dIc1dn?oc=5",
-        "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT",
-        "summary": "As ‘Sell America’ Runs Out of Road, JPMorgan’s Cembalest Maps Washington’s Grip on Markets at 250 The Dark Side Of The Boom",
-        "source": "The Dark Side Of The Boom"
+        "title": "JPMorgan Analyst’s ‘Redacted’ Report Spells Out Fear of Trump - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0RxYlNOS3FTUjlaSVN6Rm03cFBOWHFkZDAxVjhiU2ZIS0N6dW1ZZWNrN2NTaTV3SXJMdVAxVVh4X1l5WVR3MUZrbVVsU0pNT0d2VXpJTXhqS0ZFMGtIaFZRVHY3Njhzc1JKNU5jV2Nwc1VYY0NPMGN6OU1ZZjVXRFBBSXhNT3M3c1VSeTlTTjl0MHVrb3NpR1djeEhzNzAwTWJLSkpYc0JNNy04X0tJSFJZaXNDVXItUnA4?oc=5",
+        "pubDate": "Thu, 10 Apr 2025 07:00:00 GMT",
+        "summary": "JPMorgan Analyst’s ‘Redacted’ Report Spells Out Fear of Trump Bloomberg.com",
+        "source": "Bloomberg.com"
       }
     ],
     "ms": [
@@ -188,25 +195,11 @@
         "source": "Morningstar"
       },
       {
-        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
-        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
-        "source": "CNBC"
-      },
-      {
-        "title": "China’s Next Phase: What Persistent Supply-Side Growth Means For Global Markets - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTy1SZUdNOWpBSm5BbFdQd2xVYWF6MnhsMFlYdWgwWTdCejVfUkgwR0kxWXhkNEktTEoteW1LS2Fvc2Rvd1ZacnJOZWlIdWhVaHlnSmNmbE5nZmYxZGw5MHJmdnA4LU9VQ0JCTlgyNFdURThfbmE1UnZuNjRER3dDNU01N0Q4QWdiQnliVGp3dmFWNjh2bTFYdGlvbE9NMXp2WVExN0RKaGJ6RC1GYl9na2JlRlcybzc1?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "summary": "China’s Next Phase: What Persistent Supply-Side Growth Means For Global Markets Seeking Alpha",
+        "title": "PFL: Decent Income Fund From PIMCO With 14.5% Yield, But With Better Alternatives - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkkxQVFjTjVUUG9xQjgwSlpNd1NLbjJTb2FkSm9nVGcySlRIa05ycnoxU1c0R3BoZ1JCWjdjZEI3RE5XUXZtaVItb0h2dnc2TlRHSVNfbTJDVFlmTE81VzBlMnJlRS1YTHhvTWJQY2t3UXMzRWpWczhkc2RPRFVsbmhMYVp0cmNvNmZEZV9KT3BsRzd4M0k4akJ5ZVlfSmQwclY2SllKal8weVg4akZUSVplUjdQTmpabUkzMl9waFdQM2tKR0E?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+        "summary": "PFL: Decent Income Fund From PIMCO With 14.5% Yield, But With Better Alternatives Seeking Alpha",
         "source": "Seeking Alpha"
-      },
-      {
-        "title": "PIMCO Cyclical Outlook: how to invest in the current environment - RankiaPro",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3M2bWlxcVdSUDZWWEk2VE1OY0hEd1FaclFBZWRhM0dnVkVpcHNtd19VM25wNkJhMFEtVEFMbDZPTFNyTnYyamszX1JHU3BtbHhRa0N0Vy1pd2FCaGdieTlyVnVoekRRLXRjSkViRWZpbVNLQ3hPelVCWkY2N2V1aFhyb1V6N01Wb0ZMNWxqN1BwZw?oc=5",
-        "pubDate": "Fri, 01 Dec 2023 18:48:21 GMT",
-        "summary": "PIMCO Cyclical Outlook: how to invest in the current environment RankiaPro",
-        "source": "RankiaPro"
       },
       {
         "title": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg.com",
@@ -214,6 +207,20 @@
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
         "summary": "Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields Bloomberg.com",
         "source": "Bloomberg.com"
+      },
+      {
+        "title": "Watch CNBCs full interview with PIMCO's Richard Clarida - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm94bDlIeHVIQjlwQXE5MkNSNkdlWjRsNXVObDVkN3NhNjEzcU4yXzZaX2tScEJ2Tk5ncHVVNVI1NWU4NkpUdVMyR0ZnWjVkWWpCbVhkYXhVLWhQa2VVOUpIRTJCZk9nT1VfT1Vxd0Z3cWZrOHZnV1VXQ21ZUzJRbFNrdUVkYWN6UTZnTndLZi00NlhkYUVPUmlGbFRJZw?oc=5",
+        "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+        "summary": "Watch CNBCs full interview with PIMCO's Richard Clarida CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "AI debt flood is stoking bond yields, Pimco says - Taipei Times",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05UlBueTlhQUljVWJJU0ZkU1hJSFJvU1VqMkxhMHMtMTB3TkptczhYMVZ2ZHBKaWptdG92S0Npa3lWZnpBazByaDlXX3ZqVFA2ZWxMN3Z1VHBvTmNaTGR6czlpQVYxNHNqUlJLYmZ5c0RXempzMkE?oc=5",
+        "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT",
+        "summary": "AI debt flood is stoking bond yields, Pimco says Taipei Times",
+        "source": "Taipei Times"
       }
     ],
     "fed": [
@@ -255,38 +262,38 @@
     ],
     "wgc": [
       {
-        "title": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGtfOTVtaHJlbUFvZlRKNGJfdkpiN2VaYWd6Yzk4akxnZVg2c0tMdlRDVlR6bkFoMVlaMjNSbzZ3X3h6ZG9JSXMzTkVqdFJ1UTJiTXlfNWF2SXZLZ09ZX1dVN3pvNUdrLXV4U1lnaTRUekFZTkx2SHlybDc3dXpoQ3hlUmRUM1lveVl0STE1bGE5c2lka1ZpaXItOC1ybFhzWGdQXzR5WEF2THBZVjBtOUxjUnhfM2d5a204?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Statistics: Central banks make positive headlines on gold | Post by Marissa Salim | Insights World Gold Council",
-        "source": "World Gold Council"
+        "title": "Natixis Says Gold Could Hit $3,340. What the Data Shows - GoldSilver",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWVRuQmZsbGtsRkdFRmZ2UW1ERWo1MEJMRHlRVXZRQnpaWHdnNHRQLXpWeXczem9HT2VPMnp2THhNbnpITGVVb24xRzY5NHBuYXpuOTBfUEUtYVMtT3FFNTZRbGw5eVpFVlpYaUhkbldqNHc3SjhUemlSTm1Qb3E0Wk5fZTkxTTNjR2hmWllUaC1ndWJ5aktOTDZYcw?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 13:45:45 GMT",
+        "summary": "Natixis Says Gold Could Hit $3,340. What the Data Shows GoldSilver",
+        "source": "GoldSilver"
       },
       {
-        "title": "Central Banks Accelerated Gold Buying in Third Quarter - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-        "summary": "Central Banks Accelerated Gold Buying in Third Quarter WSJ",
-        "source": "WSJ"
-      },
-      {
-        "title": "Gold demand remains near record highs as central bank buying surges 42% – WGC - Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXMzWmhCTThSSlhBcHFsbjY2VEdWdUN3WjRxQmE3YnpENklGckNZeXhUakpielZ0MUVnOV9CZlM3dHdTdXZ4OWMwdkVXTkY0Vk9PbDhKNnBybTJuMFlxQTk1dGE1MDZTUTFYX2x1NXZlYzkyUFYxV0NHNW5oNFJHWGhyTW1mdTFfTEtqdDNPMzQ5RmNpSWJ1eTJnZGNvWFRmNDk2YU41OG5VYmhSTUpUVHlRNVFKQ1NS?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-        "summary": "Gold demand remains near record highs as central bank buying surges 42% – WGC Kitco",
+        "title": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council - Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEJFR3YwV0p1YTlSd0VUUTRLNzBGUlBQeXNOTVBmbWNzN1ZhaXZjU2RZSmN0aUZQelNTUERyVWlQMkYxVDFNcjRXT0lvM1FmQUk2Rld6TDVQWktGdEZpN0JTQkVzekJGOTU0MFdqTUF5SUVZOGVxMDJibTY3YjJtNV95QlplaHlnTTA5cThSYkhrQU5SWWlTNXhyUkJ3cF9aM3NCS0UxRU4xQ096TVNxQUwxdTFYM3Jh?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
+        "summary": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council Kitco",
         "source": "Kitco"
       },
       {
-        "title": "World Gold Council: Global central banks reported net gold purchases of 61 tonnes in September, marking the highest monthly total since 2026. - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGRTc0NVbzRPdzZEMnctbVNzbFlMREF3YkpXZkNWOElsMTQ0MFRSOXJVcURZdS1zUHFHMG1PNV9VaXlPdnMxVGRPZGdKWlBwOGlESnhPdUR3eHczLTBEYnVTaUJLRHEyRGhCRWdMTnFCcEI5bWxSM1A2em84NXJrdlhTWU1Ea09tbG9vRkdVRHJKdFlsdGdCaXpia0Nkemx2MUZ5NHFWbERoRGpLdXRrUw?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 11:19:08 GMT",
-        "summary": "World Gold Council: Global central banks reported net gold purchases of 61 tonnes in September, marking the highest monthly total since 2026. Moomoo",
-        "source": "Moomoo"
+        "title": "China’s central bank buys 21 tonnes of gold in September, largest monthly purchase in 3 years - Kitco",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVBNT0VBTXh2QTBwcVMxX3RMMTdjY0hJX1h2R1EtU3BIZHN4WV9GUldTRktqZlpWQTc0RUlQV1JETnVkWW1KUFpSaERvb0VvV212Q2xuYzhJeC1VSWJ2RWJsOHpkWGJnbUxxRFdmUWpIVENrLTBiTXBBOUtmZGVzREFENHFrVEZ0NUpGWkFaLWRtVThvdVd6R0thLUhKV3YyOTlFV2JJR0N5SUZaUW1nWDFjb1JDVk91QVZybg?oc=5",
+        "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+        "summary": "China’s central bank buys 21 tonnes of gold in September, largest monthly purchase in 3 years Kitco",
+        "source": "Kitco"
       },
       {
-        "title": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights - World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FISHMxN1ZCSUQwdE9kQVhva1hiRzludFBBOU03aHd0MjdlcldFZDhwUWNjcWl1d25wNUdBa1VpMkpKMjI3YnROUndkT1FjTUxWQnhpUFhULWZjN01IdE8zT2JFUmVTWGJfdTMyc1VaVWRiSWQ1MldyMGRVcmhQTzh5Z0pPT3FDeVMtdTJYbko3WVV0cWJKT3NSV2ZlT29BVUNhSnNvejlDSFhFSjRFeWpsN3BjVzBUeFBj?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
-        "summary": "Central Bank Gold Statistics: Central banks continue summer spree in August | Post by Marissa Salim | Insights World Gold Council",
+        "title": "China gold market update: Robust demand in October | Post by Ray Jia | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX01TX2R4cG4wLTNVNTBJcWI5UWdhTDdXRi12cVA5N2NoZHJFbkpmZ3d0Smx2WHdMVHozR2NTQUwwYkRLVjVpdVZrZ1NQQ0VlRzNTSm5GX2hCeGhBRlE5eVJCS2xEcTl2dC1GQXZJZlNUbHJxZ09BVkh1bWlUZ05PNndSN2dWLXZUQjNFLUZTRXFtYmktWnpnWl9n?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 13:34:10 GMT",
+        "summary": "China gold market update: Robust demand in October | Post by Ray Jia | Insights World Gold Council",
+        "source": "World Gold Council"
+      },
+      {
+        "title": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights - World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjRORzU4eXMyNjBhcy1tNHU3NXRhRjFPQnFIem5Ba1psakVwWlZUTWZFWkNnZmpvNm4tYXRyOWRrc3p0Yi13X09NVkg5NDBOSS12N05ienp2RmRhNWoxb0Q1eElXWU1EZl9QeGdYXzh2a0lGRWg1SmVlSmpBekt2dmZTOEdicDZzQ2NGdVZaTzRkWFI5Y2c?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
+        "summary": "Central Bank Gold Statistics: September 2026 | Post by Marissa Salim | Insights World Gold Council",
         "source": "World Gold Council"
       }
     ]
